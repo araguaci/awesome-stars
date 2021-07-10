@@ -1,7 +1,10 @@
 ### Where We Come
 
-  - [❄️ a short introduction to node.js](https://github.com/maxogden/art-of-node)
+  - [❄️ A short Introduction to Node.js](https://github.com/maxogden/art-of-node)
 
+### Who am i
+
+  -[🌍 Normalized repository URLs for every package in the npm registry. Updated daily...](https://github.com/nice-registry/all-the-package-repos)
 
 ### Components
 

@@ -25,7 +25,7 @@
   - [Smart Fonts Tests](https://github.com/adamschwartz/typography.js)
   - [Cloudflare’s developer docs](https://github.com/adamschwartz/cloudflare-docs)
   - [Scrape websites](https://github.com/adamschwartz/web.scraper.workers.dev)
-
+  - [🌟 packages and resources that work really well with npx](https://github.com/zkat/npx) 🕶
 
 ### Linux
 

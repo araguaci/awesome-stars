@@ -4,7 +4,7 @@
 
 ### Who am i
 
-  -[🌍 Normalized repository URLs for every package in the npm registry. Updated daily...](https://github.com/nice-registry/all-the-package-repos)
+  - [🌍 Normalized repository URLs for every package in the npm registry. Updated daily...](https://github.com/nice-registry/all-the-package-repos)
 
 ### Components
 

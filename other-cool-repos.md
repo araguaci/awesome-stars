@@ -41,3 +41,6 @@
 ### Learning
 
   - [The Magic of CSS](https://github.com/adamschwartz/magic-of-css)
+  - [🎓 Um caminho para a educação autodidata em Ciência da Computação!](https://github.com/Universidade-Livre/ciencia-da-computacao)
+
+

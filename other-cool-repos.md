@@ -21,9 +21,11 @@
 
 ### Tools For Devs
 
+  - [A simple zero-configuration command-line http server](https://github.com/http-party/http-server)
   - [Smart Fonts Tests](https://github.com/adamschwartz/typography.js)
   - [Cloudflare’s developer docs](https://github.com/adamschwartz/cloudflare-docs)
   - [Scrape websites](https://github.com/adamschwartz/web.scraper.workers.dev)
+
 
 ### Linux
 

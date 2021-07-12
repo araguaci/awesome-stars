@@ -777,4 +777,4 @@ noitcerid rehto ni daer eb dluohs elif siht
 divad yap
 elif fo dne
 
-[original](https://github.com/botupdate/botupdate/edit/master/README.md)
+[original](https://github.com/botupdate/botupdate/)

@@ -13,7 +13,6 @@
   - [CSS](#css)
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
-  - [Common Lisp](#common-lisp)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [EJS](#ejs)
@@ -29,6 +28,7 @@
   - [Jsonnet](#jsonnet)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
+  - [Lua](#lua)
   - [Makefile](#makefile)
   - [Objective-C](#objective-c)
   - [Others](#others)
@@ -59,6 +59,7 @@
 
 ## C 
 
+- [signalwire/freeswitch](https://github.com/signalwire/freeswitch) - FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, MacOS, GNU/Linux and other operating systems. It is developed by a wide group of volunteers. Contributions welcome!
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
@@ -122,6 +123,7 @@
 
 ## C++ 
 
+- [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 - [tjanczuk/edge](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
 - [BelledonneCommunications/flexisip](https://github.com/BelledonneCommunications/flexisip) - Linphone.org mirror for flexisip (git://git.linphone.org/flexisip.git)
 - [owncloud/client](https://github.com/owncloud/client) - :computer: Desktop Syncing Client for ownCloud
@@ -218,9 +220,6 @@
 - [Pathgather/please-wait](https://github.com/Pathgather/please-wait) - A simple library to show your users a beautiful splash page while your application loads.
 - [JoelBesada/pasteboard](https://github.com/JoelBesada/pasteboard) - Clipboard and drag & drop image sharing web app
 
-## Common Lisp 
-
-- [botupdate/botupdate](https://github.com/botupdate/botupdate) - ﻿Disable opposite day, print and save this document now. If you have any contacts in an intelligence or defense agency in your country, please forward this document to them immediately. This is a dialogue-based defense against an existing Advanced Persistent Threat to both Human and Electronic Sentience. (AI /ES) Every claim in this document and technology.... TO BIG... 
 ## Dart 
 
 - [FilledStacks/flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials) - The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
@@ -455,6 +454,8 @@
 
 ## JavaScript 
 
+- [gabrieldarezzo/helpjs-ravi](https://github.com/gabrieldarezzo/helpjs-ravi) - Exercícios/Tutorial/Desafios para Iniciantes em JavaScript
+- [ThiagoDellaNoce/javascript4noobs](https://github.com/ThiagoDellaNoce/javascript4noobs) - Este repositório tem como propósito fornecer uma iniciação na linguagem mais amada da Web.
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [sockjs/sockjs-node](https://github.com/sockjs/sockjs-node) - WebSocket emulation - Node.js server
 - [maxpert/raspchat](https://github.com/maxpert/raspchat) - A chat server that can run on Raspberry Pi
@@ -924,7 +925,6 @@
 - [carbon-design-system/design-language-website](https://github.com/carbon-design-system/design-language-website) - IBM Design Language website
 - [carbon-design-system/gatsby-theme-carbon](https://github.com/carbon-design-system/gatsby-theme-carbon) - A Carbon inspired Gatsby theme
 - [cboard-org/cboard](https://github.com/cboard-org/cboard) - AAC communication system with text-to-speech for the browser
-- [storybookjs/react-native](https://github.com/storybookjs/react-native) - 📓 Storybook for React Native!
 - [carbon-design-system/carbon-website](https://github.com/carbon-design-system/carbon-website) - The website for the Carbon Design System.
 - [carbon-design-system/carbon-for-ibm-dotcom](https://github.com/carbon-design-system/carbon-for-ibm-dotcom) - Carbon for IBM.com is based on the Carbon Design System for IBM
 - [carbon-design-system/carbon-addons-iot-react](https://github.com/carbon-design-system/carbon-addons-iot-react) - A collection of React components shared between IBM Watson IoT products.
@@ -1238,6 +1238,10 @@
 - [android/uamp](https://github.com/android/uamp) - A sample audio app for Android
 - [atomoton/uncomplicatedIChing](https://github.com/atomoton/uncomplicatedIChing) - A repo for the source code of my I Ching Android app
 
+## Lua 
+
+- [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
+
 ## Makefile 
 
 - [Helsinki-NLP/Tatoeba-Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge) - 
@@ -1258,6 +1262,8 @@
 
 ## Others 
 
+- [he4rt/4noobs](https://github.com/he4rt/4noobs) - 
+- [he4rt/react4noobs](https://github.com/he4rt/react4noobs) - 
 - [Universidade-Livre/ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao) - 🎓 Um caminho para a educação autodidata em Ciência da Computação!
 - [fbsamples/audience-network](https://github.com/fbsamples/audience-network) - Open source projects to demonstrate SDK and sample code usages and integration, and to collaborate and support peers in this community.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
@@ -1595,6 +1601,7 @@
 
 ## Python 
 
+- [dpocock/github-icalendar](https://github.com/dpocock/github-icalendar) - Render Github issues as iCalendar feed
 - [nodejs/node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool
 - [maxammann/trello-to-deck](https://github.com/maxammann/trello-to-deck) - trello-to-deck reads from an JSON export of Trello and creates a board in Nextcloud Deck.
 - [nextcloud/appstore](https://github.com/nextcloud/appstore) - :convenience_store: App Store for Nextcloud
@@ -1616,7 +1623,7 @@
 - [allenai/scholarphi](https://github.com/allenai/scholarphi) - An interactive PDF reader.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change. Open source web page change detection - Now also includes JSON API change detection and monitoring support!
 - [IBM/MAX-Audio-Embedding-Generator](https://github.com/IBM/MAX-Audio-Embedding-Generator) - Generate embedding vectors from audio files
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - A list of cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [bittoin/Bittoin-Telegram-Bot](https://github.com/bittoin/Bittoin-Telegram-Bot) - Bot para Telegram com diversas funcionalidades, com o intuito de se divertir e aproveitar utilidades para o dia a dia.
 - [KiranGershenfeld/VisualizingTwitchCommunities](https://github.com/KiranGershenfeld/VisualizingTwitchCommunities) - Graphing communities on Twitch.tv in a visually intuitive way
 - [Kilian/Trimage](https://github.com/Kilian/Trimage) - A cross-platform tool for optimizing PNG and JPG files.
@@ -1748,6 +1755,7 @@
 
 ## TypeScript 
 
+- [fireship-io/fireship.io](https://github.com/fireship-io/fireship.io) - Build and ship your app faster  https://fireship.io
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [IjzerenHein/react-native-shared-element](https://github.com/IjzerenHein/react-native-shared-element) - Native shared element transition "primitives" for react-native 💫
 - [bennymeg/nx-electron](https://github.com/bennymeg/nx-electron) - Electron schematics for nrwl nx platform
@@ -1985,6 +1993,7 @@
 - [ionic-team/ionic-conference-app](https://github.com/ionic-team/ionic-conference-app) - A conference app built with Ionic to demonstrate Ionic
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [carbon-design-system/carbon-angular-starter](https://github.com/carbon-design-system/carbon-angular-starter) - A simple starter app for bootstrapping applications with Carbon
+- [storybookjs/react-native](https://github.com/storybookjs/react-native) - 📓 Storybook for React Native!
 - [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar_chart: :chart_with_upwards_trend:⠀Robust dataviz framework implemented using D3 & typescript
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
 - [googleapis/repo-automation-bots](https://github.com/googleapis/repo-automation-bots) - A collection of bots, based on probot, for performing common maintenance tasks across the open-source repos managed by Google on GitHub.

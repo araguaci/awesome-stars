@@ -60,7 +60,7 @@
 ## C 
 
 - [signalwire/freeswitch](https://github.com/signalwire/freeswitch) - FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.
-- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, MacOS, GNU/Linux and other operating systems. It is developed by a wide group of volunteers. Contributions welcome!
+- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. It is developed by a wide group of volunteers. Contributions welcome!
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
@@ -244,6 +244,7 @@
 
 ## Dockerfile 
 
+- [geerlingguy/docker-centos7-ansible](https://github.com/geerlingguy/docker-centos7-ansible) - CentOS 7 Docker container for Ansible playbook and role testing.
 - [muesli/code-server](https://github.com/muesli/code-server) - My code-server Docker image
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [lorisleiva/laravel-docker](https://github.com/lorisleiva/laravel-docker) - 🐳 Generic docker image for Laravel Applications
@@ -454,6 +455,7 @@
 
 ## JavaScript 
 
+- [mikenicholson/passport-jwt](https://github.com/mikenicholson/passport-jwt) - Passport authentication using JSON Web Tokens
 - [gabrieldarezzo/helpjs-ravi](https://github.com/gabrieldarezzo/helpjs-ravi) - Exercícios/Tutorial/Desafios para Iniciantes em JavaScript
 - [ThiagoDellaNoce/javascript4noobs](https://github.com/ThiagoDellaNoce/javascript4noobs) - Este repositório tem como propósito fornecer uma iniciação na linguagem mais amada da Web.
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
@@ -1371,6 +1373,7 @@
 
 ## PHP 
 
+- [IssabelFoundation/issabelPBX](https://github.com/IssabelFoundation/issabelPBX) - Asterisk configuration GUI
 - [eduardokum/laravel-boleto](https://github.com/eduardokum/laravel-boleto) - Pacote para gerar boletos e remessas
 - [mrprompt/imovelweb-sdk](https://github.com/mrprompt/imovelweb-sdk) - SDK de integração com a API da Imóvel Web.
 - [laravel/octane](https://github.com/laravel/octane) - Supercharge your Laravel application's performance.
@@ -1644,7 +1647,7 @@
 - [CleverProgrammer/CP-Twilio-Python-Text-App](https://github.com/CleverProgrammer/CP-Twilio-Python-Text-App) - How to Text Using Twilio API with Python
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Deep Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Framework for Python
+- [serengil/deepface](https://github.com/serengil/deepface) - DeepFace: A Lightweight Deep Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Framework for Python
 - [Cloud-CV/Fabrik](https://github.com/Cloud-CV/Fabrik) - :factory: Collaboratively build, visualize, and design neural nets in browser
 - [bradtraversy/myflaskapp](https://github.com/bradtraversy/myflaskapp) - Python Flask app with authentication
 - [craigsdennis/intro-to-apis-course](https://github.com/craigsdennis/intro-to-apis-course) - Introduction to APIs course
@@ -1701,6 +1704,9 @@
 
 ## Shell 
 
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+- [docker-library/haproxy](https://github.com/docker-library/haproxy) - Docker Official Image packaging for HAProxy
+- [fauria/docker-vsftpd](https://github.com/fauria/docker-vsftpd) - 🐳  vsftpd Docker image based on Centos 7. Supports passive mode and virtual users.
 - [seebi/zshrc](https://github.com/seebi/zshrc) - Due to many requests I share my zsh configuration compilation.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [wfxr/tmux-power](https://github.com/wfxr/tmux-power) - 🎨 Tmux powerline theme
@@ -1755,6 +1761,9 @@
 
 ## TypeScript 
 
+- [ionic-team/ionic-storage](https://github.com/ionic-team/ionic-storage) - Ionic Storage module for Ionic apps
+- [changhuixu/angular-material-admin](https://github.com/changhuixu/angular-material-admin) - Angular Material Admin Dashboard
+- [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
 - [fireship-io/fireship.io](https://github.com/fireship-io/fireship.io) - Build and ship your app faster  https://fireship.io
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [IjzerenHein/react-native-shared-element](https://github.com/IjzerenHein/react-native-shared-element) - Native shared element transition "primitives" for react-native 💫

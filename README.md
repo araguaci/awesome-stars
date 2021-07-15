@@ -60,7 +60,7 @@
 ## C 
 
 - [signalwire/freeswitch](https://github.com/signalwire/freeswitch) - FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.
-- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. It is developed by a wide group of volunteers. Contributions welcome!
+- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
@@ -85,6 +85,7 @@
 
 ## C# # 
 
+- [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app) - Example Docker Compose app
 - [renatogroffe/ASPNETCore5-REST_API-Kafka_ContagemAcessos](https://github.com/renatogroffe/ASPNETCore5-REST_API-Kafka_ContagemAcessos) - Exemplo de API REST com versionamento criada com o .NET 5 + ASP.NET Core para contagem de acessos e envio de mensagens para um tópico do Apache Kafka (utilizando a biblioteca Confluent.Kafka).
 - [renatogroffe/DotNet5-WorkerService-Kafka-SqlServer_ContagemAcessos](https://github.com/renatogroffe/DotNet5-WorkerService-Kafka-SqlServer_ContagemAcessos) - Exemplo de consumo de mensagens de um tópico do Apache Kafka com dados de contagens de acesso em um Worker Service criado com .NET 5, utilizando ainda SQL Server + Dapper.Contrib para gravação dos dados e um Dockerfile para geração de imagens Docker em Linux.
 - [3F/DllExport](https://github.com/3F/DllExport) - .NET DllExport with .NET Core support (aka 3F/DllExport)
@@ -277,6 +278,7 @@
 
 ## Go 
 
+- [grafeas/grafeas](https://github.com/grafeas/grafeas) - Artifact Metadata API
 - [mgerb/ServerStatus](https://github.com/mgerb/ServerStatus) - A Discord bot to display the status of servers.
 - [mgerb/mgphoto](https://github.com/mgerb/mgphoto) - A dead simple command line photo import tool
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
@@ -455,6 +457,10 @@
 
 ## JavaScript 
 
+- [LauraBeatris/amazon-next](https://github.com/LauraBeatris/amazon-next) - A simple mock and re-concept of Amazon - built with Next.js, Firebase, and Framer Motion
+- [LauraBeatris/apollo-cache-management-talks](https://github.com/LauraBeatris/apollo-cache-management-talks) - Slides of my talks about Cache Management on Apollo Client 3
+- [dockersamples/docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
+- [RickStrahl/AlbumViewerVNext](https://github.com/RickStrahl/AlbumViewerVNext) - West Wind Album Viewer ASP.NET Core and Angular Sample
 - [mikenicholson/passport-jwt](https://github.com/mikenicholson/passport-jwt) - Passport authentication using JSON Web Tokens
 - [gabrieldarezzo/helpjs-ravi](https://github.com/gabrieldarezzo/helpjs-ravi) - Exercícios/Tutorial/Desafios para Iniciantes em JavaScript
 - [ThiagoDellaNoce/javascript4noobs](https://github.com/ThiagoDellaNoce/javascript4noobs) - Este repositório tem como propósito fornecer uma iniciação na linguagem mais amada da Web.
@@ -1704,6 +1710,8 @@
 
 ## Shell 
 
+- [sclorg/container-common-scripts](https://github.com/sclorg/container-common-scripts) - 
+- [sclorg/mysql-container](https://github.com/sclorg/mysql-container) - MySQL container images based on Red Hat Software Collections and intended for OpenShift and general usage. Users can choose between Red Hat Enterprise Linux, Fedora, and CentOS based images.
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [docker-library/haproxy](https://github.com/docker-library/haproxy) - Docker Official Image packaging for HAProxy
 - [fauria/docker-vsftpd](https://github.com/fauria/docker-vsftpd) - 🐳  vsftpd Docker image based on Centos 7. Supports passive mode and virtual users.
@@ -1761,6 +1769,8 @@
 
 ## TypeScript 
 
+- [LauraBeatris/use-selected-items-hook](https://github.com/LauraBeatris/use-selected-items-hook) - Easily select items based on an array
+- [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [ionic-team/ionic-storage](https://github.com/ionic-team/ionic-storage) - Ionic Storage module for Ionic apps
 - [changhuixu/angular-material-admin](https://github.com/changhuixu/angular-material-admin) - Angular Material Admin Dashboard
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎

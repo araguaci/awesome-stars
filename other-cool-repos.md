@@ -17,6 +17,8 @@
 ### App
 
   - [👽 Wire for web](https://github.com/wireapp/wire-webapp)
+  - [Common solutions and tools developed by Google Cloud's Professional Services team](https://github.com/GoogleCloudPlatform/professional-services)
+  - [Sample applications for Azure DevOps Project](https://github.com/microsoft/devops-project-samples)
 
 
 ### Tools For Devs
@@ -42,5 +44,7 @@
 
   - [The Magic of CSS](https://github.com/adamschwartz/magic-of-css)
   - [🎓 Um caminho para a educação autodidata em Ciência da Computação!](https://github.com/Universidade-Livre/ciencia-da-computacao)
-
+  - [24 Lessons, 12 Weeks, Get Started as a Web Developer](https://github.com/microsoft/Web-Dev-For-Beginners)
+  - [Beginners Series to Nodejs](https://channel9.msdn.com/Series/Beginners-Series-to-Nodejs?WT.mc_id=academic-13441-cxa)
+  - [Beginner's Series to: JavaScript](https://channel9.msdn.com/Series/Beginners-Series-to-JavaScript?WT.mc_id=academic-13441-cxa)
 

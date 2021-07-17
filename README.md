@@ -124,7 +124,7 @@
 
 ## C++ 
 
-- [typesense/typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍
+- [typesense/typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍 ✨ An Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch.
 - [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 - [tjanczuk/edge](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
 - [BelledonneCommunications/flexisip](https://github.com/BelledonneCommunications/flexisip) - Linphone.org mirror for flexisip (git://git.linphone.org/flexisip.git)
@@ -320,6 +320,7 @@
 
 ## HTML 
 
+- [floydhub/Screenshot-to-code-backup](https://github.com/floydhub/Screenshot-to-code-backup) - Additional materials for https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/
 - [wesbos/beginner-javascript](https://github.com/wesbos/beginner-javascript) - Slam Dunk JavaScript
 - [whatwg/html](https://github.com/whatwg/html) - HTML Standard
 - [OpenHypervideo/FieldTrip](https://github.com/OpenHypervideo/FieldTrip) - Open Source Web Documentary - https://fieldtrip.berlin
@@ -420,7 +421,7 @@
 - [react-native-webrtc/react-native-incall-manager](https://github.com/react-native-webrtc/react-native-incall-manager) - Handling media-routes/sensors/events during a audio/video chat on React Native
 - [VoiSmart/pjsip-android](https://github.com/VoiSmart/pjsip-android) - SIP Service for Android based on PJSIP
 - [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
-- [hazelcast/hazelcast](https://github.com/hazelcast/hazelcast) - Open Source Streaming Data Platform
+- [hazelcast/hazelcast](https://github.com/hazelcast/hazelcast) - Open-source distributed computation and storage platform
 - [bkdev98/react-native-incoming-call](https://github.com/bkdev98/react-native-incoming-call) - React Native module to display custom incoming call activity for Android, since iOS we have VoIP.
 - [zxing/zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 - [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Enterprise Single Sign On for all earthlings and beyond.
@@ -458,6 +459,8 @@
 
 ## JavaScript 
 
+- [kiok46/Track-Stargazers](https://github.com/kiok46/Track-Stargazers) - Have fun tracking your project's stargazers
+- [server-state/template-module](https://github.com/server-state/template-module) - Default template for server-base modules
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [rtivital/omatsuri](https://github.com/rtivital/omatsuri) - PWA with 12 open source frontend focused tools
 - [LauraBeatris/amazon-next](https://github.com/LauraBeatris/amazon-next) - A simple mock and re-concept of Amazon - built with Next.js, Firebase, and Framer Motion
@@ -1273,6 +1276,7 @@
 
 ## Others 
 
+- [kiok46/ReactNative-Animation-Challenges](https://github.com/kiok46/ReactNative-Animation-Challenges) - A series of animation challenges in React Native.
 - [he4rt/4noobs](https://github.com/he4rt/4noobs) - 
 - [he4rt/react4noobs](https://github.com/he4rt/react4noobs) - 
 - [Universidade-Livre/ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao) - 🎓 Um caminho para a educação autodidata em Ciência da Computação!
@@ -1613,6 +1617,9 @@
 
 ## Python 
 
+- [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team
+- [floydhub/dl-docker](https://github.com/floydhub/dl-docker) - An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
+- [mbadry1/Top-Deep-Learning](https://github.com/mbadry1/Top-Deep-Learning) - Top 200 deep learning Github repositories sorted by the number of stars.
 - [dpocock/github-icalendar](https://github.com/dpocock/github-icalendar) - Render Github issues as iCalendar feed
 - [nodejs/node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool
 - [maxammann/trello-to-deck](https://github.com/maxammann/trello-to-deck) - trello-to-deck reads from an JSON export of Trello and creates a board in Nextcloud Deck.
@@ -1713,6 +1720,7 @@
 
 ## Shell 
 
+- [satishweb/docker-xrdp](https://github.com/satishweb/docker-xrdp) - XRDP Server for GUI Inside Docker Container
 - [sclorg/container-common-scripts](https://github.com/sclorg/container-common-scripts) - 
 - [sclorg/mysql-container](https://github.com/sclorg/mysql-container) - MySQL container images based on Red Hat Software Collections and intended for OpenShift and general usage. Users can choose between Red Hat Enterprise Linux, Fedora, and CentOS based images.
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
@@ -1772,6 +1780,7 @@
 
 ## TypeScript 
 
+- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [ReactTraining/react-workshop](https://github.com/ReactTraining/react-workshop) - The course material for our React Hooks workshop
 - [Hermanya/use-interval](https://github.com/Hermanya/use-interval) - ⏲ Dan Abramov's interval hook.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components and hooks library with native dark theme support and focus on usability, accessibility and developer experience

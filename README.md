@@ -124,6 +124,7 @@
 
 ## C++ 
 
+- [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [typesense/typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍 ✨ An Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch.
 - [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 - [tjanczuk/edge](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
@@ -320,6 +321,9 @@
 
 ## HTML 
 
+- [Nexmo/nexmo-developer](https://github.com/Nexmo/nexmo-developer) - Provides resources for developers using Nexmo API platforms
+- [falconmasters/menu-temario](https://github.com/falconmasters/menu-temario) - Código del tutorial: Como hacer un menú de navegación estilo temario
+- [bootflat/bootflat.github.io](https://github.com/bootflat/bootflat.github.io) - BOOTFLAT is an open source Flat UI KIT based on Bootstrap 3.3.0 CSS framework. It provides a faster, easier and less repetitive way for web developers to create elegant web apps.
 - [floydhub/Screenshot-to-code-backup](https://github.com/floydhub/Screenshot-to-code-backup) - Additional materials for https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/
 - [wesbos/beginner-javascript](https://github.com/wesbos/beginner-javascript) - Slam Dunk JavaScript
 - [whatwg/html](https://github.com/whatwg/html) - HTML Standard
@@ -459,6 +463,11 @@
 
 ## JavaScript 
 
+- [yeoman/generator-generator](https://github.com/yeoman/generator-generator) - Generate a Yeoman generator
+- [Nexmo/nexmo-node-code-snippets](https://github.com/Nexmo/nexmo-node-code-snippets) - 
+- [john-smilga/react-jobs-app](https://github.com/john-smilga/react-jobs-app) - 
+- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
+- [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
 - [kiok46/Track-Stargazers](https://github.com/kiok46/Track-Stargazers) - Have fun tracking your project's stargazers
 - [server-state/template-module](https://github.com/server-state/template-module) - Default template for server-base modules
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
@@ -980,7 +989,7 @@
 - [huynhsamha/react-configure](https://github.com/huynhsamha/react-configure) - Necessary configure for create-react-app 🤣🤣🤣
 - [cornflourblue/react-signup-verification-boilerplate](https://github.com/cornflourblue/react-signup-verification-boilerplate) - React Boilerplate - Email Sign Up with Verification, Authentication & Forgot Password
 - [jherr/chat-o-matic](https://github.com/jherr/chat-o-matic) - Example code for a real time chat system with GraphQL subscriptions
-- [reactjs/pt-BR.reactjs.org](https://github.com/reactjs/pt-BR.reactjs.org) - 🇧🇷 React documentation website in Portuguese (Brazil)
+- [reactjs/pt-br.reactjs.org](https://github.com/reactjs/pt-br.reactjs.org) - 🇧🇷 React documentation website in Portuguese (Brazil)
 - [Jejinketsu/CEP_Distance](https://github.com/Jejinketsu/CEP_Distance) - Aplicação em node para calcular a distância entre dois pontos, dado o CEP de cada um.
 - [mweststrate/relative-deps](https://github.com/mweststrate/relative-deps) - Installs local dependencies for optimal developer experience
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
@@ -1058,7 +1067,7 @@
 - [jondot/rn-snoopy](https://github.com/jondot/rn-snoopy) - Snoopy is a profiling tool for React Native, that lets you snoop on the React Native Bridge.
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [pubkey/eth-crypto](https://github.com/pubkey/eth-crypto) - Cryptographic javascript-functions for ethereum and tutorials to use them with web3js and solidity
-- [pliablepixels/zmNinja](https://github.com/pliablepixels/zmNinja) - High performance, cross platform ionic app for Home/Commerical Security Surveillance using ZoneMinder
+- [ZoneMinder/zmNinja](https://github.com/ZoneMinder/zmNinja) - High performance, cross platform ionic app for Home/Commerical Security Surveillance using ZoneMinder
 - [LeanKit-Labs/lux.js](https://github.com/LeanKit-Labs/lux.js) - Flux-based architecture for using ReactJS at LeanKit
 - [explooosion/browndust-share](https://github.com/explooosion/browndust-share) - This website is for browndust formation sharing
 - [tediousjs/node-mssql](https://github.com/tediousjs/node-mssql) - Microsoft SQL Server client for Node.js
@@ -1276,6 +1285,7 @@
 
 ## Others 
 
+- [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
 - [kiok46/ReactNative-Animation-Challenges](https://github.com/kiok46/ReactNative-Animation-Challenges) - A series of animation challenges in React Native.
 - [he4rt/4noobs](https://github.com/he4rt/4noobs) - 
 - [he4rt/react4noobs](https://github.com/he4rt/react4noobs) - 
@@ -1720,6 +1730,7 @@
 
 ## Shell 
 
+- [egyptianbman/docker-centos-nginx-php](https://github.com/egyptianbman/docker-centos-nginx-php) - A simple and highly configurable docker container running centos, nginx and php-fpm.
 - [satishweb/docker-xrdp](https://github.com/satishweb/docker-xrdp) - XRDP Server for GUI Inside Docker Container
 - [sclorg/container-common-scripts](https://github.com/sclorg/container-common-scripts) - 
 - [sclorg/mysql-container](https://github.com/sclorg/mysql-container) - MySQL container images based on Red Hat Software Collections and intended for OpenShift and general usage. Users can choose between Red Hat Enterprise Linux, Fedora, and CentOS based images.
@@ -1780,6 +1791,10 @@
 
 ## TypeScript 
 
+- [benji6/webnotes](https://github.com/benji6/webnotes) - :spiral_notepad: A serverless and offline-first PWA that helps you manage your notes
+- [benji6/moodtracker](https://github.com/benji6/moodtracker) - A serverless and offline-first PWA that lets you track your mood
+- [benji6/eri](https://github.com/benji6/eri) - A minimal design system
+- [benji6/meditation-timer](https://github.com/benji6/meditation-timer) - 🧘 Progressive web application for timing your meditations
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [ReactTraining/react-workshop](https://github.com/ReactTraining/react-workshop) - The course material for our React Hooks workshop
 - [Hermanya/use-interval](https://github.com/Hermanya/use-interval) - ⏲ Dan Abramov's interval hook.

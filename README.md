@@ -294,7 +294,7 @@
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [zorchenhimer/MovieNight](https://github.com/zorchenhimer/MovieNight) - Single instance video streaming server with integrated chat.
-- [pion/ion](https://github.com/pion/ion) - Distributed RTC System by pure Go and Flutter
+- [pion/ion](https://github.com/pion/ion) - Real-Distributed(non-cluster) RTC System by pure Go and Flutter
 - [pion/ion-avp](https://github.com/pion/ion-avp) - Audio/Video Processing Service
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application
@@ -995,7 +995,7 @@
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
 - [HelioSilva/Whatsapp-bot-NodeJS](https://github.com/HelioSilva/Whatsapp-bot-NodeJS) - Whatsapp bot para delivery de uma lanchonete usando NodeJS.
 - [nhn/toast-ui.doc](https://github.com/nhn/toast-ui.doc) - 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2021)
 - [CodAffection/Angular-7-Master-Detail-CRUD-with-Web-API](https://github.com/CodAffection/Angular-7-Master-Detail-CRUD-with-Web-API) - Angular 7 Master Detail CRUD with Web API
 - [phonegap/phonegap-mobile-accessibility](https://github.com/phonegap/phonegap-mobile-accessibility) - PhoneGap plugin to expose mobile accessibility APIs.
 - [techiediaries/fake-api-jwt-json-server](https://github.com/techiediaries/fake-api-jwt-json-server) - A Fake API with JWT Authentication using json-server and jsonwebtoken
@@ -1285,6 +1285,8 @@
 
 ## Others 
 
+- [linuxhandbook/status](https://github.com/linuxhandbook/status) - 📈 Uptime monitor and status page for Linux Handbook, powered by @upptime
+- [linuxhandbook/tutorial-snippets](https://github.com/linuxhandbook/tutorial-snippets) - Repository to share long code snippets for LHB tutorials
 - [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
 - [kiok46/ReactNative-Animation-Challenges](https://github.com/kiok46/ReactNative-Animation-Challenges) - A series of animation challenges in React Native.
 - [he4rt/4noobs](https://github.com/he4rt/4noobs) - 
@@ -1627,6 +1629,7 @@
 
 ## Python 
 
+- [kongdd/ubuntu-config](https://github.com/kongdd/ubuntu-config) - System Init
 - [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team
 - [floydhub/dl-docker](https://github.com/floydhub/dl-docker) - An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
 - [mbadry1/Top-Deep-Learning](https://github.com/mbadry1/Top-Deep-Learning) - Top 200 deep learning Github repositories sorted by the number of stars.
@@ -1730,6 +1733,7 @@
 
 ## Shell 
 
+- [codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart) - Guia rápido do WSL2 + Docker
 - [egyptianbman/docker-centos-nginx-php](https://github.com/egyptianbman/docker-centos-nginx-php) - A simple and highly configurable docker container running centos, nginx and php-fpm.
 - [satishweb/docker-xrdp](https://github.com/satishweb/docker-xrdp) - XRDP Server for GUI Inside Docker Container
 - [sclorg/container-common-scripts](https://github.com/sclorg/container-common-scripts) - 
@@ -1791,6 +1795,7 @@
 
 ## TypeScript 
 
+- [codeedu/maratona2-plataforma-lives](https://github.com/codeedu/maratona2-plataforma-lives) - Maratona Full Cycle 2.0 - Plataforma de transmissão de lives
 - [benji6/webnotes](https://github.com/benji6/webnotes) - :spiral_notepad: A serverless and offline-first PWA that helps you manage your notes
 - [benji6/moodtracker](https://github.com/benji6/moodtracker) - A serverless and offline-first PWA that lets you track your mood
 - [benji6/eri](https://github.com/benji6/eri) - A minimal design system

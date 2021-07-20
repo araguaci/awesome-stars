@@ -59,6 +59,7 @@
 
 ## C 
 
+- [asterisk/asterisk](https://github.com/asterisk/asterisk) - Mirror of the official Asterisk (https://www.asterisk.org) Project repository. No pull requests here please.  Use Gerrit:
 - [signalwire/freeswitch](https://github.com/signalwire/freeswitch) - FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
@@ -232,7 +233,6 @@
 - [steniooliv/payflow_nlw](https://github.com/steniooliv/payflow_nlw) - :iphone: Flutter project developed on NLW6, application to organize payment slips :dollar:
 - [dwyl/flutter-todo-list-tutorial](https://github.com/dwyl/flutter-todo-list-tutorial) - A detailed example/tutorial building a cross-platform Todo List App using Flutter
 - [burhanrashid52/WhatTodo](https://github.com/burhanrashid52/WhatTodo) - A Simple Todo app design in Flutter to keep track of your task on daily basis. Its build on BLoC Pattern. You can add a project, labels, and due-date to your task also you can sort your task on the basis of project, label, and dates
-- [dart-lang/site-www](https://github.com/dart-lang/site-www) - Source for Dart website
 - [mjohnsullivan/flutter-by-example](https://github.com/mjohnsullivan/flutter-by-example) - A collection of simple, bare-bones Flutter apps that each demonstrate a concept
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [bradtraversy/wordpair_generator](https://github.com/bradtraversy/wordpair_generator) - Flutter app based on the doc tutorial
@@ -247,6 +247,7 @@
 
 ## Dockerfile 
 
+- [RocketChat/Docker.Official.Image](https://github.com/RocketChat/Docker.Official.Image) - OFFICIAL REPOSITORY rocket.chat
 - [geerlingguy/docker-centos7-ansible](https://github.com/geerlingguy/docker-centos7-ansible) - CentOS 7 Docker container for Ansible playbook and role testing.
 - [muesli/code-server](https://github.com/muesli/code-server) - My code-server Docker image
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
@@ -280,6 +281,8 @@
 
 ## Go 
 
+- [livekit/livekit-server](https://github.com/livekit/livekit-server) - Distributed audio/video rooms over WebRTC
+- [ttacon/libphonenumber](https://github.com/ttacon/libphonenumber) - golang port of Google's libphonenumber
 - [grafeas/grafeas](https://github.com/grafeas/grafeas) - Artifact Metadata API
 - [mgerb/ServerStatus](https://github.com/mgerb/ServerStatus) - A Discord bot to display the status of servers.
 - [mgerb/mgphoto](https://github.com/mgerb/mgphoto) - A dead simple command line photo import tool
@@ -321,6 +324,7 @@
 
 ## HTML 
 
+- [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [Nexmo/nexmo-developer](https://github.com/Nexmo/nexmo-developer) - Provides resources for developers using Nexmo API platforms
 - [falconmasters/menu-temario](https://github.com/falconmasters/menu-temario) - Código del tutorial: Como hacer un menú de navegación estilo temario
 - [bootflat/bootflat.github.io](https://github.com/bootflat/bootflat.github.io) - BOOTFLAT is an open source Flat UI KIT based on Bootstrap 3.3.0 CSS framework. It provides a faster, easier and less repetitive way for web developers to create elegant web apps.
@@ -420,6 +424,7 @@
 
 ## Java 
 
+- [react-native-webrtc/react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) - The WebRTC module for React Native
 - [react-native-share/react-native-share](https://github.com/react-native-share/react-native-share) - Social share, sending simple data to other apps.
 - [react-native-webrtc/react-native-webrtc-web-shim](https://github.com/react-native-webrtc/react-native-webrtc-web-shim) - Web Shim for React Native WebRTC
 - [react-native-webrtc/react-native-incall-manager](https://github.com/react-native-webrtc/react-native-incall-manager) - Handling media-routes/sensors/events during a audio/video chat on React Native
@@ -463,6 +468,9 @@
 
 ## JavaScript 
 
+- [omariosouto/spotcast](https://github.com/omariosouto/spotcast) - :sound: A Spotify + Pocket Casts merge, feito com React Native
+- [oslabs-beta/ReactRTC](https://github.com/oslabs-beta/ReactRTC) - NPM package that simplifies set-up of WebRTC as importable React components
+- [madrobby/vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library
 - [yeoman/generator-generator](https://github.com/yeoman/generator-generator) - Generate a Yeoman generator
 - [Nexmo/nexmo-node-code-snippets](https://github.com/Nexmo/nexmo-node-code-snippets) - 
 - [john-smilga/react-jobs-app](https://github.com/john-smilga/react-jobs-app) - 
@@ -858,11 +866,12 @@
 - [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [docker/getting-started](https://github.com/docker/getting-started) - Getting started with Docker
+- [dart-lang/site-www](https://github.com/dart-lang/site-www) - Source for Dart website
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [jakkra/SmartMirror](https://github.com/jakkra/SmartMirror) - My MagicMirror running on a Raspberry Pi
 - [pascalopitz/unoffical-sonos-controller-for-linux](https://github.com/pascalopitz/unoffical-sonos-controller-for-linux) - An Electron based linux app for controlling your sonos system.
 - [bencevans/node-sonos](https://github.com/bencevans/node-sonos) - 🔈 Sonos Media Player Interface/Client
-- [dstackai/dstack](https://github.com/dstackai/dstack) - An open-source tool to rapidly develop data applications with Python
+- [peterschmidt85/dstack](https://github.com/peterschmidt85/dstack) - An open-source tool to rapidly develop data applications with Python
 - [nodegui/react-nodegui-starter](https://github.com/nodegui/react-nodegui-starter) - Starter repository for react based native desktop apps using react-nodegui
 - [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - 
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
@@ -1285,6 +1294,7 @@
 
 ## Others 
 
+- [workos-inc/awesome-developer-experience](https://github.com/workos-inc/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
 - [linuxhandbook/status](https://github.com/linuxhandbook/status) - 📈 Uptime monitor and status page for Linux Handbook, powered by @upptime
 - [linuxhandbook/tutorial-snippets](https://github.com/linuxhandbook/tutorial-snippets) - Repository to share long code snippets for LHB tutorials
 - [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
@@ -1398,6 +1408,7 @@
 
 ## PHP 
 
+- [phpservermon/phpservermon](https://github.com/phpservermon/phpservermon) - PHP Server Monitor
 - [IssabelFoundation/issabelPBX](https://github.com/IssabelFoundation/issabelPBX) - Asterisk configuration GUI
 - [eduardokum/laravel-boleto](https://github.com/eduardokum/laravel-boleto) - Pacote para gerar boletos e remessas
 - [mrprompt/imovelweb-sdk](https://github.com/mrprompt/imovelweb-sdk) - SDK de integração com a API da Imóvel Web.
@@ -1786,6 +1797,7 @@
 
 ## Svelte 
 
+- [oslabs-beta/SvelteStorm](https://github.com/oslabs-beta/SvelteStorm) - A Svelte IDE like no other. Embrace the storm. Embrace the Svelte.
 - [Tommertom/svelte-ionic-app](https://github.com/Tommertom/svelte-ionic-app) - Ionic UI showcase app - try Ionic UI and directly go to API or source code
 
 ## Swift 
@@ -1795,6 +1807,8 @@
 
 ## TypeScript 
 
+- [livekit/client-sdk-js](https://github.com/livekit/client-sdk-js) - LiveKit browser client SDK (javascript)
+- [livekit/livekit-react](https://github.com/livekit/livekit-react) - React component and library for LiveKit
 - [codeedu/maratona2-plataforma-lives](https://github.com/codeedu/maratona2-plataforma-lives) - Maratona Full Cycle 2.0 - Plataforma de transmissão de lives
 - [benji6/webnotes](https://github.com/benji6/webnotes) - :spiral_notepad: A serverless and offline-first PWA that helps you manage your notes
 - [benji6/moodtracker](https://github.com/benji6/moodtracker) - A serverless and offline-first PWA that lets you track your mood

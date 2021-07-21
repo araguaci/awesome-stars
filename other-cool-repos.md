@@ -46,7 +46,8 @@
 
 ### Learning
 
-  = [📚 Study guide and introduction to the modern front end stack](https://github.com/grab/front-end-guide)
+  - [📚 Study guide and introduction to the modern front end stack](https://github.com/grab/front-end-guide)
+  - [💯 Materials to help you rock your next coding interview](https://github.com/yangshun/tech-interview-handbook)
   - [🕸 No-bullshit answers to the famous h5bp "Front-end Job Interview Questions"](https://github.com/yangshun/front-end-interview-handbook)
   - [The Magic of CSS](https://github.com/adamschwartz/magic-of-css)
   - [🎓 Um caminho para a educação autodidata em Ciência da Computação!](https://github.com/Universidade-Livre/ciencia-da-computacao)

@@ -86,6 +86,7 @@
 
 ## C# # 
 
+- [fluentpos/fluentpos](https://github.com/fluentpos/fluentpos) - Open Source Point Of Sales and Inventory Management Solution built with ASP.NET Core 5.0 WebAPI and Angular 12 Material.
 - [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app) - Example Docker Compose app
 - [renatogroffe/ASPNETCore5-REST_API-Kafka_ContagemAcessos](https://github.com/renatogroffe/ASPNETCore5-REST_API-Kafka_ContagemAcessos) - Exemplo de API REST com versionamento criada com o .NET 5 + ASP.NET Core para contagem de acessos e envio de mensagens para um tópico do Apache Kafka (utilizando a biblioteca Confluent.Kafka).
 - [renatogroffe/DotNet5-WorkerService-Kafka-SqlServer_ContagemAcessos](https://github.com/renatogroffe/DotNet5-WorkerService-Kafka-SqlServer_ContagemAcessos) - Exemplo de consumo de mensagens de um tópico do Apache Kafka com dados de contagens de acesso em um Worker Service criado com .NET 5, utilizando ainda SQL Server + Dapper.Contrib para gravação dos dados e um Dockerfile para geração de imagens Docker em Linux.
@@ -181,7 +182,7 @@
 - [soulwire/Makisu](https://github.com/soulwire/Makisu) - CSS 3D Dropdown Concept
 - [sparanoid/cube.less](https://github.com/sparanoid/cube.less) - 3D (animated) cube using only CSS (Less), originally used by LeanCloud (aka. AVOS Cloud)
 - [Cordobo/pure-css-super-mario](https://github.com/Cordobo/pure-css-super-mario) - Pure CSS animated 3D Super Mario Icon
-- [symblai/nextjs-symblai-demo](https://github.com/symblai/nextjs-symblai-demo) - Conversational AI using Symbl API Demo app built with NextJS. Detect Topics of discussion, live transcriptions, real-time insights like action items, follow-ups and questions, and a lot more.
+- [symblai/nextjs-symblai-demo](https://github.com/symblai/nextjs-symblai-demo) - Conversation AI using Symbl API Demo app built with NextJS. Detect Topics of discussion, live transcriptions, real-time insights like action items, follow-ups and questions, and a lot more.
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [john-smilga/javascript-basic-projects](https://github.com/john-smilga/javascript-basic-projects) - 
 - [drygiel/csslider](https://github.com/drygiel/csslider) - Pure CSS slider
@@ -324,6 +325,7 @@
 
 ## HTML 
 
+- [facebookincubator/infima](https://github.com/facebookincubator/infima) - A UI framework that provides websites with the minimal CSS and JS needed to get started with building a modern responsive beautiful website
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [Nexmo/nexmo-developer](https://github.com/Nexmo/nexmo-developer) - Provides resources for developers using Nexmo API platforms
 - [falconmasters/menu-temario](https://github.com/falconmasters/menu-temario) - Código del tutorial: Como hacer un menú de navegación estilo temario
@@ -468,6 +470,14 @@
 
 ## JavaScript 
 
+- [yangshun/tree-node-cli](https://github.com/yangshun/tree-node-cli) - 🌲 Node.js library to list the contents of directories in a tree-like format, similar to the Linux tree command
+- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🕸  No-bullshit answers to the famous h5bp "Front-end Job Interview Questions"
+- [grab/front-end-guide](https://github.com/grab/front-end-guide) - 📚 Study guide and introduction to the modern front end stack.
+- [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the Webdriver API
+- [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, end-to-end encrypted and open-source.
+- [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
+- [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
+- [igorescobar/jQuery-Mask-Plugin](https://github.com/igorescobar/jQuery-Mask-Plugin) - A jQuery Plugin to make masks on form fields and HTML elements.
 - [omariosouto/spotcast](https://github.com/omariosouto/spotcast) - :sound: A Spotify + Pocket Casts merge, feito com React Native
 - [oslabs-beta/ReactRTC](https://github.com/oslabs-beta/ReactRTC) - NPM package that simplifies set-up of WebRTC as importable React components
 - [madrobby/vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library
@@ -543,7 +553,7 @@
 - [PactInteractive/image-downloader](https://github.com/PactInteractive/image-downloader) - A browser extension for Google Chrome, Microsoft Edge, and Brave that lets you download images from the web more easily.
 - [sarcadass/granim.js](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations with this small javascript library.
 - [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
-- [andris9/imapapi](https://github.com/andris9/imapapi) - Headless email client
+- [postalsys/imapapi](https://github.com/postalsys/imapapi) - Headless email client
 - [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger 🌲
 - [mcollina/autocannon](https://github.com/mcollina/autocannon) - fast HTTP/1.1 benchmarking tool written in Node.js
@@ -899,6 +909,7 @@
 - [JasonEtco/todo](https://github.com/JasonEtco/todo) - 🤖✅ GitHub App that creates new issues from actionable comments in your code.
 - [csorlandi/app-tipo-ifood](https://github.com/csorlandi/app-tipo-ifood) - 
 - [fisshy/react-scroll](https://github.com/fisshy/react-scroll) - React scroll component
+- [jpedroschmitz/gatsby-starter-ts](https://github.com/jpedroschmitz/gatsby-starter-ts) - TypeScript starter for Gatsby. No plugins and styling. Exactly the necessary to start 🔥
 - [Rocketseat/gatsby-starter-rocket-docs](https://github.com/Rocketseat/gatsby-starter-rocket-docs) - The documentation starter you were looking for (ready for Gatsby v3) ⚡️
 - [Rocketseat/gatsby-themes](https://github.com/Rocketseat/gatsby-themes) - Gatsby themes that we use to build websites at Rocketseat ⚡️🔥
 - [barisesen/github-timeline](https://github.com/barisesen/github-timeline) - View other users' timeline
@@ -2019,7 +2030,6 @@
 - [microsoft/opensource-portal](https://github.com/microsoft/opensource-portal) - Microsoft's monolithic GitHub Management Portal enabling enterprise scale self-service powered by the GitHub API 🏔🧑‍💻🧰
 - [eugustavo/github-badges](https://github.com/eugustavo/github-badges) - Application made to create badges for your readme 📑
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - TypeScript starter for Next.js that includes all you need to build amazing apps (ready for Next.js 11) ⚡️
-- [jpedroschmitz/gatsby-starter-ts](https://github.com/jpedroschmitz/gatsby-starter-ts) - TypeScript starter for Gatsby. No plugins and styling. Exactly the necessary to start 🔥
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [pocka/storybook-addon-designs](https://github.com/pocka/storybook-addon-designs) - A Storybook addon that embeds Figma, websites, or images in the addon panel.
 - [pocka/storybook-addon-vue-info](https://github.com/pocka/storybook-addon-vue-info) - Info addon for Vue components

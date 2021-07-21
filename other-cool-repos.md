@@ -6,6 +6,19 @@
 
   - [🌍 Normalized repository URLs for every package in the npm registry. Updated daily...](https://github.com/nice-registry/all-the-package-repos)
 
+
+### Tools For Devs
+
+  - [🚀Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment](https://github.com/appwrite/appwrite)
+  - [End-to-end testing framework written in Node.js and using the Webdriver API](https://github.com/nightwatchjs/nightwatch)
+  - [A simple zero-configuration command-line http server](https://github.com/http-party/http-server)
+  - [Smart Fonts Tests](https://github.com/adamschwartz/typography.js)
+  - [Cloudflare’s developer docs](https://github.com/adamschwartz/cloudflare-docs)
+  - [Scrape websites](https://github.com/adamschwartz/web.scraper.workers.dev)
+  - [🌟 packages and resources that work really well with npx](https://github.com/zkat/npx) 🕶
+  - [Check for outdated, incorrect, and unused dependencies](https://github.com/dylang/npm-check)
+
+
 ### Components
 
   - [Chrome-style tabs in HTML/CSS](https://github.com/adamschwartz/chrome-tabs)
@@ -21,15 +34,6 @@
   - [Sample applications for Azure DevOps Project](https://github.com/microsoft/devops-project-samples)
 
 
-### Tools For Devs
-
-  - [A simple zero-configuration command-line http server](https://github.com/http-party/http-server)
-  - [Smart Fonts Tests](https://github.com/adamschwartz/typography.js)
-  - [Cloudflare’s developer docs](https://github.com/adamschwartz/cloudflare-docs)
-  - [Scrape websites](https://github.com/adamschwartz/web.scraper.workers.dev)
-  - [🌟 packages and resources that work really well with npx](https://github.com/zkat/npx) 🕶
-  - [Check for outdated, incorrect, and unused dependencies](https://github.com/dylang/npm-check)
-
 ### Linux
 
   - [🎨 Tmux powerline theme](https://github.com/wfxr/tmux-power)
@@ -42,6 +46,8 @@
 
 ### Learning
 
+  = [📚 Study guide and introduction to the modern front end stack](https://github.com/grab/front-end-guide)
+  - [🕸 No-bullshit answers to the famous h5bp "Front-end Job Interview Questions"](https://github.com/yangshun/front-end-interview-handbook)
   - [The Magic of CSS](https://github.com/adamschwartz/magic-of-css)
   - [🎓 Um caminho para a educação autodidata em Ciência da Computação!](https://github.com/Universidade-Livre/ciencia-da-computacao)
   - [24 Lessons, 12 Weeks, Get Started as a Web Developer](https://github.com/microsoft/Web-Dev-For-Beginners)

@@ -266,6 +266,7 @@
 
 ## Elixir 
 
+- [Glimesh/glimesh.tv](https://github.com/Glimesh/glimesh.tv) - Glimesh is a next generation live streaming platform built by the community, for the community.
 - [rocketseat-education/nlw-06-elixir](https://github.com/rocketseat-education/nlw-06-elixir) - Projeto Wabanex
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [LauraBeatris/joy-of-elixir](https://github.com/LauraBeatris/joy-of-elixir) - elixir exercises with detailed answers
@@ -282,6 +283,7 @@
 
 ## Go 
 
+- [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
 - [livekit/livekit-server](https://github.com/livekit/livekit-server) - Distributed audio/video rooms over WebRTC
 - [ttacon/libphonenumber](https://github.com/ttacon/libphonenumber) - golang port of Google's libphonenumber
 - [grafeas/grafeas](https://github.com/grafeas/grafeas) - Artifact Metadata API
@@ -470,6 +472,8 @@
 
 ## JavaScript 
 
+- [bhj/karaoke-forever](https://github.com/bhj/karaoke-forever) - Open karaoke party system
+- [Temasys/AdapterJS](https://github.com/Temasys/AdapterJS) - AdapterJS Javascript Polyfill and Tools for WebRTC - Skylink WebRTC
 - [beautifulinteractions/beautiful-react-ui](https://github.com/beautifulinteractions/beautiful-react-ui) - 🚀A collection of lightweight and easy-to-customise controlled React components 🚀
 - [beautifulinteractions/beautiful-react-hooks](https://github.com/beautifulinteractions/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone) - Clone project of a famous Q/A website for developers which is stackoverflow built using MySQL-Express-React-Node :globe_with_meridians:
@@ -1765,6 +1769,7 @@
 
 ## Shell 
 
+- [CrunchyData/crunchy-containers](https://github.com/CrunchyData/crunchy-containers) - Containers for Managing PostgreSQL on Kubernetes by Crunchy Data
 - [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
 - [codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart) - Guia rápido do WSL2 + Docker
 - [egyptianbman/docker-centos-nginx-php](https://github.com/egyptianbman/docker-centos-nginx-php) - A simple and highly configurable docker container running centos, nginx and php-fpm.

@@ -37,6 +37,7 @@
   - [Pug](#pug)
   - [Puppet](#puppet)
   - [Python](#python)
+  - [ReScript](#rescript)
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -164,6 +165,7 @@
 
 ## CSS 
 
+- [blueedgetechno/windows11](https://github.com/blueedgetechno/windows11) - windows 11 in react 💻🌈⚡
 - [spf13/hyde](https://github.com/spf13/hyde) - Port of Mdo's excellent theme to Hugo
 - [vorillaz/devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers
 - [maxogden/screencat](https://github.com/maxogden/screencat) - :cat2: webrtc screensharing electron app for mac os (Alpha)
@@ -199,6 +201,7 @@
 - [birobirobiro/casa-criativa](https://github.com/birobirobiro/casa-criativa) - Projeto criado durante o WorkshopDev
 - [meta-magic/amexio.github.io](https://github.com/meta-magic/amexio.github.io) - Amexio is a rich set of Angular 7 (170+) components powered by HTML5 & CSS3 for Responsive Design and with 80+ Material Design Themes, UI Components, Charts, Gauges, Data Point Widgets, Dashboards. Amexio is completely Open Sourced and Free. It's based on Apache 2 License. You can use it in your production grade work today at no cost or no obligation.
 - [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 4 Material Design Admin
+- [carbon-design-system/design-language-website](https://github.com/carbon-design-system/design-language-website) - IBM Design Language website
 - [CodeHimBlog/jquery-jside-menu](https://github.com/CodeHimBlog/jquery-jside-menu) - jSide Menu is a well designed, simple and clean side navigation menu with dropdowns.
 - [twbs/ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
@@ -472,6 +475,7 @@
 
 ## JavaScript 
 
+- [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
 - [Mango/slideout](https://github.com/Mango/slideout) - A touch slideout navigation menu for your mobile web apps.
 - [Semantic-Org/Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
 - [StartBootstrap/startbootstrap-simple-sidebar](https://github.com/StartBootstrap/startbootstrap-simple-sidebar) - An off canvas sidebar navigation Bootstrap HTML template created by Start Bootstrap
@@ -805,6 +809,7 @@
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue Framework
 - [fonoster/routr](https://github.com/fonoster/routr) - Routr: Next-generation SIP Server
+- [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [benjamincharity/angular-keypad](https://github.com/benjamincharity/angular-keypad) - :iphone::1234: A numerical keypad built for mobile devices.
 - [furcan/KioskBoard](https://github.com/furcan/KioskBoard) - KioskBoard - Virtual Keyboard - A pure JavaScript library for using the virtual keyboard.
 - [ServeRest/ServeRest](https://github.com/ServeRest/ServeRest) - APIs REST simulando loja virtual para servir de estudo de testes de API de forma manual ou automatizada
@@ -983,7 +988,6 @@
 - [evanw/node-source-map-support](https://github.com/evanw/node-source-map-support) - Adds source map support to node.js (for stack traces)
 - [devshawn/password.live](https://github.com/devshawn/password.live) - 🔒 Generate simple or complex passwords directly from your web browser.
 - [Pierstoval/alex-rock.tech](https://github.com/Pierstoval/alex-rock.tech) - 
-- [carbon-design-system/design-language-website](https://github.com/carbon-design-system/design-language-website) - IBM Design Language website
 - [carbon-design-system/gatsby-theme-carbon](https://github.com/carbon-design-system/gatsby-theme-carbon) - A Carbon inspired Gatsby theme
 - [cboard-org/cboard](https://github.com/cboard-org/cboard) - AAC communication system with text-to-speech for the browser
 - [carbon-design-system/carbon-website](https://github.com/carbon-design-system/carbon-website) - The website for the Carbon Design System.
@@ -1360,7 +1364,6 @@
 - [lindelof/awesome-web-effect](https://github.com/lindelof/awesome-web-effect) - A series of exquisite and compact web page cool effects
 - [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
 - [pedroslopez/wwebjs-guide](https://github.com/pedroslopez/wwebjs-guide) - 
-- [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [dadosgovbr/aplicativos-dados-brasil](https://github.com/dadosgovbr/aplicativos-dados-brasil) - Mapeamento de aplicativos e visualizações que usam dados abertos governamentais no Brasil.
 - [CamaraDosDeputados/dados-abertos](https://github.com/CamaraDosDeputados/dados-abertos) - Repositório do serviço de Dados Abertos da Câmara. Consulte as "Issues" para atendimento a dúvidas e sugestões.
@@ -1724,6 +1727,10 @@
 - [the-javapocalypse/Twitter-Sentiment-Analysis](https://github.com/the-javapocalypse/Twitter-Sentiment-Analysis) - This script can tell you the sentiments of people regarding to any events happening in the world by analyzing tweets related to that event
 - [the-javapocalypse/Social-Media-Scrapper](https://github.com/the-javapocalypse/Social-Media-Scrapper) - Scrape images, tweets, captions, external links and hashtags with their frequency of occurrence related to any keyword from Instagram and Twitter.
 - [poliquin/brazilnum](https://github.com/poliquin/brazilnum) - Python functions for CNPJ, CEI, CPF, PIS/PASEP, CEP, and município numbers from Brazil.
+
+## ReScript 
+
+- [mobily/stacks](https://github.com/mobily/stacks) - ⚡ Build React Native layouts quickly with ease and fun.
 
 ## Roff 
 

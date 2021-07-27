@@ -287,7 +287,7 @@
 ## Go 
 
 - [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
-- [livekit/livekit-server](https://github.com/livekit/livekit-server) - Scalable, production-grade WebRTC video conferencing
+- [livekit/livekit-server](https://github.com/livekit/livekit-server) - Scalable, production-grade WebRTC video conferencing. SDKs for web & mobile.
 - [ttacon/libphonenumber](https://github.com/ttacon/libphonenumber) - golang port of Google's libphonenumber
 - [grafeas/grafeas](https://github.com/grafeas/grafeas) - Artifact Metadata API
 - [mgerb/ServerStatus](https://github.com/mgerb/ServerStatus) - A Discord bot to display the status of servers.
@@ -414,6 +414,7 @@
 - [vinitshahdeo/Quotter](https://github.com/vinitshahdeo/Quotter) - :robot: A Twitter bot which tweets random quotes with image and #hashtags :bird: :bell:
 - [chamkank/flask-chatterbot](https://github.com/chamkank/flask-chatterbot) - Simple boilerplate for ChatterBot using Flask
 - [madrobby/zepto](https://github.com/madrobby/zepto) - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API
+- [flutter/website](https://github.com/flutter/website) - Flutter web site
 - [metafizzy/infinite-scroll](https://github.com/metafizzy/infinite-scroll) - 📜 Automatically add next page
 - [sergiopeluzzi/festadasnacoes](https://github.com/sergiopeluzzi/festadasnacoes) - Projeto de TCC do Curso de Sistemas de Informação - UNESC - Cacoal/RO - Acadêmicos: Sergio Peluzzi e Diego Noronha
 - [rampatra/animatescroll.js](https://github.com/rampatra/animatescroll.js) - A Simple jQuery Plugin for Animating Scroll
@@ -475,6 +476,11 @@
 
 ## JavaScript 
 
+- [matheusrocha89/graphql-camara-deputados](https://github.com/matheusrocha89/graphql-camara-deputados) - API GraphQL com os dados da câmara de deputados do Brasil
+- [planetscale/vercel-integration-example](https://github.com/planetscale/vercel-integration-example) - 
+- [leerob/fastfeedback](https://github.com/leerob/fastfeedback) - Easily add user reviews, feedback, and comments to your website in one line of code.
+- [leerob/react2025](https://github.com/leerob/react2025) - ⚛️ Build applications from the the future, today.
+- [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, MDX, Tailwind CSS, and Vercel.
 - [react-native-mapbox-gl/maps](https://github.com/react-native-mapbox-gl/maps) - A Mapbox GL react native module for creating custom maps
 - [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
 - [Mango/slideout](https://github.com/Mango/slideout) - A touch slideout navigation menu for your mobile web apps.
@@ -1291,6 +1297,7 @@
 
 ## Jupyter Notebook 
 
+- [dadosgovbr/catalogos-dados-brasil](https://github.com/dadosgovbr/catalogos-dados-brasil) - Mapeamento de iniciativas (e catálogos) de dados abertos governamentais no Brasil.
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [3778/COVID-19](https://github.com/3778/COVID-19) - Ciência de Dados aplicada à pandemia do novo coronavírus.
 
@@ -1327,6 +1334,7 @@
 
 ## Others 
 
+- [devrelcollective/awesome-devrel](https://github.com/devrelcollective/awesome-devrel) - Awesome Developer Relations resources curated by the DevRel Collective
 - [Mayank0255/Mayank0255](https://github.com/Mayank0255/Mayank0255) - Don't just fork it. Star it too!
 - [workos-inc/awesome-developer-experience](https://github.com/workos-inc/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
 - [linuxhandbook/status](https://github.com/linuxhandbook/status) - 📈 Uptime monitor and status page for Linux Handbook, powered by @upptime
@@ -1775,7 +1783,6 @@
 - [creativetimofficial/material-dashboard-angular2](https://github.com/creativetimofficial/material-dashboard-angular2) - Material Dashboard Angular
 - [creativetimofficial/now-ui-kit-angular](https://github.com/creativetimofficial/now-ui-kit-angular) - 
 - [loiane/reactive-spring-angular](https://github.com/loiane/reactive-spring-angular) - :rocket: Simple application demonstrating Spring Webflux API + Angular/RxJS client.
-- [flutter/website](https://github.com/flutter/website) - Flutter web site
 
 ## Scheme 
 
@@ -1848,6 +1855,7 @@
 
 ## TypeScript 
 
+- [nuxt/image](https://github.com/nuxt/image) - Optimized Images for Nuxt
 - [mcjazzyfunky/shoelace-theme-designer](https://github.com/mcjazzyfunky/shoelace-theme-designer) - 
 - [fulls1z3/universal](https://github.com/fulls1z3/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, CLI scaffolding, dev/prod modes, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾
@@ -1899,7 +1907,7 @@
 - [actionhero/actionhero](https://github.com/actionhero/actionhero) - Actionhero is a realtime multi-transport nodejs API Server with integrated cluster capabilities and delayed tasks
 - [actionhero/actionhero-tutorial](https://github.com/actionhero/actionhero-tutorial) - An example actionhero project demonstrating many common features
 - [infeng/react-viewer](https://github.com/infeng/react-viewer) - react image viewer, supports rotation, scale, zoom and so on
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 - [GraphQL-Portal/graphql-portal](https://github.com/GraphQL-Portal/graphql-portal) - Configurable and distributed GraphQL Gateway. Convert your legacy data sources or monitor your existing GraphQL Services with a visual dashboard.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.

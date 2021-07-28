@@ -476,6 +476,10 @@
 
 ## JavaScript 
 
+- [AmruthPillai/ResumeOnTheWeb-Gatsby](https://github.com/AmruthPillai/ResumeOnTheWeb-Gatsby) - Everyone needs their own little spot on the interwebs, and this is mine. Welcome to my resume, on the web!
+- [WebDevsCom/webDevsCom](https://github.com/WebDevsCom/webDevsCom) - :heart_eyes: All kinds of resources for Developers :trident: in one place.
+- [zonayedpca/electron-gatsby-boilerplate](https://github.com/zonayedpca/electron-gatsby-boilerplate) - Simple Minimal Electron Gatsby Boilerplate. Create new BrowserWindow easily and speed up your development experience. Also included Automatic Linting, Redux, TravisCI Configuration and GitHub Release.
+- [zonayedpca/DevTop](https://github.com/zonayedpca/DevTop) - An essential desktop 🖥️ tool for the developers  👨‍💻. Easy access to the necessary tools 🛠️ like copy-paste 📋 history, gist 👨 💻 manager , short-link 🔗 manager, todos 📝, bookmarks 🔖 and many more to come ⌛, just one click 🖱️ away! Supported in all the major platform. ⬇Download Now
 - [matheusrocha89/graphql-camara-deputados](https://github.com/matheusrocha89/graphql-camara-deputados) - API GraphQL com os dados da câmara de deputados do Brasil
 - [planetscale/vercel-integration-example](https://github.com/planetscale/vercel-integration-example) - 
 - [leerob/fastfeedback](https://github.com/leerob/fastfeedback) - Easily add user reviews, feedback, and comments to your website in one line of code.
@@ -543,7 +547,6 @@
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
 - [Snipa22/nodejs-pool](https://github.com/Snipa22/nodejs-pool) - 
-- [EdgeApp/edge-login-ui](https://github.com/EdgeApp/edge-login-ui) - Edge Core GUI interface in HTML/React Native to create account and login to Edge SDK accounts
 - [dylang/changelog](https://github.com/dylang/changelog) - Finally see what's changed when you do npm update.  Changelog generates a changelog for npm modules and github repos.
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 - [Integreat/react-sticky-headroom](https://github.com/Integreat/react-sticky-headroom) - A React Component to hide a Header using css sticky position
@@ -1334,6 +1337,7 @@
 
 ## Others 
 
+- [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 - [devrelcollective/awesome-devrel](https://github.com/devrelcollective/awesome-devrel) - Awesome Developer Relations resources curated by the DevRel Collective
 - [Mayank0255/Mayank0255](https://github.com/Mayank0255/Mayank0255) - Don't just fork it. Star it too!
 - [workos-inc/awesome-developer-experience](https://github.com/workos-inc/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
@@ -1855,6 +1859,9 @@
 
 ## TypeScript 
 
+- [wix/wix-ui](https://github.com/wix/wix-ui) - 
+- [vechai/vechaiui](https://github.com/vechai/vechaiui) - A set of high-quality accessible React UI components with the built-in dark mode using Tailwind CSS. Pre-designed headless ui and radix-ui.
+- [radix-ui/primitives](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @modulz.
 - [nuxt/image](https://github.com/nuxt/image) - Optimized Images for Nuxt
 - [mcjazzyfunky/shoelace-theme-designer](https://github.com/mcjazzyfunky/shoelace-theme-designer) - 
 - [fulls1z3/universal](https://github.com/fulls1z3/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, CLI scaffolding, dev/prod modes, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer
@@ -1888,6 +1895,7 @@
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [IjzerenHein/react-native-shared-element](https://github.com/IjzerenHein/react-native-shared-element) - Native shared element transition "primitives" for react-native 💫
 - [bennymeg/nx-electron](https://github.com/bennymeg/nx-electron) - Electron schematics for nrwl nx platform
+- [EdgeApp/edge-login-ui](https://github.com/EdgeApp/edge-login-ui) - Edge Core GUI interface in HTML/React Native to create account and login to Edge SDK accounts
 - [tocttou/three-freeform-controls](https://github.com/tocttou/three-freeform-controls) - Rotation and Translation controls for Threejs objects
 - [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - The front-end for PWABuilder!
 - [wireapp/wire-webapp](https://github.com/wireapp/wire-webapp) - 👽 Wire for web
@@ -2154,7 +2162,7 @@
 - [angular-ui/ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS
 - [GregorBiswanger/rxjs-fruits](https://github.com/GregorBiswanger/rxjs-fruits) - A game for learning RxJS 🍎🍌
 - [taigaio/taiga-front-next](https://github.com/taigaio/taiga-front-next) - Next taiga-front version with Angular
-- [briebug/cypress-schematic](https://github.com/briebug/cypress-schematic) - Add cypress to an Angular CLI project
+- [briebug/cypress-schematic](https://github.com/briebug/cypress-schematic) - **⛔️  DEPRECATED** Add cypress to an Angular CLI project
 - [akopkesheshyan/ng-person](https://github.com/akopkesheshyan/ng-person) - A universal avatar component for Angular 2+ applications that generates truly unique colored letter avatar based on provided name.
 - [graphile/starter](https://github.com/graphile/starter) - Opinionated SaaS quick-start with pre-built user account and organization system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. Powered by PostGraphile, TypeScript, Apollo Client, Graphile Worker, Graphile Migrate, GraphQL Code Generator, Ant Design and Next.js
 - [stefanoslig/angular-ngrx-nx-realworld-example-app](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Exemplary real world application built with Angular 12, NgRx 12, nrwl/nx 12
@@ -2243,6 +2251,7 @@
 
 ## Vue 
 
+- [anoff/plantbuddy](https://github.com/anoff/plantbuddy) - nodeMCU based moisture monitoring for plants 🌱 with a serverless backend
 - [prabhuignoto/vue-float-menu](https://github.com/prabhuignoto/vue-float-menu) - 🎈Customizable floating menu for Vue
 - [prabhuignoto/vue-dock-menu](https://github.com/prabhuignoto/vue-dock-menu) - ⚓Dockable Menu bar for Vue
 - [socketio/socket.io-admin-ui](https://github.com/socketio/socket.io-admin-ui) - Admin UI for Socket.IO

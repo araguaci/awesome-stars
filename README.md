@@ -165,6 +165,7 @@
 
 ## CSS 
 
+- [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
 - [blueedgetechno/windows11](https://github.com/blueedgetechno/windows11) - windows 11 in react 💻🌈⚡
 - [spf13/hyde](https://github.com/spf13/hyde) - Port of Mdo's excellent theme to Hugo
 - [vorillaz/devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers
@@ -476,6 +477,14 @@
 
 ## JavaScript 
 
+- [gabrielbull/react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS High Sierra and Windows 10
+- [reZach/secure-electron-template](https://github.com/reZach/secure-electron-template) - The best way to build Electron apps with security in mind.
+- [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
+- [trungdq88/github-explorer](https://github.com/trungdq88/github-explorer) - Progressive Web Apps experiment
+- [lwsjs/local-web-server](https://github.com/lwsjs/local-web-server) - A lean, modular web server for rapid full-stack development.
+- [gokulkrishh/qrcodescan.in](https://github.com/gokulkrishh/qrcodescan.in) - 📠 A simple, fast, and useful progressive web application.
+- [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
+- [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [AmruthPillai/ResumeOnTheWeb-Gatsby](https://github.com/AmruthPillai/ResumeOnTheWeb-Gatsby) - Everyone needs their own little spot on the interwebs, and this is mine. Welcome to my resume, on the web!
 - [WebDevsCom/webDevsCom](https://github.com/WebDevsCom/webDevsCom) - :heart_eyes: All kinds of resources for Developers :trident: in one place.
 - [zonayedpca/electron-gatsby-boilerplate](https://github.com/zonayedpca/electron-gatsby-boilerplate) - Simple Minimal Electron Gatsby Boilerplate. Create new BrowserWindow easily and speed up your development experience. Also included Automatic Linting, Redux, TravisCI Configuration and GitHub Release.
@@ -1776,6 +1785,7 @@
 
 ## SCSS 
 
+- [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language
 - [hydecorp/hydejack](https://github.com/hydecorp/hydejack) - A boutique Jekyll theme for hackers, nerds, and academics
 - [pmarsceill/just-the-docs](https://github.com/pmarsceill/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
 - [WarenGonzaga/fork-corner](https://github.com/WarenGonzaga/fork-corner) - A modern and global open source fork corner label for your project's landing page.
@@ -1794,6 +1804,7 @@
 
 ## Shell 
 
+- [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - What tools and plugins I use for web development?
 - [CrunchyData/crunchy-containers](https://github.com/CrunchyData/crunchy-containers) - Containers for Managing PostgreSQL on Kubernetes by Crunchy Data
 - [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
 - [codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart) - Guia rápido do WSL2 + Docker
@@ -1859,6 +1870,7 @@
 
 ## TypeScript 
 
+- [deckgo/deckdeckgo](https://github.com/deckgo/deckdeckgo) - The web open source editor for presentations
 - [wix/wix-ui](https://github.com/wix/wix-ui) - 
 - [vechai/vechaiui](https://github.com/vechai/vechaiui) - A set of high-quality accessible React UI components with the built-in dark mode using Tailwind CSS. Pre-designed headless ui and radix-ui.
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @modulz.

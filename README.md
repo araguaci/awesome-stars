@@ -87,6 +87,7 @@
 
 ## C# # 
 
+- [HHChaos/Drawing-Studio](https://github.com/HHChaos/Drawing-Studio) - A creative app with intelligence. It was given 1st place for Best User Experience in 2019 Microsoft 365 app awards.
 - [fluentpos/fluentpos](https://github.com/fluentpos/fluentpos) - Open Source Point Of Sales and Inventory Management Solution built with ASP.NET Core 5.0 WebAPI and Angular 12 Material.
 - [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app) - Example Docker Compose app
 - [renatogroffe/ASPNETCore5-REST_API-Kafka_ContagemAcessos](https://github.com/renatogroffe/ASPNETCore5-REST_API-Kafka_ContagemAcessos) - Exemplo de API REST criada com o .NET 5 + ASP.NET Core para contagem de acessos e envio de mensagens para um tópico do Apache Kafka (utilizando a biblioteca Confluent.Kafka).
@@ -331,6 +332,8 @@
 
 ## HTML 
 
+- [GoogleChrome/developer.chrome.com](https://github.com/GoogleChrome/developer.chrome.com) - Chrome Developers
+- [GoogleChrome/devtools-docs](https://github.com/GoogleChrome/devtools-docs) - The legacy documentation for Chrome DevTools.
 - [facebookincubator/infima](https://github.com/facebookincubator/infima) - A UI framework that provides websites with the minimal CSS and JS needed to get started with building a modern responsive beautiful website
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [Nexmo/nexmo-developer](https://github.com/Nexmo/nexmo-developer) - Provides resources for developers using Nexmo API platforms
@@ -356,7 +359,7 @@
 - [tastejs/hacker-news-pwas](https://github.com/tastejs/hacker-news-pwas) - HNPWA - Hacker News readers as Progressive Web Apps 📱
 - [jgthms/html-reference](https://github.com/jgthms/html-reference) - HTML Reference: a free guide to all HTML5 elements and attributes
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
-- [felipefialho/css-components](https://github.com/felipefialho/css-components) - :coffee: A set of common UI Components using the power of CSS and without Javascript.
+- [felipefialho/css-components](https://github.com/felipefialho/css-components) - :coffee: A set of common UI Components using just the power of CSS and without JavaScript.
 - [tinymce/tinymce-demos](https://github.com/tinymce/tinymce-demos) - Let us inspire you with all things TinyMCE can do
 - [nourabusoud/vue-todo-list](https://github.com/nourabusoud/vue-todo-list) - ✅ A simple in browser todo list that saves your todos in Local storage
 - [iamjoshellis/codrops-svg-drums](https://github.com/iamjoshellis/codrops-svg-drums) - SVG animated drum kit you can play, built for a tutorial on Codrops
@@ -477,6 +480,7 @@
 
 ## JavaScript 
 
+- [garganurag893/react-native-phone-number-input](https://github.com/garganurag893/react-native-phone-number-input) - React Native component for phone number.
 - [gabrielbull/react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS High Sierra and Windows 10
 - [reZach/secure-electron-template](https://github.com/reZach/secure-electron-template) - The best way to build Electron apps with security in mind.
 - [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
@@ -1870,6 +1874,7 @@
 
 ## TypeScript 
 
+- [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
 - [deckgo/deckdeckgo](https://github.com/deckgo/deckdeckgo) - The web open source editor for presentations
 - [wix/wix-ui](https://github.com/wix/wix-ui) - 
 - [vechai/vechaiui](https://github.com/vechai/vechaiui) - A set of high-quality accessible React UI components with the built-in dark mode using Tailwind CSS. Pre-designed headless ui and radix-ui.

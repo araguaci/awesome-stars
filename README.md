@@ -332,6 +332,7 @@
 
 ## HTML 
 
+- [ionic-team/ionic-preview-app](https://github.com/ionic-team/ionic-preview-app) - The Ionic Component Demos
 - [GoogleChrome/developer.chrome.com](https://github.com/GoogleChrome/developer.chrome.com) - Chrome Developers
 - [GoogleChrome/devtools-docs](https://github.com/GoogleChrome/devtools-docs) - The legacy documentation for Chrome DevTools.
 - [facebookincubator/infima](https://github.com/facebookincubator/infima) - A UI framework that provides websites with the minimal CSS and JS needed to get started with building a modern responsive beautiful website
@@ -480,6 +481,11 @@
 
 ## JavaScript 
 
+- [web-animations/web-animations-js](https://github.com/web-animations/web-animations-js) - JavaScript implementation of the Web Animations API
+- [feimosi/baguetteBox.js](https://github.com/feimosi/baguetteBox.js) - :zap: Simple and easy to use lightbox script written in pure JavaScript
+- [stolksdorf/Parallaxjs](https://github.com/stolksdorf/Parallaxjs) - A Library for Javascript that allows easy page parallaxing
+- [TalAter/UpUp](https://github.com/TalAter/UpUp) - ✈️ Easily create sites that work offline as well as online
+- [ionic-team/ionic-site](https://github.com/ionic-team/ionic-site) - Repo for the ionicframework.com site
 - [garganurag893/react-native-phone-number-input](https://github.com/garganurag893/react-native-phone-number-input) - React Native component for phone number.
 - [gabrielbull/react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS High Sierra and Windows 10
 - [reZach/secure-electron-template](https://github.com/reZach/secure-electron-template) - The best way to build Electron apps with security in mind.
@@ -1737,7 +1743,7 @@
 - [nywang16/Pixel2Mesh](https://github.com/nywang16/Pixel2Mesh) - Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images. In ECCV2018.
 - [Netflix/flamescope](https://github.com/Netflix/flamescope) - FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation and energy management that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [mrprompt/meteoros-floripa](https://github.com/mrprompt/meteoros-floripa) - Estações de capturas de meteoros em Florianópolis/SC
 - [gabrielcmarinho/links-uteis](https://github.com/gabrielcmarinho/links-uteis) - 📎 Lista de links úteis para o desenvolvimento de projetos de programação e design
 - [GeneralMills/pytrends](https://github.com/GeneralMills/pytrends) - Pseudo API for Google Trends
@@ -1763,6 +1769,7 @@
 
 ## Ruby 
 
+- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [lucasgomide/videos-pt.br-tecnologia](https://github.com/lucasgomide/videos-pt.br-tecnologia) - Repositório de canais no Youtube BR sobre desenvolvimento
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [echojs/echojs](https://github.com/echojs/echojs) - Lamernews with Echo JS modifications
@@ -1789,6 +1796,7 @@
 
 ## SCSS 
 
+- [rodrigorgtic/spiderman-frontend](https://github.com/rodrigorgtic/spiderman-frontend) - :beetle: Front-end desenvolvido com a finalidade de estudos de responsividade, efeitos e boas práticas de criação de front-end.
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language
 - [hydecorp/hydejack](https://github.com/hydecorp/hydejack) - A boutique Jekyll theme for hackers, nerds, and academics
 - [pmarsceill/just-the-docs](https://github.com/pmarsceill/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
@@ -1874,6 +1882,8 @@
 
 ## TypeScript 
 
+- [ionic-team/ionic-pwa-toolkit](https://github.com/ionic-team/ionic-pwa-toolkit) - Build lightning fast Progressive Web Apps with zero config and best practices built-in. Go from zero to production ready with Ionic and Stencil (Web Components).
+- [ionic-team/cs-demo-ac-providers](https://github.com/ionic-team/cs-demo-ac-providers) - Auth Connect Provider Demo Application
 - [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
 - [deckgo/deckdeckgo](https://github.com/deckgo/deckdeckgo) - The web open source editor for presentations
 - [wix/wix-ui](https://github.com/wix/wix-ui) - 
@@ -1969,7 +1979,7 @@
 - [eduardorerick/letmeask](https://github.com/eduardorerick/letmeask) - Aplicação desenvolvida durante a NLW com outras funcionalidades adicionadas por mim.
 - [moaijs/moai](https://github.com/moaijs/moai) - A React component library, where buttons look like buttons🗿
 - [Atom-Learning/components](https://github.com/Atom-Learning/components) - A collection of generic React components built using stitches, including components that cover layout, content, data collection, media and a host of other UI concerns.
-- [hydralite/hydralite](https://github.com/hydralite/hydralite) - Hydralite is the new open source platform for project management and open source project discovery.
+- [hydralite/hydralite](https://github.com/hydralite/hydralite) - Meet the new open-source platform to seamlessly market and manage your product.
 - [rodrigorgtic/minha-carteira-dashboard](https://github.com/rodrigorgtic/minha-carteira-dashboard) - :bar_chart: :chart_with_upwards_trend: Dashboard desenvolvido com ReactJs, TypeScript com boas práticas de desenvolvimento e performance.
 - [MarconWillian/letmeask](https://github.com/MarconWillian/letmeask) - Projeto desenvolvido na NextLevelWeek #Together.
 - [je4npw/LetMeAsk](https://github.com/je4npw/LetMeAsk) - Projeto para NLW - Rocketseat - feito em React - Instrutor dieegosf

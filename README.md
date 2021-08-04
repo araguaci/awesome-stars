@@ -288,6 +288,7 @@
 
 ## Go 
 
+- [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
 - [livekit/livekit-server](https://github.com/livekit/livekit-server) - Scalable, production-grade WebRTC video conferencing. SDKs for web & mobile.
 - [ttacon/libphonenumber](https://github.com/ttacon/libphonenumber) - golang port of Google's libphonenumber
@@ -332,6 +333,7 @@
 
 ## HTML 
 
+- [FlorianFe/Elements](https://github.com/FlorianFe/Elements) - ⚛⚗ A desktop App which displays the periodic table
 - [ionic-team/ionic-preview-app](https://github.com/ionic-team/ionic-preview-app) - The Ionic Component Demos
 - [GoogleChrome/developer.chrome.com](https://github.com/GoogleChrome/developer.chrome.com) - Chrome Developers
 - [GoogleChrome/devtools-docs](https://github.com/GoogleChrome/devtools-docs) - The legacy documentation for Chrome DevTools.
@@ -1356,6 +1358,7 @@
 
 ## Others 
 
+- [aframevr/awesome-aframe](https://github.com/aframevr/awesome-aframe) - [DISCONTINUED] Collection of awesome resources for the A-Frame WebVR framework.
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 - [devrelcollective/awesome-devrel](https://github.com/devrelcollective/awesome-devrel) - Awesome Developer Relations resources curated by the DevRel Collective
 - [Mayank0255/Mayank0255](https://github.com/Mayank0255/Mayank0255) - Don't just fork it. Star it too!
@@ -1704,6 +1707,7 @@
 
 ## Python 
 
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [kongdd/ubuntu-config](https://github.com/kongdd/ubuntu-config) - System Init
 - [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team
 - [floydhub/dl-docker](https://github.com/floydhub/dl-docker) - An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)
@@ -1882,6 +1886,7 @@
 
 ## TypeScript 
 
+- [suhdonghwi/3d-periodic-table](https://github.com/suhdonghwi/3d-periodic-table) - 3D Periodic Table Viewer
 - [ionic-team/ionic-pwa-toolkit](https://github.com/ionic-team/ionic-pwa-toolkit) - Build lightning fast Progressive Web Apps with zero config and best practices built-in. Go from zero to production ready with Ionic and Stencil (Web Components).
 - [ionic-team/cs-demo-ac-providers](https://github.com/ionic-team/cs-demo-ac-providers) - Auth Connect Provider Demo Application
 - [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution

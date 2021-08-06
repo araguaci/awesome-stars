@@ -128,6 +128,7 @@
 
 ## C++ 
 
+- [dannagle/PacketSender](https://github.com/dannagle/PacketSender) - Network utility for sending / receiving TCP, UDP, SSL
 - [mapbox/mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [typesense/typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍 ✨ An Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch.
@@ -167,6 +168,7 @@
 
 ## CSS 
 
+- [imranhsayed/frontity-twentynineteen](https://github.com/imranhsayed/frontity-twentynineteen) - :art: A Frontity Twentynineteen theme Project
 - [muan/emoji](https://github.com/muan/emoji) - :love_letter: Find the emoji that echoes your mind.
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
 - [blueedgetechno/windows11](https://github.com/blueedgetechno/windows11) - windows 11 in react 💻🌈⚡
@@ -485,6 +487,13 @@
 
 ## JavaScript 
 
+- [imranhsayed/headless-wp-starter](https://github.com/imranhsayed/headless-wp-starter) - :cyclone: A starter demo for WordPress Headless CMS
+- [imranhsayed/google-maps-in-react](https://github.com/imranhsayed/google-maps-in-react) - :pushpin: Google Maps in React: Autocomplete Location Search | Draggable Marker | Marker Infobox
+- [google-map-react/google-map-react-examples](https://github.com/google-map-react/google-map-react-examples) - Examples for google-map-react library.
+- [google-map-react/google-map-react](https://github.com/google-map-react/google-map-react) - Google map library for react that allows rendering components as markers :tada:
+- [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript
+- [uxie-io/tinter](https://github.com/uxie-io/tinter) - Tinter is tiny web tool to generate color variation of images. This tool also generate monochrome colors of images with multiple variants, without hampering the quality of image.
+- [anup-a/svgwave](https://github.com/anup-a/svgwave) - 🌊 SVG Wave is a tiny, free and beautiful SVG gradient waves generator for your UI or website desgin. It offers dead simple UI to customize, and style your waves based on your theme specifications.
 - [muan/emojilib](https://github.com/muan/emojilib) - Emoji keyword library.
 - [web-animations/web-animations-js](https://github.com/web-animations/web-animations-js) - JavaScript implementation of the Web Animations API
 - [feimosi/baguetteBox.js](https://github.com/feimosi/baguetteBox.js) - :zap: Simple and easy to use lightbox script written in pure JavaScript
@@ -1361,6 +1370,7 @@
 
 ## Others 
 
+- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [aframevr/awesome-aframe](https://github.com/aframevr/awesome-aframe) - [DISCONTINUED] Collection of awesome resources for the A-Frame WebVR framework.
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 - [devrelcollective/awesome-devrel](https://github.com/devrelcollective/awesome-devrel) - Awesome Developer Relations resources curated by the DevRel Collective
@@ -1803,6 +1813,7 @@
 
 ## SCSS 
 
+- [cobidev/simplefolio](https://github.com/cobidev/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [rodrigorgtic/spiderman-frontend](https://github.com/rodrigorgtic/spiderman-frontend) - :beetle: Front-end desenvolvido com a finalidade de estudos de responsividade, efeitos e boas práticas de criação de front-end.
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language
 - [hydecorp/hydejack](https://github.com/hydecorp/hydejack) - A boutique Jekyll theme for hackers, nerds, and academics

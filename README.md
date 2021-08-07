@@ -487,6 +487,7 @@
 
 ## JavaScript 
 
+- [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [imranhsayed/headless-wp-starter](https://github.com/imranhsayed/headless-wp-starter) - :cyclone: A starter demo for WordPress Headless CMS
 - [imranhsayed/google-maps-in-react](https://github.com/imranhsayed/google-maps-in-react) - :pushpin: Google Maps in React: Autocomplete Location Search | Draggable Marker | Marker Infobox
 - [google-map-react/google-map-react-examples](https://github.com/google-map-react/google-map-react-examples) - Examples for google-map-react library.
@@ -667,7 +668,6 @@
 - [cunhasbia/to-do-list](https://github.com/cunhasbia/to-do-list) - to-do list application adapted by me, based on a simple project developed for studies during the Javascript Starter course offered by Rocketseat.
 - [cunhasbia/dragons-frontend](https://github.com/cunhasbia/dragons-frontend) - Dragons is a front end application developed with Reactjs that consumes data from Dragons API, and also consumes a login API for authentication to access the app.
 - [mayeaux/nodetube](https://github.com/mayeaux/nodetube) - Open-source YouTube alternative that offers video, audio and image uploads, livestreaming and built-in monetization
-- [safak/react-netflix](https://github.com/safak/react-netflix) - 
 - [rodrigorgtic/cactus-mobile](https://github.com/rodrigorgtic/cactus-mobile) - :iphone: Aplicativo em React Native com efeitos visuais e animações. :tada:
 - [rodrigorgtic/im-mobile](https://github.com/rodrigorgtic/im-mobile) - :iphone:    (WIP - :construction:) IM é um aplicativo mobile para os apaixonados por filmes. Com ele, é possível organizar seus filmes favoritos e marcar quais você já assistiu. É um projeto que eu criei em React Native para aplicar os conceitos de Mobile First com Firebase.
 - [filipedeschamps/video-maker](https://github.com/filipedeschamps/video-maker) - Projeto open source para fazer vídeos automatizados
@@ -1768,7 +1768,7 @@
 - [CleverProgrammer/CP-Twilio-Python-Text-App](https://github.com/CleverProgrammer/CP-Twilio-Python-Text-App) - How to Text Using Twilio API with Python
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [serengil/deepface](https://github.com/serengil/deepface) - DeepFace: A Lightweight Deep Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Framework for Python
+- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [Cloud-CV/Fabrik](https://github.com/Cloud-CV/Fabrik) - :factory: Collaboratively build, visualize, and design neural nets in browser
 - [bradtraversy/myflaskapp](https://github.com/bradtraversy/myflaskapp) - Python Flask app with authentication
 - [craigsdennis/intro-to-apis-course](https://github.com/craigsdennis/intro-to-apis-course) - Introduction to APIs course
@@ -2197,7 +2197,7 @@
 - [testing-library/angular-testing-library](https://github.com/testing-library/angular-testing-library) - 🦔 Simple and complete Angular testing utilities that encourage good testing practices
 - [timdeschryver/docs-md](https://github.com/timdeschryver/docs-md) - Generate markdown docs for your project's public API
 - [hsuanxyz/ion2-calendar](https://github.com/hsuanxyz/ion2-calendar) - 📅 A date picker components for ionic2 ／ionic3 / ionic4
-- [mihailgaberov/chat](https://github.com/mihailgaberov/chat) - A React single page chat application (SPA), implementing Socket.io.
+- [mihailgaberov/chat](https://github.com/mihailgaberov/chat) - 💬 A React single page chat application (SPA), implementing Socket.io.
 - [NG-ZORRO/ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) - Angular UI Component Library based on Ant Design
 - [ionic-team/demo-authconnect-auth0](https://github.com/ionic-team/demo-authconnect-auth0) - A simple login/logout experience powered by Ionic Auth Connect and Auth0
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.

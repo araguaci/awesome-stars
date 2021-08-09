@@ -362,7 +362,7 @@
 - [web-tiki/responsive-grid-of-hexagons](https://github.com/web-tiki/responsive-grid-of-hexagons) - CSS responsive grid of hexagons
 - [olton/Pandora](https://github.com/olton/Pandora) - Pandora - Admin Template built with Metro 4
 - [mangonator/mapPlaces](https://github.com/mangonator/mapPlaces) - Google Maps JS API CRUD application demo
-- [leggett/simplify](https://github.com/leggett/simplify) - Browser extension to simplify Gmail's interface
+- [leggett/simplify](https://github.com/leggett/simplify) - Issue tracker for Simplify Gmail, a browser extension to simplify Gmail's interface
 - [tastejs/hacker-news-pwas](https://github.com/tastejs/hacker-news-pwas) - HNPWA - Hacker News readers as Progressive Web Apps 📱
 - [jgthms/html-reference](https://github.com/jgthms/html-reference) - HTML Reference: a free guide to all HTML5 elements and attributes
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
@@ -443,6 +443,8 @@
 
 ## Java 
 
+- [cesardeazevedo/react-native-collapsing-toolbar](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - react-native wrapper for android CollapsingToolbarLayout
+- [cesardeazevedo/react-native-bottom-sheet-behavior](https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior) - react-native wrapper for android BottomSheetBehavior
 - [react-native-webrtc/react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) - The WebRTC module for React Native
 - [react-native-share/react-native-share](https://github.com/react-native-share/react-native-share) - Social share, sending simple data to other apps.
 - [react-native-webrtc/react-native-webrtc-web-shim](https://github.com/react-native-webrtc/react-native-webrtc-web-shim) - Web Shim for React Native WebRTC
@@ -487,6 +489,7 @@
 
 ## JavaScript 
 
+- [alyssaxuu/mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [imranhsayed/headless-wp-starter](https://github.com/imranhsayed/headless-wp-starter) - :cyclone: A starter demo for WordPress Headless CMS
 - [imranhsayed/google-maps-in-react](https://github.com/imranhsayed/google-maps-in-react) - :pushpin: Google Maps in React: Autocomplete Location Search | Draggable Marker | Marker Infobox
@@ -1018,7 +1021,7 @@
 - [BrasilAPI/cep-promise](https://github.com/BrasilAPI/cep-promise) - Busca por CEP integrado diretamente aos serviços dos Correios, ViaCEP e outros (Node.js e Browser)
 - [LeonardoCesca/js-docs](https://github.com/LeonardoCesca/js-docs) - Este projeto foi desenvolvido para contribuir com o open-source. Se você quiser contribuir basta seguir o README
 - [anabastos/kart-challenge](https://github.com/anabastos/kart-challenge) - 🏁 kart-challenge
-- [anabastos/node4noobs](https://github.com/anabastos/node4noobs) - Repo para aprender NodeJS!
+- [anabastos/node101](https://github.com/anabastos/node101) - Repo para aprender NodeJS!
 - [felipefialho/felipefialho.com](https://github.com/felipefialho/felipefialho.com) - 😺 My personal website
 - [orbit-love/orbit-browser-extension](https://github.com/orbit-love/orbit-browser-extension) - Orbit Chrome extension — Add useful developer information right into GitHub issues and PRs.
 - [valleweb/valle-button](https://github.com/valleweb/valle-button) - Awesome valle button - Web Component using Polymer 3x
@@ -1080,7 +1083,7 @@
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
 - [HelioSilva/Whatsapp-bot-NodeJS](https://github.com/HelioSilva/Whatsapp-bot-NodeJS) - Whatsapp bot para delivery de uma lanchonete usando NodeJS.
 - [nhn/toast-ui.doc](https://github.com/nhn/toast-ui.doc) - 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2021)
 - [CodAffection/Angular-7-Master-Detail-CRUD-with-Web-API](https://github.com/CodAffection/Angular-7-Master-Detail-CRUD-with-Web-API) - Angular 7 Master Detail CRUD with Web API
 - [phonegap/phonegap-mobile-accessibility](https://github.com/phonegap/phonegap-mobile-accessibility) - PhoneGap plugin to expose mobile accessibility APIs.
 - [techiediaries/fake-api-jwt-json-server](https://github.com/techiediaries/fake-api-jwt-json-server) - A Fake API with JWT Authentication using json-server and jsonwebtoken
@@ -1340,6 +1343,7 @@
 
 ## Kotlin 
 
+- [AdevintaSpain/Leku](https://github.com/AdevintaSpain/Leku) - :earth_africa: Map location picker component for Android. Based on Google Maps. An alternative to Google Place Picker.
 - [SimonMarquis/QrCode](https://github.com/SimonMarquis/QrCode) - 🏁 Scan and create QR Codes.
 - [SimonMarquis/FCM-toolbox](https://github.com/SimonMarquis/FCM-toolbox) - 📲 Firebase Cloud Messaging toolbox
 - [owncloud/android](https://github.com/owncloud/android) - :phone: The ownCloud Android App
@@ -1371,6 +1375,7 @@
 
 ## Others 
 
+- [diegocard/awesome-html5](https://github.com/diegocard/awesome-html5) - :memo: A curated list of awesome HTML5 resources
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [aframevr/awesome-aframe](https://github.com/aframevr/awesome-aframe) - [DISCONTINUED] Collection of awesome resources for the A-Frame WebVR framework.
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration

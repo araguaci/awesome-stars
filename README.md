@@ -489,6 +489,8 @@
 
 ## JavaScript 
 
+- [nk-o/jarallax](https://github.com/nk-o/jarallax) - NO dependencies JavaScript parallax scrolling
+- [nadimkobeissi/appleprivacyletter](https://github.com/nadimkobeissi/appleprivacyletter) - An open letter against Apple's new privacy-invasive client-side content scanning.
 - [alyssaxuu/mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [imranhsayed/headless-wp-starter](https://github.com/imranhsayed/headless-wp-starter) - :cyclone: A starter demo for WordPress Headless CMS
@@ -1392,7 +1394,7 @@
 - [fbsamples/audience-network](https://github.com/fbsamples/audience-network) - Open source projects to demonstrate SDK and sample code usages and integration, and to collaborate and support peers in this community.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [wfxr/awesome-stars](https://github.com/wfxr/awesome-stars) - A curated list of my GitHub stars!
-- [omariosouto/guia-de-estudos-devsoutinho](https://github.com/omariosouto/guia-de-estudos-devsoutinho) - Ter um concatenado de conteúdos pra quem quer começar com JavaScript
+- [omariosouto/awesome-dev-guide-devsoutinho](https://github.com/omariosouto/awesome-dev-guide-devsoutinho) - Ter um concatenado de conteúdos pra quem quer começar com JavaScript
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [perifacode/conteudo-gratuito](https://github.com/perifacode/conteudo-gratuito) - 📌 Conteúdos gratuitos compartilhados pela comunidade.
 - [Ballerini-Server/git-tutorial](https://github.com/Ballerini-Server/git-tutorial) - 
@@ -1993,7 +1995,7 @@
 - [jessicaidro/letmeask](https://github.com/jessicaidro/letmeask) - 
 - [alessandroramos13/letmeask](https://github.com/alessandroramos13/letmeask) - Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática.
 - [marcelo-rafael/nlw-06-letmeask](https://github.com/marcelo-rafael/nlw-06-letmeask) - 🚀 Letmeask é uma aplicação Web desenvolvida durante a Next Level Week#6 Together oferecido pela @rocketseat
-- [PatoGordo/letmeask](https://github.com/PatoGordo/letmeask) - 
+- [PatoGordo/letmeask](https://github.com/PatoGordo/letmeask) - I made this project following the Next Level Week Together classes.
 - [GabrielCastilhoV/letmeask](https://github.com/GabrielCastilhoV/letmeask) - It consists of a platform to create Q&A rooms (questions and answers).
 - [Alexandrehideki13/DekiLetMeAsk](https://github.com/Alexandrehideki13/DekiLetMeAsk) - Projeto desenvolvido durante a Next Level Week #6 da @Rocketseat na trilha de ReactJS.
 - [carolferreiradev/letmeask](https://github.com/carolferreiradev/letmeask) - 

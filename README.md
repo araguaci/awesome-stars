@@ -310,7 +310,7 @@
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [zorchenhimer/MovieNight](https://github.com/zorchenhimer/MovieNight) - Single instance video streaming server with integrated chat.
-- [pion/ion](https://github.com/pion/ion) - Real-Distributed(non-cluster) RTC System by pure Go and Flutter
+- [pion/ion](https://github.com/pion/ion) - Real-Distributed  RTC System by pure Go and Flutter
 - [pion/ion-avp](https://github.com/pion/ion-avp) - Audio/Video Processing Service
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application
@@ -816,7 +816,7 @@
 - [CleverProgrammer/airbnb-clone](https://github.com/CleverProgrammer/airbnb-clone) - Building the AIRBNB Clone app with REACT JS!
 - [imandyie/react-native-airbnb-clone](https://github.com/imandyie/react-native-airbnb-clone) - Airbnb clone app using React Native & Redux
 - [tipsi/tipsi-stripe](https://github.com/tipsi/tipsi-stripe) - React Native Stripe binding for iOS/Android platforms
-- [symblai/getting-started-samples](https://github.com/symblai/getting-started-samples) - Code samples to Get started quickly with Symbl's Voice SDK and APIs.
+- [symblai/getting-started-samples](https://github.com/symblai/getting-started-samples) - Code samples to Get started quickly with Symbl's Voice SDK and APIs: Node.js, JavaScript, WebSockets, & PSTN.
 - [redwoodjs/example-todo](https://github.com/redwoodjs/example-todo) - Example Todo app written with Redwood
 - [vialer/vialer-js](https://github.com/vialer/vialer-js) - Pluggable WebRTC softphone and communication platform.
 - [alepolidori/janus-webrtc-phone](https://github.com/alepolidori/janus-webrtc-phone) - SIP Phone WebRTC for your browser
@@ -952,7 +952,6 @@
 - [jakkra/SmartMirror](https://github.com/jakkra/SmartMirror) - My MagicMirror running on a Raspberry Pi
 - [pascalopitz/unoffical-sonos-controller-for-linux](https://github.com/pascalopitz/unoffical-sonos-controller-for-linux) - An Electron based linux app for controlling your sonos system.
 - [bencevans/node-sonos](https://github.com/bencevans/node-sonos) - 🔈 Sonos Media Player Interface/Client
-- [peterschmidt85/dstack](https://github.com/peterschmidt85/dstack) - An open-source tool to rapidly develop data applications with Python
 - [nodegui/react-nodegui-starter](https://github.com/nodegui/react-nodegui-starter) - Starter repository for react based native desktop apps using react-nodegui
 - [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - 
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
@@ -1300,7 +1299,6 @@
 - [nosir/obelisk.js](https://github.com/nosir/obelisk.js) - Build pixel isometric graphics with HTML5 canvas
 - [esteinborn/jquery-listnav](https://github.com/esteinborn/jquery-listnav) - Add a slick "letter-based" navigation bar to all of your lists. Click a letter to quickly filter the list to items that match that letter. Compatible with jQuery 3.0+ For previous versions of jQuery, use a release prior to ListNav 3.0.0
 - [wagerfield/parallax](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device
-- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [nadbm/react-datasheet](https://github.com/nadbm/react-datasheet) - Excel-like data grid (table) component for React
 - [dollarshaveclub/shave](https://github.com/dollarshaveclub/shave) - 💈 Shave is a 0 dep JS plugin that truncates text to fit within an element based on a set max-height  ✁
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
@@ -1361,6 +1359,7 @@
 
 - [Helsinki-NLP/Tatoeba-Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge) - 
 - [WillStreeter/ws-dev-docker-example](https://github.com/WillStreeter/ws-dev-docker-example) - A Docker eco-system bundling 4 repositories to facilitate a FullStack integrated development environment encompassing an NGINX proxy instance, MongoDB instance, Front-End Angular (4.1.)x  App, Back-End NodeJs Express App.
+- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 
 ## Objective-C 
 

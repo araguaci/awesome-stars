@@ -168,6 +168,7 @@
 
 ## CSS 
 
+- [nakov/Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA
 - [imranhsayed/frontity-twentynineteen](https://github.com/imranhsayed/frontity-twentynineteen) - :art: A Frontity Twentynineteen theme Project
 - [muan/emoji](https://github.com/muan/emoji) - :love_letter: Find the emoji that echoes your mind.
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
@@ -337,6 +338,7 @@
 
 ## HTML 
 
+- [jsdelivr/www.jsdelivr.com](https://github.com/jsdelivr/www.jsdelivr.com) - The official jsDelivr website
 - [FlorianFe/Elements](https://github.com/FlorianFe/Elements) - ⚛⚗ A desktop App which displays the periodic table
 - [ionic-team/ionic-preview-app](https://github.com/ionic-team/ionic-preview-app) - The Ionic Component Demos
 - [GoogleChrome/developer.chrome.com](https://github.com/GoogleChrome/developer.chrome.com) - Chrome Developers
@@ -1495,6 +1497,9 @@
 
 ## PHP 
 
+- [phpseclib/phpseclib](https://github.com/phpseclib/phpseclib) - PHP Secure Communications Library
+- [ADOdb/ADOdb](https://github.com/ADOdb/ADOdb) - ADOdb is a PHP database class library that provides powerful abstractions for performing queries and managing databases. ADOdb also hides the differences between DB engines so you can easily switch them without changing your code.
+- [microsoft/msphpsql](https://github.com/microsoft/msphpsql) - Microsoft Drivers for PHP for SQL Server
 - [phpservermon/phpservermon](https://github.com/phpservermon/phpservermon) - PHP Server Monitor
 - [IssabelFoundation/issabelPBX](https://github.com/IssabelFoundation/issabelPBX) - Asterisk configuration GUI
 - [eduardokum/laravel-boleto](https://github.com/eduardokum/laravel-boleto) - Pacote para gerar boletos e remessas
@@ -1623,7 +1628,6 @@
 - [adhocore/phalcon-ext](https://github.com/adhocore/phalcon-ext) - Foundations, adapters, extensions, middlewares and utilities for Phalcon
 - [adhocore/php-jwt](https://github.com/adhocore/php-jwt) - Ultra lightweight, dependency free and standalone JSON web token (JWT) library for PHP5.6 to PHP8.0. This library makes JWT a cheese.
 - [soatok/dhole-cryptography](https://github.com/soatok/dhole-cryptography) - Boring (dull) cryptography for furry projects (created by a dhole)
-- [paragonie/halite](https://github.com/paragonie/halite) - High-level cryptography interface powered by libsodium
 - [ratchetphp/Ratchet](https://github.com/ratchetphp/Ratchet) - Asynchronous WebSocket server
 - [kartik-v/yii2-tree-manager](https://github.com/kartik-v/yii2-tree-manager) - An advanced tree management module using nested sets for Yii 2.
 - [rollbar/rollbar-php](https://github.com/rollbar/rollbar-php) - Error tracking and logging from PHP to Rollbar
@@ -1708,6 +1712,7 @@
 
 ## PowerShell 
 
+- [potatoqualitee/kbupdate](https://github.com/potatoqualitee/kbupdate) - 🛡 KB Viewer, Saver, Installer and Uninstaller
 - [renatogroffe/Kubernetes-KEDA-Helm-Kafka_WorkerContagem](https://github.com/renatogroffe/Kubernetes-KEDA-Helm-Kafka_WorkerContagem) - Objetos para Deployment de um Worker Service (contagem de acessos) no Kubernetes utilizando KEDA, Helm e Apache Kafka
 - [adbertram/PowerTrello](https://github.com/adbertram/PowerTrello) - PowerTrello is a PowerShell module for interacting with the Trello web service.
 - [lukesampson/scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
@@ -1841,6 +1846,7 @@
 
 ## Shell 
 
+- [murilomagalhaes/vagrant-php-mssql](https://github.com/murilomagalhaes/vagrant-php-mssql) - A complete development environment for working with PHP and MS SQL Server. Based on Ubuntu 20.04 (Focal)
 - [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - What tools and plugins I use for web development?
 - [CrunchyData/crunchy-containers](https://github.com/CrunchyData/crunchy-containers) - Containers for Managing PostgreSQL on Kubernetes by Crunchy Data
 - [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.

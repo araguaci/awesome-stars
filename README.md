@@ -168,6 +168,7 @@
 
 ## CSS 
 
+- [shgysk8zer0/core-css](https://github.com/shgysk8zer0/core-css) - A collection of CSS styles, categoiezed by files, which are useful on common projects
 - [nakov/Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA
 - [imranhsayed/frontity-twentynineteen](https://github.com/imranhsayed/frontity-twentynineteen) - :art: A Frontity Twentynineteen theme Project
 - [muan/emoji](https://github.com/muan/emoji) - :love_letter: Find the emoji that echoes your mind.
@@ -338,6 +339,7 @@
 
 ## HTML 
 
+- [shgysk8zer0/static-template](https://github.com/shgysk8zer0/static-template) - A template repository for static sites, including skeleton JS, CSS, SVGs, fonts, etc.
 - [jsdelivr/www.jsdelivr.com](https://github.com/jsdelivr/www.jsdelivr.com) - The official jsDelivr website
 - [FlorianFe/Elements](https://github.com/FlorianFe/Elements) - ⚛⚗ A desktop App which displays the periodic table
 - [ionic-team/ionic-preview-app](https://github.com/ionic-team/ionic-preview-app) - The Ionic Component Demos
@@ -491,6 +493,7 @@
 
 ## JavaScript 
 
+- [shgysk8zer0/async-idb](https://github.com/shgysk8zer0/async-idb) - A promise based (async) wrapper for the IndexedDB API
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) - Convert html forms into json object or fill forms from json object.
 - [nk-o/jarallax](https://github.com/nk-o/jarallax) - NO dependencies JavaScript parallax scrolling
 - [nadimkobeissi/appleprivacyletter](https://github.com/nadimkobeissi/appleprivacyletter) - An open letter against Apple's new privacy-invasive client-side content scanning.
@@ -1062,7 +1065,7 @@
 - [btholt/complete-intro-to-linux-and-the-cli](https://github.com/btholt/complete-intro-to-linux-and-the-cli) - 🐧  The Complete Intro to Linux and the Command Line, as taught for Frontend Masters
 - [btholt/complete-intro-to-containers](https://github.com/btholt/complete-intro-to-containers) - The Complete Intro to Containers! As taught on Frontend Masters.
 - [testing-library/testing-playground](https://github.com/testing-library/testing-playground) - Simple and complete DOM testing playground that encourage good testing practices.
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (June 2021)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2021)
 - [PatrickJS/angular-starter](https://github.com/PatrickJS/angular-starter) - Angular Starter
 - [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
@@ -1497,6 +1500,8 @@
 
 ## PHP 
 
+- [miladrahimi/phpcrypt](https://github.com/miladrahimi/phpcrypt) - Encryption, decryption, and password hashing tools for PHP projects
+- [miladrahimi/phprouter](https://github.com/miladrahimi/phprouter) - PhpRouter is a powerful, minimal, and very fast HTTP URL router for PHP projects
 - [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) - CryptoJS 3.x AES encryption/decryption on client side with Javascript and on server side with PHP
 - [phpseclib/phpseclib](https://github.com/phpseclib/phpseclib) - PHP Secure Communications Library
 - [ADOdb/ADOdb](https://github.com/ADOdb/ADOdb) - ADOdb is a PHP database class library that provides powerful abstractions for performing queries and managing databases. ADOdb also hides the differences between DB engines so you can easily switch them without changing your code.
@@ -1758,7 +1763,7 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [giswqs/leafmap](https://github.com/giswqs/leafmap) - A Python package for interactive mapping and geospatial analysis  with minimal coding in a Jupyter environment
 - [allenai/scholarphi](https://github.com/allenai/scholarphi) - An interactive PDF reader.
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change. Open source web page change detection - Now also includes JSON API change detection and monitoring support!
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change. Open source web page change detection - Now also includes JSON API change detection and monitoring support!
 - [IBM/MAX-Audio-Embedding-Generator](https://github.com/IBM/MAX-Audio-Embedding-Generator) - Generate embedding vectors from audio files
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [bittoin/Bittoin-Telegram-Bot](https://github.com/bittoin/Bittoin-Telegram-Bot) - Bot para Telegram com diversas funcionalidades, com o intuito de se divertir e aproveitar utilidades para o dia a dia.

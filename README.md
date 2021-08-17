@@ -1515,7 +1515,7 @@
 - [gladchinda/keygen-php](https://github.com/gladchinda/keygen-php) - A fluent PHP random key generator.
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [realodix/urlhub](https://github.com/realodix/urlhub) - URL shortener web application based on the Laravel PHP Framework.
-- [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...).It's opensource software (wrote with PHP language) designed for small and medium companies, foundation and freelances. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
+- [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software written in PHP and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Free and Online Accounting Software
 - [nfe/client-php](https://github.com/nfe/client-php) - Official NFe.io API Client for PHP
 - [paghiper/whmcs](https://github.com/paghiper/whmcs) - Modulo de PIX e boleto bancário PagHiper para o WHMCS

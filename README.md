@@ -62,7 +62,6 @@
 
 - [asterisk/asterisk](https://github.com/asterisk/asterisk) - Mirror of the official Asterisk (https://www.asterisk.org) Project repository. No pull requests here please.  Use Gerrit:
 - [signalwire/freeswitch](https://github.com/signalwire/freeswitch) - FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.
-- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
@@ -133,6 +132,7 @@
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [typesense/typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍 ✨ An Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch.
 - [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
+- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
 - [tjanczuk/edge](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
 - [BelledonneCommunications/flexisip](https://github.com/BelledonneCommunications/flexisip) - Linphone.org mirror for flexisip (git://git.linphone.org/flexisip.git)
 - [owncloud/client](https://github.com/owncloud/client) - :computer: Desktop Syncing Client for ownCloud
@@ -1500,6 +1500,7 @@
 
 ## PHP 
 
+- [yiisoft/db-mssql](https://github.com/yiisoft/db-mssql) - MSSQL support for Yii
 - [miladrahimi/phpcrypt](https://github.com/miladrahimi/phpcrypt) - Encryption, decryption, and password hashing tools for PHP projects
 - [miladrahimi/phprouter](https://github.com/miladrahimi/phprouter) - PhpRouter is a powerful, minimal, and very fast HTTP URL router for PHP projects
 - [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) - CryptoJS 3.x AES encryption/decryption on client side with Javascript and on server side with PHP
@@ -2025,7 +2026,7 @@
 - [guilhermecapitao/letmeask](https://github.com/guilhermecapitao/letmeask) - This is a project developed during the Next Level Week Together, presented by Rocketseat during June 2021.
 - [josepholiveira/letmeask](https://github.com/josepholiveira/letmeask) - Let viewers decide which questions the host should answer during a livestream. Developed during @Rocketseat NLW#06 free training.
 - [rocketseat-education/nlw-06-reactjs](https://github.com/rocketseat-education/nlw-06-reactjs) - Projeto desenvolvido na missão ReactJS no NLW #06
-- [davimateus1/ProjetoNLW6](https://github.com/davimateus1/ProjetoNLW6) - Projeto desenvolvido no Next Level Week Together (Imersão organizada pela Rocketseat)
+- [davimateus1/ProjetoNLW6](https://github.com/davimateus1/ProjetoNLW6) - Projeto desenvolvido no Next Level Week Together (Imersão organizada pela Rocketseat).
 - [Maxzilla60/AC-Lister](https://github.com/Maxzilla60/AC-Lister) - Animal Crossing ★ Villager Lister
 - [diego3g/responsive-native](https://github.com/diego3g/responsive-native) - A responsive utility toolkit for React Native 📱⚛
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌

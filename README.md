@@ -33,6 +33,7 @@
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
+  - [Pascal](#pascal)
   - [PowerShell](#powershell)
   - [Pug](#pug)
   - [Puppet](#puppet)
@@ -1500,6 +1501,8 @@
 
 ## PHP 
 
+- [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
+- [catfan/Medoo](https://github.com/catfan/Medoo) - The lightweight PHP database framework to accelerate development
 - [yiisoft/db-mssql](https://github.com/yiisoft/db-mssql) - MSSQL support for Yii
 - [miladrahimi/phpcrypt](https://github.com/miladrahimi/phpcrypt) - Encryption, decryption, and password hashing tools for PHP projects
 - [miladrahimi/phprouter](https://github.com/miladrahimi/phprouter) - PhpRouter is a powerful, minimal, and very fast HTTP URL router for PHP projects
@@ -1717,6 +1720,10 @@
 - [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
 - [Automattic/jetpack](https://github.com/Automattic/jetpack) - Security, performance, marketing, and design tools — Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic.
 
+## Pascal 
+
+- [HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL and SQLite, written in Delphi
+
 ## PowerShell 
 
 - [potatoqualitee/kbupdate](https://github.com/potatoqualitee/kbupdate) - 🛡 KB Viewer, Saver, Installer and Uninstaller
@@ -1920,6 +1927,7 @@
 
 ## TypeScript 
 
+- [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [dtinth/todo-actions](https://github.com/dtinth/todo-actions) - Turn TODO in source code into issues and close them when they are gone. Runs on GitHub Actions.
 - [suhdonghwi/3d-periodic-table](https://github.com/suhdonghwi/3d-periodic-table) - 3D Periodic Table Viewer
 - [ionic-team/ionic-pwa-toolkit](https://github.com/ionic-team/ionic-pwa-toolkit) - Build lightning fast Progressive Web Apps with zero config and best practices built-in. Go from zero to production ready with Ionic and Stencil (Web Components).

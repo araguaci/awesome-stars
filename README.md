@@ -254,7 +254,6 @@
 - [shubie/dashboard](https://github.com/shubie/dashboard) - This is the first of our Flutter Thursday series. We will randomly pick designs or tasks from the internet every week and make flutter UI/apps.
 - [seenickcode/tourismandco](https://github.com/seenickcode/tourismandco) - A simple project showing off a list of tours with a detail screen for each tour. Used by fluttercrashcourse.com
 - [TechieBlossom/flutter-samples](https://github.com/TechieBlossom/flutter-samples) - 
-- [flutter/flutter_web](https://github.com/flutter/flutter_web) - Bring your Flutter code to web browsers
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 - [appsforartists/flutter](https://github.com/appsforartists/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
 
@@ -1501,6 +1500,7 @@
 
 ## PHP 
 
+- [GMX9/Crypto-Exchange-PHP](https://github.com/GMX9/Crypto-Exchange-PHP) - Free crypto exchange built with changenow.io API
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
 - [catfan/Medoo](https://github.com/catfan/Medoo) - The lightweight PHP database framework to accelerate development
 - [yiisoft/db-mssql](https://github.com/yiisoft/db-mssql) - MSSQL support for Yii
@@ -2013,7 +2013,7 @@
 - [makimenko/angular-template-for-threejs](https://github.com/makimenko/angular-template-for-threejs) - Angular Template For Three.js
 - [prisma/prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
 - [jessicaidro/letmeask](https://github.com/jessicaidro/letmeask) - 
-- [alessandroramos13/letmeask](https://github.com/alessandroramos13/letmeask) - Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática.
+- [alessandroramos013/letmeask](https://github.com/alessandroramos013/letmeask) - Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática.
 - [marcelo-rafael/nlw-06-letmeask](https://github.com/marcelo-rafael/nlw-06-letmeask) - 🚀 Letmeask é uma aplicação Web desenvolvida durante a Next Level Week#6 Together oferecido pela @rocketseat
 - [PatoGordo/letmeask](https://github.com/PatoGordo/letmeask) - I made this project following the Next Level Week Together classes.
 - [GabrielCastilhoV/letmeask](https://github.com/GabrielCastilhoV/letmeask) - It consists of a platform to create Q&A rooms (questions and answers).

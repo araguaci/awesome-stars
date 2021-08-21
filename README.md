@@ -925,7 +925,7 @@
 - [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library) - 🦉 Simple and complete React Native testing utilities that encourage good testing practices.
 - [venits/react-native-map-clustering](https://github.com/venits/react-native-map-clustering) - React Native map clustering both for Android and iOS.
 - [venits/react-native-login-template](https://github.com/venits/react-native-login-template) - Simple login template for React Native.
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [ferbs/webstack-micro](https://github.com/ferbs/webstack-micro) - Example/starter web app geared for small-ish teams interested in using a microservices architecture
 - [CodeHimBlog/jquery-popup-lightbox](https://github.com/CodeHimBlog/jquery-popup-lightbox) - Simple popup window image lightbox based on css and jQuery.
 - [drop-ice/dear-github-2.0](https://github.com/drop-ice/dear-github-2.0) - 📨 An open letter to GitHub from the maintainers of open source projects
@@ -1927,6 +1927,7 @@
 
 ## TypeScript 
 
+- [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 - [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [dtinth/todo-actions](https://github.com/dtinth/todo-actions) - Turn TODO in source code into issues and close them when they are gone. Runs on GitHub Actions.
 - [suhdonghwi/3d-periodic-table](https://github.com/suhdonghwi/3d-periodic-table) - 3D Periodic Table Viewer
@@ -2013,7 +2014,7 @@
 - [makimenko/angular-template-for-threejs](https://github.com/makimenko/angular-template-for-threejs) - Angular Template For Three.js
 - [prisma/prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
 - [jessicaidro/letmeask](https://github.com/jessicaidro/letmeask) - 
-- [alessandroramos013/letmeask](https://github.com/alessandroramos013/letmeask) - Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática.
+- [aleessandrohr/letmeask](https://github.com/aleessandrohr/letmeask) - Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática.
 - [marcelo-rafael/nlw-06-letmeask](https://github.com/marcelo-rafael/nlw-06-letmeask) - 🚀 Letmeask é uma aplicação Web desenvolvida durante a Next Level Week#6 Together oferecido pela @rocketseat
 - [PatoGordo/letmeask](https://github.com/PatoGordo/letmeask) - I made this project following the Next Level Week Together classes.
 - [GabrielCastilhoV/letmeask](https://github.com/GabrielCastilhoV/letmeask) - It consists of a platform to create Q&A rooms (questions and answers).

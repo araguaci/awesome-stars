@@ -1401,7 +1401,7 @@
 - [omariosouto/awesome-dev-guide-devsoutinho](https://github.com/omariosouto/awesome-dev-guide-devsoutinho) - Ter um concatenado de conteúdos pra quem quer começar com JavaScript
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [perifacode/conteudo-gratuito](https://github.com/perifacode/conteudo-gratuito) - 📌 Conteúdos gratuitos compartilhados pela comunidade.
-- [Ballerini-Server/git-tutorial](https://github.com/Ballerini-Server/git-tutorial) - 
+- [Ballerini-Server/git-tutorial](https://github.com/Ballerini-Server/git-tutorial) - This repository is meant to help you learn Git.
 - [reactwg/react-18](https://github.com/reactwg/react-18) - Workgroup for React 18 release.
 - [mcollina/aws-cdk](https://github.com/mcollina/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) - Awesome list of progressive web apps! (PR welcomed ;))

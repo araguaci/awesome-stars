@@ -18,6 +18,7 @@
   - [🌟 packages and resources that work really well with npx](https://github.com/zkat/npx) 🕶
   - [Check for outdated, incorrect, and unused dependencies](https://github.com/dylang/npm-check)
   - [🔥The web open source editor for presentations](https://github.com/deckgo/deckdeckgo#getting-started)
+  - [🛁 Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 
 ### Components

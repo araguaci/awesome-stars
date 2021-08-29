@@ -169,6 +169,7 @@
 
 ## CSS 
 
+- [alssndro/trianglify-background-generator](https://github.com/alssndro/trianglify-background-generator) - Generate backgrounds using the trianglify plugin
 - [shgysk8zer0/core-css](https://github.com/shgysk8zer0/core-css) - A collection of CSS styles, categoiezed by files, which are useful on common projects
 - [nakov/Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA
 - [imranhsayed/frontity-twentynineteen](https://github.com/imranhsayed/frontity-twentynineteen) - :art: A Frontity Twentynineteen theme Project
@@ -493,6 +494,7 @@
 
 ## JavaScript 
 
+- [wagerfield/flat-surface-shader](https://github.com/wagerfield/flat-surface-shader) - Flat Surface Shader for rendering illuminated triangles
 - [reactioncommerce/reaction](https://github.com/reactioncommerce/reaction) - Reaction is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
@@ -987,7 +989,7 @@
 - [csorlandi/app-tipo-ifood](https://github.com/csorlandi/app-tipo-ifood) - 
 - [fisshy/react-scroll](https://github.com/fisshy/react-scroll) - React scroll component
 - [jpedroschmitz/gatsby-starter-ts](https://github.com/jpedroschmitz/gatsby-starter-ts) - TypeScript starter for Gatsby. No plugins and styling. Exactly the necessary to start 🔥
-- [Rocketseat/gatsby-starter-rocket-docs](https://github.com/Rocketseat/gatsby-starter-rocket-docs) - The documentation starter you were looking for (ready for Gatsby v3) ⚡️
+- [Rocketseat/gatsby-starter-rocket-docs](https://github.com/Rocketseat/gatsby-starter-rocket-docs) - The documentation starter you were looking for ⚡️
 - [Rocketseat/gatsby-themes](https://github.com/Rocketseat/gatsby-themes) - Gatsby themes that we use to build websites at Rocketseat ⚡️🔥
 - [barisesen/github-timeline](https://github.com/barisesen/github-timeline) - View other users' timeline
 - [ekeric13/react-star-ratings](https://github.com/ekeric13/react-star-ratings) - A customizable svg star rating component for selecting x stars or visualizing x stars
@@ -1383,6 +1385,7 @@
 
 ## Others 
 
+- [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [diegocard/awesome-html5](https://github.com/diegocard/awesome-html5) - :memo: A curated list of awesome HTML5 resources
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [aframevr/awesome-aframe](https://github.com/aframevr/awesome-aframe) - [DISCONTINUED] Collection of awesome resources for the A-Frame WebVR framework.
@@ -1814,6 +1817,7 @@
 
 ## Ruby 
 
+- [kpumuk/meta-tags](https://github.com/kpumuk/meta-tags) - Search Engine Optimization (SEO) for Ruby on Rails applications.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [lucasgomide/videos-pt.br-tecnologia](https://github.com/lucasgomide/videos-pt.br-tecnologia) - Repositório de canais no Youtube BR sobre desenvolvimento
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
@@ -1929,6 +1933,8 @@
 
 ## TypeScript 
 
+- [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
+- [Rocketseat/umbriel](https://github.com/Rocketseat/umbriel) - 📪  Mail sending microservice with Node.js, TypeScript and MongoDB
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 - [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [dtinth/todo-actions](https://github.com/dtinth/todo-actions) - Turn TODO in source code into issues and close them when they are gone. Runs on GitHub Actions.
@@ -1963,7 +1969,7 @@
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [ReactTraining/react-workshop](https://github.com/ReactTraining/react-workshop) - The course material for our React Hooks workshop
 - [Hermanya/use-interval](https://github.com/Hermanya/use-interval) - ⏲ Dan Abramov's interval hook.
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components and hooks library with native dark theme support and focus on usability, accessibility and developer experience
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components and hooks library with native dark theme support focused on usability, accessibility and developer experience
 - [LauraBeatris/use-selected-items-hook](https://github.com/LauraBeatris/use-selected-items-hook) - Easily select items based on an array
 - [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [ionic-team/ionic-storage](https://github.com/ionic-team/ionic-storage) - Ionic Storage module for Ionic apps

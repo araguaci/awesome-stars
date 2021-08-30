@@ -796,7 +796,6 @@
 - [karlhadwen/netflix](https://github.com/karlhadwen/netflix) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Netflix Using React
 - [karlhadwen/todoist](https://github.com/karlhadwen/todoist) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Todoist Using React
 - [karlhadwen/instagram](https://github.com/karlhadwen/instagram) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Instagram Using React
-- [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
 - [frapontillo/angular-bootstrap-duallistbox](https://github.com/frapontillo/angular-bootstrap-duallistbox) - Angular directive to include Bootstrap Dual Listbox in your apps.
 - [frapontillo/angular-bootstrap-switch](https://github.com/frapontillo/angular-bootstrap-switch) - AngularJS directive for the bootstrap-switch jQuery plugin.
 - [maykinmedia/dual-listbox](https://github.com/maykinmedia/dual-listbox) - A simple dual listbox build in plain Javascript and some simple styling. (no other libraries of frameworks required)
@@ -2086,6 +2085,7 @@
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [grsoares21/dev-communities](https://github.com/grsoares21/dev-communities) - Data visualizations of different portuguese speaking Dev communities
 - [calendso/calendso](https://github.com/calendso/calendso) - The open-source Calendly alternative.
+- [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
 - [czeckd/angular-dual-listbox](https://github.com/czeckd/angular-dual-listbox) - Angular 10 component for a dual listbox control.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [benawad/fullstack-graphql-airbnb-clone](https://github.com/benawad/fullstack-graphql-airbnb-clone) - A Fullstack GraphQL Airbnb Clone with React and React Native

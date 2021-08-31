@@ -494,6 +494,7 @@
 
 ## JavaScript 
 
+- [rodrigorgtic/image360viewer](https://github.com/rodrigorgtic/image360viewer) - 📱⚛ 🔄 The Image360Viewer has support for React Native CLI and Expo. This library allows the user to explore and have the freedom to view all product details in 360 degrees.
 - [wagerfield/flat-surface-shader](https://github.com/wagerfield/flat-surface-shader) - Flat Surface Shader for rendering illuminated triangles
 - [reactioncommerce/reaction](https://github.com/reactioncommerce/reaction) - Reaction is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
@@ -1932,6 +1933,8 @@
 
 ## TypeScript 
 
+- [rodrigorgtic/gobarber-web-ts](https://github.com/rodrigorgtic/gobarber-web-ts) - :computer: :iphone: Plataforma Web para barbeiros gerenciar seus clientes e agendamentos em ReactJs.
+- [rodrigorgtic/cookapp](https://github.com/rodrigorgtic/cookapp) - 
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [Rocketseat/umbriel](https://github.com/Rocketseat/umbriel) - 📪  Mail sending microservice with Node.js, TypeScript and MongoDB
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.

@@ -18,7 +18,6 @@
   - [EJS](#ejs)
   - [Elixir](#elixir)
   - [Erlang](#erlang)
-  - [Gherkin](#gherkin)
   - [Go](#go)
   - [HTML](#html)
   - [Handlebars](#handlebars)
@@ -288,10 +287,6 @@
 - [2600hz/community-scripts](https://github.com/2600hz/community-scripts) - Scripts from the 2600hz Community to help manage, enhance and debug the KAZOO platform
 - [processone/ejabberd](https://github.com/processone/ejabberd) - Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)
 - [ninenines/cowboy](https://github.com/ninenines/cowboy) - Small, fast, modern HTTP server for Erlang/OTP.
-
-## Gherkin 
-
-- [owncloud/web](https://github.com/owncloud/web) - :dragon_face: Next generation frontend for ownCloud X and Infinite Scale
 
 ## Go 
 
@@ -797,6 +792,7 @@
 - [karlhadwen/netflix](https://github.com/karlhadwen/netflix) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Netflix Using React
 - [karlhadwen/todoist](https://github.com/karlhadwen/todoist) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Todoist Using React
 - [karlhadwen/instagram](https://github.com/karlhadwen/instagram) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Instagram Using React
+- [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
 - [frapontillo/angular-bootstrap-duallistbox](https://github.com/frapontillo/angular-bootstrap-duallistbox) - Angular directive to include Bootstrap Dual Listbox in your apps.
 - [frapontillo/angular-bootstrap-switch](https://github.com/frapontillo/angular-bootstrap-switch) - AngularJS directive for the bootstrap-switch jQuery plugin.
 - [maykinmedia/dual-listbox](https://github.com/maykinmedia/dual-listbox) - A simple dual listbox build in plain Javascript and some simple styling. (no other libraries of frameworks required)
@@ -909,6 +905,7 @@
 - [aws-amplify/community](https://github.com/aws-amplify/community) - AWS Amplify Community
 - [loiane/ext4-crud-mvc](https://github.com/loiane/ext4-crud-mvc) - BrazilJS Sample Project - Ext JS 4 CRUD MVC Example
 - [kartik-v/bootstrap-fileinput](https://github.com/kartik-v/bootstrap-fileinput) - An enhanced HTML 5 file input for Bootstrap 5.x/4.x./3.x with file preview, multiple selection, and more features.
+- [owncloud/web](https://github.com/owncloud/web) - :dragon_face: Next generation frontend for ownCloud X and Infinite Scale
 - [owncloud/owncloud-sdk](https://github.com/owncloud/owncloud-sdk) - :cloud: ownCloud client library for JavaScript
 - [rpocklin/ui-router-tabs](https://github.com/rpocklin/ui-router-tabs) - Idiot-proof tab panes with route support using Angular.js + Bootstrap 3 + UI Router
 - [VinceG/twitter-bootstrap-wizard](https://github.com/VinceG/twitter-bootstrap-wizard) - This twitter bootstrap plugin builds a wizard out of a formatter tabbable structure. It allows to build a wizard functionality using buttons to go through the different wizard steps and using events allows to hook into each step individually.
@@ -1224,7 +1221,7 @@
 - [bradtraversy/devconnector_2.0](https://github.com/bradtraversy/devconnector_2.0) - Social network for developers, built on the MERN stack
 - [bradtraversy/react_express_starter](https://github.com/bradtraversy/react_express_starter) - Starter pack for React and Express full stack development
 - [bradtraversy/node_passport_login](https://github.com/bradtraversy/node_passport_login) - Node.js login, registration and access control using Express and Passport
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL, REST and gRPC
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
 - [schmich/chrome-extension-localization](https://github.com/schmich/chrome-extension-localization) - Organize and manage localization for your Chrome extension
 - [schmich/marinara](https://github.com/schmich/marinara) - Pomodoro® time management assistant for Chrome
 - [apertureless/vue-parallax](https://github.com/apertureless/vue-parallax) - 🌌  Vue.js component for parallax image scroll effects
@@ -2088,7 +2085,6 @@
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [grsoares21/dev-communities](https://github.com/grsoares21/dev-communities) - Data visualizations of different portuguese speaking Dev communities
 - [calendso/calendso](https://github.com/calendso/calendso) - The open-source Calendly alternative.
-- [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
 - [czeckd/angular-dual-listbox](https://github.com/czeckd/angular-dual-listbox) - Angular 10 component for a dual listbox control.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [benawad/fullstack-graphql-airbnb-clone](https://github.com/benawad/fullstack-graphql-airbnb-clone) - A Fullstack GraphQL Airbnb Clone with React and React Native

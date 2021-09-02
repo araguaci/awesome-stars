@@ -335,6 +335,7 @@
 
 ## HTML 
 
+- [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [shgysk8zer0/static-template](https://github.com/shgysk8zer0/static-template) - A template repository for static sites, including skeleton JS, CSS, SVGs, fonts, etc.
 - [jsdelivr/www.jsdelivr.com](https://github.com/jsdelivr/www.jsdelivr.com) - The official jsDelivr website
 - [FlorianFe/Elements](https://github.com/FlorianFe/Elements) - ⚛⚗ A desktop App which displays the periodic table
@@ -666,7 +667,7 @@
 - [liyasthomas/marcdown](https://github.com/liyasthomas/marcdown) - 👻 Lightweight realtime markdown viewer and editor - Simple, clean and beautiful https://liyasthomas.github.io/marcdown
 - [johnpapa/lite-server](https://github.com/johnpapa/lite-server) - Lightweight node server
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
-- [bmarvinb/react-trello-clone](https://github.com/bmarvinb/react-trello-clone) - This is a very simple version of Trello using React and Firebase.  https://trello-board-b720f.web.app/
+- [bmarvinb/react-trello-clone](https://github.com/bmarvinb/react-trello-clone) - Super simple Trello clone using React and Firebase. Help wanted. Great for new contributors 👋
 - [rcdexta/react-event-timeline](https://github.com/rcdexta/react-event-timeline) - A responsive event timeline in React.js
 - [rcdexta/react-trello](https://github.com/rcdexta/react-trello) - Pluggable components to add a kanban board to your application
 - [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
@@ -1433,6 +1434,7 @@
 - [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 - [zendesk/sunshine-conversations-web](https://github.com/zendesk/sunshine-conversations-web) - The Smooch Web SDK will add live web messaging to your website or web app.
 - [nodegui/awesome-nodegui](https://github.com/nodegui/awesome-nodegui) - Useful resources for creating apps with NodeGui
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [artesdosul/awesome-for-beginners](https://github.com/artesdosul/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [pcqpcq/open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) - Open-Source Android Apps
@@ -1894,7 +1896,6 @@
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [monicahq/docker](https://github.com/monicahq/docker) - docker image of Monica
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [mmazzarolo/alfred-jira-search](https://github.com/mmazzarolo/alfred-jira-search) - An Alfred workflow to search for Jira tickets
 - [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials

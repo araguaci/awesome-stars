@@ -18,6 +18,7 @@
   - [EJS](#ejs)
   - [Elixir](#elixir)
   - [Erlang](#erlang)
+  - [GLSL](#glsl)
   - [Go](#go)
   - [HTML](#html)
   - [Handlebars](#handlebars)
@@ -168,6 +169,7 @@
 
 ## CSS 
 
+- [ykob/fullscreen-slider](https://github.com/ykob/fullscreen-slider) - This asset controls sections in a page.   It resizes sections to fullscreen resolution and moves these individually by wheel/touch events.
 - [alssndro/trianglify-background-generator](https://github.com/alssndro/trianglify-background-generator) - Generate backgrounds using the trianglify plugin
 - [shgysk8zer0/core-css](https://github.com/shgysk8zer0/core-css) - A collection of CSS styles, categoiezed by files, which are useful on common projects
 - [nakov/Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA
@@ -288,6 +290,10 @@
 - [processone/ejabberd](https://github.com/processone/ejabberd) - Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)
 - [ninenines/cowboy](https://github.com/ninenines/cowboy) - Small, fast, modern HTTP server for Erlang/OTP.
 
+## GLSL 
+
+- [ykob/study-threejs-lighting](https://github.com/ykob/study-threejs-lighting) - It's a study record of 3D graphic lighting with the shaders that I created by quoting from three.js.
+
 ## Go 
 
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
@@ -335,6 +341,7 @@
 
 ## HTML 
 
+- [ykob/shape-overlays](https://github.com/ykob/shape-overlays) - Multi-layered SVG shape overlays with adjustable values for a variety of effects. By Yoichi Kobayashi.
 - [Kamona-WD/starter-dashboard-layout](https://github.com/Kamona-WD/starter-dashboard-layout) - Responsive dashboard layout
 - [Kamona-WD/kwd-dashboard](https://github.com/Kamona-WD/kwd-dashboard) - Fully responsive dashboard template built with tailwindcss & alpinejs
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
@@ -493,6 +500,7 @@
 
 ## JavaScript 
 
+- [ykob/sketch-threejs](https://github.com/ykob/sketch-threejs) - Interactive sketches made with three.js.
 - [Kamona-WD/starter-dashboard-layout-vue](https://github.com/Kamona-WD/starter-dashboard-layout-vue) - Starter responsive dashboard layout using tailwindcss & vue 3 (vitejs)
 - [rodrigorgtic/image360viewer](https://github.com/rodrigorgtic/image360viewer) - 📱⚛ 🔄 The Image360Viewer has support for React Native CLI and Expo. This library allows the user to explore and have the freedom to view all product details in 360 degrees.
 - [wagerfield/flat-surface-shader](https://github.com/wagerfield/flat-surface-shader) - Flat Surface Shader for rendering illuminated triangles
@@ -1048,7 +1056,6 @@
 - [carbon-design-system/gatsby-theme-carbon](https://github.com/carbon-design-system/gatsby-theme-carbon) - A Carbon inspired Gatsby theme
 - [cboard-org/cboard](https://github.com/cboard-org/cboard) - AAC communication system with text-to-speech for the browser
 - [carbon-design-system/carbon-website](https://github.com/carbon-design-system/carbon-website) - The website for the Carbon Design System.
-- [carbon-design-system/carbon-for-ibm-dotcom](https://github.com/carbon-design-system/carbon-for-ibm-dotcom) - Carbon for IBM.com is based on the Carbon Design System for IBM
 - [carbon-design-system/carbon-addons-iot-react](https://github.com/carbon-design-system/carbon-addons-iot-react) - A collection of React components shared between IBM Watson IoT products.
 - [carbon-design-system/carbon-addons-data-viz-react](https://github.com/carbon-design-system/carbon-addons-data-viz-react) - DEPRECATED. Please use Carbon Charts instead
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
@@ -1950,7 +1957,7 @@
 - [vechai/vechaiui](https://github.com/vechai/vechaiui) - A set of high-quality accessible React UI components with the built-in dark mode using Tailwind CSS. Pre-designed headless ui and radix-ui.
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @modulz.
 - [nuxt/image](https://github.com/nuxt/image) - Optimized Images for Nuxt
-- [mcjazzyfunky/shoelace-theme-designer](https://github.com/mcjazzyfunky/shoelace-theme-designer) - 
+- [js-works/shoelace-theme-designer](https://github.com/js-works/shoelace-theme-designer) - 
 - [fulls1z3/universal](https://github.com/fulls1z3/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, CLI scaffolding, dev/prod modes, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾
 - [react-boilerplate/react-boilerplate-cra-template](https://github.com/react-boilerplate/react-boilerplate-cra-template) - :fire: Setup Create React App with React Boilerplate. Highly scalable & Best DX & Performance Focused & Best practices.
@@ -2219,6 +2226,7 @@
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [carbon-design-system/carbon-angular-starter](https://github.com/carbon-design-system/carbon-angular-starter) - A simple starter app for bootstrapping applications with Carbon
 - [storybookjs/react-native](https://github.com/storybookjs/react-native) - 📓 Storybook for React Native!
+- [carbon-design-system/carbon-for-ibm-dotcom](https://github.com/carbon-design-system/carbon-for-ibm-dotcom) - Carbon for IBM.com is based on the Carbon Design System for IBM
 - [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar_chart: :chart_with_upwards_trend:⠀Robust dataviz framework implemented using D3 & typescript
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
 - [googleapis/repo-automation-bots](https://github.com/googleapis/repo-automation-bots) - A collection of bots, based on probot, for performing common maintenance tasks across the open-source repos managed by Google on GitHub.

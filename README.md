@@ -869,7 +869,7 @@
 - [WAClient/WALC](https://github.com/WAClient/WALC) - An unofficial WhatsApp Desktop client for linux systems.
 - [ngekoding/whatsapp-api-tutorial](https://github.com/ngekoding/whatsapp-api-tutorial) - Implementation of whatsapp-web.js
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
-- [TheWhatsBot/WhatsBot](https://github.com/TheWhatsBot/WhatsBot) - Modular Userbot for Whatsapp
+- [cachecleanerjeet/WhatsBot](https://github.com/cachecleanerjeet/WhatsBot) - Modular Userbot for Whatsapp
 - [salesforce/lwc](https://github.com/salesforce/lwc) - :zap: LWC - A Blazing Fast, Enterprise-Grade Web Components Foundation
 - [edumeet/edumeet](https://github.com/edumeet/edumeet) - Multiparty web-meetings using mediasoup and WebRTC
 - [ondras/wwwsqldesigner](https://github.com/ondras/wwwsqldesigner) - WWW SQL Designer, your online SQL diagramming tool
@@ -1595,7 +1595,7 @@
 - [HubSpot/hubspot-api-php](https://github.com/HubSpot/hubspot-api-php) - HubSpot API PHP Client Libraries for V3 version of the API
 - [andygrunwald/DigitalKanban](https://github.com/andygrunwald/DigitalKanban) - A small digital Kanban board based on Symfony2. This application was developed during a small university project.
 - [thedevdojo/chatter](https://github.com/thedevdojo/chatter) - Chatter is a Simple Laravel Forum Package
-- [geralt2050/blade-template-using-api](https://github.com/geralt2050/blade-template-using-api) - This is the laravel front end project using blade template.
+- [kingdom553/blade-template-using-api](https://github.com/kingdom553/blade-template-using-api) - This is the laravel front end project using blade template.
 - [FTXInfotech/laravel-adminpanel](https://github.com/FTXInfotech/laravel-adminpanel) - A Laravel Admin Panel (Laravel Version : 6.0)
 - [beyondcode/laravel-websockets](https://github.com/beyondcode/laravel-websockets) - Websockets for Laravel. Done right.
 - [laravel/ui](https://github.com/laravel/ui) - Laravel UI utilities and presets.

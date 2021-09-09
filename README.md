@@ -511,7 +511,7 @@
 - [nk-o/jarallax](https://github.com/nk-o/jarallax) - NO dependencies JavaScript parallax scrolling
 - [nadimkobeissi/appleprivacyletter](https://github.com/nadimkobeissi/appleprivacyletter) - An open letter against Apple's new privacy-invasive client-side content scanning.
 - [alyssaxuu/mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
-- [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
+- [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [imranhsayed/headless-wp-starter](https://github.com/imranhsayed/headless-wp-starter) - :cyclone: A starter demo for WordPress Headless CMS
 - [imranhsayed/google-maps-in-react](https://github.com/imranhsayed/google-maps-in-react) - :pushpin: Google Maps in React: Autocomplete Location Search | Draggable Marker | Marker Infobox
 - [google-map-react/google-map-react-examples](https://github.com/google-map-react/google-map-react-examples) - Examples for google-map-react library.
@@ -999,8 +999,8 @@
 - [csorlandi/app-tipo-ifood](https://github.com/csorlandi/app-tipo-ifood) - 
 - [fisshy/react-scroll](https://github.com/fisshy/react-scroll) - React scroll component
 - [jpedroschmitz/gatsby-starter-ts](https://github.com/jpedroschmitz/gatsby-starter-ts) - TypeScript starter for Gatsby. No plugins and styling. Exactly the necessary to start 🔥
-- [Rocketseat/gatsby-starter-rocket-docs](https://github.com/Rocketseat/gatsby-starter-rocket-docs) - The documentation starter you were looking for ⚡️
-- [Rocketseat/gatsby-themes](https://github.com/Rocketseat/gatsby-themes) - Gatsby themes that we use to build websites at Rocketseat ⚡️🔥
+- [jpedroschmitz/gatsby-starter-rocket-docs](https://github.com/jpedroschmitz/gatsby-starter-rocket-docs) - The documentation starter you were looking for ⚡️
+- [jpedroschmitz/gatsby-themes](https://github.com/jpedroschmitz/gatsby-themes) - Gatsby themes that we use to build websites at Rocketseat ⚡️🔥
 - [barisesen/github-timeline](https://github.com/barisesen/github-timeline) - View other users' timeline
 - [ekeric13/react-star-ratings](https://github.com/ekeric13/react-star-ratings) - A customizable svg star rating component for selecting x stars or visualizing x stars
 - [zenorocha/codecopy](https://github.com/zenorocha/codecopy) - A browser extension that adds copy to clipboard buttons on every code block

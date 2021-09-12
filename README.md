@@ -999,8 +999,8 @@
 - [csorlandi/app-tipo-ifood](https://github.com/csorlandi/app-tipo-ifood) - 
 - [fisshy/react-scroll](https://github.com/fisshy/react-scroll) - React scroll component
 - [jpedroschmitz/gatsby-starter-ts](https://github.com/jpedroschmitz/gatsby-starter-ts) - TypeScript starter for Gatsby. No plugins and styling. Exactly the necessary to start 🔥
-- [jpedroschmitz/gatsby-starter-rocket-docs](https://github.com/jpedroschmitz/gatsby-starter-rocket-docs) - The documentation starter you were looking for ⚡️
-- [jpedroschmitz/gatsby-themes](https://github.com/jpedroschmitz/gatsby-themes) - Gatsby themes that we use to build websites at Rocketseat ⚡️🔥
+- [jpedroschmitz/gatsby-starter-rocketdocs](https://github.com/jpedroschmitz/gatsby-starter-rocketdocs) - The documentation starter you were looking for ⚡️
+- [jpedroschmitz/rocketdocs](https://github.com/jpedroschmitz/rocketdocs) - Easy to use Gatsby Theme to create documentation websites ⚡️🔥
 - [barisesen/github-timeline](https://github.com/barisesen/github-timeline) - View other users' timeline
 - [ekeric13/react-star-ratings](https://github.com/ekeric13/react-star-ratings) - A customizable svg star rating component for selecting x stars or visualizing x stars
 - [zenorocha/codecopy](https://github.com/zenorocha/codecopy) - A browser extension that adds copy to clipboard buttons on every code block

@@ -409,7 +409,6 @@
 - [mdn/interactive-examples](https://github.com/mdn/interactive-examples) - Home of the MDN live code editor interactive examples
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
-- [apidoc/apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [creativetimofficial/argon-dashboard-angular](https://github.com/creativetimofficial/argon-dashboard-angular) - 
 - [afonsopacifer/open-source-checklist](https://github.com/afonsopacifer/open-source-checklist) - :octocat: A guide to help you remember important things when creating an open source project ;D
 - [mozilla/bedrock](https://github.com/mozilla/bedrock) - Making mozilla.org awesome, one pebble at a time
@@ -556,7 +555,7 @@
 - [Temasys/AdapterJS](https://github.com/Temasys/AdapterJS) - AdapterJS Javascript Polyfill and Tools for WebRTC - Skylink WebRTC
 - [beautifulinteractions/beautiful-react-ui](https://github.com/beautifulinteractions/beautiful-react-ui) - 🚀A collection of lightweight and easy-to-customise controlled React components 🚀
 - [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
-- [Mayank0255/Stackoverflow-Clone](https://github.com/Mayank0255/Stackoverflow-Clone) - Clone project of a famous Q/A website for developers which is stackoverflow built using MySQL-Express-React-Node :globe_with_meridians:
+- [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend) - Clone project of a famous Q/A website for developers which is stackoverflow built using MySQL-Express-React-Node :globe_with_meridians:
 - [manikandanraji/youtubeclone-frontend](https://github.com/manikandanraji/youtubeclone-frontend) - Youtube Clone Frontend (React + Redux)
 - [MattMcFarland/react-darkroom](https://github.com/MattMcFarland/react-darkroom) - An HTML5 Image Editing Component built with ReactJS
 - [kylewetton/image-compare-viewer](https://github.com/kylewetton/image-compare-viewer) - Compare before and after images, for grading and other retouching for instance. Vanilla JS, zero dependencies.
@@ -692,6 +691,7 @@
 - [cunhasbia/to-do-list](https://github.com/cunhasbia/to-do-list) - to-do list application adapted by me, based on a simple project developed for studies during the Javascript Starter course offered by Rocketseat.
 - [cunhasbia/dragons-frontend](https://github.com/cunhasbia/dragons-frontend) - Dragons is a front end application developed with Reactjs that consumes data from Dragons API, and also consumes a login API for authentication to access the app.
 - [mayeaux/nodetube](https://github.com/mayeaux/nodetube) - Open-source YouTube alternative that offers video, audio and image uploads, livestreaming and built-in monetization
+- [hydralite/hydralite](https://github.com/hydralite/hydralite) - Meet the new open-source platform to seamlessly market and manage your product.
 - [rodrigorgtic/cactus-mobile](https://github.com/rodrigorgtic/cactus-mobile) - :iphone: Aplicativo em React Native com efeitos visuais e animações. :tada:
 - [rodrigorgtic/im-mobile](https://github.com/rodrigorgtic/im-mobile) - :iphone:    (WIP - :construction:) IM é um aplicativo mobile para os apaixonados por filmes. Com ele, é possível organizar seus filmes favoritos e marcar quais você já assistiu. É um projeto que eu criei em React Native para aplicar os conceitos de Mobile First com Firebase.
 - [filipedeschamps/video-maker](https://github.com/filipedeschamps/video-maker) - Projeto open source para fazer vídeos automatizados
@@ -1033,6 +1033,7 @@
 - [davidedantonio/user-management-test](https://github.com/davidedantonio/user-management-test) - user-management-test
 - [davidedantonio/fastify-axios](https://github.com/davidedantonio/fastify-axios) - Add axios http client to your fastify instance
 - [davidedantonio/create-fastify-app](https://github.com/davidedantonio/create-fastify-app) - An utility that help you to generate or add plugin to your Fastify project
+- [apidoc/apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [vpulim/node-soap](https://github.com/vpulim/node-soap) - A SOAP client and server for node.js.
 - [angular/protractor](https://github.com/angular/protractor) - E2E test framework for Angular apps
 - [danilowoz/create-content-loader](https://github.com/danilowoz/create-content-loader) - ✏️ Tool to create your own react-content-loader easily.
@@ -1107,7 +1108,7 @@
 - [phonegap/phonegap-mobile-accessibility](https://github.com/phonegap/phonegap-mobile-accessibility) - PhoneGap plugin to expose mobile accessibility APIs.
 - [techiediaries/fake-api-jwt-json-server](https://github.com/techiediaries/fake-api-jwt-json-server) - A Fake API with JWT Authentication using json-server and jsonwebtoken
 - [grevory/angular-local-storage](https://github.com/grevory/angular-local-storage) - An AngularJS module that gives you access to the browsers local storage with cookie fallback
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Local JSON database for small projects (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database (supports Node, Electron and the browser)
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [GoogleChromeLabs/preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin) - Please use https://github.com/vuejs/preload-webpack-plugin instead.
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
@@ -2046,7 +2047,6 @@
 - [eduardorerick/letmeask](https://github.com/eduardorerick/letmeask) - Aplicação desenvolvida durante a NLW com outras funcionalidades adicionadas por mim.
 - [moaijs/moai](https://github.com/moaijs/moai) - A React component library, where buttons look like buttons🗿
 - [Atom-Learning/components](https://github.com/Atom-Learning/components) - A collection of generic React components built using stitches, including components that cover layout, content, data collection, media and a host of other UI concerns.
-- [hydralite/hydralite](https://github.com/hydralite/hydralite) - Meet the new open-source platform to seamlessly market and manage your product.
 - [rodrigorgtic/minha-carteira-dashboard](https://github.com/rodrigorgtic/minha-carteira-dashboard) - :bar_chart: :chart_with_upwards_trend: Dashboard desenvolvido com ReactJs, TypeScript com boas práticas de desenvolvimento e performance.
 - [MarconWillian/letmeask](https://github.com/MarconWillian/letmeask) - Projeto desenvolvido na NextLevelWeek #Together.
 - [je4npw/LetMeAsk](https://github.com/je4npw/LetMeAsk) - Projeto para NLW - Rocketseat - feito em React - Instrutor dieegosf

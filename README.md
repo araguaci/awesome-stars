@@ -371,6 +371,7 @@
 - [tastejs/hacker-news-pwas](https://github.com/tastejs/hacker-news-pwas) - HNPWA - Hacker News readers as Progressive Web Apps 📱
 - [jgthms/html-reference](https://github.com/jgthms/html-reference) - HTML Reference: a free guide to all HTML5 elements and attributes
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
+- [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [felipefialho/css-components](https://github.com/felipefialho/css-components) - :coffee: A set of common UI Components using just the power of CSS and without JavaScript.
 - [tinymce/tinymce-demos](https://github.com/tinymce/tinymce-demos) - Let us inspire you with all things TinyMCE can do
 - [nourabusoud/vue-todo-list](https://github.com/nourabusoud/vue-todo-list) - ✅ A simple in browser todo list that saves your todos in Local storage
@@ -549,7 +550,6 @@
 - [bhj/karaoke-forever](https://github.com/bhj/karaoke-forever) - Open karaoke party system
 - [Temasys/AdapterJS](https://github.com/Temasys/AdapterJS) - AdapterJS Javascript Polyfill and Tools for WebRTC - Skylink WebRTC
 - [beautifulinteractions/beautiful-react-ui](https://github.com/beautifulinteractions/beautiful-react-ui) - 🚀A collection of lightweight and easy-to-customise controlled React components 🚀
-- [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend) - Clone project of a famous Q/A website for developers which is stackoverflow built using MySQL-Express-React-Node :globe_with_meridians:
 - [manikandanraji/youtubeclone-frontend](https://github.com/manikandanraji/youtubeclone-frontend) - Youtube Clone Frontend (React + Redux)
 - [MattMcFarland/react-darkroom](https://github.com/MattMcFarland/react-darkroom) - An HTML5 Image Editing Component built with ReactJS
@@ -768,7 +768,6 @@
 - [kevincennis/Mix.js](https://github.com/kevincennis/Mix.js) - Mutitrack mixing in JavaScript with the Web Audio API
 - [lugolabs/circles](https://github.com/lugolabs/circles) - A lightweight JavaScript library that generates circular graphs in SVG.
 - [sunnylqm/react-native-storage](https://github.com/sunnylqm/react-native-storage) - local storage wrapper for both react-native and browser. Support size controlling, auto expiring, remote data auto syncing and getting batch data in one query.
-- [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [Soundnode/soundnode-app](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.
 - [reactide/reactide](https://github.com/reactide/reactide) - Reactide is the first dedicated IDE for React web application development.
 - [patrikx3/onenote](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote
@@ -1288,7 +1287,7 @@
 - [loteoo/hyperapp-rocks](https://github.com/loteoo/hyperapp-rocks) - A curated list of live Hyperapp projects.
 - [stefangabos/zebrajs](https://github.com/stefangabos/zebrajs) - A modular, jQuery compatible, ultra light-weight JavaScript micro-library for modern browsers
 - [stefangabos/Zebra_Datepicker](https://github.com/stefangabos/Zebra_Datepicker) - A super-lightweight, highly configurable, cross-browser date / time picker jQuery plugin
-- [stefangabos/Zebra_Tooltips](https://github.com/stefangabos/Zebra_Tooltips) - A lightweight and highly configurable jQuery plugin for creating beautiful tooltips
+- [stefangabos/Zebra_Tooltips](https://github.com/stefangabos/Zebra_Tooltips) - A lightweight, accessible, and highly configurable jQuery plugin for creating beautiful tooltips
 - [stefangabos/Zebra_Dialog](https://github.com/stefangabos/Zebra_Dialog) - A small, compact, and highly configurable jQuery plugin for creating beautiful modal dialog boxes
 - [versatica/JsSIP](https://github.com/versatica/JsSIP) - JsSIP, the JavaScript SIP library
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
@@ -1439,7 +1438,7 @@
 - [dadosgovbr/aplicativos-dados-brasil](https://github.com/dadosgovbr/aplicativos-dados-brasil) - Mapeamento de aplicativos e visualizações que usam dados abertos governamentais no Brasil.
 - [CamaraDosDeputados/dados-abertos](https://github.com/CamaraDosDeputados/dados-abertos) - Repositório do serviço de Dados Abertos da Câmara. Consulte as "Issues" para atendimento a dúvidas e sugestões.
 - [gomex/docker-para-desenvolvedores](https://github.com/gomex/docker-para-desenvolvedores) - Código fonte do livro Docker para desenvolvedores
-- [kartik-v/bootstrap-tabs-x](https://github.com/kartik-v/bootstrap-tabs-x) - Bootstrap 3 tabs extended with various alignment and styling options
+- [kartik-v/bootstrap-tabs-x](https://github.com/kartik-v/bootstrap-tabs-x) - Bootstrap tabs supercharged with various alignment and styling options
 - [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 - [zendesk/sunshine-conversations-web](https://github.com/zendesk/sunshine-conversations-web) - The Smooch Web SDK will add live web messaging to your website or web app.
 - [nodegui/awesome-nodegui](https://github.com/nodegui/awesome-nodegui) - Useful resources for creating apps with NodeGui
@@ -1964,6 +1963,7 @@
 - [vuerd/vuerd](https://github.com/vuerd/vuerd) - Entity-Relationship Diagram Editor
 - [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
 - [TowhidKashem/snapchat-clone](https://github.com/TowhidKashem/snapchat-clone) - 👻 A SnapChat clone built with React, Redux and Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!
+- [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [rpearce/image-zoom](https://github.com/rpearce/image-zoom) - 🔎 Medium.com style image zoom for React 🔍
 - [infinitered/reactotron-core-ui](https://github.com/infinitered/reactotron-core-ui) - 
 - [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's cutting edge React Native project boilerplate, along with a CLI, component/model generators, and more!
@@ -2092,7 +2092,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [grsoares21/dev-communities](https://github.com/grsoares21/dev-communities) - Data visualizations of different portuguese speaking Dev communities
-- [calendso/calendso](https://github.com/calendso/calendso) - The open-source Calendly alternative.
+- [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone.
 - [czeckd/angular-dual-listbox](https://github.com/czeckd/angular-dual-listbox) - Angular 10 component for a dual listbox control.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [benawad/fullstack-graphql-airbnb-clone](https://github.com/benawad/fullstack-graphql-airbnb-clone) - A Fullstack GraphQL Airbnb Clone with React and React Native
@@ -2246,7 +2246,6 @@
 - [NG-ZORRO/ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) - Angular UI Component Library based on Ant Design
 - [ionic-team/demo-authconnect-auth0](https://github.com/ionic-team/demo-authconnect-auth0) - A simple login/logout experience powered by Ionic Auth Connect and Auth0
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
-- [tomastrajan/angular-mastery-workshop](https://github.com/tomastrajan/angular-mastery-workshop) - 
 - [tomastrajan/angular-ngrx-material-starter](https://github.com/tomastrajan/angular-ngrx-material-starter) - Angular, NgRx, Angular CLI & Angular Material Starter Project
 - [maximegris/angular-electron](https://github.com/maximegris/angular-electron) - Ultra-fast bootstrapping with Angular and Electron (Typescript + SASS + Hot Reload) :speedboat:
 - [iamsurajdc/Angular-Todo-Application](https://github.com/iamsurajdc/Angular-Todo-Application) - A simple & comprehensive Todo Application created using Angular 7 :dart:.
@@ -2347,7 +2346,7 @@
 - [prabhuignoto/vue-float-menu](https://github.com/prabhuignoto/vue-float-menu) - 🎈Customizable floating menu for Vue
 - [prabhuignoto/vue-dock-menu](https://github.com/prabhuignoto/vue-dock-menu) - ⚓Dockable Menu bar for Vue
 - [socketio/socket.io-admin-ui](https://github.com/socketio/socket.io-admin-ui) - Admin UI for Socket.IO
-- [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3.0 UI Library made by Element team
+- [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [Datlyfe/jira_clone](https://github.com/Datlyfe/jira_clone) - A Jira clone built with Vuejs & Nodejs/Graphql

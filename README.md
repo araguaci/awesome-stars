@@ -1852,7 +1852,7 @@
 ## SCSS 
 
 - [cobidev/simplefolio](https://github.com/cobidev/simplefolio) - ⚡️ A minimal portfolio template for Developers
-- [rodrigorgtic/spiderman-frontend](https://github.com/rodrigorgtic/spiderman-frontend) - :beetle: Front-end desenvolvido com a finalidade de estudos de responsividade, efeitos e boas práticas de criação de front-end.
+- [rodrigorgtic/spiderman-frontend](https://github.com/rodrigorgtic/spiderman-frontend) - 🕷️ Front-end desenvolvido com a finalidade de estudos de responsividade, efeitos e boas práticas de criação de front-end.
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language
 - [hydecorp/hydejack](https://github.com/hydecorp/hydejack) - A boutique Jekyll theme for hackers, nerds, and academics
 - [pmarsceill/just-the-docs](https://github.com/pmarsceill/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.

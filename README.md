@@ -438,6 +438,7 @@
 
 ## Handlebars 
 
+- [electron/electronjs.org](https://github.com/electron/electronjs.org) - Electron website
 - [felipecastrosales/Happy](https://github.com/felipecastrosales/Happy) - Happy 🥳 | Rocketseat 💜 - NLW 03 👩‍🚀
 
 ## Haskell 
@@ -494,6 +495,10 @@
 
 ## JavaScript 
 
+- [terreng/simple-web-server](https://github.com/terreng/simple-web-server) - A continuation of Web Server for Chrome, built with Electron.
+- [felixrieseberg/electron-windows-store](https://github.com/felixrieseberg/electron-windows-store) - :package: Turn Electron Apps into Windows AppX Packages
+- [GameGodS3/DropPoint](https://github.com/GameGodS3/DropPoint) - Make drag-and-drop easier using DropPoint. Drag content without having to open side-by-side windows
+- [mawie81/electron-window-state](https://github.com/mawie81/electron-window-state) - A library to store and restore window sizes and positions for your Electron app
 - [ykob/sketch-threejs](https://github.com/ykob/sketch-threejs) - Interactive sketches made with three.js.
 - [Kamona-WD/starter-dashboard-layout-vue](https://github.com/Kamona-WD/starter-dashboard-layout-vue) - Starter responsive dashboard layout using tailwindcss & vue 3 (vitejs)
 - [rodrigorgtic/image360viewer](https://github.com/rodrigorgtic/image360viewer) - 📱⚛ 🔄 The Image360Viewer has support for React Native CLI and Expo. This library allows the user to explore and have the freedom to view all product details in 360 degrees.
@@ -557,7 +562,7 @@
 - [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
 - [yangshun/tree-node-cli](https://github.com/yangshun/tree-node-cli) - 🌲 Node.js library to list the contents of directories in a tree-like format, similar to the Linux tree command
-- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🕸  No-bullshit answers to the famous h5bp "Front-end Job Interview Questions"
+- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 - [grab/front-end-guide](https://github.com/grab/front-end-guide) - 📚 Study guide and introduction to the modern front end stack.
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the Webdriver API
 - [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, end-to-end encrypted and open-source.
@@ -1080,7 +1085,6 @@
 - [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [formio/formio.js](https://github.com/formio/formio.js) - JavaScript powered Forms with JSON Form Builder
-- [JackZheng10/Laundr-Web-App-Frontend](https://github.com/JackZheng10/Laundr-Web-App-Frontend) - Frontend for the full-stack web application for Laundr, an on demand laundry service. "It's Uber but for laundry!" Allows users to place orders, purchase subscriptions, and track their order. Also lets drivers and washers handle orders. Built with Next.js, the MERN stack, and Material-UI. App deployed with Vercel and AWS Elastic Beanstalk. (WIP)
 - [deenjohn/FullStack-Learning-Resources](https://github.com/deenjohn/FullStack-Learning-Resources) - 
 - [jajm/urungi](https://github.com/jajm/urungi) - Lightweight Open Source Business Intelligence and reporting tool for PostgreSQL, MySQL, SQL Server, Oracle Database
 - [biblibre/urungi](https://github.com/biblibre/urungi) - Lightweight Open Source Business Intelligence and reporting tool for PostgreSQL, MySQL, SQL Server, Oracle Database
@@ -1938,6 +1942,9 @@
 
 ## TypeScript 
 
+- [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
+- [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+- [felixrieseberg/electron-wix-msi](https://github.com/felixrieseberg/electron-wix-msi) - :dvd: Create traditional MSI installers for your Electron app
 - [rodrigorgtic/gobarber-web-ts](https://github.com/rodrigorgtic/gobarber-web-ts) - :computer: :iphone: Plataforma Web para barbeiros gerenciar seus clientes e agendamentos em ReactJs.
 - [rodrigorgtic/cookapp](https://github.com/rodrigorgtic/cookapp) - 
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc

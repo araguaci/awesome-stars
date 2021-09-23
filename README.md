@@ -1102,7 +1102,7 @@
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
 - [HelioSilva/Whatsapp-bot-NodeJS](https://github.com/HelioSilva/Whatsapp-bot-NodeJS) - Whatsapp bot para delivery de uma lanchonete usando NodeJS.
 - [nhn/toast-ui.doc](https://github.com/nhn/toast-ui.doc) - 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (September 2021)
 - [CodAffection/Angular-7-Master-Detail-CRUD-with-Web-API](https://github.com/CodAffection/Angular-7-Master-Detail-CRUD-with-Web-API) - Angular 7 Master Detail CRUD with Web API
 - [phonegap/phonegap-mobile-accessibility](https://github.com/phonegap/phonegap-mobile-accessibility) - PhoneGap plugin to expose mobile accessibility APIs.
 - [techiediaries/fake-api-jwt-json-server](https://github.com/techiediaries/fake-api-jwt-json-server) - A Fake API with JWT Authentication using json-server and jsonwebtoken
@@ -1483,7 +1483,7 @@
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [dotnet/coreclr](https://github.com/dotnet/coreclr) - CoreCLR is the runtime for .NET Core. It includes the garbage collector, JIT compiler, primitive data types and low-level classes.
 - [lukeed/awesome-cloudflare-workers](https://github.com/lukeed/awesome-cloudflare-workers) - 😎 Awesome Cloudflare Workers
-- [BolajiAyodeji/awesome-jamstack](https://github.com/BolajiAyodeji/awesome-jamstack) - :notebook_with_decorative_cover: Curated list of resources: books, videos, articles, speaker decks, tools about using the Jamstack (A modern web development architecture for creating fast, secure and dynamic websites)
+- [BolajiAyodeji/awesome-jamstack](https://github.com/BolajiAyodeji/awesome-jamstack) - :notebook_with_decorative_cover: Curated list of resources: books, videos, articles, speaker decks, tools about using the Jamstack.
 - [3cx/cfd-demos](https://github.com/3cx/cfd-demos) - A collection of useful Call Flow Designer sample projects shared with the developer community
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.

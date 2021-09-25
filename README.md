@@ -91,7 +91,7 @@
 - [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app) - Example Docker Compose app
 - [renatogroffe/ASPNETCore5-REST_API-Kafka_ContagemAcessos](https://github.com/renatogroffe/ASPNETCore5-REST_API-Kafka_ContagemAcessos) - Exemplo de API REST criada com o .NET 5 + ASP.NET Core para contagem de acessos e envio de mensagens para um tópico do Apache Kafka (utilizando a biblioteca Confluent.Kafka).
 - [renatogroffe/DotNet5-WorkerService-Kafka-SqlServer_ContagemAcessos](https://github.com/renatogroffe/DotNet5-WorkerService-Kafka-SqlServer_ContagemAcessos) - Exemplo de consumo de mensagens de um tópico do Apache Kafka com dados de contagens de acesso em um Worker Service criado com .NET 5, utilizando ainda SQL Server + Dapper.Contrib para gravação dos dados e um Dockerfile para geração de imagens Docker em Linux.
-- [3F/DllExport](https://github.com/3F/DllExport) - .NET DllExport with .NET Core support (aka 3F/DllExport)
+- [3F/DllExport](https://github.com/3F/DllExport) - .NET DllExport with .NET Core support (aka 3F/DllExport aka DllExport.bat)
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 - [tomaszzmuda/Xabe.FFmpeg](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from dotnet core application.
@@ -908,7 +908,7 @@
 - [Swizec/serverlesshandbook.dev](https://github.com/Swizec/serverlesshandbook.dev) - A resource for frontend engineers to learn everything about modern backend development.
 - [Swizec/react-fractals](https://github.com/Swizec/react-fractals) - An experiment -&gt; Fractals in React.
 - [var77/react-native-youtube-player](https://github.com/var77/react-native-youtube-player) - React Native Youtube mp3 player
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech.
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [h5bp/create-html5-boilerplate](https://github.com/h5bp/create-html5-boilerplate) - npx quick start for html5-boilerplate
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API

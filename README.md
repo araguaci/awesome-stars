@@ -505,7 +505,7 @@
 - [Kamona-WD/starter-dashboard-layout-vue](https://github.com/Kamona-WD/starter-dashboard-layout-vue) - Starter responsive dashboard layout using tailwindcss & vue 3 (vitejs)
 - [rodrigorgtic/image360viewer](https://github.com/rodrigorgtic/image360viewer) - 📱⚛ 🔄 The Image360Viewer has support for React Native CLI and Expo. This library allows the user to explore and have the freedom to view all product details in 360 degrees.
 - [wagerfield/flat-surface-shader](https://github.com/wagerfield/flat-surface-shader) - Flat Surface Shader for rendering illuminated triangles
-- [reactioncommerce/reaction](https://github.com/reactioncommerce/reaction) - Reaction is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.
+- [reactioncommerce/reaction](https://github.com/reactioncommerce/reaction) - Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [shgysk8zer0/async-idb](https://github.com/shgysk8zer0/async-idb) - A promise based (async) wrapper for the IndexedDB API

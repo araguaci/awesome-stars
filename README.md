@@ -800,6 +800,7 @@
 - [reduction-admin/react-reduction](https://github.com/reduction-admin/react-reduction) - React Reduction - Free Admin Template Built with React and Bootstrap4
 - [DesignRevision/shards-dashboard-react](https://github.com/DesignRevision/shards-dashboard-react) - ⚛️A free and beautiful React admin dashboard template pack.
 - [Fugiman/google-meet-grid-view](https://github.com/Fugiman/google-meet-grid-view) - Userscript to offer a grid-view layout in Google Meets
+- [KiranGershenfeld/VisualizingTwitchCommunities](https://github.com/KiranGershenfeld/VisualizingTwitchCommunities) - Graphing communities on Twitch.tv in a visually intuitive way
 - [karlhadwen/netflix](https://github.com/karlhadwen/netflix) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Netflix Using React
 - [karlhadwen/todoist](https://github.com/karlhadwen/todoist) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Todoist Using React
 - [karlhadwen/instagram](https://github.com/karlhadwen/instagram) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Instagram Using React
@@ -1790,7 +1791,6 @@
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change. Open source web page change detection - Now also includes JSON API change detection and monitoring support!
 - [IBM/MAX-Audio-Embedding-Generator](https://github.com/IBM/MAX-Audio-Embedding-Generator) - Generate embedding vectors from audio files
 - [bittoin/Bittoin-Telegram-Bot](https://github.com/bittoin/Bittoin-Telegram-Bot) - Bot para Telegram com diversas funcionalidades, com o intuito de se divertir e aproveitar utilidades para o dia a dia.
-- [KiranGershenfeld/VisualizingTwitchCommunities](https://github.com/KiranGershenfeld/VisualizingTwitchCommunities) - Graphing communities on Twitch.tv in a visually intuitive way
 - [Kilian/Trimage](https://github.com/Kilian/Trimage) - A cross-platform tool for optimizing PNG and JPG files.
 - [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 - [Helsinki-NLP/Opus-MT](https://github.com/Helsinki-NLP/Opus-MT) - Open neural machine translation models and web services

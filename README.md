@@ -327,7 +327,7 @@
 - [docker/machine](https://github.com/docker/machine) - Machine management for a container-centric world
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
-- [TwinProduction/gatus](https://github.com/TwinProduction/gatus) - ⛑ Gatus - Automated service health dashboard
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
@@ -683,7 +683,7 @@
 - [rcdexta/react-trello](https://github.com/rcdexta/react-trello) - Pluggable components to add a kanban board to your application
 - [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
 - [mdbootstrap/perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar) - Minimalistic but perfect custom scrollbar plugin. Get more free components with Material Design for Bootstrap UI Kit (link below)
-- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
+- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
@@ -1831,7 +1831,6 @@
 - [lucasgomide/videos-pt.br-tecnologia](https://github.com/lucasgomide/videos-pt.br-tecnologia) - Repositório de canais no Youtube BR sobre desenvolvimento
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [echojs/echojs](https://github.com/echojs/echojs) - Lamernews with Echo JS modifications
-- [StreetPet/StartPoint](https://github.com/StreetPet/StartPoint) - Sistema de alimentação e tratamento de Cães,  Gatos e outros animais abandonados, o objetivo é colecionar ideias e desenvolver um sistema que alimente e borrife remedios em cães e gatos catalogados e chipados que estejam em situação de abandono
 - [arvinwiyono/airbnb-clone](https://github.com/arvinwiyono/airbnb-clone) - Airbnb clone using Rails - tutorial by Leo Trieu
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [rapid7/metasploit-omnibus](https://github.com/rapid7/metasploit-omnibus) - Packaging metasploit-framework with omnibus
@@ -2116,7 +2115,7 @@
 - [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking hot React Notifications 🔥
 - [microsoft/google-play-vsts-extension](https://github.com/microsoft/google-play-vsts-extension) - Visual Studio Team Services (VSTS) extension for performing continuous delivery to the Google Play store from your automated CI builds
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus)
-- [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps. #hacktoberfest
+- [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps. #Hacktoberfest
 - [start-javascript/sb-admin-material](https://github.com/start-javascript/sb-admin-material) - Simple Dashboard Admin App built using Angular 9 and Material 2.
 - [team-telnyx/webrtc](https://github.com/team-telnyx/webrtc) - SDK for Telnyx's WebRTC platform
 - [tokyapp/toky-phone-js-sdk](https://github.com/tokyapp/toky-phone-js-sdk) - The Toky Phone JS SDK is a WebRTC Javascript library providing an abstraction to the Toky phone system, including its main features

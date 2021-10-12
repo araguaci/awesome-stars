@@ -338,6 +338,7 @@
 
 ## HTML 
 
+- [videosdk-live/videosdk-rtc-js-prebuilt-embedded-example](https://github.com/videosdk-live/videosdk-rtc-js-prebuilt-embedded-example) - Low Code Prebuilt example of Video SDK using plain JS and HTML.
 - [ykob/shape-overlays](https://github.com/ykob/shape-overlays) - Multi-layered SVG shape overlays with adjustable values for a variety of effects. By Yoichi Kobayashi.
 - [Kamona-WD/starter-dashboard-layout](https://github.com/Kamona-WD/starter-dashboard-layout) - Responsive dashboard layout
 - [Kamona-WD/kwd-dashboard](https://github.com/Kamona-WD/kwd-dashboard) - Fully responsive dashboard template built with tailwindcss & alpinejs

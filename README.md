@@ -1348,7 +1348,6 @@
 - [daneden/Baseline.js](https://github.com/daneden/Baseline.js) - A simple jQuery plugin for restoring vertical baselines thrown off by odd image sizes
 - [metafizzy/flickity](https://github.com/metafizzy/flickity) - :leaves: Touch, responsive, flickable carousels
 - [desandro/imagesloaded](https://github.com/desandro/imagesloaded) - :camera: JavaScript is all like "You images done yet or what?"
-- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [ffdead/jquery-graceful-websocket](https://github.com/ffdead/jquery-graceful-websocket) - The Graceful WebSocket
 - [xplsv/obsidian](https://github.com/xplsv/obsidian) - javascript/webgl demo
 - [MozillaReality/sechelt](https://github.com/MozillaReality/sechelt) - A virtual reality fly through of a 3D landscape, built with Three.js and Cinema 4D.
@@ -1366,7 +1365,7 @@
 
 ## Kotlin 
 
-- [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn .
+- [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [AdevintaSpain/Leku](https://github.com/AdevintaSpain/Leku) - :earth_africa: Map location picker component for Android. Based on Google Maps. An alternative to Google Place Picker.
 - [SimonMarquis/QrCode](https://github.com/SimonMarquis/QrCode) - 🏁 Scan and create QR Codes.
 - [SimonMarquis/FCM-toolbox](https://github.com/SimonMarquis/FCM-toolbox) - 📲 Firebase Cloud Messaging toolbox
@@ -2359,6 +2358,7 @@
 - [ringcentral/ringcentral-web-phone](https://github.com/ringcentral/ringcentral-web-phone) - RingCentral WebPhone Library for JavaScript WebRTC
 - [palantir/plottable](https://github.com/palantir/plottable) - :bar_chart: A library of modular chart components built on D3
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
+- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 
 ## Vue 
 

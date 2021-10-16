@@ -453,6 +453,7 @@
 
 ## Java 
 
+- [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 - [cesardeazevedo/react-native-collapsing-toolbar](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - react-native wrapper for android CollapsingToolbarLayout
 - [cesardeazevedo/react-native-bottom-sheet-behavior](https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior) - react-native wrapper for android BottomSheetBehavior
 - [react-native-webrtc/react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) - The WebRTC module for React Native
@@ -690,7 +691,6 @@
 - [mdbootstrap/perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar) - Minimalistic but perfect custom scrollbar plugin. Get more free components with Material Design for Bootstrap UI Kit (link below)
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
-- [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
 - [diego3g/expo-pomodoro-app](https://github.com/diego3g/expo-pomodoro-app) - ⏰ App de Pomodoro construído durante o Meetup Frontend SP
 - [K-G-PRAJWAL/ReactJS-Projects](https://github.com/K-G-PRAJWAL/ReactJS-Projects) - Amazing ReactJS Projects.
@@ -980,7 +980,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
 - [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net) - This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source projects. Jump in!
 - [leecade/react-native-unlock](https://github.com/leecade/react-native-unlock) - 
-- [OmarElGabry/chat.io](https://github.com/OmarElGabry/chat.io) - A Real Time Chat Application built using Node.js, Express, Mongoose, Socket.io, Passport, & Redis.
+- [OmarElgabry/chat.io](https://github.com/OmarElgabry/chat.io) - A Real Time Chat Application built using Node.js, Express, Mongoose, Socket.io, Passport, & Redis.
 - [leecade/react-native-swiper](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
 - [hupe1980/wapps-components](https://github.com/hupe1980/wapps-components) - A collection of react components: google-maps, stripe-checkout, animation-frame, ...
 - [MichaelBarney/Dialogflow-Twilio-Whatsapp-Conector](https://github.com/MichaelBarney/Dialogflow-Twilio-Whatsapp-Conector) - Javascript base for Twilio Whatsapp Chatbots integrated with the Dialogflow Framework
@@ -1398,6 +1398,8 @@
 
 ## Others 
 
+- [dgtlmoon/awesome-website-change-monitoring](https://github.com/dgtlmoon/awesome-website-change-monitoring) - A curated list of awesome tools for website diffing and change monitoring.
+- [dgtlmoon/awesome-selfhosted](https://github.com/dgtlmoon/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [react-brasil/empresas-que-usam-react-no-brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil) - Repositório que mostra empresas e projetos que utilizam React no Brasil
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [diegocard/awesome-html5](https://github.com/diegocard/awesome-html5) - :memo: A curated list of awesome HTML5 resources
@@ -1520,6 +1522,7 @@
 
 ## PHP 
 
+- [CViniciusSDias/php-text-to-speech](https://github.com/CViniciusSDias/php-text-to-speech) - A simple PHP tool that uses each OS text-to-speech CLI
 - [spekulatius/PHPScraper](https://github.com/spekulatius/PHPScraper) - PHP Scraper - an highly opinionated web-interface for PHP
 - [slimphp/Slim](https://github.com/slimphp/Slim) - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
 - [tailflow/laravel-orion](https://github.com/tailflow/laravel-orion) - The simplest way to create REST API with Laravel
@@ -1624,7 +1627,7 @@
 - [ARCANEDEV/LogViewer](https://github.com/ARCANEDEV/LogViewer) - :page_with_curl: Provides a log viewer for Laravel
 - [panique/mini3](https://github.com/panique/mini3) - Just an extremely simple naked PHP application, useful for small projects and quick prototypes.
 - [panique/huge](https://github.com/panique/huge) - Simple user-authentication solution, embedded into a small framework.
-- [OmarElGabry/miniPHP](https://github.com/OmarElGabry/miniPHP) - A small, simple PHP MVC framework skeleton that encapsulates a lot of features surrounded with powerful security layers.
+- [OmarElgabry/miniPHP](https://github.com/OmarElgabry/miniPHP) - A small, simple PHP MVC framework skeleton that encapsulates a lot of features surrounded with powerful security layers.
 - [webvimark/user-management](https://github.com/webvimark/user-management) - 
 - [digitalbazaar/php-json-ld](https://github.com/digitalbazaar/php-json-ld) - PHP implementation of a JSON-LD Processor and API
 - [ICanBoogie/CLDR](https://github.com/ICanBoogie/CLDR) - Internationalize your application using Unicode's CLDR
@@ -2044,6 +2047,7 @@
 - [michaelgomes/letmeask](https://github.com/michaelgomes/letmeask) - 
 - [makimenko/angular-template-for-threejs](https://github.com/makimenko/angular-template-for-threejs) - Angular Template For Three.js
 - [prisma/prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
+- [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [jessicaidro/letmeask](https://github.com/jessicaidro/letmeask) - 
 - [aleessandrohr/letmeask](https://github.com/aleessandrohr/letmeask) - Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática.
 - [marcelo-rafael/nlw-06-letmeask](https://github.com/marcelo-rafael/nlw-06-letmeask) - 🚀 Letmeask é uma aplicação Web desenvolvida durante a Next Level Week#6 Together oferecido pela @rocketseat

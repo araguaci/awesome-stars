@@ -202,7 +202,7 @@
 - [drygiel/csslider](https://github.com/drygiel/csslider) - Pure CSS slider
 - [john-smilga/react-projects](https://github.com/john-smilga/react-projects) - 
 - [front10/landing-page-book](https://github.com/front10/landing-page-book) - Fully customizable landing-page components written in React.
-- [tatmorenno/next-level-week-02](https://github.com/tatmorenno/next-level-week-02) - 👨🏻‍🏫👩🏻‍🏫 A aplicação consiste em conectar quem quer aprender com quem ensina. 📳👩🏻‍🎓👩🏻‍🔬👨🏻‍🎓👨🏻‍🔬📖
+- [tatmorenno/next-level-week-02](https://github.com/tatmorenno/next-level-week-02) - 👨🏻‍🎓📳👩🏻‍🏫📖 A aplicação consiste em conectar quem quer aprender com quem ensina.
 - [kartik-v/yii2-mpdf](https://github.com/kartik-v/yii2-mpdf) - A Yii2 wrapper component for the mPDF library which generates PDF files from UTF-8 encoded HTML.
 - [rpocklin/angular-timeline](https://github.com/rpocklin/angular-timeline) - An Angular.JS directive that generates a responsive, data-driven vertical timeline to tell a story,  show history or describe a sequence of events.
 - [cristijora/vue-tabs](https://github.com/cristijora/vue-tabs) - Simplified bootstrap tabs
@@ -671,7 +671,7 @@
 - [tedeh/jayson](https://github.com/tedeh/jayson) - Jayson is a simple but featureful JSON-RPC 2.0/1.0 client and server for node.js
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [robotopia-x/robotopia](https://github.com/robotopia-x/robotopia) - :robot: Introducing kids to coding with tiny virtual robots!
-- [xiaoluoboding/vue-smart-widget](https://github.com/xiaoluoboding/vue-smart-widget) - 🗃️Smart widget is a flexible and extensible content container component for Vue2.x.
+- [xiaoluoboding/vue-smart-widget](https://github.com/xiaoluoboding/vue-smart-widget) - 🗃️Smart widget is a flexible and extensible content container component for Vue2.x / Vue3.x in Next branch.
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [mdn/web-components-examples](https://github.com/mdn/web-components-examples) - A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.
 - [kriasoft/react-firebase-starter](https://github.com/kriasoft/react-firebase-starter) - Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay

@@ -202,7 +202,7 @@
 - [drygiel/csslider](https://github.com/drygiel/csslider) - Pure CSS slider
 - [john-smilga/react-projects](https://github.com/john-smilga/react-projects) - 
 - [front10/landing-page-book](https://github.com/front10/landing-page-book) - Fully customizable landing-page components written in React.
-- [tatmorenno/next-level-week-02](https://github.com/tatmorenno/next-level-week-02) - 👨🏻‍🎓📳👩🏻‍🏫📖 A aplicação consiste em conectar quem quer aprender com quem ensina.
+- [tatmorenno/next-level-week-02](https://github.com/tatmorenno/next-level-week-02) - 👨🏻‍🎓👩🏻‍🏫 A aplicação consiste em conectar quem quer aprender com quem ensina.
 - [kartik-v/yii2-mpdf](https://github.com/kartik-v/yii2-mpdf) - A Yii2 wrapper component for the mPDF library which generates PDF files from UTF-8 encoded HTML.
 - [rpocklin/angular-timeline](https://github.com/rpocklin/angular-timeline) - An Angular.JS directive that generates a responsive, data-driven vertical timeline to tell a story,  show history or describe a sequence of events.
 - [cristijora/vue-tabs](https://github.com/cristijora/vue-tabs) - Simplified bootstrap tabs
@@ -212,7 +212,7 @@
 - [HTMLElements/smart-webcomponents-angular](https://github.com/HTMLElements/smart-webcomponents-angular) - Smart UI for Angular
 - [birobirobiro/casa-criativa](https://github.com/birobirobiro/casa-criativa) - Projeto criado durante o WorkshopDev
 - [meta-magic/amexio.github.io](https://github.com/meta-magic/amexio.github.io) - Amexio is a rich set of Angular 7 (170+) components powered by HTML5 & CSS3 for Responsive Design and with 80+ Material Design Themes, UI Components, Charts, Gauges, Data Point Widgets, Dashboards. Amexio is completely Open Sourced and Free. It's based on Apache 2 License. You can use it in your production grade work today at no cost or no obligation.
-- [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 4 Material Design Admin
+- [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
 - [carbon-design-system/design-language-website](https://github.com/carbon-design-system/design-language-website) - IBM Design Language website
 - [CodeHimBlog/jquery-jside-menu](https://github.com/CodeHimBlog/jquery-jside-menu) - jSide Menu is a well designed, simple and clean side navigation menu with dropdowns.
 - [twbs/ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
@@ -1907,7 +1907,7 @@
 - [node-red/node-red-docker](https://github.com/node-red/node-red-docker) - Repository for all things Node-RED and Docker related
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [agnoster/agnoster-zsh-theme](https://github.com/agnoster/agnoster-zsh-theme) - A ZSH theme designed to disclose information contextually, with a powerline aesthetic
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [sparanoid/live-dl](https://github.com/sparanoid/live-dl) - Monitor and download live streams from YouTube
 - [tiredofit/docker-freepbx](https://github.com/tiredofit/docker-freepbx) - Dockerized FreePBX 15 w/Asterisk 17, Seperate MySQL Database support, and Data Persistence and UCP
 - [ekondayan/docker-3cx](https://github.com/ekondayan/docker-3cx) - Running 3CX under docker. 3CX is a PBX with video conferencing and live chat functions.
@@ -2117,8 +2117,8 @@
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [benawad/fullstack-graphql-airbnb-clone](https://github.com/benawad/fullstack-graphql-airbnb-clone) - A Fullstack GraphQL Airbnb Clone with React and React Native
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [dericgw/tiny-mobx-form](https://github.com/dericgw/tiny-mobx-form) - ✌️Tiny (~2KB) tree-shakable MobX form library
-- [dericgw/react-tiny-fab](https://github.com/dericgw/react-tiny-fab) - 🤖A tiny Floating Action Button for React
+- [dericcain/tiny-mobx-form](https://github.com/dericcain/tiny-mobx-form) - ✌️Tiny (~2KB) tree-shakable MobX form library
+- [dericcain/react-tiny-fab](https://github.com/dericcain/react-tiny-fab) - 🤖A tiny Floating Action Button for React
 - [dgreif/ring](https://github.com/dgreif/ring) - Unofficial API for Ring Doorbells, Cameras, Alarm System, and Smart Lighting
 - [ringcentral/ringcentral-js](https://github.com/ringcentral/ringcentral-js) - RingCentral Connect Platform JS SDK
 - [symphonyoss/SymphonyElectron](https://github.com/symphonyoss/SymphonyElectron) - A desktop client for the Symphony Collaboration Platform built using Electron

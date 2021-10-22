@@ -697,7 +697,6 @@
 - [cunhasbia/to-do-list](https://github.com/cunhasbia/to-do-list) - to-do list application adapted by me, based on a simple project developed for studies during the Javascript Starter course offered by Rocketseat.
 - [cunhasbia/dragons-frontend](https://github.com/cunhasbia/dragons-frontend) - Dragons is a front end application developed with Reactjs that consumes data from Dragons API, and also consumes a login API for authentication to access the app.
 - [mayeaux/nodetube](https://github.com/mayeaux/nodetube) - Open-source YouTube alternative that offers video, audio and image uploads, livestreaming and built-in monetization
-- [hydralite/hydralite](https://github.com/hydralite/hydralite) - Meet the new open-source platform to seamlessly market and manage your product.
 - [rodrigorgtic/cactus-mobile](https://github.com/rodrigorgtic/cactus-mobile) - :iphone: Aplicativo em React Native com efeitos visuais e animações. :tada:
 - [rodrigorgtic/im-mobile](https://github.com/rodrigorgtic/im-mobile) - :iphone:    (WIP - :construction:) IM é um aplicativo mobile para os apaixonados por filmes. Com ele, é possível organizar seus filmes favoritos e marcar quais você já assistiu. É um projeto que eu criei em React Native para aplicar os conceitos de Mobile First com Firebase.
 - [filipedeschamps/video-maker](https://github.com/filipedeschamps/video-maker) - Projeto open source para fazer vídeos automatizados
@@ -749,7 +748,7 @@
 - [fullstackreact/google-maps-react](https://github.com/fullstackreact/google-maps-react) - Companion code to the "How to Write a Google Maps React Component" Tutorial
 - [Akryum/vue-googlemaps](https://github.com/Akryum/vue-googlemaps) - Integrate Google Maps in your Vue application
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low code platform that helps IT professionals build, automate and self-host internal tools in minutes 🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform and the easiest way to build beautiful internal tools  🚀
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [aakashsr/GithubSquare](https://github.com/aakashsr/GithubSquare) - Explore the most starred projects , trending developers , popular repositories of any date and face off Github Profiles of your choice.
 - [klaussinani/ao](https://github.com/klaussinani/ao) - Elegant Microsoft To-Do desktop app
@@ -1002,7 +1001,7 @@
 - [JasonEtco/todo](https://github.com/JasonEtco/todo) - 🤖✅ GitHub App that creates new issues from actionable comments in your code.
 - [csorlandi/app-tipo-ifood](https://github.com/csorlandi/app-tipo-ifood) - 
 - [fisshy/react-scroll](https://github.com/fisshy/react-scroll) - React scroll component
-- [jpedroschmitz/gatsby-starter-ts](https://github.com/jpedroschmitz/gatsby-starter-ts) - TypeScript starter for Gatsby. No plugins and styling. Exactly the necessary to start 🔥
+- [jpedroschmitz/gatsby-starter-ts](https://github.com/jpedroschmitz/gatsby-starter-ts) - TypeScript starter for Gatsby. No plugins and styling. Exactly the necessary to start. Ready for Gatsby v4 🔥
 - [jpedroschmitz/gatsby-starter-rocketdocs](https://github.com/jpedroschmitz/gatsby-starter-rocketdocs) - The documentation starter you were looking for ⚡️
 - [jpedroschmitz/rocketdocs](https://github.com/jpedroschmitz/rocketdocs) - Easy to use Gatsby Theme to create documentation websites ⚡️🔥
 - [barisesen/github-timeline](https://github.com/barisesen/github-timeline) - View other users' timeline

@@ -276,6 +276,7 @@
 
 ## Elixir 
 
+- [DinowSauron/Projeto-Next-Level-Week-7-Heat](https://github.com/DinowSauron/Projeto-Next-Level-Week-7-Heat) - Projeto para expressar suas expectativas para o DoWhile 2021
 - [Glimesh/glimesh.tv](https://github.com/Glimesh/glimesh.tv) - Glimesh is a next generation live streaming platform built by the community, for the community.
 - [rocketseat-education/nlw-06-elixir](https://github.com/rocketseat-education/nlw-06-elixir) - Projeto Wabanex
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
@@ -1397,6 +1398,11 @@
 
 ## Others 
 
+- [OtacilioN/awesome-conteudo-brasil](https://github.com/OtacilioN/awesome-conteudo-brasil) - Uma lista de conteúdos incríveis de tecnologia feito por pessoas brasileiras em PT-BR
+- [OtacilioN/OtacilioN](https://github.com/OtacilioN/OtacilioN) - 
+- [OtacilioN/awesome-hacktoberfest-plant-a-tree](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree) - Will you choose the :sparkles: Hacktoberfest t-shirt :sparkles: but don't want to stop contributing to the environment and a sustainable future? Find an organization here so you can plant a tree! :seedling:
+- [OtacilioN/awesome-hacktoberfest-2021](https://github.com/OtacilioN/awesome-hacktoberfest-2021) - A curated list of awesome Hacktoberfest 2021 repositories, guides and resources
+- [jesherdevsk8/Comandos-Git](https://github.com/jesherdevsk8/Comandos-Git) - Anotações de comandos Git
 - [dgtlmoon/awesome-website-change-monitoring](https://github.com/dgtlmoon/awesome-website-change-monitoring) - A curated list of awesome tools for website diffing and change monitoring.
 - [dgtlmoon/awesome-selfhosted](https://github.com/dgtlmoon/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [react-brasil/empresas-que-usam-react-no-brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil) - Repositório que mostra empresas e projetos que utilizam React no Brasil
@@ -1756,7 +1762,7 @@
 - [potatoqualitee/kbupdate](https://github.com/potatoqualitee/kbupdate) - 🛡 KB Viewer, Saver, Installer and Uninstaller
 - [renatogroffe/Kubernetes-KEDA-Helm-Kafka_WorkerContagem](https://github.com/renatogroffe/Kubernetes-KEDA-Helm-Kafka_WorkerContagem) - Objetos para Deployment de um Worker Service (contagem de acessos) no Kubernetes utilizando KEDA, Helm e Apache Kafka
 - [adbertram/PowerTrello](https://github.com/adbertram/PowerTrello) - PowerTrello is a PowerShell module for interacting with the Trello web service.
-- [lukesampson/scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
+- [ScoopInstaller/scoop](https://github.com/ScoopInstaller/scoop) - A command-line installer for Windows.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [adbertram/Random-PowerShell-Work](https://github.com/adbertram/Random-PowerShell-Work) - Random PowerShell Work
 - [mlocati/powershell-phpmanager](https://github.com/mlocati/powershell-phpmanager) - A PowerShell module to install/update PHP, PHP extensions and Composer on Windows
@@ -1773,6 +1779,7 @@
 
 ## Python 
 
+- [uvipen/ASCII-generator](https://github.com/uvipen/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [kongdd/ubuntu-config](https://github.com/kongdd/ubuntu-config) - System Init
 - [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team
@@ -1951,6 +1958,7 @@
 
 ## TypeScript 
 
+- [devweslen/nlw-heat](https://github.com/devweslen/nlw-heat) - Application developed to practice learned technologies. Made at the NextLevel Week (NLW) event hosted by @Rocketseat.
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [felixrieseberg/electron-wix-msi](https://github.com/felixrieseberg/electron-wix-msi) - :dvd: Create traditional MSI installers for your Electron app

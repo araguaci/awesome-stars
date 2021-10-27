@@ -984,7 +984,7 @@
 - [leecade/react-native-swiper](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
 - [hupe1980/wapps-components](https://github.com/hupe1980/wapps-components) - A collection of react components: google-maps, stripe-checkout, animation-frame, ...
 - [MichaelBarney/Dialogflow-Twilio-Whatsapp-Conector](https://github.com/MichaelBarney/Dialogflow-Twilio-Whatsapp-Conector) - Javascript base for Twilio Whatsapp Chatbots integrated with the Dialogflow Framework
-- [ooade/NextSimpleStarter](https://github.com/ooade/NextSimpleStarter) - :whale: Simple and Accessible PWA boilerplate with Nextjs 10 and MUI
+- [ooade/NextSimpleStarter](https://github.com/ooade/NextSimpleStarter) - :whale: Simple and Accessible PWA boilerplate with Nextjs 12 and MUI
 - [PatrickJS/NG6-starter](https://github.com/PatrickJS/NG6-starter) - :ng: An AngularJS Starter repo for AngularJS + ES6 + Webpack
 - [digitalbazaar/minimal-cipher](https://github.com/digitalbazaar/minimal-cipher) - Minimal encryption/decryption JWE library, secure algs only, browser-compatible.
 - [digitalbazaar/bedrock](https://github.com/digitalbazaar/bedrock) - Bedrock: A core foundation for rich Web applications.
@@ -1107,7 +1107,7 @@
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
 - [HelioSilva/Whatsapp-bot-NodeJS](https://github.com/HelioSilva/Whatsapp-bot-NodeJS) - Whatsapp bot para delivery de uma lanchonete usando NodeJS.
 - [nhn/toast-ui.doc](https://github.com/nhn/toast-ui.doc) - 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (September 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (October 2021)
 - [CodAffection/Angular-7-Master-Detail-CRUD-with-Web-API](https://github.com/CodAffection/Angular-7-Master-Detail-CRUD-with-Web-API) - Angular 7 Master Detail CRUD with Web API
 - [phonegap/phonegap-mobile-accessibility](https://github.com/phonegap/phonegap-mobile-accessibility) - PhoneGap plugin to expose mobile accessibility APIs.
 - [techiediaries/fake-api-jwt-json-server](https://github.com/techiediaries/fake-api-jwt-json-server) - A Fake API with JWT Authentication using json-server and jsonwebtoken

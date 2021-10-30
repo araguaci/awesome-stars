@@ -2149,7 +2149,7 @@
 - [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript.
 - [dancancro/great-big-example-application](https://github.com/dancancro/great-big-example-application) - A full-stack example app built with JHipster, Spring Boot, Kotlin, Angular 4, ngrx, and Webpack
 - [reach/reach-ui](https://github.com/reach/reach-ui) - The Accessible Foundation for React Apps and Design Systems
-- [blockstack/stacks-wallet](https://github.com/blockstack/stacks-wallet) - Stacks Wallet—Send and receive STX tokens on the Stacks Blockchain.
+- [hirosystems/stacks-wallet](https://github.com/hirosystems/stacks-wallet) - Stacks Wallet—Send and receive STX tokens on the Stacks Blockchain.
 - [kata-ai/aksara-ui](https://github.com/kata-ai/aksara-ui) - Aksara Design System, from Kata.ai.
 - [blockstack/docs](https://github.com/blockstack/docs) - All you need to build decentralized apps and write smart contracts.
 - [LauraBeatris/floripamais](https://github.com/LauraBeatris/floripamais) - Website of the Floripa+ organization - built with Next.js and integrated with Strapi CMS

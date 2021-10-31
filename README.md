@@ -177,7 +177,7 @@
 - [imranhsayed/frontity-twentynineteen](https://github.com/imranhsayed/frontity-twentynineteen) - :art: A Frontity Twentynineteen theme Project
 - [muan/emoji](https://github.com/muan/emoji) - :love_letter: Find the emoji that echoes your mind.
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
-- [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Win 11 in React 💻🌈⚡
+- [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [spf13/hyde](https://github.com/spf13/hyde) - Port of Mdo's excellent theme to Hugo
 - [vorillaz/devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers
 - [maxogden/screencat](https://github.com/maxogden/screencat) - :cat2: webrtc screensharing electron app for mac os (Alpha)
@@ -936,7 +936,6 @@
 - [sindresorhus/capture-website](https://github.com/sindresorhus/capture-website) - Capture screenshots of websites
 - [jonmiles/react-native-viewpager](https://github.com/jonmiles/react-native-viewpager) - Reference project, demonstrate gesture based horizontal page scrolling in React Native using Animated.View and PanResponder.
 - [JabRef/cloudref](https://github.com/JabRef/cloudref) - CloudRef - collaboratively managing references in the cloud
-- [ondras/my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
 - [drichard/mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application leveraging HTML5 technologies
 - [jonmiles/bootstrap-treeview](https://github.com/jonmiles/bootstrap-treeview) - Tree View for Twitter Bootstrap -
 - [react-component/tree](https://github.com/react-component/tree) - React Tree
@@ -2168,6 +2167,7 @@
 - [parlametria/perfil-parlamentar](https://github.com/parlametria/perfil-parlamentar) - Compatibilidade entre eleitor e os candidatos a Deputado Federal com base na Agenda Brasil Sustentável
 - [fullcalendar/fullcalendar-scheduler](https://github.com/fullcalendar/fullcalendar-scheduler) - FullCalendar add-on for displaying events and resources
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
+- [ondras/my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
 - [callstack/react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
 - [venits/react-native-firebase-login-template-typescript](https://github.com/venits/react-native-firebase-login-template-typescript) - React Native Login Template with Firebase Authorization and Typescript support.
 - [styfle/packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project

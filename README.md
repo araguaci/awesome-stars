@@ -501,6 +501,8 @@
 
 ## JavaScript 
 
+- [ildaneta/challenges](https://github.com/ildaneta/challenges) - 👩🏻‍💻  This repository is dedicated to challenges that I perform in random ways, which can be from a study, or an application for articles that I create. 😊
+- [ildaneta/my-personal-blog-gatsby](https://github.com/ildaneta/my-personal-blog-gatsby) - 🙆🏻‍♀️.  This is a repository of my blog, when I used the Gatsby and GraphQL to built this application. 🌼
 - [Rajesh-Royal/React-Js-Todo-App-with-firebase-auth](https://github.com/Rajesh-Royal/React-Js-Todo-App-with-firebase-auth) - TodoApp using ReactJS and Firebase | ReactJS, Material UI, Firebase, ExpressJS
 - [girliemac/fb-apiai-bot-demo](https://github.com/girliemac/fb-apiai-bot-demo) - A simple example of Facebook Chat Bot using API.ai
 - [terreng/simple-web-server](https://github.com/terreng/simple-web-server) - A continuation of Web Server for Chrome, built with Electron.
@@ -707,7 +709,6 @@
 - [diego3g/electron-typescript-react](https://github.com/diego3g/electron-typescript-react) - :electron: An Electron boilerplate including TypeScript, React, Jest and ESLint.
 - [720kb/checkbox.css](https://github.com/720kb/checkbox.css) - :ballot_box_with_check: Tiny set of pure CSS animations for your checkbox input. https://720kb.github.io/checkbox.css/
 - [Maxzilla60/Spelling-with-Elements](https://github.com/Maxzilla60/Spelling-with-Elements) - Spell out a word using the elements on the periodic table!
-- [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
 - [vega/vega](https://github.com/vega/vega) - A visualization grammar.
 - [enesser/earth-webgl](https://github.com/enesser/earth-webgl) - Photorealistic 3D earth and space scene demo rendered and animated in WebGL.
 - [metadoc/metadoc.js](https://github.com/metadoc/metadoc.js) - Generates JSON metadata for Object Oriented JavaScript libraries. Used as a source for generating documentation.
@@ -1266,7 +1267,7 @@
 - [firebase/functions-samples](https://github.com/firebase/functions-samples) - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
 - [schmich/instascan](https://github.com/schmich/instascan) - HTML5 QR code scanner using your webcam
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
-- [fonoster/fonos](https://github.com/fonoster/fonos) - 🚀 An open-source alternative to Twilio.
+- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 An open-source alternative to Twilio.
 - [igorantun/node-chat](https://github.com/igorantun/node-chat) - :speech_balloon: Chat application built with NodeJS and Material Design
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [rocketseat-content/youtube-cli-node-gluegun](https://github.com/rocketseat-content/youtube-cli-node-gluegun) - Código produzido durante o vídeo "Criando uma CLI com NodeJS e Gluegun"
@@ -1956,6 +1957,9 @@
 
 ## TypeScript 
 
+- [picturama/picturama](https://github.com/picturama/picturama) - Digital image organizer powered by the web
+- [uiwjs/react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
+- [uiwjs/react-markdown-preview](https://github.com/uiwjs/react-markdown-preview) - React component preview markdown text in web browser. The minimal amount of CSS to replicate the GitHub Markdown style.
 - [devweslen/nlw-heat](https://github.com/devweslen/nlw-heat) - Application developed to practice learned technologies. Made at the NextLevel Week (NLW) event hosted by @Rocketseat.
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
@@ -2078,6 +2082,7 @@
 - [Maxzilla60/AC-Lister](https://github.com/Maxzilla60/AC-Lister) - Animal Crossing ★ Villager Lister
 - [diego3g/responsive-native](https://github.com/diego3g/responsive-native) - A responsive utility toolkit for React Native 📱⚛
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
+- [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
 - [swimlane/ngx-graph](https://github.com/swimlane/ngx-graph) - Graph visualization library for angular
 - [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable) - ✨  A feature-rich yet lightweight data-table crafted for Angular
 - [swimlane/ngx-ui](https://github.com/swimlane/ngx-ui) - 🚀  Style and Component Library for Angular
@@ -2207,7 +2212,7 @@
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [microsoft/opensource-portal](https://github.com/microsoft/opensource-portal) - Microsoft's monolithic GitHub Management Portal enabling enterprise scale self-service powered by the GitHub API 🏔🧑‍💻🧰
 - [eugustavo/github-badges](https://github.com/eugustavo/github-badges) - Application made to create badges for your readme 📑
-- [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - TypeScript starter for Next.js that includes all you need to build amazing apps ⚡️
+- [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js. All the tools you need to build your next project ⚡️
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [pocka/storybook-addon-designs](https://github.com/pocka/storybook-addon-designs) - A Storybook addon that embeds Figma, websites, or images in the addon panel.
 - [pocka/storybook-addon-vue-info](https://github.com/pocka/storybook-addon-vue-info) - Info addon for Vue components
@@ -2397,7 +2402,7 @@
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [tbreuss/dns-blacklist-check](https://github.com/tbreuss/dns-blacklist-check) - DNS Blacklist Check // Tiny example project using Vue.js and Server-Sent Events (SSE)
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-- [coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - CoreUI Vue is free Vue admin template based on Bootstrap 4
+- [coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - Open source admin template based on Bootstrap 5 and Vue 3
 - [dockeron/dockeron](https://github.com/dockeron/dockeron) - 🤖🤖🤖 Electron + Vue.js for Docker
 - [jsfanatik/vuestacks-calendar-vue-firebase](https://github.com/jsfanatik/vuestacks-calendar-vue-firebase) - 
 - [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer

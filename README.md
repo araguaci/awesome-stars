@@ -434,7 +434,6 @@
 - [vinitshahdeo/Quotter](https://github.com/vinitshahdeo/Quotter) - :robot: A Twitter bot which tweets random quotes with image and #hashtags :bird: :bell:
 - [chamkank/flask-chatterbot](https://github.com/chamkank/flask-chatterbot) - Simple boilerplate for ChatterBot using Flask
 - [madrobby/zepto](https://github.com/madrobby/zepto) - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API
-- [flutter/website](https://github.com/flutter/website) - Flutter web site
 - [metafizzy/infinite-scroll](https://github.com/metafizzy/infinite-scroll) - 📜 Automatically add next page
 - [sergiopeluzzi/festadasnacoes](https://github.com/sergiopeluzzi/festadasnacoes) - Projeto de TCC do Curso de Sistemas de Informação - UNESC - Cacoal/RO - Acadêmicos: Sergio Peluzzi e Diego Noronha
 - [rampatra/animatescroll.js](https://github.com/rampatra/animatescroll.js) - A Simple jQuery Plugin for Animating Scroll
@@ -1259,7 +1258,7 @@
 - [BrasilAPI/BrasilAPI](https://github.com/BrasilAPI/BrasilAPI) - Vamos transformar o Brasil em uma API?
 - [bndes/bndestoken](https://github.com/bndes/bndestoken) - Token para representar as liberações do BNDES de forma a prover mais transparência de recursos públicos.
 - [bndes/trubudget-bndes](https://github.com/bndes/trubudget-bndes) - This repository contains the software developed in BNDES related to the KfW Trubudget system.
-- [sendbird/SendBird-JavaScript](https://github.com/sendbird/SendBird-JavaScript) - A guide of the installation and functions of Sendbird Chat, UIKit, and SyncManager for JavaScript samples.
+- [sendbird/sendbird-javascript-samples](https://github.com/sendbird/sendbird-javascript-samples) - A guide of the installation and functions of Sendbird Chat, UIKit, and SyncManager for JavaScript samples.
 - [verbatim/css_browser_selector](https://github.com/verbatim/css_browser_selector) - A very small javascript library that allows you to create browser, platform, device, and even version specific CSS to be merged into your normal classes. No more hacks or mischievous code in your CSS.
 - [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
 - [rafaelp/css_browser_selector](https://github.com/rafaelp/css_browser_selector) - A very small javascript library that allows you to create browser specific CSS to be merged into your normal classes. No more hacks or mischievous code in your CSS code.
@@ -1883,6 +1882,7 @@
 - [creativetimofficial/material-dashboard-angular2](https://github.com/creativetimofficial/material-dashboard-angular2) - Material Dashboard Angular
 - [creativetimofficial/now-ui-kit-angular](https://github.com/creativetimofficial/now-ui-kit-angular) - 
 - [loiane/reactive-spring-angular](https://github.com/loiane/reactive-spring-angular) - :rocket: Simple application demonstrating Spring Webflux API + Angular/RxJS client.
+- [flutter/website](https://github.com/flutter/website) - Flutter web site
 
 ## Scheme 
 

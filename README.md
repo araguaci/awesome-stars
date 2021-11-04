@@ -77,7 +77,7 @@
 - [kamailio/kamailio](https://github.com/kamailio/kamailio) - Kamailio - The Open Source SIP Server for large VoIP and real-time communication platforms -
 - [baresip/baresip](https://github.com/baresip/baresip) - Baresip is a modular SIP User-Agent with audio and video support
 - [devkitPro/3ds-examples](https://github.com/devkitPro/3ds-examples) - Examples for 3DS using devkitARM, libctru, citro3d and citro2d
-- [semiromid/compress-images](https://github.com/semiromid/compress-images) - Minify size your images. Image compression with extension: jpg/jpeg, svg, png, gif. NodeJs
+- [Yuriy-Svetlov/compress-images](https://github.com/Yuriy-Svetlov/compress-images) - Minify size your images. Image compression with extension: jpg/jpeg, svg, png, gif. NodeJs
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [Imagick/imagick](https://github.com/Imagick/imagick) - 🌈 The Imagick PHP extension 🌈
 - [jedisct1/libsodium-php](https://github.com/jedisct1/libsodium-php) - The PHP extension for libsodium.
@@ -368,7 +368,7 @@
 - [Timoteoo/log-user-actions](https://github.com/Timoteoo/log-user-actions) - Basic app that logs to the database some things that the user do, such as login dates, amount of times that some user logged in...
 - [rocketseat-content/youtube-git-guia-pratico-iniciante](https://github.com/rocketseat-content/youtube-git-guia-pratico-iniciante) - 
 - [720kb/angular-socialshare](https://github.com/720kb/angular-socialshare) - Angular social share module, share urls and content on social networks such as facebook, google+, twitter, pinterest and more ... - http://720kb.github.io/angular-socialshare
-- [sindresorhus/screenfull.js](https://github.com/sindresorhus/screenfull.js) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
+- [sindresorhus/screenfull](https://github.com/sindresorhus/screenfull) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
 - [BMSVieira/EasyGrid](https://github.com/BMSVieira/EasyGrid) - EasyGrid - VanillaJS Responsive Grid
 - [web-tiki/responsive-grid-of-hexagons](https://github.com/web-tiki/responsive-grid-of-hexagons) - CSS responsive grid of hexagons
 - [olton/Pandora](https://github.com/olton/Pandora) - Pandora - Admin Template built with Metro 4
@@ -542,7 +542,7 @@
 - [lwsjs/local-web-server](https://github.com/lwsjs/local-web-server) - A lean, modular web server for rapid full-stack development.
 - [gokulkrishh/qrcodescan.in](https://github.com/gokulkrishh/qrcodescan.in) - 📠 A simple, fast, and useful progressive web application.
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
-- [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
+- [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [AmruthPillai/ResumeOnTheWeb-Gatsby](https://github.com/AmruthPillai/ResumeOnTheWeb-Gatsby) - Everyone needs their own little spot on the interwebs, and this is mine. Welcome to my resume, on the web!
 - [WebDevsCom/webDevsCom](https://github.com/WebDevsCom/webDevsCom) - :heart_eyes: All kinds of resources for Developers :trident: in one place.
 - [zonayedpca/electron-gatsby-boilerplate](https://github.com/zonayedpca/electron-gatsby-boilerplate) - Simple Minimal Electron Gatsby Boilerplate. Create new BrowserWindow easily and speed up your development experience. Also included Automatic Linting, Redux, TravisCI Configuration and GitHub Release.
@@ -1181,7 +1181,7 @@
 - [LeanKit-Labs/lux.js](https://github.com/LeanKit-Labs/lux.js) - Flux-based architecture for using ReactJS at LeanKit
 - [explooosion/browndust-share](https://github.com/explooosion/browndust-share) - This website is for browndust formation sharing
 - [tediousjs/node-mssql](https://github.com/tediousjs/node-mssql) - Microsoft SQL Server client for Node.js
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use multi SQL dialect ORM tool for Node.js
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js
 - [EmailThis/extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) - ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -1787,7 +1787,6 @@
 - [nodejs/node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool
 - [maxammann/trello-to-deck](https://github.com/maxammann/trello-to-deck) - trello-to-deck reads from an JSON export of Trello and creates a board in Nextcloud Deck.
 - [nextcloud/appstore](https://github.com/nextcloud/appstore) - :convenience_store: App Store for Nextcloud
-- [ederalmeida/robo_sap](https://github.com/ederalmeida/robo_sap) - 
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [github-tooling/ghtopdep](https://github.com/github-tooling/ghtopdep) - :star: CLI tool for sorting dependents repo by stars

@@ -1266,7 +1266,7 @@
 - [firebase/functions-samples](https://github.com/firebase/functions-samples) - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
 - [schmich/instascan](https://github.com/schmich/instascan) - HTML5 QR code scanner using your webcam
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
-- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
+- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio
 - [igorantun/node-chat](https://github.com/igorantun/node-chat) - :speech_balloon: Chat application built with NodeJS and Material Design
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [rocketseat-content/youtube-cli-node-gluegun](https://github.com/rocketseat-content/youtube-cli-node-gluegun) - Código produzido durante o vídeo "Criando uma CLI com NodeJS e Gluegun"
@@ -1370,7 +1370,7 @@
 - [owncloud/android](https://github.com/owncloud/android) - :phone: The ownCloud Android App
 - [android/compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
 - [android/uamp](https://github.com/android/uamp) - A sample audio app for Android
-- [atomoton/uncomplicatedIChing](https://github.com/atomoton/uncomplicatedIChing) - A repo for the source code of my I Ching Android app
+- [aebrer/uncomplicatedIChing](https://github.com/aebrer/uncomplicatedIChing) - A repo for the source code of my I Ching Android app
 
 ## Lua 
 

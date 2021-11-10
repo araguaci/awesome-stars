@@ -19,6 +19,8 @@
   - [Check for outdated, incorrect, and unused dependencies](https://github.com/dylang/npm-check)
   - [🔥The web open source editor for presentations](https://github.com/deckgo/deckdeckgo#getting-started)
   - [🛁 Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - [🔗 Some useful websites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+  - [🧙‍♂️A list of /uses pages detailing developer setups, gear, software and configs](https://github.com/wesbos/awesome-uses)
 
 
 ### Components

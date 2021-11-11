@@ -340,6 +340,8 @@
 
 ## HTML 
 
+- [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
+- [gopinav/Practical-React](https://github.com/gopinav/Practical-React) - Sample code demonstrating the usage of a few popular react packages
 - [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀
 - [videosdk-live/videosdk-rtc-js-prebuilt-embedded-example](https://github.com/videosdk-live/videosdk-rtc-js-prebuilt-embedded-example) - Low Code Prebuilt example of Video SDK using plain JS and HTML.
 - [ykob/shape-overlays](https://github.com/ykob/shape-overlays) - Multi-layered SVG shape overlays with adjustable values for a variety of effects. By Yoichi Kobayashi.
@@ -500,6 +502,10 @@
 
 ## JavaScript 
 
+- [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
+- [pranjaljain0/portfolio-react](https://github.com/pranjaljain0/portfolio-react) - A portfolio website built with react js
+- [gopinav/Next-JS-Tutorials](https://github.com/gopinav/Next-JS-Tutorials) - Source code related to the Next.js tutorial series on YouTube
+- [gopinav/React-TypeScript-Webpack-Starter](https://github.com/gopinav/React-TypeScript-Webpack-Starter) - A starter template for React projects with TypeScript and Webpack 5 with Fast refresh
 - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [ildaneta/challenges](https://github.com/ildaneta/challenges) - 👩🏻‍💻  This repository is dedicated to challenges that I perform in random ways, which can be from a study, or an application for articles that I create. 😊
 - [ildaneta/my-personal-blog-gatsby](https://github.com/ildaneta/my-personal-blog-gatsby) - 🙆🏻‍♀️.  This is a repository of my blog, when I used the Gatsby and GraphQL to built this application. 🌼
@@ -1315,7 +1321,7 @@
 - [thomasboyt/web-audio-recording-demo](https://github.com/thomasboyt/web-audio-recording-demo) - uses recorderjs + web audio api. chrome only.
 - [Funnl/dashboard](https://github.com/Funnl/dashboard) - dashboard for Funnl
 - [cwilso/AudioRecorder](https://github.com/cwilso/AudioRecorder) - Simple live audio file recorder, based on RecorderJS
-- [MicrosoftEdge/Demos](https://github.com/MicrosoftEdge/Demos) - Open source and interoperable demos for Microsoft Edge Dev site
+- [MicrosoftEdge/Demos-old](https://github.com/MicrosoftEdge/Demos-old) - Open source and interoperable demos for Microsoft Edge Dev site
 - [nosir/obelisk.js](https://github.com/nosir/obelisk.js) - Build pixel isometric graphics with HTML5 canvas
 - [esteinborn/jquery-listnav](https://github.com/esteinborn/jquery-listnav) - Add a slick "letter-based" navigation bar to all of your lists. Click a letter to quickly filter the list to items that match that letter. Compatible with jQuery 3.0+ For previous versions of jQuery, use a release prior to ListNav 3.0.0
 - [wagerfield/parallax](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device
@@ -1396,6 +1402,8 @@
 
 ## Others 
 
+- [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [OtacilioN/awesome-conteudo-brasil](https://github.com/OtacilioN/awesome-conteudo-brasil) - Uma lista de conteúdos incríveis de tecnologia feito por pessoas brasileiras em PT-BR
 - [OtacilioN/OtacilioN](https://github.com/OtacilioN/OtacilioN) - 
 - [OtacilioN/awesome-hacktoberfest-plant-a-tree](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree) - Will you choose the :sparkles: Hacktoberfest t-shirt :sparkles: but don't want to stop contributing to the environment and a sustainable future? Find an organization here so you can plant a tree! :seedling:
@@ -1956,6 +1964,7 @@
 
 ## TypeScript 
 
+- [Codecademy/docs](https://github.com/Codecademy/docs) - Codecademy Docs is a collection of information for all things code. 📕
 - [picturama/picturama](https://github.com/picturama/picturama) - Digital image organizer powered by the web
 - [uiwjs/react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
 - [uiwjs/react-markdown-preview](https://github.com/uiwjs/react-markdown-preview) - React component preview markdown text in web browser. The minimal amount of CSS to replicate the GitHub Markdown style.

@@ -503,6 +503,8 @@
 
 ## JavaScript 
 
+- [theturtle32/WebSocket-Node](https://github.com/theturtle32/WebSocket-Node) - A WebSocket Implementation for Node.JS (Draft -08 through the final RFC 6455)
+- [dangrossman/daterangepicker](https://github.com/dangrossman/daterangepicker) - JavaScript Date Range, Date and Time Picker Component
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 - [pranjaljain0/portfolio-react](https://github.com/pranjaljain0/portfolio-react) - A portfolio website built with react js
 - [gopinav/Next-JS-Tutorials](https://github.com/gopinav/Next-JS-Tutorials) - Source code related to the Next.js tutorial series on YouTube
@@ -1536,6 +1538,7 @@
 
 ## PHP 
 
+- [silverstripe/silverstripe-framework](https://github.com/silverstripe/silverstripe-framework) - SilverStripe Framework, the MVC framework that powers SilverStripe CMS
 - [CViniciusSDias/php-text-to-speech](https://github.com/CViniciusSDias/php-text-to-speech) - A simple PHP tool that uses each OS text-to-speech CLI
 - [spekulatius/PHPScraper](https://github.com/spekulatius/PHPScraper) - PHP Scraper - an highly opinionated web-interface for PHP
 - [slimphp/Slim](https://github.com/slimphp/Slim) - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
@@ -2221,7 +2224,7 @@
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [pwa-builder/pwa-starter](https://github.com/pwa-builder/pwa-starter) - Welcome to the PWABuilder pwa-starter! Looking to build a new Progressive Web App and not sure where to get started? This is what you are looking for!
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
-- [microsoft/opensource-portal](https://github.com/microsoft/opensource-portal) - Microsoft's monolithic GitHub Management Portal enabling enterprise scale self-service powered by the GitHub API 🏔🧑‍💻🧰
+- [microsoft/opensource-management-portal](https://github.com/microsoft/opensource-management-portal) - Microsoft's monolithic GitHub Management Portal enabling enterprise scale self-service powered by the GitHub API 🏔🧑‍💻🧰
 - [eugustavo/github-badges](https://github.com/eugustavo/github-badges) - Application made to create badges for your readme 📑
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js. All the tools you need to build your next project ⚡️
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
@@ -2354,7 +2357,7 @@
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [rocketseat-content/youtube-clone-twitter](https://github.com/rocketseat-content/youtube-clone-twitter) - Responsive Twitter UI clone for study purposes.
-- [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminBro is an admin panel for apps written in node.js
+- [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [johnpapa/angular-preload-and-interceptors](https://github.com/johnpapa/angular-preload-and-interceptors) - 
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - Open source editor that brings visual editing into React websites. A developer-centric CMS to build contextual and intuitive editing experience without sacrificing code quality.

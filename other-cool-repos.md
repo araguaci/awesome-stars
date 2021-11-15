@@ -21,6 +21,7 @@
   - [🛁 Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
   - [🔗 Some useful websites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
   - [🧙‍♂️A list of /uses pages detailing developer setups, gear, software and configs](https://github.com/wesbos/awesome-uses)
+  - [⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator](https://github.com/prayash/awesome-gatsby)
 
 
 ### Components

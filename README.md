@@ -340,6 +340,7 @@
 
 ## HTML 
 
+- [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
 - [gopinav/Practical-React](https://github.com/gopinav/Practical-React) - Sample code demonstrating the usage of a few popular react packages
 - [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀
@@ -1542,6 +1543,8 @@
 
 ## PHP 
 
+- [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.
+- [iolevel/peachpie-samples](https://github.com/iolevel/peachpie-samples) - Sample projects demonstrating use of Peachpie - the PHP compiler and runtime for .NET
 - [intuit/QuickBooks-V3-PHP-SDK](https://github.com/intuit/QuickBooks-V3-PHP-SDK) - Official PHP SDK for QuickBooks REST API v3.0: https://developer.intuit.com/
 - [silverstripe/silverstripe-framework](https://github.com/silverstripe/silverstripe-framework) - SilverStripe Framework, the MVC framework that powers SilverStripe CMS
 - [CViniciusSDias/php-text-to-speech](https://github.com/CViniciusSDias/php-text-to-speech) - A simple PHP tool that uses each OS text-to-speech CLI
@@ -1974,6 +1977,7 @@
 
 ## TypeScript 
 
+- [geckosio/geckos.io](https://github.com/geckosio/geckos.io) - 🦎 Real-time client/server communication over UDP using WebRTC and Node.js http://geckos.io
 - [Codecademy/docs](https://github.com/Codecademy/docs) - Codecademy Docs is a collection of information for all things code. 📕
 - [picturama/picturama](https://github.com/picturama/picturama) - Digital image organizer powered by the web
 - [uiwjs/react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.

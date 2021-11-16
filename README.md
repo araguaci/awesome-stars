@@ -129,6 +129,7 @@
 
 ## C++ 
 
+- [Kurento/kurento-media-server](https://github.com/Kurento/kurento-media-server) - Media Server responsible for media transmission, processing, loading and recording
 - [dannagle/PacketSender](https://github.com/dannagle/PacketSender) - Network utility for sending / receiving TCP, UDP, SSL
 - [mapbox/mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
@@ -170,6 +171,7 @@
 
 ## CSS 
 
+- [NiallEccles/Hacktoberfest-animations](https://github.com/NiallEccles/Hacktoberfest-animations) - Small animation selector for Hacktoberfest
 - [ykob/fullscreen-slider](https://github.com/ykob/fullscreen-slider) - This asset controls sections in a page.   It resizes sections to fullscreen resolution and moves these individually by wheel/touch events.
 - [alssndro/trianglify-background-generator](https://github.com/alssndro/trianglify-background-generator) - Generate backgrounds using the trianglify plugin
 - [shgysk8zer0/core-css](https://github.com/shgysk8zer0/core-css) - A collection of CSS styles, categoiezed by files, which are useful on common projects
@@ -340,6 +342,7 @@
 
 ## HTML 
 
+- [Shubham56-droid/HTML-CSS-JavaScript-Projects](https://github.com/Shubham56-droid/HTML-CSS-JavaScript-Projects) - Webdevelopemt Projects
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
 - [gopinav/Practical-React](https://github.com/gopinav/Practical-React) - Sample code demonstrating the usage of a few popular react packages
@@ -504,6 +507,13 @@
 
 ## JavaScript 
 
+- [parmsang/gatsby-starter-ecommerce](https://github.com/parmsang/gatsby-starter-ecommerce) - Gatsby starter for creating an eCommerce site using the Moltin eCommerce Api
+- [rcaferati/react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) - React content transition slider. Awesome Slider is a 60fps, light weight, performant component that renders an animated set of production ready UI general purpose sliders with fullpage transition support for NextJS and GatsbyJS. 🖥️ 📱
+- [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
+- [jekuer/add-to-calendar-button](https://github.com/jekuer/add-to-calendar-button) - A convenient JavaScript snippet, which lets you create beautiful buttons, where people can add events to their calendars.
+- [javierbyte/img2css](https://github.com/javierbyte/img2css) - Convert any image to pure CSS. Recreates images using only box-shadows.
+- [javierbyte/pintr](https://github.com/javierbyte/pintr) - Create single line SVG illustrations from your pictures
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [adrianhajdin/portfolio_website](https://github.com/adrianhajdin/portfolio_website) - Tutorial created by Enyel Sequeira, taught by JavaScript Mastery
 - [adrianhajdin/project_news_alan_ai](https://github.com/adrianhajdin/project_news_alan_ai) - In this video, we're going to build a Conversational Voice Controlled React News Application using Alan AI. Alan AI is a revolutionary speech recognition software that allows you to add voice capabilities to your applications.
 - [billbarsch/myzap](https://github.com/billbarsch/myzap) - Free Open Source Whatsapp Api
@@ -743,6 +753,7 @@
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [MEGAMINDMK/Php-Electronjs](https://github.com/MEGAMINDMK/Php-Electronjs) - A working php server with electronjs fully customizable & easy to use
 - [mglaman/conductor](https://github.com/mglaman/conductor) - A Composer user interface built using Electron.
+- [tmdh/laravel-kit](https://github.com/tmdh/laravel-kit) - A desktop Laravel admin panel app
 - [aj-techsoul/ELECTRON-4-PHP](https://github.com/aj-techsoul/ELECTRON-4-PHP) - An easiest way to use php in electron
 - [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design 2.0 UI KIT
 - [mirari/vue-fullscreen](https://github.com/mirari/vue-fullscreen) - A simple Vue.js component for fullscreen
@@ -1410,6 +1421,7 @@
 
 ## Others 
 
+- [prayash/awesome-gatsby](https://github.com/prayash/awesome-gatsby) - ⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.
 - [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 - [wcota/covid19br](https://github.com/wcota/covid19br) - Confirmed cases and deaths of COVID-19 in Brazil, at municipal (city) level. Description of the data: https://github.com/wcota/covid19br/blob/master/DESCRIPTION.en.md and https://doi.org/10.1590/SciELOPreprints.362
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
@@ -1454,7 +1466,7 @@
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 - [frontendbr/open-source](https://github.com/frontendbr/open-source) - Quer uma ajuda para seu projeto? Crie uma issue!
 - [felipefialho/frontend-challenges](https://github.com/felipefialho/frontend-challenges) - :boom: Listing some playful open-source's challenges of companies to test your knowledge
-- [maziarraissi/Applied-Deep-Learning](https://github.com/maziarraissi/Applied-Deep-Learning) - Applied Deep Learning
+- [maziarraissi/Applied-Deep-Learning](https://github.com/maziarraissi/Applied-Deep-Learning) - Applied Deep Learning Course
 - [mbiesiad/awesome-translations](https://github.com/mbiesiad/awesome-translations) - 😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍
 - [tokenmill/awesome-nlg](https://github.com/tokenmill/awesome-nlg) - A curated list of resources dedicated to Natural Language Generation (NLG)
 - [brycejohnston/awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) - Open source technology for agriculture, farming, and gardening
@@ -1543,6 +1555,7 @@
 
 ## PHP 
 
+- [jekuer/php-microsite-boilerplate](https://github.com/jekuer/php-microsite-boilerplate) - An extremely simple and lightweight PHP framework/boilerplate to spin-up microsites at high speed. Optimized for Performance, Security, SEO, and Directus CMS.
 - [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.
 - [iolevel/peachpie-samples](https://github.com/iolevel/peachpie-samples) - Sample projects demonstrating use of Peachpie - the PHP compiler and runtime for .NET
 - [intuit/QuickBooks-V3-PHP-SDK](https://github.com/intuit/QuickBooks-V3-PHP-SDK) - Official PHP SDK for QuickBooks REST API v3.0: https://developer.intuit.com/
@@ -1977,6 +1990,9 @@
 
 ## TypeScript 
 
+- [Vagr9K/gatsby-advanced-starter](https://github.com/Vagr9K/gatsby-advanced-starter) - A high performance skeleton starter for GatsbyJS with an advanced feature set.
+- [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization options.
+- [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.
 - [geckosio/geckos.io](https://github.com/geckosio/geckos.io) - 🦎 Real-time client/server communication over UDP using WebRTC and Node.js http://geckos.io
 - [Codecademy/docs](https://github.com/Codecademy/docs) - Codecademy Docs is a collection of information for all things code. 📕
 - [picturama/picturama](https://github.com/picturama/picturama) - Digital image organizer powered by the web
@@ -2411,7 +2427,6 @@
 - [Datlyfe/jira_clone](https://github.com/Datlyfe/jira_clone) - A Jira clone built with Vuejs & Nodejs/Graphql
 - [kadinzhang/Periodicity](https://github.com/kadinzhang/Periodicity) - A modern, powerful periodic table
 - [schoolofnetcom/cms-electron-php](https://github.com/schoolofnetcom/cms-electron-php) - 
-- [tmdh/laravel-kit](https://github.com/tmdh/laravel-kit) - A desktop Laravel admin panel app
 - [officert/vue-friendly-iframe](https://github.com/officert/vue-friendly-iframe) - A Vue js component for creating super fast loading, non-blocking iframes.
 - [officert/vue-slideout-panel](https://github.com/officert/vue-slideout-panel) - Vue JS component for stackable slideout panels
 - [nuxt/hackernews](https://github.com/nuxt/hackernews) - HackerNews clone built with Nuxt.js

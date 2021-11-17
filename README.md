@@ -225,7 +225,6 @@
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [vitroz/MapaInterativoJS](https://github.com/vitroz/MapaInterativoJS) - Mapa Interativo do Brasil separado por Estados em Javascript, utilizando a biblioteca open-source Geo Charts da Google
-- [toedter/chatty](https://github.com/toedter/chatty) - A chat app demo with RESTful hypermedia API and server push.
 - [hugmanrique/Twtr](https://github.com/hugmanrique/Twtr) - :tada: Twitter client made with Electron
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [kbrsh/wing](https://github.com/kbrsh/wing) - :gem: A beautiful CSS framework designed for minimalists.
@@ -342,6 +341,7 @@
 
 ## HTML 
 
+- [NYPL-Simplified/web-reader](https://github.com/NYPL-Simplified/web-reader) - A web-based reader for ebooks in multiple formats.
 - [Shubham56-droid/HTML-CSS-JavaScript-Projects](https://github.com/Shubham56-droid/HTML-CSS-JavaScript-Projects) - Webdevelopemt Projects
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
@@ -499,6 +499,7 @@
 - [datso/react-native-pjsip](https://github.com/datso/react-native-pjsip) - A PJSIP module for React Native.
 - [readrops/Readrops](https://github.com/readrops/Readrops) - Android multi-services RSS client
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
+- [toedter/chatty](https://github.com/toedter/chatty) - A chat app demo with RESTful hypermedia API and server push.
 - [phonegap/phonegap-plugin-push](https://github.com/phonegap/phonegap-plugin-push) - Register and receive push notifications
 - [google/google-authenticator-android](https://github.com/google/google-authenticator-android) - Open source fork of the Google Authenticator Android app
 - [ymartineau/peers](https://github.com/ymartineau/peers) - Java SIP softphone
@@ -507,6 +508,7 @@
 
 ## JavaScript 
 
+- [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
 - [parmsang/gatsby-starter-ecommerce](https://github.com/parmsang/gatsby-starter-ecommerce) - Gatsby starter for creating an eCommerce site using the Moltin eCommerce Api
 - [rcaferati/react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) - React content transition slider. Awesome Slider is a 60fps, light weight, performant component that renders an animated set of production ready UI general purpose sliders with fullpage transition support for NextJS and GatsbyJS. 🖥️ 📱
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
@@ -775,7 +777,7 @@
 - [fullstackreact/google-maps-react](https://github.com/fullstackreact/google-maps-react) - Companion code to the "How to Write a Google Maps React Component" Tutorial
 - [Akryum/vue-googlemaps](https://github.com/Akryum/vue-googlemaps) - Integrate Google Maps in your Vue application
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform and the easiest way to build beautiful internal tools  🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform and the easiest way to build beautiful business apps  🚀
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [aakashsr/GithubSquare](https://github.com/aakashsr/GithubSquare) - Explore the most starred projects , trending developers , popular repositories of any date and face off Github Profiles of your choice.
 - [klaussinani/ao](https://github.com/klaussinani/ao) - Elegant Microsoft To-Do desktop app
@@ -1141,7 +1143,7 @@
 - [GoogleChromeLabs/preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin) - Please use https://github.com/vuejs/preload-webpack-plugin instead.
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
 - [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1250 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1350 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [davidtheclark/react-aria-menubutton](https://github.com/davidtheclark/react-aria-menubutton) - A fully accessible, easily themeable, React-powered menu button
 - [geobde/react-triple-toggle](https://github.com/geobde/react-triple-toggle) - React multi toggle component
 - [zillow/react-slider](https://github.com/zillow/react-slider) - Accessible, CSS agnostic, slider component for React.
@@ -1812,6 +1814,7 @@
 
 ## Python 
 
+- [huaying/instagram-crawler](https://github.com/huaying/instagram-crawler) - Get Instagram posts/profile/hashtag data without using Instagram API
 - [uvipen/ASCII-generator](https://github.com/uvipen/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [kongdd/ubuntu-config](https://github.com/kongdd/ubuntu-config) - System Init
@@ -1990,6 +1993,7 @@
 
 ## TypeScript 
 
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [Vagr9K/gatsby-advanced-starter](https://github.com/Vagr9K/gatsby-advanced-starter) - A high performance skeleton starter for GatsbyJS with an advanced feature set.
 - [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization options.
 - [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.

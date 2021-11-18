@@ -38,6 +38,7 @@
   - [👽 Wire for web](https://github.com/wireapp/wire-webapp)
   - [Common solutions and tools developed by Google Cloud's Professional Services team](https://github.com/GoogleCloudPlatform/professional-services)
   - [Sample applications for Azure DevOps Project](https://github.com/microsoft/devops-project-samples)
+  - [📌✨ A collection of awesome dynamic pinned gists for GitHub](https://github.com/matchai/awesome-pinned-gists)
 
 
 ### Linux

@@ -48,6 +48,7 @@
   - [Stylus](#stylus)
   - [Svelte](#svelte)
   - [Swift](#swift)
+  - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vue](#vue)
 
@@ -88,6 +89,7 @@
 
 ## C# # 
 
+- [Megabit/Blazorise](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Bulma, AntDesign, and Material.
 - [HHChaos/Drawing-Studio](https://github.com/HHChaos/Drawing-Studio) - A creative app with intelligence. It was given 1st place for Best User Experience in 2019 Microsoft 365 app awards.
 - [fluentpos/fluentpos](https://github.com/fluentpos/fluentpos) - Open Source Point Of Sales and Inventory Management Solution built with ASP.NET Core 5.0 WebAPI and Angular 12 Material.
 - [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app) - Example Docker Compose app
@@ -171,6 +173,8 @@
 
 ## CSS 
 
+- [azouaoui-med/ostora-jsapi4](https://github.com/azouaoui-med/ostora-jsapi4) - Responsive template for building web mapping applications
+- [azouaoui-med/pro-sidebar-template](https://github.com/azouaoui-med/pro-sidebar-template) - Responsive sidebar template based on bootstrap
 - [NiallEccles/Hacktoberfest-animations](https://github.com/NiallEccles/Hacktoberfest-animations) - Small animation selector for Hacktoberfest
 - [ykob/fullscreen-slider](https://github.com/ykob/fullscreen-slider) - This asset controls sections in a page.   It resizes sections to fullscreen resolution and moves these individually by wheel/touch events.
 - [alssndro/trianglify-background-generator](https://github.com/alssndro/trianglify-background-generator) - Generate backgrounds using the trianglify plugin
@@ -184,7 +188,6 @@
 - [vorillaz/devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers
 - [maxogden/screencat](https://github.com/maxogden/screencat) - :cat2: webrtc screensharing electron app for mac os (Alpha)
 - [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
-- [marcobrunodev/curso-javascript-para-react](https://github.com/marcobrunodev/curso-javascript-para-react) - 
 - [marcobrunodev/matching-game-live](https://github.com/marcobrunodev/matching-game-live) - 
 - [safak/youtube](https://github.com/safak/youtube) - 
 - [hugoalmeidahh/hugao-template-next-tailwindcss-ts](https://github.com/hugoalmeidahh/hugao-template-next-tailwindcss-ts) - 
@@ -425,6 +428,7 @@
 - [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - CoreUI is free bootstrap admin template
 - [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) - A simple online fake REST API server
 - [tomsaleeba/test-data-site](https://github.com/tomsaleeba/test-data-site) - Various assets for testing websites (photos with EXIF, etc)
+- [aeagle/react-spaces](https://github.com/aeagle/react-spaces) - React components that allow you to divide a page or container into nestable anchored, scrollable and resizable spaces.
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [wamp-proto/wamp-proto](https://github.com/wamp-proto/wamp-proto) - The Web Application Messaging Protocol
 - [coreui/coreui-free-angular-admin-template](https://github.com/coreui/coreui-free-angular-admin-template) - CoreUI Angular is free Angular 2+ admin template based on Bootstrap 4
@@ -508,6 +512,13 @@
 
 ## JavaScript 
 
+- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
+- [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.  If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.  This challenge may take more than 100 days, follow your own pace.
+- [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
+- [meteor/examples](https://github.com/meteor/examples) - Project examples with Meteor
+- [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
+- [netlify/netlify-cms](https://github.com/netlify/netlify-cms) - A Git-based CMS for Static Site Generators
+- [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 - [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
 - [parmsang/gatsby-starter-ecommerce](https://github.com/parmsang/gatsby-starter-ecommerce) - Gatsby starter for creating an eCommerce site using the Moltin eCommerce Api
 - [rcaferati/react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) - React content transition slider. Awesome Slider is a 60fps, light weight, performant component that renders an animated set of production ready UI general purpose sliders with fullpage transition support for NextJS and GatsbyJS. 🖥️ 📱
@@ -577,7 +588,6 @@
 - [matheusrocha89/graphql-camara-deputados](https://github.com/matheusrocha89/graphql-camara-deputados) - API GraphQL com os dados da câmara de deputados do Brasil
 - [planetscale/vercel-integration-example](https://github.com/planetscale/vercel-integration-example) - 
 - [leerob/fastfeedback](https://github.com/leerob/fastfeedback) - Easily add user reviews, feedback, and comments to your website in one line of code.
-- [leerob/react2025](https://github.com/leerob/react2025) - ⚛️ Build applications from the the future, today.
 - [react-native-mapbox-gl/maps](https://github.com/react-native-mapbox-gl/maps) - A Mapbox GL react native module for creating custom maps
 - [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
 - [Mango/slideout](https://github.com/Mango/slideout) - A touch slideout navigation menu for your mobile web apps.
@@ -650,6 +660,7 @@
 - [adamschwartz/web.scraper.workers.dev](https://github.com/adamschwartz/web.scraper.workers.dev) - Scrape websites for text by CSS selector.
 - [tomzaku/react-native-timeline-theme](https://github.com/tomzaku/react-native-timeline-theme) - 
 - [tomzaku/react-native-shimmer-placeholder](https://github.com/tomzaku/react-native-shimmer-placeholder) - Placeholder/ Skeleton of React Native
+- [marcobrunodev/curso-javascript-para-react](https://github.com/marcobrunodev/curso-javascript-para-react) - 
 - [withspectrum/spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
 - [expo/fyi](https://github.com/expo/fyi) - Little bits of information that you may find useful when interacting with Expo tools and service. Append the markdown filename to https://expo.fyi/ to get a quick link to it.
 - [aautio/react-modal-image](https://github.com/aautio/react-modal-image) - A tiny React component providing modal image Lightbox.
@@ -1587,7 +1598,7 @@
 - [gladchinda/keygen-php](https://github.com/gladchinda/keygen-php) - A fluent PHP random key generator.
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [realodix/urlhub](https://github.com/realodix/urlhub) - URL shortener web application based on the Laravel PHP Framework.
-- [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software written in PHP and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
+- [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Free and Online Accounting Software
 - [nfe/client-php](https://github.com/nfe/client-php) - Official NFe.io API Client for PHP
 - [paghiper/whmcs](https://github.com/paghiper/whmcs) - Modulo de PIX e boleto bancário PagHiper para o WHMCS
@@ -1906,6 +1917,7 @@
 
 ## SCSS 
 
+- [compostrap/sidebar-menu](https://github.com/compostrap/sidebar-menu) - :page_with_curl: Simple and fast multi-level sidebar menu on Bootstrap (@twbs)
 - [rodrigorgtic/spiderman-frontend](https://github.com/rodrigorgtic/spiderman-frontend) - 🕷️ Front-end desenvolvido com a finalidade de estudos de responsividade, efeitos e boas práticas de criação de front-end.
 - [hydecorp/hydejack](https://github.com/hydecorp/hydejack) - A boutique Jekyll theme for hackers, nerds, and academics
 - [pmarsceill/just-the-docs](https://github.com/pmarsceill/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
@@ -1991,8 +2003,14 @@
 - [64characters/Telephone](https://github.com/64characters/Telephone) - SIP softphone for Mac
 - [okofish/EarthView](https://github.com/okofish/EarthView) - Google Earth View screensaver for Apple TV
 
+## TeX 
+
+- [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
+
 ## TypeScript 
 
+- [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
+- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [Vagr9K/gatsby-advanced-starter](https://github.com/Vagr9K/gatsby-advanced-starter) - A high performance skeleton starter for GatsbyJS with an advanced feature set.
 - [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization options.
@@ -2021,6 +2039,7 @@
 - [wix/wix-ui](https://github.com/wix/wix-ui) - 
 - [vechai/vechaiui](https://github.com/vechai/vechaiui) - A set of high-quality accessible React UI components with the built-in dark mode using Tailwind CSS. Pre-designed headless ui and radix-ui.
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @modulz.
+- [leerob/react2025](https://github.com/leerob/react2025) - ⚛️ Build applications from the the future, today.
 - [nuxt/image](https://github.com/nuxt/image) - Optimized Images for Nuxt
 - [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind, Prisma, and Vercel.
 - [js-works/shoelace-theme-designer](https://github.com/js-works/shoelace-theme-designer) - 
@@ -2355,7 +2374,6 @@
 - [SinghDigamber/angular-http-observables](https://github.com/SinghDigamber/angular-http-observables) - Angular 8/9 Observables tutorial - Manage HTTP response with RxJS observables and operators, build a live country search module from scratch.
 - [johnpapa/angular-event-view-cli](https://github.com/johnpapa/angular-event-view-cli) - Angular Demo with a Little bit of a lot of features
 - [johnpapa/vscode-angular-snippets](https://github.com/johnpapa/vscode-angular-snippets) - Angular Snippets for VS Code
-- [aeagle/react-spaces](https://github.com/aeagle/react-spaces) - React components that allow you to divide a page or container into nestable anchored, scrollable and resizable spaces.
 - [malerba118/react-particle-image](https://github.com/malerba118/react-particle-image) - Render images as interactive particles
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [iamhosseindhv/notistack](https://github.com/iamhosseindhv/notistack) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other

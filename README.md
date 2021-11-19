@@ -183,7 +183,6 @@
 - [imranhsayed/frontity-twentynineteen](https://github.com/imranhsayed/frontity-twentynineteen) - :art: A Frontity Twentynineteen theme Project
 - [muan/emoji](https://github.com/muan/emoji) - :love_letter: Find the emoji that echoes your mind.
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
-- [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [spf13/hyde](https://github.com/spf13/hyde) - Port of Mdo's excellent theme to Hugo
 - [vorillaz/devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers
 - [maxogden/screencat](https://github.com/maxogden/screencat) - :cat2: webrtc screensharing electron app for mac os (Alpha)
@@ -344,6 +343,7 @@
 
 ## HTML 
 
+- [jxnblk/colorable](https://github.com/jxnblk/colorable) - Color combination contrast tester
 - [NYPL-Simplified/web-reader](https://github.com/NYPL-Simplified/web-reader) - A web-based reader for ebooks in multiple formats.
 - [Shubham56-droid/HTML-CSS-JavaScript-Projects](https://github.com/Shubham56-droid/HTML-CSS-JavaScript-Projects) - Webdevelopemt Projects
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
@@ -512,6 +512,9 @@
 
 ## JavaScript 
 
+- [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
+- [vector-im/hydrogen-web](https://github.com/vector-im/hydrogen-web) - Lightweight matrix client with legacy and mobile browser support
+- [churchtools/churchtools-js-client](https://github.com/churchtools/churchtools-js-client) - JavaScript client to easily access the ChurchTools REST-API
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.  If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.  This challenge may take more than 100 days, follow your own pace.
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
@@ -589,6 +592,7 @@
 - [planetscale/vercel-integration-example](https://github.com/planetscale/vercel-integration-example) - 
 - [leerob/fastfeedback](https://github.com/leerob/fastfeedback) - Easily add user reviews, feedback, and comments to your website in one line of code.
 - [react-native-mapbox-gl/maps](https://github.com/react-native-mapbox-gl/maps) - A Mapbox GL react native module for creating custom maps
+- [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
 - [Mango/slideout](https://github.com/Mango/slideout) - A touch slideout navigation menu for your mobile web apps.
 - [Semantic-Org/Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
@@ -788,7 +792,7 @@
 - [fullstackreact/google-maps-react](https://github.com/fullstackreact/google-maps-react) - Companion code to the "How to Write a Google Maps React Component" Tutorial
 - [Akryum/vue-googlemaps](https://github.com/Akryum/vue-googlemaps) - Integrate Google Maps in your Vue application
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform and the easiest way to build beautiful business apps  🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [aakashsr/GithubSquare](https://github.com/aakashsr/GithubSquare) - Explore the most starred projects , trending developers , popular repositories of any date and face off Github Profiles of your choice.
 - [klaussinani/ao](https://github.com/klaussinani/ao) - Elegant Microsoft To-Do desktop app
@@ -1434,6 +1438,7 @@
 
 ## Others 
 
+- [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [prayash/awesome-gatsby](https://github.com/prayash/awesome-gatsby) - ⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.
 - [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 - [wcota/covid19br](https://github.com/wcota/covid19br) - Confirmed cases and deaths of COVID-19 in Brazil, at municipal (city) level. Description of the data: https://github.com/wcota/covid19br/blob/master/DESCRIPTION.en.md and https://doi.org/10.1590/SciELOPreprints.362
@@ -1938,6 +1943,7 @@
 
 ## Shell 
 
+- [andrius/asterisk](https://github.com/andrius/asterisk) - Asterisk PBX in Docker on Alpine Linux. Smallest Asterisk ever! ;)
 - [murilomagalhaes/vagrant-php-mssql](https://github.com/murilomagalhaes/vagrant-php-mssql) - A complete development environment for working with PHP and MS SQL Server. Based on Ubuntu 20.04 (Focal)
 - [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - What tools and plugins I use for web development?
 - [CrunchyData/crunchy-containers](https://github.com/CrunchyData/crunchy-containers) - Containers for Managing PostgreSQL on Kubernetes by Crunchy Data
@@ -1995,6 +2001,7 @@
 
 ## Svelte 
 
+- [Aveek-Saha/DuskPlayer](https://github.com/Aveek-Saha/DuskPlayer) - A minimal music player built on electron.
 - [oslabs-beta/SvelteStorm](https://github.com/oslabs-beta/SvelteStorm) - A Svelte IDE like no other. Embrace the storm. Embrace the Svelte.
 - [Tommertom/svelte-ionic-app](https://github.com/Tommertom/svelte-ionic-app) - Ionic UI showcase app - try Ionic UI and directly go to API or source code
 
@@ -2009,6 +2016,7 @@
 
 ## TypeScript 
 
+- [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
@@ -2193,7 +2201,7 @@
 - [dericcain/react-tiny-fab](https://github.com/dericcain/react-tiny-fab) - 🤖A tiny Floating Action Button for React
 - [dgreif/ring](https://github.com/dgreif/ring) - Unofficial API for Ring Doorbells, Cameras, Alarm System, and Smart Lighting
 - [ringcentral/ringcentral-js](https://github.com/ringcentral/ringcentral-js) - RingCentral Connect Platform JS SDK
-- [symphonyoss/SymphonyElectron](https://github.com/symphonyoss/SymphonyElectron) - A desktop client for the Symphony Collaboration Platform built using Electron
+- [finos/SymphonyElectron](https://github.com/finos/SymphonyElectron) - A desktop client for the Symphony Collaboration Platform built using Electron
 - [AiursoftWeb/Kahla.App](https://github.com/AiursoftWeb/Kahla.App) - Kahla is a cross-platform business messaging app.
 - [mattermost/desktop](https://github.com/mattermost/desktop) - Mattermost Desktop application for Windows, Mac and Linux
 - [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking hot React Notifications 🔥

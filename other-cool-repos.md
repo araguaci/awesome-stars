@@ -23,6 +23,7 @@
   - [🧙‍♂️A list of /uses pages detailing developer setups, gear, software and configs](https://github.com/wesbos/awesome-uses)
   - [⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator](https://github.com/prayash/awesome-gatsby)
   - [⚡️🎨 Matches the x-heights and widths of two fonts](https://github.com/notwaldorf/font-style-matcher)
+  - [Super tiny, quick tips, tricks and best practices of front-end development](https://github.com/1milligram/frontend-tips)
 
 
 ### Components

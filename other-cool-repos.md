@@ -24,6 +24,9 @@
   - [⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator](https://github.com/prayash/awesome-gatsby)
   - [⚡️🎨 Matches the x-heights and widths of two fonts](https://github.com/notwaldorf/font-style-matcher)
   - [Super tiny, quick tips, tricks and best practices of front-end development](https://github.com/1milligram/frontend-tips)
+  - [:octocat:100+ open-source clones of popular sites like Airbnb, Amazon...](https://github.com/GorvGoyl/Clone-Wars)
+
+gourav.io/clone-wars
 
 
 ### Components

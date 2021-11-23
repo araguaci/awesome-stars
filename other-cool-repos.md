@@ -25,6 +25,8 @@
   - [⚡️🎨 Matches the x-heights and widths of two fonts](https://github.com/notwaldorf/font-style-matcher)
   - [Super tiny, quick tips, tricks and best practices of front-end development](https://github.com/1milligram/frontend-tips)
   - [:octocat:100+ open-source clones of popular sites like Airbnb, Amazon...](https://github.com/GorvGoyl/Clone-Wars)
+  - [What's your favorite JavaScript single LOC (line of code)?1loc.dev](https://github.com/1milligram/1loc)
+  - [Super tiny, quick tips, tricks and best practices of front-end development](https://github.com/1milligram/frontend-tips)
 
 gourav.io/clone-wars
 

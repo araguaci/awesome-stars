@@ -28,8 +28,6 @@
   - [What's your favorite JavaScript single LOC (line of code)?1loc.dev](https://github.com/1milligram/1loc)
   - [Super tiny, quick tips, tricks and best practices of front-end development](https://github.com/1milligram/frontend-tips)
 
-gourav.io/clone-wars
-
 
 ### Components
 

@@ -27,6 +27,9 @@
   - [:octocat:100+ open-source clones of popular sites like Airbnb, Amazon...](https://github.com/GorvGoyl/Clone-Wars)
   - [What's your favorite JavaScript single LOC (line of code)?1loc.dev](https://github.com/1milligram/1loc)
   - [Super tiny, quick tips, tricks and best practices of front-end development](https://github.com/1milligram/frontend-tips)
+  - [❗️ A collaborative list of resources for developers](https://github.com/marcelscruz/dev-resources)
+
+
 <table>
     <tbody>
         <tr valign="top">

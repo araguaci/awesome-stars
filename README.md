@@ -42,6 +42,7 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
+  - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
   - [Starlark](#starlark)
@@ -522,6 +523,8 @@
 
 ## JavaScript 
 
+- [hainproject/hain](https://github.com/hainproject/hain) - An 'alt+space' launcher for Windows, built with Electron
+- [moul/depviz](https://github.com/moul/depviz) - 👓 dependency visualizer for GitHub & GitLab (a.k.a., "auto-roadmap")
 - [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A curated list of leetcode questions grouped by their common patterns
 - [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
@@ -1464,6 +1467,7 @@
 
 ## Others 
 
+- [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [marcodiiga/amazon-s3-userguide](https://github.com/marcodiiga/amazon-s3-userguide) - The open source version of the Amazon S3 User Guide. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request. This guide combines information  from the three retired Amazon S3 guides: Amazon S3 Developer Guide, Console User Guide, and Getting Started Guide.
 - [DeveloperParana/dicas-para-palestrar](https://github.com/DeveloperParana/dicas-para-palestrar) - Conjunto de dicas de preparação de slides e comportamento em uma palestra
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
@@ -1923,6 +1927,8 @@
 
 ## Ruby 
 
+- [hexlet-basics/hexlet-basics](https://github.com/hexlet-basics/hexlet-basics) - Interactive Programming Courses
+- [fiedl/your_platform](https://github.com/fiedl/your_platform) - Administrative and social network platform for closed user groups.
 - [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG.
 - [kpumuk/meta-tags](https://github.com/kpumuk/meta-tags) - Search Engine Optimization (SEO) for Ruby on Rails applications.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
@@ -1966,6 +1972,10 @@
 - [creativetimofficial/now-ui-kit-angular](https://github.com/creativetimofficial/now-ui-kit-angular) - 
 - [loiane/reactive-spring-angular](https://github.com/loiane/reactive-spring-angular) - :rocket: Simple application demonstrating Spring Webflux API + Angular/RxJS client.
 - [flutter/website](https://github.com/flutter/website) - Flutter web site
+
+## Scala 
+
+- [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
 
 ## Scheme 
 

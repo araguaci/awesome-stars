@@ -133,6 +133,7 @@
 
 ## C++ 
 
+- [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
 - [marcodiiga/filepie](https://github.com/marcodiiga/filepie) - A terminal utility to display size quota maps on drives and folders
 - [Kurento/kurento-media-server](https://github.com/Kurento/kurento-media-server) - Media Server responsible for media transmission, processing, loading and recording
 - [dannagle/PacketSender](https://github.com/dannagle/PacketSender) - Network utility for sending / receiving TCP, UDP, SSL
@@ -176,6 +177,8 @@
 
 ## CSS 
 
+- [interglobalvision/432hz.audio](https://github.com/interglobalvision/432hz.audio) - 432hz.audio
+- [ondras/maslo](https://github.com/ondras/maslo) - Scalable Markdown-based HTML slide deck
 - [HTMLElements/smart-webcomponents](https://github.com/HTMLElements/smart-webcomponents) - Web Components & Custom Elements for Professional Web Applications
 - [azouaoui-med/ostora-jsapi4](https://github.com/azouaoui-med/ostora-jsapi4) - Responsive template for building web mapping applications
 - [azouaoui-med/pro-sidebar-template](https://github.com/azouaoui-med/pro-sidebar-template) - Responsive sidebar template based on bootstrap
@@ -346,6 +349,7 @@
 
 ## HTML 
 
+- [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [n457/Uncolored](https://github.com/n457/Uncolored) - (Un)colored — Next generation desktop rich content editor that saves documents with themes. HTML & Markdown compatible. For Windows, OS X & Linux. — http://n457.github.io/Uncolored/
 - [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
@@ -523,6 +527,11 @@
 
 ## JavaScript 
 
+- [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native.
+- [ondras/dragons](https://github.com/ondras/dragons) - Here be dragons! Curved dragons in particular. At least several generations of then.
+- [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
+- [ondras/primitive.js](https://github.com/ondras/primitive.js) - JS port of primitive.lol
+- [ondras/rubik](https://github.com/ondras/rubik) - CSS Rubik's Cube
 - [hainproject/hain](https://github.com/hainproject/hain) - An 'alt+space' launcher for Windows, built with Electron
 - [moul/depviz](https://github.com/moul/depviz) - 👓 dependency visualizer for GitHub & GitLab (a.k.a., "auto-roadmap")
 - [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A curated list of leetcode questions grouped by their common patterns
@@ -628,7 +637,7 @@
 - [StartBootstrap/startbootstrap-simple-sidebar](https://github.com/StartBootstrap/startbootstrap-simple-sidebar) - An off canvas sidebar navigation Bootstrap HTML template created by Start Bootstrap
 - [alenaksu/json-viewer](https://github.com/alenaksu/json-viewer) - Web Component to visualize JSON data in a tree view
 - [javve/list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
-- [snowpackjs/snowpack](https://github.com/snowpackjs/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
+- [withastro/snowpack](https://github.com/withastro/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [lukejacksonn/oceanwind](https://github.com/lukejacksonn/oceanwind) - Compiles tailwind shorthand into css at runtime. Succeeded by Twind.
 - [bhj/karaoke-forever](https://github.com/bhj/karaoke-forever) - Open karaoke party system
 - [Temasys/AdapterJS](https://github.com/Temasys/AdapterJS) - AdapterJS Javascript Polyfill and Tools for WebRTC - Skylink WebRTC
@@ -2058,6 +2067,7 @@
 
 ## TypeScript 
 
+- [crisbeto/angular-svg-round-progressbar](https://github.com/crisbeto/angular-svg-round-progressbar) - Angular module that uses SVG to create a circular progressbar
 - [Saber2pr/editor](https://github.com/Saber2pr/editor) - :ocean: Web Editor for React/Tsx Ant-Design App Develop、Build !
 - [stream-labs/streamlabs-obs](https://github.com/stream-labs/streamlabs-obs) - Free and open source streaming software built on OBS and Electron.
 - [spacesvr/spacesvr](https://github.com/spacesvr/spacesvr) - Cross-Platform Web VR Framework

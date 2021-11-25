@@ -349,6 +349,9 @@
 
 ## HTML 
 
+- [miromannino/Justified-Gallery](https://github.com/miromannino/Justified-Gallery) - Javascript library to help creating high quality justified galleries of images. Used by thousands of websites as well as the photography community 500px.
+- [desandro/masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout plugin
+- [RoderickQiu/wnr](https://github.com/RoderickQiu/wnr) - ⏱️ Time-management. Simple. Powerful. (P.S.: being fed up of my heavy study work as a third-year high school student, I might not be able to response quickly)
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [n457/Uncolored](https://github.com/n457/Uncolored) - (Un)colored — Next generation desktop rich content editor that saves documents with themes. HTML & Markdown compatible. For Windows, OS X & Linux. — http://n457.github.io/Uncolored/
@@ -527,6 +530,12 @@
 
 ## JavaScript 
 
+- [callmecavs/layzr.js](https://github.com/callmecavs/layzr.js) - A modern lazy loading library for images.
+- [callmecavs/jump.js](https://github.com/callmecavs/jump.js) - A modern smooth scrolling library.
+- [callmecavs/bricks.js](https://github.com/callmecavs/bricks.js) - A blazing fast masonry layout generator for fixed width elements.
+- [Vestride/Shuffle](https://github.com/Vestride/Shuffle) - Categorize, sort, and filter a responsive grid of items
+- [testing-library/testing-library-docs](https://github.com/testing-library/testing-library-docs) - docs site for @testing-library/*
+- [phuoc-ng/get-svg](https://github.com/phuoc-ng/get-svg) - A Chrome extension to download SVG from a webpage
 - [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native.
 - [ondras/dragons](https://github.com/ondras/dragons) - Here be dragons! Curved dragons in particular. At least several generations of then.
 - [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
@@ -1679,7 +1688,7 @@
 - [thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB
 - [mikopbx/Core](https://github.com/mikopbx/Core) - Free, easy to setup PBX for small business based on Asterisk 16 core
-- [Maatwebsite/Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel) - 🚀 Supercharged Excel exports and imports in Laravel
+- [SpartnerNL/Laravel-Excel](https://github.com/SpartnerNL/Laravel-Excel) - 🚀 Supercharged Excel exports and imports in Laravel
 - [patrickschur/language-detection](https://github.com/patrickschur/language-detection) - A language detection library for PHP. Detects the language from a given text string.
 - [php-telegram-bot/example-bot](https://github.com/php-telegram-bot/example-bot) - [WIP] An A-Z example of a PHP Telegram Bot.
 - [php-telegram-bot/core](https://github.com/php-telegram-bot/core) - PHP Telegram Bot based on the official Telegram Bot API
@@ -1861,6 +1870,7 @@
 
 ## Pug 
 
+- [StartBootstrap/startbootstrap-resume](https://github.com/StartBootstrap/startbootstrap-resume) - A Bootstrap 4 resume/CV theme created by Start Bootstrap
 - [StartBootstrap/startbootstrap-creative](https://github.com/StartBootstrap/startbootstrap-creative) - A one page HTML theme for creatives by Start Bootstrap
 - [StartBootstrap/startbootstrap-agency](https://github.com/StartBootstrap/startbootstrap-agency) - A one page HTML theme for agencies created by Start Bootstrap
 - [StartBootstrap/startbootstrap-freelancer](https://github.com/StartBootstrap/startbootstrap-freelancer) - A flat design, one page, MIT licensed Bootstrap portfolio theme created by Start Bootstrap
@@ -2067,6 +2077,14 @@
 
 ## TypeScript 
 
+- [maykbrito/ts-proxy-server](https://github.com/maykbrito/ts-proxy-server) - Boilerplate API proxy server to hide API keys, adding rate limit and cache. See it working at https://github.com/maykbrito/openweather-example
+- [maykbrito/openweather-example](https://github.com/maykbrito/openweather-example) - test to using the API proxy server template &gt;&gt; https://github.com/maykbrito/ts-proxy-server
+- [Vestride/react-stacked-elements](https://github.com/Vestride/react-stacked-elements) - Toggle the visibility of two elements without removing them from the document layout
+- [bytedance/bytemd](https://github.com/bytedance/bytemd) - A hackable Markdown editor component built with Svelte
+- [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
+- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
+- [shikijs/twoslash](https://github.com/shikijs/twoslash) - You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples
+- [phuoc-ng/responsive-page](https://github.com/phuoc-ng/responsive-page) - Collection of patterns to create a responsive website
 - [crisbeto/angular-svg-round-progressbar](https://github.com/crisbeto/angular-svg-round-progressbar) - Angular module that uses SVG to create a circular progressbar
 - [Saber2pr/editor](https://github.com/Saber2pr/editor) - :ocean: Web Editor for React/Tsx Ant-Design App Develop、Build !
 - [stream-labs/streamlabs-obs](https://github.com/stream-labs/streamlabs-obs) - Free and open source streaming software built on OBS and Electron.

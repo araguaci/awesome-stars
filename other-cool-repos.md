@@ -29,6 +29,14 @@
   - [Super tiny, quick tips, tricks and best practices of front-end development](https://github.com/1milligram/frontend-tips)
   - [❗️ A collaborative list of resources for developers](https://github.com/marcelscruz/dev-resources)
 
+## Open-Source
+
+- [Ever® Demand™](https://github.com/ever-co/ever-demand) - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces. See more - https://ever.co.
+- [Ever® Gauzy™](https://github.com/ever-co/ever-gauzy) - Open-Source Business Management Platform (ERP/CRM/HRM). See more - https://gauzy.co.
+- [Ever® Traduora™](https://github.com/ever-co/ever-traduora) - Open-Source Translation Management Platform. See more - https://traduora.co.
+- [Ever® OpenSaaS™](https://github.com/ever-co/ever-opensaas) -  Open-Source solution for creating, managing, and deploying full-featured SaaS offerings.
+- [Ever® IQ™](https://everiq.co) - On-Demand Talent Network for your business.
+- [Ever® Tech™](https://ever.tech) - Build custom software or customize our existed platforms for your business.
 
 <table>
     <tbody>

@@ -349,6 +349,7 @@
 
 ## HTML 
 
+- [kakacordovil/nasa-api](https://github.com/kakacordovil/nasa-api) - APOD: Astronomy Picture of the Day Browse API https://api.nasa.gov/
 - [miromannino/Justified-Gallery](https://github.com/miromannino/Justified-Gallery) - Javascript library to help creating high quality justified galleries of images. Used by thousands of websites as well as the photography community 500px.
 - [desandro/masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout plugin
 - [RoderickQiu/wnr](https://github.com/RoderickQiu/wnr) - ⏱️ Time-management. Simple. Powerful. (P.S.: being fed up of my heavy study work as a third-year high school student, I might not be able to response quickly)
@@ -530,6 +531,14 @@
 
 ## JavaScript 
 
+- [tomkp/react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component
+- [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
+- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - :leaves: JavaScript library for mobile-friendly interactive maps
+- [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
+- [sindresorhus/electron-store](https://github.com/sindresorhus/electron-store) - Simple data persistence for your Electron app or module - Save and load user preferences, app state, cache, etc
+- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
+- [WWBN/AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
+- [wyc/semantic-ui-react-todos](https://github.com/wyc/semantic-ui-react-todos) - The ReactJS/Redux Todo List Example with Semantic UI Components
 - [callmecavs/layzr.js](https://github.com/callmecavs/layzr.js) - A modern lazy loading library for images.
 - [callmecavs/jump.js](https://github.com/callmecavs/jump.js) - A modern smooth scrolling library.
 - [callmecavs/bricks.js](https://github.com/callmecavs/bricks.js) - A blazing fast masonry layout generator for fixed width elements.
@@ -1485,6 +1494,7 @@
 
 ## Others 
 
+- [AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [marcodiiga/amazon-s3-userguide](https://github.com/marcodiiga/amazon-s3-userguide) - The open source version of the Amazon S3 User Guide. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request. This guide combines information  from the three retired Amazon S3 guides: Amazon S3 Developer Guide, Console User Guide, and Getting Started Guide.
 - [DeveloperParana/dicas-para-palestrar](https://github.com/DeveloperParana/dicas-para-palestrar) - Conjunto de dicas de preparação de slides e comportamento em uma palestra
@@ -1536,7 +1546,7 @@
 - [felipefialho/frontend-challenges](https://github.com/felipefialho/frontend-challenges) - :boom: Listing some playful open-source's challenges of companies to test your knowledge
 - [maziarraissi/Applied-Deep-Learning](https://github.com/maziarraissi/Applied-Deep-Learning) - Applied Deep Learning Course
 - [mbiesiad/awesome-translations](https://github.com/mbiesiad/awesome-translations) - 😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍
-- [tokenmill/awesome-nlg](https://github.com/tokenmill/awesome-nlg) - A curated list of resources dedicated to Natural Language Generation (NLG)
+- [accelerated-text/awesome-nlg](https://github.com/accelerated-text/awesome-nlg) - A curated list of resources dedicated to Natural Language Generation (NLG)
 - [brycejohnston/awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) - Open source technology for agriculture, farming, and gardening
 - [fabionoth/awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
@@ -1881,6 +1891,7 @@
 
 ## Python 
 
+- [robertjkeck2/AutoCaller](https://github.com/robertjkeck2/AutoCaller) - Automated call and text service powered by Twilio
 - [marcodiiga/aws-sam-cli](https://github.com/marcodiiga/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
 - [huaying/instagram-crawler](https://github.com/huaying/instagram-crawler) - Get Instagram posts/profile/hashtag data without using Instagram API
 - [uvipen/ASCII-generator](https://github.com/uvipen/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
@@ -1970,6 +1981,7 @@
 
 ## Rust 
 
+- [huytd/kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
 - [adamsky/globe](https://github.com/adamsky/globe) - Interactive ASCII globe generator
 - [grsoares21/video-silence-cutter](https://github.com/grsoares21/video-silence-cutter) - A Rust script to split and/or trim out silence sections from videos. Needs FFmpeg. WIP
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
@@ -1977,6 +1989,7 @@
 
 ## SCSS 
 
+- [nasa/api-docs](https://github.com/nasa/api-docs) - api.nasa.gov
 - [compostrap/sidebar-menu](https://github.com/compostrap/sidebar-menu) - :page_with_curl: Simple and fast multi-level sidebar menu on Bootstrap (@twbs)
 - [rodrigorgtic/spiderman-frontend](https://github.com/rodrigorgtic/spiderman-frontend) - 🕷️ Front-end desenvolvido com a finalidade de estudos de responsividade, efeitos e boas práticas de criação de front-end.
 - [hydecorp/hydejack](https://github.com/hydecorp/hydejack) - A boutique Jekyll theme for hackers, nerds, and academics
@@ -2077,6 +2090,14 @@
 
 ## TypeScript 
 
+- [huytd/pomoday-v2](https://github.com/huytd/pomoday-v2) - A keyboard only task management web app
+- [ibitcy/eo-locale](https://github.com/ibitcy/eo-locale) - 🌏Internationalize React apps 👔Elegant lightweight library based on Internationalization API
+- [prc5/react-zoom-pan-pinch](https://github.com/prc5/react-zoom-pan-pinch) - React library to support easy zoom, pan, pinch on various html dom elements like images and divs
+- [pancakeswap/pancake-toolkit](https://github.com/pancakeswap/pancake-toolkit) - :hammer_and_pick: Pancake frontend packages
+- [Splidejs/react-splide](https://github.com/Splidejs/react-splide) - The React component for the Splide slider/carousel.
+- [Splidejs/splide](https://github.com/Splidejs/splide) - Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.
+- [Splidejs/splide-extension-intersection](https://github.com/Splidejs/splide-extension-intersection) - The extension for controlling the slider when it enters or exits the viewport.
+- [nasa/harmony](https://github.com/nasa/harmony) - Application for providing services for Earth observation data in the cloud using standards-based APIs
 - [maykbrito/ts-proxy-server](https://github.com/maykbrito/ts-proxy-server) - Boilerplate API proxy server to hide API keys, adding rate limit and cache. See it working at https://github.com/maykbrito/openweather-example
 - [maykbrito/openweather-example](https://github.com/maykbrito/openweather-example) - test to using the API proxy server template &gt;&gt; https://github.com/maykbrito/ts-proxy-server
 - [Vestride/react-stacked-elements](https://github.com/Vestride/react-stacked-elements) - Toggle the visibility of two elements without removing them from the document layout

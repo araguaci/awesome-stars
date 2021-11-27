@@ -37,6 +37,7 @@
   - [Pug](#pug)
   - [Puppet](#puppet)
   - [Python](#python)
+  - [R](#r)
   - [ReScript](#rescript)
   - [Roff](#roff)
   - [Ruby](#ruby)
@@ -177,6 +178,7 @@
 
 ## CSS 
 
+- [gadenbuie/tweet-conf-dash](https://github.com/gadenbuie/tweet-conf-dash) - A shiny twitter conference dashboard
 - [interglobalvision/432hz.audio](https://github.com/interglobalvision/432hz.audio) - 432hz.audio
 - [ondras/maslo](https://github.com/ondras/maslo) - Scalable Markdown-based HTML slide deck
 - [HTMLElements/smart-webcomponents](https://github.com/HTMLElements/smart-webcomponents) - Web Components & Custom Elements for Professional Web Applications
@@ -349,6 +351,8 @@
 
 ## HTML 
 
+- [voronoys/voronoys_sc](https://github.com/voronoys/voronoys_sc) - Voronoys app used for Shiny-contest challenge
+- [bigskysoftware/intercooler-js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
 - [kakacordovil/nasa-api](https://github.com/kakacordovil/nasa-api) - APOD: Astronomy Picture of the Day Browse API https://api.nasa.gov/
 - [miromannino/Justified-Gallery](https://github.com/miromannino/Justified-Gallery) - Javascript library to help creating high quality justified galleries of images. Used by thousands of websites as well as the photography community 500px.
 - [desandro/masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout plugin
@@ -404,6 +408,7 @@
 - [mangonator/mapPlaces](https://github.com/mangonator/mapPlaces) - Google Maps JS API CRUD application demo
 - [leggett/simplify](https://github.com/leggett/simplify) - Issue tracker for Simplify Gmail, a browser extension to simplify Gmail's interface
 - [tastejs/hacker-news-pwas](https://github.com/tastejs/hacker-news-pwas) - HNPWA - Hacker News readers as Progressive Web Apps 📱
+- [cristianbote/hnpwa-vanilla](https://github.com/cristianbote/hnpwa-vanilla) - Hacker News PWA implemented using no framework just javascript
 - [jgthms/html-reference](https://github.com/jgthms/html-reference) - HTML Reference: a free guide to all HTML5 elements and attributes
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
@@ -531,6 +536,10 @@
 
 ## JavaScript 
 
+- [1j01/98](https://github.com/1j01/98) - 💿 Web-based Windows 98 desktop recreation █████▓█▓▓▒▓▒▒░▒░░░🗕︎🗗︎🗙︎
+- [1j01/os-gui](https://github.com/1j01/os-gui) - Retro OS GUI JS/CSS library
+- [1j01/jspaint](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [tomkp/react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component
 - [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - :leaves: JavaScript library for mobile-friendly interactive maps
@@ -862,7 +871,6 @@
 - [futurepress/epub.js](https://github.com/futurepress/epub.js) - Enhanced eBooks in the browser.
 - [klaussinani/tusk](https://github.com/klaussinani/tusk) - Refined Evernote desktop app
 - [cristianbote/goober](https://github.com/cristianbote/goober) - 🥜 goober, a less than 1KB 🎉  css-in-js alternative with a familiar API
-- [cristianbote/hnpwa-vanilla](https://github.com/cristianbote/hnpwa-vanilla) - Hacker News PWA implemented using no framework just javascript
 - [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
@@ -1633,6 +1641,8 @@
 
 ## PHP 
 
+- [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 World countries, states, regions, provinces, cities, towns in JSON, SQL, XML, YAML, and CSV. All Countries, States, Cities with ISO2, ISO3, Country Code, Phone Code, Capital, Native Language, Timezones, Latitude, Longitude, Region, Subregion, Flag Emoji, and Currency. #countries #states #cities
+- [yiisoft/yii2](https://github.com/yiisoft/yii2) - Yii 2: The Fast, Secure and Professional PHP Framework
 - [jekuer/php-microsite-boilerplate](https://github.com/jekuer/php-microsite-boilerplate) - An extremely simple and lightweight PHP framework/boilerplate to spin-up microsites at high speed. Optimized for Performance, Security, SEO, and Directus CMS.
 - [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.
 - [iolevel/peachpie-samples](https://github.com/iolevel/peachpie-samples) - Sample projects demonstrating use of Peachpie - the PHP compiler and runtime for .NET
@@ -1947,6 +1957,11 @@
 - [the-javapocalypse/Social-Media-Scrapper](https://github.com/the-javapocalypse/Social-Media-Scrapper) - Scrape images, tweets, captions, external links and hashtags with their frequency of occurrence related to any keyword from Instagram and Twitter.
 - [poliquin/brazilnum](https://github.com/poliquin/brazilnum) - Python functions for CNPJ, CEI, CPF, PIS/PASEP, CEP, and município numbers from Brazil.
 
+## R 
+
+- [rstudio/shiny](https://github.com/rstudio/shiny) - Easy interactive web applications with R
+- [r-lib/pkgdown](https://github.com/r-lib/pkgdown) - Generate static html documentation for an R package
+
 ## ReScript 
 
 - [mobily/stacks](https://github.com/mobily/stacks) - ⚡ Build React Native layouts quickly with ease and fun.
@@ -2090,6 +2105,9 @@
 
 ## TypeScript 
 
+- [airform/airform](https://github.com/airform/airform) - Functional HTML forms for Front-End Developers.
+- [ever-co/ever-demand](https://github.com/ever-co/ever-demand) - Ever® Demand™ - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
+- [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora - Open-Source Translation Management Platform
 - [huytd/pomoday-v2](https://github.com/huytd/pomoday-v2) - A keyboard only task management web app
 - [ibitcy/eo-locale](https://github.com/ibitcy/eo-locale) - 🌏Internationalize React apps 👔Elegant lightweight library based on Internationalization API
 - [prc5/react-zoom-pan-pinch](https://github.com/prc5/react-zoom-pan-pinch) - React library to support easy zoom, pan, pinch on various html dom elements like images and divs

@@ -6,7 +6,10 @@
 
   - [🌍 Normalized repository URLs for every package in the npm registry. Updated daily...](https://github.com/nice-registry/all-the-package-repos)
 
+### Readme.md Tools
 
+  -[📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!](https://github.com/lowlighter/metrics)
+  
 ### Tools For Devs
 
   - [🚀Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment](https://github.com/appwrite/appwrite)
@@ -28,6 +31,10 @@
   - [What's your favorite JavaScript single LOC (line of code)?1loc.dev](https://github.com/1milligram/1loc)
   - [Super tiny, quick tips, tricks and best practices of front-end development](https://github.com/1milligram/frontend-tips)
   - [❗️ A collaborative list of resources for developers](https://github.com/marcelscruz/dev-resources)
+  - [🚀A series of exquisite and compact web page cool effects](https://github.com/lindelof/awesome-web-effect)
+  - [🔗 Some useful websites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+  - [🕊️🔒💬 A P2P end-to-end encrypted messaging app](https://github.com/HR/ciphora)
+  - [🚀 P2P end-to-end encrypted file sharing app](https://github.com/HR/spacedrop)
 
 ## Open-Source
 

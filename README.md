@@ -178,6 +178,7 @@
 
 ## CSS 
 
+- [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Meticulously designed to make Obsidian feel native on desktop, mobile and tablet. You can customize colors, fonts and more with the companion plugin Minimal Theme Settings.
 - [gadenbuie/tweet-conf-dash](https://github.com/gadenbuie/tweet-conf-dash) - A shiny twitter conference dashboard
 - [interglobalvision/432hz.audio](https://github.com/interglobalvision/432hz.audio) - 432hz.audio
 - [ondras/maslo](https://github.com/ondras/maslo) - Scalable Markdown-based HTML slide deck
@@ -351,6 +352,7 @@
 
 ## HTML 
 
+- [SheetJS/SheetJS.github.io](https://github.com/SheetJS/SheetJS.github.io) - :goberserk: SheetJS Spreadsheet Parser/Writer tests and demos
 - [voronoys/voronoys_sc](https://github.com/voronoys/voronoys_sc) - Voronoys app used for Shiny-contest challenge
 - [bigskysoftware/intercooler-js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
 - [kakacordovil/nasa-api](https://github.com/kakacordovil/nasa-api) - APOD: Astronomy Picture of the Day Browse API https://api.nasa.gov/
@@ -536,6 +538,18 @@
 
 ## JavaScript 
 
+- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
+- [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
+- [cassidoo/shopify-react-astro](https://github.com/cassidoo/shopify-react-astro) - A demo of a Shopify site using Astro and React.
+- [iuccio/csvToJson](https://github.com/iuccio/csvToJson) - Convert CSV file to JSON
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
+- [joyboxapp/joybox](https://github.com/joyboxapp/joybox) - A pinboard for audiovisual media.
+- [maykbrito/electron-desktop-template](https://github.com/maykbrito/electron-desktop-template) - 
+- [maykbrito/electron-desktop-custom-notion-omni](https://github.com/maykbrito/electron-desktop-custom-notion-omni) - Inject custom CSS to beautify Notion.so
+- [plotly/falcon](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac 🦅
+- [mholt/PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
+- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
+- [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js, with workbox 🧰
 - [1j01/98](https://github.com/1j01/98) - 💿 Web-based Windows 98 desktop recreation █████▓█▓▓▒▓▒▒░▒░░░🗕︎🗗︎🗙︎
 - [1j01/os-gui](https://github.com/1j01/os-gui) - Retro OS GUI JS/CSS library
 - [1j01/jspaint](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
@@ -1502,6 +1516,8 @@
 
 ## Others 
 
+- [cassidoo/scrapers](https://github.com/cassidoo/scrapers) - A list of scrapers from around the web.
+- [secretGeek/AwesomeCSV](https://github.com/secretGeek/AwesomeCSV) - 🕶️A curated list of awesome tools for dealing with CSV.
 - [AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [marcodiiga/amazon-s3-userguide](https://github.com/marcodiiga/amazon-s3-userguide) - The open source version of the Amazon S3 User Guide. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request. This guide combines information  from the three retired Amazon S3 guides: Amazon S3 Developer Guide, Console User Guide, and Getting Started Guide.
@@ -1901,6 +1917,7 @@
 
 ## Python 
 
+- [ansible/galaxy](https://github.com/ansible/galaxy) - Source code behind the Galaxy hub at http://galaxy.ansible.com
 - [robertjkeck2/AutoCaller](https://github.com/robertjkeck2/AutoCaller) - Automated call and text service powered by Twilio
 - [marcodiiga/aws-sam-cli](https://github.com/marcodiiga/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
 - [huaying/instagram-crawler](https://github.com/huaying/instagram-crawler) - Get Instagram posts/profile/hashtag data without using Instagram API
@@ -2030,6 +2047,7 @@
 
 ## Shell 
 
+- [ansible/ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio unlike any other.
 - [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 - [andrius/asterisk](https://github.com/andrius/asterisk) - Asterisk PBX in Docker on Alpine Linux. Smallest Asterisk ever! ;)
@@ -2105,6 +2123,13 @@
 
 ## TypeScript 
 
+- [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
+- [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
+- [withastro/astro](https://github.com/withastro/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
+- [ansible/ansible-hub-ui](https://github.com/ansible/ansible-hub-ui) - Ansible Automation Hub UI
+- [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers
+- [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
+- [chicio/chicio.github.io](https://github.com/chicio/chicio.github.io) - :ghost: Fabrizio Duroni (me :smile:) personal website. Created using GatsbyJS, Styled Components, Storybook, Typescript, tsParticles, GitHub pages, Github Actions, Upptime.
 - [airform/airform](https://github.com/airform/airform) - Functional HTML forms for Front-End Developers.
 - [ever-co/ever-demand](https://github.com/ever-co/ever-demand) - Ever® Demand™ - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
 - [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora - Open-Source Translation Management Platform

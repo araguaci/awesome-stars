@@ -6,6 +6,21 @@
 
   - [🌍 Normalized repository URLs for every package in the npm registry. Updated daily...](https://github.com/nice-registry/all-the-package-repos)
 
+### Learning
+
+  - [✅ A checklist of things to do before releasing your project](https://github.com/amilajack/project-checklist)
+  - [📚 Study guide and introduction to the modern front end stack](https://github.com/grab/front-end-guide)
+  - [💯 Materials to help you rock your next coding interview](https://github.com/yangshun/tech-interview-handbook)
+  - [🕸 No-bullshit answers to the famous h5bp "Front-end Job Interview Questions"](https://github.com/yangshun/front-end-interview-handbook)
+  - [The Magic of CSS](https://github.com/adamschwartz/magic-of-css)
+  - [🎓 Um caminho para a educação autodidata em Ciência da Computação!](https://github.com/Universidade-Livre/ciencia-da-computacao)
+  - [24 Lessons, 12 Weeks, Get Started as a Web Developer](https://github.com/microsoft/Web-Dev-For-Beginners)
+  - [Beginners Series to Nodejs](https://channel9.msdn.com/Series/Beginners-Series-to-Nodejs?WT.mc_id=academic-13441-cxa)
+  - [Beginner's Series to: JavaScript](https://channel9.msdn.com/Series/Beginners-Series-to-JavaScript?WT.mc_id=academic-13441-cxa)
+  - [Super tiny, quick tips, tricks and best practices of front-end development](https://github.com/1milligram/frontend-tips)
+  - [🛁 Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+  - [What's your favorite JavaScript single LOC (line of code)?1loc.dev](https://github.com/1milligram/1loc)
+
 ### Readme.md Tools
 
   -[📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!](https://github.com/lowlighter/metrics)
@@ -21,20 +36,13 @@
   - [🌟 packages and resources that work really well with npx](https://github.com/zkat/npx) 🕶
   - [Check for outdated, incorrect, and unused dependencies](https://github.com/dylang/npm-check)
   - [🔥The web open source editor for presentations](https://github.com/deckgo/deckdeckgo#getting-started)
-  - [🛁 Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
   - [🔗 Some useful websites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
   - [🧙‍♂️A list of /uses pages detailing developer setups, gear, software and configs](https://github.com/wesbos/awesome-uses)
   - [⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator](https://github.com/prayash/awesome-gatsby)
   - [⚡️🎨 Matches the x-heights and widths of two fonts](https://github.com/notwaldorf/font-style-matcher)
-  - [Super tiny, quick tips, tricks and best practices of front-end development](https://github.com/1milligram/frontend-tips)
-  - [:octocat:100+ open-source clones of popular sites like Airbnb, Amazon...](https://github.com/GorvGoyl/Clone-Wars)
-  - [What's your favorite JavaScript single LOC (line of code)?1loc.dev](https://github.com/1milligram/1loc)
-  - [Super tiny, quick tips, tricks and best practices of front-end development](https://github.com/1milligram/frontend-tips)
   - [❗️ A collaborative list of resources for developers](https://github.com/marcelscruz/dev-resources)
   - [🚀A series of exquisite and compact web page cool effects](https://github.com/lindelof/awesome-web-effect)
   - [🔗 Some useful websites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-  - [🕊️🔒💬 A P2P end-to-end encrypted messaging app](https://github.com/HR/ciphora)
-  - [🚀 P2P end-to-end encrypted file sharing app](https://github.com/HR/spacedrop)
 
 ## Open-Source
 
@@ -109,6 +117,9 @@
   - [Common solutions and tools developed by Google Cloud's Professional Services team](https://github.com/GoogleCloudPlatform/professional-services)
   - [Sample applications for Azure DevOps Project](https://github.com/microsoft/devops-project-samples)
   - [📌✨ A collection of awesome dynamic pinned gists for GitHub](https://github.com/matchai/awesome-pinned-gists)
+  - [🕊️🔒💬 A P2P end-to-end encrypted messaging app](https://github.com/HR/ciphora)
+  - [🚀 P2P end-to-end encrypted file sharing app](https://github.com/HR/spacedrop)
+  - [:octocat:100+ open-source clones of popular sites like Airbnb, Amazon...](https://github.com/GorvGoyl/Clone-Wars)
 
 
 ### Linux
@@ -121,14 +132,4 @@
   - [HTML Standard](https://github.com/whatwg/html)
 
 
-### Learning
-
-  - [📚 Study guide and introduction to the modern front end stack](https://github.com/grab/front-end-guide)
-  - [💯 Materials to help you rock your next coding interview](https://github.com/yangshun/tech-interview-handbook)
-  - [🕸 No-bullshit answers to the famous h5bp "Front-end Job Interview Questions"](https://github.com/yangshun/front-end-interview-handbook)
-  - [The Magic of CSS](https://github.com/adamschwartz/magic-of-css)
-  - [🎓 Um caminho para a educação autodidata em Ciência da Computação!](https://github.com/Universidade-Livre/ciencia-da-computacao)
-  - [24 Lessons, 12 Weeks, Get Started as a Web Developer](https://github.com/microsoft/Web-Dev-For-Beginners)
-  - [Beginners Series to Nodejs](https://channel9.msdn.com/Series/Beginners-Series-to-Nodejs?WT.mc_id=academic-13441-cxa)
-  - [Beginner's Series to: JavaScript](https://channel9.msdn.com/Series/Beginners-Series-to-JavaScript?WT.mc_id=academic-13441-cxa)
 

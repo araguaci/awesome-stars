@@ -134,6 +134,7 @@
 
 ## C++ 
 
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
 - [marcodiiga/filepie](https://github.com/marcodiiga/filepie) - A terminal utility to display size quota maps on drives and folders
 - [Kurento/kurento-media-server](https://github.com/Kurento/kurento-media-server) - Media Server responsible for media transmission, processing, loading and recording
@@ -355,6 +356,8 @@
 
 ## HTML 
 
+- [jeromeetienne/threex](https://github.com/jeromeetienne/threex) - Game Extensions for three.js
+- [newdigate/teensy-eurorack](https://github.com/newdigate/teensy-eurorack) - Eurorack shield for teensy 4.1 with 14 in / 16 out analog channels
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
 - [SheetJS/SheetJS.github.io](https://github.com/SheetJS/SheetJS.github.io) - :goberserk: SheetJS Spreadsheet Parser/Writer tests and demos
 - [voronoys/voronoys_sc](https://github.com/voronoys/voronoys_sc) - Voronoys app used for Shiny-contest challenge
@@ -386,7 +389,7 @@
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [shgysk8zer0/static-template](https://github.com/shgysk8zer0/static-template) - A template repository for static sites, including skeleton JS, CSS, SVGs, fonts, etc.
 - [jsdelivr/www.jsdelivr.com](https://github.com/jsdelivr/www.jsdelivr.com) - The official jsDelivr website
-- [cobidev/simplefolio](https://github.com/cobidev/simplefolio) - ⚡️ A minimal portfolio template for Developers
+- [C0B1T0/simplefolio](https://github.com/C0B1T0/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [FlorianFe/Elements](https://github.com/FlorianFe/Elements) - ⚛⚗ A desktop App which displays the periodic table
 - [ionic-team/ionic-preview-app](https://github.com/ionic-team/ionic-preview-app) - The Ionic Component Demos
 - [GoogleChrome/developer.chrome.com](https://github.com/GoogleChrome/developer.chrome.com) - Chrome Developers
@@ -543,6 +546,12 @@
 
 ## JavaScript 
 
+- [jeromeetienne/microevent.js](https://github.com/jeromeetienne/microevent.js) - event emitter microlibrary - 20lines -for node and browser
+- [jeromeetienne/jquery-qrcode](https://github.com/jeromeetienne/jquery-qrcode) - qrcode generation standalone (doesn't depend on external services)
+- [amcolash/simple-image-server](https://github.com/amcolash/simple-image-server) - A small server that hosts images (similar to simplehttpserver)
+- [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
+- [sindresorhus/electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for Electron apps and modules
+- [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
@@ -1537,6 +1546,8 @@
 
 ## Others 
 
+- [amilajack/project-checklist](https://github.com/amilajack/project-checklist) - ✅ A checklist of things to do before releasing your project
+- [quasarframework/quasar-awesome](https://github.com/quasarframework/quasar-awesome) - 🎉 A list of awesome things related to Quasar
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [emmabostian/design-inspiration](https://github.com/emmabostian/design-inspiration) - A collection of websites to spark creativity
 - [clarketm/proxy-list](https://github.com/clarketm/proxy-list) - A list of free, public, forward proxy servers. UPDATED DAILY!
@@ -2038,6 +2049,7 @@
 
 ## Rust 
 
+- [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 - [huytd/kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
 - [adamsky/globe](https://github.com/adamsky/globe) - Interactive ASCII globe generator
 - [grsoares21/video-silence-cutter](https://github.com/grsoares21/video-silence-cutter) - A Rust script to split and/or trim out silence sections from videos. Needs FFmpeg. WIP
@@ -2149,12 +2161,15 @@
 
 ## TypeScript 
 
+- [itgalaxy/favicons](https://github.com/itgalaxy/favicons) - Favicons generator for Node.js
+- [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux
+- [amilajack/popcorn-time-desktop](https://github.com/amilajack/popcorn-time-desktop) - 🍿 🕐 🎞  A Modern Popcorn Time Client
 - [httptoolkit/httptoolkit-desktop](https://github.com/httptoolkit/httptoolkit-desktop) - Electron wrapper to build and distribute HTTP Toolkit for the desktop
 - [wakatime/desktop](https://github.com/wakatime/desktop) - The Wakatime Desktop Application.
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
 - [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
-- [withastro/astro](https://github.com/withastro/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
+- [withastro/astro](https://github.com/withastro/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts
 - [ansible/ansible-hub-ui](https://github.com/ansible/ansible-hub-ui) - Ansible Automation Hub UI
 - [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
@@ -2616,6 +2631,7 @@
 
 ## Vue 
 
+- [daptin/dadadash](https://github.com/daptin/dadadash) - Office suite with file browser, document editor, spreadsheet editor, calendar and data tables with CRUDX API's ready to deploy
 - [quasarframework/quasar-ui-qcalendar](https://github.com/quasarframework/quasar-ui-qcalendar) - QCalendar - Quasar App Extension, Vue CLI plug-in and UMD distributions available
 - [anoff/plantbuddy](https://github.com/anoff/plantbuddy) - nodeMCU based moisture monitoring for plants 🌱 with a serverless backend
 - [prabhuignoto/vue-float-menu](https://github.com/prabhuignoto/vue-float-menu) - 🎈Customizable floating menu for Vue

@@ -112,7 +112,7 @@
 - [AiursoftWeb/Infrastructures](https://github.com/AiursoftWeb/Infrastructures) - Aiursoft platform source code. A micro-service web platform based on .NET Core.
 - [AiursoftWeb/Kahla](https://github.com/AiursoftWeb/Kahla) - The server-side, home page, bot, and SDK repo for Kahla.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-- [microsoft/ClangSharp](https://github.com/microsoft/ClangSharp) - Clang bindings for .NET and Mono written in C#
+- [dotnet/ClangSharp](https://github.com/dotnet/ClangSharp) - Clang bindings for .NET and Mono written in C#
 - [peachpiecompiler/peachpie](https://github.com/peachpiecompiler/peachpie) - PeachPie - the PHP compiler and runtime for .NET and .NET Core
 - [ipphone/core](https://github.com/ipphone/core) - IP Phone – lightweight SIP softphone for Windows
 - [Montesuma80/3cx-web-API](https://github.com/Montesuma80/3cx-web-API) - an local API to Controll your 3CX v16/v18 over HTTP
@@ -277,6 +277,7 @@
 
 ## Dockerfile 
 
+- [Urigo/angular-meteor](https://github.com/Urigo/angular-meteor) - Angular and Meteor - The perfect stack
 - [RocketChat/Docker.Official.Image](https://github.com/RocketChat/Docker.Official.Image) - OFFICIAL REPOSITORY rocket.chat
 - [geerlingguy/docker-centos7-ansible](https://github.com/geerlingguy/docker-centos7-ansible) - CentOS 7 Docker container for Ansible playbook and role testing.
 - [muesli/code-server](https://github.com/muesli/code-server) - My code-server Docker image
@@ -547,6 +548,11 @@
 
 ## JavaScript 
 
+- [novnc/websockify-js](https://github.com/novnc/websockify-js) - JavaScript WebSocket to TCP bridge
+- [ovh/manager](https://github.com/ovh/manager) - OVHcloud Control Panel
+- [Xantios/cockpit-docker](https://github.com/Xantios/cockpit-docker) - Just a fork
+- [PrairieLearn/PrairieLearn](https://github.com/PrairieLearn/PrairieLearn) - Online problem-driving learning system
+- [kyriesent/node-rtsp-stream](https://github.com/kyriesent/node-rtsp-stream) - Stream any RTSP stream and output to websocket for consumption by jsmpeg (https://github.com/phoboslab/jsmpeg). HTML5 streaming video! Requires ffmpeg.
 - [liitcode/TechnoQuiz_Frontend](https://github.com/liitcode/TechnoQuiz_Frontend) - A fun and interactive Quiz app related to Programming languages and practices. Test your knowledge now!
 - [pesto-students/N2-Eta-TechnoQuiz-Frontend](https://github.com/pesto-students/N2-Eta-TechnoQuiz-Frontend) - A fun and interactive Quiz app related to Programming languages and practices. Test your knowledge now!
 - [jeromeetienne/microevent.js](https://github.com/jeromeetienne/microevent.js) - event emitter microlibrary - 20lines -for node and browser
@@ -1549,6 +1555,7 @@
 
 ## Others 
 
+- [Urigo/awesome-meteor](https://github.com/Urigo/awesome-meteor) - A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things
 - [amilajack/project-checklist](https://github.com/amilajack/project-checklist) - ✅ A checklist of things to do before releasing your project
 - [quasarframework/quasar-awesome](https://github.com/quasarframework/quasar-awesome) - 🎉 A list of awesome things related to Quasar
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
@@ -2165,6 +2172,7 @@
 
 ## TypeScript 
 
+- [maximegris/typescript-express-sequelize](https://github.com/maximegris/typescript-express-sequelize) - Easily bootstrap your NodeJS project with Express, Sequelize and Typescript :+1:
 - [itgalaxy/favicons](https://github.com/itgalaxy/favicons) - Favicons generator for Node.js
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux
 - [amilajack/popcorn-time-desktop](https://github.com/amilajack/popcorn-time-desktop) - 🍿 🕐 🎞  A Modern Popcorn Time Client
@@ -2593,7 +2601,7 @@
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Extensible Build Framework
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A realtime Database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications
 - [actions-on-google/smart-home-local](https://github.com/actions-on-google/smart-home-local) - Local Home SDK sample
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.

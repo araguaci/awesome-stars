@@ -358,6 +358,7 @@
 
 ## HTML 
 
+- [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [jeromeetienne/threex](https://github.com/jeromeetienne/threex) - Game Extensions for three.js
 - [newdigate/teensy-eurorack](https://github.com/newdigate/teensy-eurorack) - Eurorack shield for teensy 4.1 with 14 in / 16 out analog channels
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
@@ -549,6 +550,7 @@
 
 ## JavaScript 
 
+- [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 - [novnc/websockify-js](https://github.com/novnc/websockify-js) - JavaScript WebSocket to TCP bridge
 - [ovh/manager](https://github.com/ovh/manager) - OVHcloud Control Panel
@@ -1566,6 +1568,7 @@
 - [clarketm/proxy-list](https://github.com/clarketm/proxy-list) - A list of free, public, forward proxy servers. UPDATED DAILY!
 - [cassidoo/scrapers](https://github.com/cassidoo/scrapers) - A list of scrapers from around the web.
 - [secretGeek/AwesomeCSV](https://github.com/secretGeek/AwesomeCSV) - 🕶️A curated list of awesome tools for dealing with CSV.
+- [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers
 - [AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [marcodiiga/amazon-s3-userguide](https://github.com/marcodiiga/amazon-s3-userguide) - The open source version of the Amazon S3 User Guide. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request. This guide combines information  from the three retired Amazon S3 guides: Amazon S3 Developer Guide, Console User Guide, and Getting Started Guide.
@@ -2187,7 +2190,6 @@
 - [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [withastro/astro](https://github.com/withastro/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts
 - [ansible/ansible-hub-ui](https://github.com/ansible/ansible-hub-ui) - Ansible Automation Hub UI
-- [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [chicio/chicio.github.io](https://github.com/chicio/chicio.github.io) - :ghost: Fabrizio Duroni (me :smile:) personal website. Created using GatsbyJS, Styled Components, Storybook, Typescript, tsParticles, GitHub pages, Github Actions, Upptime.
 - [airform/airform](https://github.com/airform/airform) - Functional HTML forms for Front-End Developers.
@@ -2407,7 +2409,7 @@
 - [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking hot React Notifications 🔥
 - [microsoft/google-play-vsts-extension](https://github.com/microsoft/google-play-vsts-extension) - Visual Studio Team Services (VSTS) extension for performing continuous delivery to the Google Play store from your automated CI builds
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus)
-- [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps. #Hacktoberfest
+- [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [start-javascript/sb-admin-material](https://github.com/start-javascript/sb-admin-material) - Simple Dashboard Admin App built using Angular 9 and Material 2.
 - [team-telnyx/webrtc](https://github.com/team-telnyx/webrtc) - SDK for Telnyx's WebRTC platform
 - [tokyapp/toky-phone-js-sdk](https://github.com/tokyapp/toky-phone-js-sdk) - The Toky Phone JS SDK is a WebRTC Javascript library providing an abstraction to the Toky phone system, including its main features
@@ -2648,6 +2650,7 @@
 
 ## Vue 
 
+- [pratik227/quasar-admin](https://github.com/pratik227/quasar-admin) - Free Quasar Admin Template based on Vue.js and used Quasar Framework.
 - [daptin/dadadash](https://github.com/daptin/dadadash) - Office suite with file browser, document editor, spreadsheet editor, calendar and data tables with CRUDX API's ready to deploy
 - [quasarframework/quasar-ui-qcalendar](https://github.com/quasarframework/quasar-ui-qcalendar) - QCalendar - Quasar App Extension, Vue CLI plug-in and UMD distributions available
 - [anoff/plantbuddy](https://github.com/anoff/plantbuddy) - nodeMCU based moisture monitoring for plants 🌱 with a serverless backend

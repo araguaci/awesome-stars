@@ -251,6 +251,7 @@
 
 ## CoffeeScript 
 
+- [adaltas/node-csv](https://github.com/adaltas/node-csv) - Full featured CSV parser with simple api and tested against large datasets.
 - [Pathgather/please-wait](https://github.com/Pathgather/please-wait) - A simple library to show your users a beautiful splash page while your application loads.
 - [JoelBesada/pasteboard](https://github.com/JoelBesada/pasteboard) - Clipboard and drag & drop image sharing web app
 
@@ -550,6 +551,9 @@
 
 ## JavaScript 
 
+- [apache/cordova-plugman](https://github.com/apache/cordova-plugman) - Apache Cordova Plugman
+- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
+- [adaltas/node-csv-docs](https://github.com/adaltas/node-csv-docs) - Website for the csv projects
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 - [novnc/websockify-js](https://github.com/novnc/websockify-js) - JavaScript WebSocket to TCP bridge
@@ -1707,6 +1711,9 @@
 
 ## PHP 
 
+- [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) - PHP library for Two Factor Authentication (TFA / 2FA)
+- [cakephp/cakephp](https://github.com/cakephp/cakephp) - CakePHP: The Rapid Development Framework for PHP - Official Repository
+- [cakephp/phinx](https://github.com/cakephp/phinx) - PHP Database Migrations for Everyone
 - [lcobucci/jwt](https://github.com/lcobucci/jwt) - A simple library to work with JSON Web Token and JSON Web Signature
 - [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 World countries, states, regions, provinces, cities, towns in JSON, SQL, XML, YAML, and CSV. All Countries, States, Cities with ISO2, ISO3, Country Code, Phone Code, Capital, Native Language, Timezones, Latitude, Longitude, Region, Subregion, Flag Emoji, and Currency. #countries #states #cities
 - [yiisoft/yii2](https://github.com/yiisoft/yii2) - Yii 2: The Fast, Secure and Professional PHP Framework

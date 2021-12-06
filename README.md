@@ -551,6 +551,7 @@
 
 ## JavaScript 
 
+- [VirgilSecurity/demo-twilio-backend-nodejs](https://github.com/VirgilSecurity/demo-twilio-backend-nodejs) - A sample backend that demonstrates how to generate a Virgil JWT and Twilio token used for authentication with the Virgil and Twilio services
 - [apache/cordova-plugman](https://github.com/apache/cordova-plugman) - Apache Cordova Plugman
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [adaltas/node-csv-docs](https://github.com/adaltas/node-csv-docs) - Website for the csv projects
@@ -1531,6 +1532,7 @@
 
 ## Kotlin 
 
+- [VirgilSecurity/chat-back4app-android](https://github.com/VirgilSecurity/chat-back4app-android) - (Works!) A simple Back4App Android application based on Virgil E3Kit that demonstrates how the end-to-end encryption works.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.                                                                                          NOTE:   BEING REWRITTEN,  SO  STAY TUNED.
 - [AdevintaSpain/Leku](https://github.com/AdevintaSpain/Leku) - :earth_africa: Map location picker component for Android. Based on Google Maps. An alternative to Google Place Picker.
 - [SimonMarquis/QrCode](https://github.com/SimonMarquis/QrCode) - 🏁 Scan and create QR Codes.
@@ -2186,6 +2188,7 @@
 
 ## TypeScript 
 
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
 - [maximegris/typescript-express-sequelize](https://github.com/maximegris/typescript-express-sequelize) - Easily bootstrap your NodeJS project with Express, Sequelize and Typescript :+1:
 - [itgalaxy/favicons](https://github.com/itgalaxy/favicons) - Favicons generator for Node.js
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux

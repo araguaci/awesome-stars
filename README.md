@@ -112,7 +112,7 @@
 - [AiursoftWeb/Infrastructures](https://github.com/AiursoftWeb/Infrastructures) - Aiursoft platform source code. A micro-service web platform based on .NET Core.
 - [AiursoftWeb/Kahla](https://github.com/AiursoftWeb/Kahla) - The server-side, home page, bot, and SDK repo for Kahla.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-- [dotnet/ClangSharp](https://github.com/dotnet/ClangSharp) - Clang bindings for .NET and Mono written in C#
+- [dotnet/ClangSharp](https://github.com/dotnet/ClangSharp) - Clang bindings for .NET written in C#
 - [peachpiecompiler/peachpie](https://github.com/peachpiecompiler/peachpie) - PeachPie - the PHP compiler and runtime for .NET and .NET Core
 - [ipphone/core](https://github.com/ipphone/core) - IP Phone – lightweight SIP softphone for Windows
 - [Montesuma80/3cx-web-API](https://github.com/Montesuma80/3cx-web-API) - an local API to Controll your 3CX v16/v18 over HTTP
@@ -394,7 +394,7 @@
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [shgysk8zer0/static-template](https://github.com/shgysk8zer0/static-template) - A template repository for static sites, including skeleton JS, CSS, SVGs, fonts, etc.
 - [jsdelivr/www.jsdelivr.com](https://github.com/jsdelivr/www.jsdelivr.com) - The official jsDelivr website
-- [C0B1T0/simplefolio](https://github.com/C0B1T0/simplefolio) - ⚡️ A minimal portfolio template for Developers
+- [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [FlorianFe/Elements](https://github.com/FlorianFe/Elements) - ⚛⚗ A desktop App which displays the periodic table
 - [ionic-team/ionic-preview-app](https://github.com/ionic-team/ionic-preview-app) - The Ionic Component Demos
 - [GoogleChrome/developer.chrome.com](https://github.com/GoogleChrome/developer.chrome.com) - Chrome Developers
@@ -502,6 +502,7 @@
 
 ## Java 
 
+- [benwtrent/janus-gateway-android](https://github.com/benwtrent/janus-gateway-android) - This is an API wrapper that utilizes the native WebRTC build and is made to ease communication with the janus-gateway
 - [Piasy/BigImageViewer](https://github.com/Piasy/BigImageViewer) - Big image viewer supporting pan and zoom, with very little memory usage and full featured image loading choices. Powered by Subsampling Scale Image View, Fresco, Glide, and Picasso. Even with gif and webp support! 🍻
 - [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 - [cesardeazevedo/react-native-collapsing-toolbar](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - react-native wrapper for android CollapsingToolbarLayout
@@ -551,6 +552,9 @@
 
 ## JavaScript 
 
+- [red5pro/streaming-html5](https://github.com/red5pro/streaming-html5) - Testbed examples for Red5 Pro HTML SDK usage
+- [Streamedian/html5_rtsp_player](https://github.com/Streamedian/html5_rtsp_player) - html5 player for rtsp stream
+- [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [VirgilSecurity/demo-twilio-backend-nodejs](https://github.com/VirgilSecurity/demo-twilio-backend-nodejs) - A sample backend that demonstrates how to generate a Virgil JWT and Twilio token used for authentication with the Virgil and Twilio services
 - [apache/cordova-plugman](https://github.com/apache/cordova-plugman) - Apache Cordova Plugman
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
@@ -1268,7 +1272,6 @@
 - [huynhsamha/react-configure](https://github.com/huynhsamha/react-configure) - Necessary configure for create-react-app 🤣🤣🤣
 - [cornflourblue/react-signup-verification-boilerplate](https://github.com/cornflourblue/react-signup-verification-boilerplate) - React Boilerplate - Email Sign Up with Verification, Authentication & Forgot Password
 - [jherr/chat-o-matic](https://github.com/jherr/chat-o-matic) - Example code for a real time chat system with GraphQL subscriptions
-- [reactjs/pt-br.reactjs.org](https://github.com/reactjs/pt-br.reactjs.org) - 🇧🇷 React documentation website in Portuguese (Brazil)
 - [Jejinketsu/CEP_Distance](https://github.com/Jejinketsu/CEP_Distance) - Aplicação em node para calcular a distância entre dois pontos, dado o CEP de cada um.
 - [mweststrate/relative-deps](https://github.com/mweststrate/relative-deps) - Installs local dependencies for optimal developer experience
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
@@ -1713,6 +1716,7 @@
 
 ## PHP 
 
+- [fusionpbx/fusionpbx](https://github.com/fusionpbx/fusionpbx) - Official FusionPBX - A full-featured domain based multi-tenant PBX and voice switch for FreeSwitch.
 - [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) - PHP library for Two Factor Authentication (TFA / 2FA)
 - [cakephp/cakephp](https://github.com/cakephp/cakephp) - CakePHP: The Rapid Development Framework for PHP - Official Repository
 - [cakephp/phinx](https://github.com/cakephp/phinx) - PHP Database Migrations for Everyone
@@ -2112,6 +2116,7 @@
 
 ## Shell 
 
+- [fusionpbx/fusionpbx-install.sh](https://github.com/fusionpbx/fusionpbx-install.sh) - 
 - [ansible/ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio unlike any other.
 - [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
@@ -2579,6 +2584,7 @@
 - [nrwl/nx-console](https://github.com/nrwl/nx-console) - Nx Console is the user interface for Nx.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [cornflourblue/angular-8-alert-notifications](https://github.com/cornflourblue/angular-8-alert-notifications) - Angular 8 - Alert (Toaster) Notifications
+- [reactjs/pt-br.reactjs.org](https://github.com/reactjs/pt-br.reactjs.org) - 🇧🇷 React documentation website in Portuguese (Brazil)
 - [gorhom/react-native-paper-onboarding](https://github.com/gorhom/react-native-paper-onboarding) - Paper Onboarding is a material design UI slider for `React Native`.
 - [gorhom/react-native-animated-tabbar](https://github.com/gorhom/react-native-animated-tabbar) - A 60FPS animated tab bar with a variety of cool animation presets 😎
 - [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet with fully configurable options 🚀

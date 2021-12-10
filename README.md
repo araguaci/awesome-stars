@@ -568,7 +568,6 @@
 ## JavaScript 
 
 - [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman) - 💪  User-generated content for Git-powered websites
-- [netlify/netlify-plugin-nextjs](https://github.com/netlify/netlify-plugin-nextjs) - A build plugin to integrate Next.js seamlessly with Netlify
 - [zachleat/artificial-chart](https://github.com/zachleat/artificial-chart) - An SVG charting library based on D3.js
 - [KABBOUCHI/vue-tippy](https://github.com/KABBOUCHI/vue-tippy) - VueJS Tooltip powered by Tippy.js
 - [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
@@ -1071,7 +1070,7 @@
 - [edumeet/edumeet](https://github.com/edumeet/edumeet) - Multiparty web-meetings using mediasoup and WebRTC
 - [ondras/wwwsqldesigner](https://github.com/ondras/wwwsqldesigner) - WWW SQL Designer, your online SQL diagramming tool
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
-- [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue Framework
+- [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework
 - [fonoster/routr](https://github.com/fonoster/routr) - Routr: Next-generation SIP Server
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [benjamincharity/angular-keypad](https://github.com/benjamincharity/angular-keypad) - :iphone::1234: A numerical keypad built for mobile devices.
@@ -1408,7 +1407,7 @@
 - [carlosazaustre/vue-trello](https://github.com/carlosazaustre/vue-trello) - Trello clone with Vue.js for educational purposes
 - [bhushankumarl/trello-node-api](https://github.com/bhushankumarl/trello-node-api) - Trello NodeJS Wrapper
 - [norberteder/trello](https://github.com/norberteder/trello) - Use the Trello API from Node
-- [vasani-arpit/WBOT](https://github.com/vasani-arpit/WBOT) - A simple Web based BOT for WhatsApp™ in NodeJS 😜. Working as of 📅 June 19th, 2021
+- [vasani-arpit/WBOT](https://github.com/vasani-arpit/WBOT) - A simple Web based BOT for WhatsApp™ in NodeJS 😜. Working as of 📅 Dec 9th, 2021
 - [videosegments/videosegments](https://github.com/videosegments/videosegments) - Extension to skip unwanted content in videos
 - [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 - [request/request](https://github.com/request/request) - 🏊🏾 Simplified HTTP request client.
@@ -2221,6 +2220,7 @@
 ## TypeScript 
 
 - [twilio/flex-plugin-builder](https://github.com/twilio/flex-plugin-builder) - Packages related to building a Twilio Flex Plugin
+- [netlify/netlify-plugin-nextjs](https://github.com/netlify/netlify-plugin-nextjs) - A build plugin to integrate Next.js seamlessly with Netlify
 - [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
 - [maximegris/typescript-express-sequelize](https://github.com/maximegris/typescript-express-sequelize) - Easily bootstrap your NodeJS project with Express, Sequelize and Typescript :+1:
@@ -2349,7 +2349,7 @@
 - [actionhero/actionhero](https://github.com/actionhero/actionhero) - Actionhero is a realtime multi-transport nodejs API Server with integrated cluster capabilities and delayed tasks
 - [actionhero/actionhero-tutorial](https://github.com/actionhero/actionhero-tutorial) - An example actionhero project demonstrating many common features
 - [infeng/react-viewer](https://github.com/infeng/react-viewer) - react image viewer, supports rotation, scale, zoom and so on
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 - [GraphQL-Portal/graphql-portal](https://github.com/GraphQL-Portal/graphql-portal) - Configurable and distributed GraphQL Gateway. Convert your legacy data sources or monitor your existing GraphQL Services with a visual dashboard.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
@@ -2685,7 +2685,7 @@
 - [react-native-webview/react-native-webview](https://github.com/react-native-webview/react-native-webview) - React Native Cross-Platform WebView
 - [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
 - [aykutkardas/Json-Function](https://github.com/aykutkardas/Json-Function) - It allows you to use methods such as schema, innerJoin, where, limit, select, orderBy on JSON data.
-- [formium/formik](https://github.com/formium/formik) - Build forms in React, without the tears 😭
+- [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [onsip/SIP.js](https://github.com/onsip/SIP.js) - A simple, intuitive, and powerful JavaScript signaling library
 - [ringcentral/ringcentral-web-phone](https://github.com/ringcentral/ringcentral-web-phone) - RingCentral WebPhone Library for JavaScript WebRTC
 - [palantir/plottable](https://github.com/palantir/plottable) - :bar_chart: A library of modular chart components built on D3

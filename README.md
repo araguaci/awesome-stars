@@ -146,6 +146,7 @@
 
 ## C++ 
 
+- [BelledonneCommunications/linphone-desktop](https://github.com/BelledonneCommunications/linphone-desktop) - Linphone is a free VoIP and video softphone based on the SIP protocol. Mirror of git://git.linphone.org/linphone-desktop.git
 - [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
 - [amov-lab/Prometheus](https://github.com/amov-lab/Prometheus) - Open source software for autonomous drones.
 - [osrf/gazebo](https://github.com/osrf/gazebo) - Open source robotics simulator.
@@ -373,6 +374,7 @@
 
 ## HTML 
 
+- [symbol/symbol-docs](https://github.com/symbol/symbol-docs) - Open-source documentation of Symbol
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [jeromeetienne/threex](https://github.com/jeromeetienne/threex) - Game Extensions for three.js
 - [newdigate/teensy-eurorack](https://github.com/newdigate/teensy-eurorack) - Eurorack shield for teensy 4.1 with 14 in / 16 out analog channels
@@ -567,6 +569,7 @@
 
 ## JavaScript 
 
+- [Vonage/vivid](https://github.com/Vonage/vivid) - Vonage's web UI 🎨 toolbelt
 - [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman) - 💪  User-generated content for Git-powered websites
 - [zachleat/artificial-chart](https://github.com/zachleat/artificial-chart) - An SVG charting library based on D3.js
 - [KABBOUCHI/vue-tippy](https://github.com/KABBOUCHI/vue-tippy) - VueJS Tooltip powered by Tippy.js
@@ -1740,6 +1743,7 @@
 
 ## PHP 
 
+- [iNextrix/ASTPP](https://github.com/iNextrix/ASTPP) - Open Source VoIP Billing Solution http://www.astppbilling.org | Report a bug https://jira.astppbilling.org
 - [santigarcor/laratrust](https://github.com/santigarcor/laratrust) - Handle roles and permissions in your Laravel application
 - [tighten/jigsaw](https://github.com/tighten/jigsaw) - Simple static sites with Laravel’s Blade.
 - [fusionpbx/fusionpbx](https://github.com/fusionpbx/fusionpbx) - Official FusionPBX - A full-featured domain based multi-tenant PBX and voice switch for FreeSwitch.
@@ -2695,6 +2699,7 @@
 
 ## Vue 
 
+- [itsalb3rt/sheiley_shop_app](https://github.com/itsalb3rt/sheiley_shop_app) - Sheiley Shop is a PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬
 - [pratik227/quasar-admin](https://github.com/pratik227/quasar-admin) - Free Quasar Admin Template based on Vue.js and used Quasar Framework.
 - [daptin/dadadash](https://github.com/daptin/dadadash) - Office suite with file browser, document editor, spreadsheet editor, calendar and data tables with CRUDX API's ready to deploy
 - [quasarframework/quasar-ui-qcalendar](https://github.com/quasarframework/quasar-ui-qcalendar) - QCalendar - Quasar App Extension, Vue CLI plug-in and UMD distributions available

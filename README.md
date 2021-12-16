@@ -331,7 +331,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
-- [livekit/livekit-server](https://github.com/livekit/livekit-server) - Scalable, production-grade WebRTC video conferencing. SDKs for web & mobile.
+- [livekit/livekit-server](https://github.com/livekit/livekit-server) - Scalable, production-grade WebRTC infrastructure. SDKs in JS, React, Flutter, Swift, Kotlin, Go, Ruby and Node.
 - [ttacon/libphonenumber](https://github.com/ttacon/libphonenumber) - golang port of Google's libphonenumber
 - [grafeas/grafeas](https://github.com/grafeas/grafeas) - Artifact Metadata API
 - [mgerb/ServerStatus](https://github.com/mgerb/ServerStatus) - A Discord bot to display the status of servers.
@@ -571,6 +571,8 @@
 
 ## JavaScript 
 
+- [Expensify/App](https://github.com/Expensify/App) - Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.
+- [CodeSeven/toastr](https://github.com/CodeSeven/toastr) - Simple javascript toast notifications
 - [catamphetamine/libphonenumber-js](https://github.com/catamphetamine/libphonenumber-js) - A simpler (and smaller) rewrite of Google Android's libphonenumber library in javascript
 - [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 - [Vonage/vivid](https://github.com/Vonage/vivid) - Vonage's web UI 🎨 toolbelt
@@ -1599,6 +1601,7 @@
 
 ## Others 
 
+- [Jhnbrn90/LaravelPackage.com](https://github.com/Jhnbrn90/LaravelPackage.com) - Documentation for LaravelPackage.com: Learn to create Laravel specific PHP packages from scratch, following this open documentation.
 - [Urigo/awesome-meteor](https://github.com/Urigo/awesome-meteor) - A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things
 - [amilajack/project-checklist](https://github.com/amilajack/project-checklist) - ✅ A checklist of things to do before releasing your project
 - [quasarframework/quasar-awesome](https://github.com/quasarframework/quasar-awesome) - 🎉 A list of awesome things related to Quasar
@@ -1746,6 +1749,10 @@
 
 ## PHP 
 
+- [rezaamini-ir/laravel-easypanel](https://github.com/rezaamini-ir/laravel-easypanel) - A beautiful and flexible admin panel creator based on Livewire for Laravel
+- [jeremykenedy/laravel-dashboard](https://github.com/jeremykenedy/laravel-dashboard) - This is an example of Spatie Laravel Dashboard using Livewire and package components. This example has all settings extended to the `dashboard.php` config file and the `.env` file. This example uses minimal styling and customization.
+- [westacks/telebot](https://github.com/westacks/telebot) - Easy way to create Telegram-bots in PHP. Rich Laravel support out of the box.
+- [laravel/lumen](https://github.com/laravel/lumen) - The Laravel Lumen Framework.
 - [spatie/laravel-permission](https://github.com/spatie/laravel-permission) - Associate users with roles and permissions
 - [the-control-group/voyager](https://github.com/the-control-group/voyager) - Voyager - The Missing Laravel Admin
 - [laravel/breeze](https://github.com/laravel/breeze) - Minimal Laravel authentication scaffolding with Blade and Tailwind.
@@ -1808,7 +1815,7 @@
 - [leocavalcante/siler](https://github.com/leocavalcante/siler) - ⚡ Flat-files and plain-old PHP functions rockin'on as a set of general purpose high-level abstractions.
 - [CodelyTV/php-ddd-example](https://github.com/CodelyTV/php-ddd-example) - 🐘🎯 Hexagonal Architecture + DDD + CQRS in PHP using Symfony 5
 - [javiereguiluz/easy-admin-demo](https://github.com/javiereguiluz/easy-admin-demo) - A demo application to showcase EasyAdmin features
-- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) - The new (and simple) admin generator for Symfony applications.
+- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
 - [microsoft/tolerant-php-parser](https://github.com/microsoft/tolerant-php-parser) - An early-stage PHP parser designed for IDE usage scenarios.
 - [abydahana/aksara](https://github.com/abydahana/aksara) - Aksara is a CodeIgniter based CRUD Toolkit that you can use to build complex applications become shorter, secure and more reliable in just a few lines of code. Serving both CMS or Framework, produce both HEADLESS (RESTful API) or TRADITIONAL (Browser Based) just by writing in single controller. Yet it's reusable, scalable and ready to use!
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
@@ -1915,7 +1922,7 @@
 - [evercode1/view-maker](https://github.com/evercode1/view-maker) - ViewMaker Laravel 5.2 Artisan Command for creating views and foundations
 - [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system
 - [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - sample code for several design patterns in PHP 8
-- [phpseclib/mcrypt_compat](https://github.com/phpseclib/mcrypt_compat) - PHP 5.x/7.x polyfill for mcrypt extension.
+- [phpseclib/mcrypt_compat](https://github.com/phpseclib/mcrypt_compat) - PHP 5.x/7.x/8.x polyfill for mcrypt extension.
 - [docker-php/docker-php](https://github.com/docker-php/docker-php) - A Docker client in PHP
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [martinlindhe/laravel-vue-i18n-generator](https://github.com/martinlindhe/laravel-vue-i18n-generator) - Generates a vue-i18n compatible include file from your Laravel translations
@@ -2230,6 +2237,7 @@
 
 ## TypeScript 
 
+- [notifirehq/notifire](https://github.com/notifirehq/notifire) - 🚀 Open-source notification infrastructure for products
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [AfterShip/phone](https://github.com/AfterShip/phone) - With a given country and phone number, validate and reformat the mobile phone number to the E.164 standard. The purpose of this is to allow us to send SMS to mobile phones only.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.

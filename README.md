@@ -521,6 +521,7 @@
 
 ## Java 
 
+- [codenameone/CodenameOne](https://github.com/codenameone/CodenameOne) - Cross-platform framework for building truly native mobile apps with Java or Kotlin. Write Once Run Anywhere support for iOS, Android, Desktop & Web.
 - [benwtrent/janus-gateway-android](https://github.com/benwtrent/janus-gateway-android) - This is an API wrapper that utilizes the native WebRTC build and is made to ease communication with the janus-gateway
 - [Piasy/BigImageViewer](https://github.com/Piasy/BigImageViewer) - Big image viewer supporting pan and zoom, with very little memory usage and full featured image loading choices. Powered by Subsampling Scale Image View, Fresco, Glide, and Picasso. Even with gif and webp support! 🍻
 - [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
@@ -571,6 +572,11 @@
 
 ## JavaScript 
 
+- [nextapps-de/spotlight](https://github.com/nextapps-de/spotlight) - Web's most easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies.
+- [swina/rockiot-ui](https://github.com/swina/rockiot-ui) - Webcomponent for IoT Dashboards, HTML Gauges and more
+- [ampproject/amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework.
+- [algorat/ratchelor](https://github.com/algorat/ratchelor) - The Bachelor, but with rats.
+- [subnub/myDrive](https://github.com/subnub/myDrive) - Node.js and mongoDB Google Drive Clone
 - [Expensify/App](https://github.com/Expensify/App) - Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.
 - [CodeSeven/toastr](https://github.com/CodeSeven/toastr) - Simple javascript toast notifications
 - [catamphetamine/libphonenumber-js](https://github.com/catamphetamine/libphonenumber-js) - A simpler (and smaller) rewrite of Google Android's libphonenumber library in javascript
@@ -1922,7 +1928,7 @@
 - [evercode1/view-maker](https://github.com/evercode1/view-maker) - ViewMaker Laravel 5.2 Artisan Command for creating views and foundations
 - [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system
 - [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - sample code for several design patterns in PHP 8
-- [phpseclib/mcrypt_compat](https://github.com/phpseclib/mcrypt_compat) - PHP 5.x/7.x/8.x polyfill for mcrypt extension.
+- [phpseclib/mcrypt_compat](https://github.com/phpseclib/mcrypt_compat) - PHP 5.x-8.x polyfill for mcrypt extension.
 - [docker-php/docker-php](https://github.com/docker-php/docker-php) - A Docker client in PHP
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [martinlindhe/laravel-vue-i18n-generator](https://github.com/martinlindhe/laravel-vue-i18n-generator) - Generates a vue-i18n compatible include file from your Laravel translations
@@ -2237,6 +2243,9 @@
 
 ## TypeScript 
 
+- [johnpapa/hello-worlds](https://github.com/johnpapa/hello-worlds) - Hello world apps for angular, react, svelte, and vue
+- [netless-io/netless-app](https://github.com/netless-io/netless-app) - Official Apps for the Agora Interactive Whiteboard.
+- [joshuamorony/phaser3-typescript-webpack-capacitor](https://github.com/joshuamorony/phaser3-typescript-webpack-capacitor) - A starter project for Phaser 3 with TypeScript, Webpack, and Capacitor support
 - [notifirehq/notifire](https://github.com/notifirehq/notifire) - 🚀 Open-source notification infrastructure for products
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [AfterShip/phone](https://github.com/AfterShip/phone) - With a given country and phone number, validate and reformat the mobile phone number to the E.164 standard. The purpose of this is to allow us to send SMS to mobile phones only.
@@ -2343,7 +2352,7 @@
 - [Hermanya/use-interval](https://github.com/Hermanya/use-interval) - ⏲ Dan Abramov's interval hook.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components and hooks library with native dark theme support focused on usability, accessibility and developer experience
 - [LauraBeatris/use-selected-items-hook](https://github.com/LauraBeatris/use-selected-items-hook) - Easily select items based on an array
-- [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [ionic-team/ionic-storage](https://github.com/ionic-team/ionic-storage) - Ionic Storage module for Ionic apps
 - [changhuixu/angular-material-admin](https://github.com/changhuixu/angular-material-admin) - Angular Material Admin Dashboard
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
@@ -2717,6 +2726,7 @@
 
 ## Vue 
 
+- [swina/whoobe-one-studio](https://github.com/swina/whoobe-one-studio) - A visual component builder for TailwindCSS
 - [Kamona-WD/kui-laravel-jetstream](https://github.com/Kamona-WD/kui-laravel-jetstream) - Different UI for laravel/jetstream
 - [pratik227/quasar-qgrid](https://github.com/pratik227/quasar-qgrid) - QGrid is a Quasar App Extension.  It allows you to filter data for each column, Drag and Drop Rows and also allows you to filter data using header filters.
 - [itsalb3rt/sheiley_shop_app](https://github.com/itsalb3rt/sheiley_shop_app) - Sheiley Shop is a PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬

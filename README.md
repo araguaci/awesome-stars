@@ -572,6 +572,9 @@
 
 ## JavaScript 
 
+- [frappe/datatable](https://github.com/frappe/datatable) - A simple, modern and interactive datatable library for the web
+- [divriots/starter-simba](https://github.com/divriots/starter-simba) - Lion-based Design System
+- [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [nextapps-de/spotlight](https://github.com/nextapps-de/spotlight) - Web's most easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies.
 - [swina/rockiot-ui](https://github.com/swina/rockiot-ui) - Webcomponent for IoT Dashboards, HTML Gauges and more
 - [ampproject/amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework.
@@ -2030,6 +2033,7 @@
 
 ## Python 
 
+- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [GusFurtado/DAB-Apps](https://github.com/GusFurtado/DAB-Apps) - Aplicações de exemplo utilizando o pacote DadosAbertosBrasil
 - [ansible/galaxy](https://github.com/ansible/galaxy) - Source code behind the Galaxy hub at http://galaxy.ansible.com
 - [robertjkeck2/AutoCaller](https://github.com/robertjkeck2/AutoCaller) - Automated call and text service powered by Twilio
@@ -2243,6 +2247,12 @@
 
 ## TypeScript 
 
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
+- [intlify/vue-i18n-next](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3
+- [antfu/vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA for Vite
+- [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar) - ⚡ Explore high-performance tooling for Vue
+- [vuejs/vue-next](https://github.com/vuejs/vue-next) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [johnpapa/hello-worlds](https://github.com/johnpapa/hello-worlds) - Hello world apps for angular, react, svelte, and vue
 - [netless-io/netless-app](https://github.com/netless-io/netless-app) - Official Apps for the Agora Interactive Whiteboard.
 - [joshuamorony/phaser3-typescript-webpack-capacitor](https://github.com/joshuamorony/phaser3-typescript-webpack-capacitor) - A starter project for Phaser 3 with TypeScript, Webpack, and Capacitor support
@@ -2680,7 +2690,7 @@
 - [cornflourblue/jw-angular-pagination](https://github.com/cornflourblue/jw-angular-pagination) - A simple lightweight pagination component for Angular 2+ available on npm
 - [cornflourblue/angular2-registration-login-example](https://github.com/cornflourblue/angular2-registration-login-example) - Angular 2/5 User Registration and Login Example
 - [melcor76/reactangular](https://github.com/melcor76/reactangular) - How to use Angular Elements in React
-- [nrwl/nx](https://github.com/nrwl/nx) - Smart, Extensible Build Framework
+- [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications
@@ -2726,6 +2736,7 @@
 
 ## Vue 
 
+- [xiaoxian521/vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）
 - [swina/whoobe-one-studio](https://github.com/swina/whoobe-one-studio) - A visual component builder for TailwindCSS
 - [Kamona-WD/kui-laravel-jetstream](https://github.com/Kamona-WD/kui-laravel-jetstream) - Different UI for laravel/jetstream
 - [pratik227/quasar-qgrid](https://github.com/pratik227/quasar-qgrid) - QGrid is a Quasar App Extension.  It allows you to filter data for each column, Drag and Drop Rows and also allows you to filter data using header filters.

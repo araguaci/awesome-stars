@@ -26,6 +26,7 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jsonnet](#jsonnet)
+  - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
@@ -195,6 +196,8 @@
 
 ## CSS 
 
+- [Logan1x/bookMarks](https://github.com/Logan1x/bookMarks) - A reactjs project to store bookmarks 🔖
+- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [marvelapp/devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets
 - [CSS-Tricks/AnythingSlider](https://github.com/CSS-Tricks/AnythingSlider) - A jQuery Slider plugin for anything.
 - [zachstronaut/quintessential-css-cube](https://github.com/zachstronaut/quintessential-css-cube) - .qube -- The Quintessential Responsive 3D CSS Cube
@@ -572,6 +575,12 @@
 
 ## JavaScript 
 
+- [mwakerman/kanbanist](https://github.com/mwakerman/kanbanist) - The missing kanban board for Todoist
+- [edent/TweeView](https://github.com/edent/TweeView) - A Tree View For Tweets
+- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
+- [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
+- [shreyabiradar07/Pathshala](https://github.com/shreyabiradar07/Pathshala) - A MERN-based virtual collaborative learning web app.
+- [crater-invoice/crater-mobile](https://github.com/crater-invoice/crater-mobile) - Crater Invoice Mobile to manage your invoices on the go.
 - [frappe/datatable](https://github.com/frappe/datatable) - A simple, modern and interactive datatable library for the web
 - [divriots/starter-simba](https://github.com/divriots/starter-simba) - Lion-based Design System
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
@@ -1563,6 +1572,10 @@
 
 - [argoproj/argocd-example-apps](https://github.com/argoproj/argocd-example-apps) - Example Apps to Demonstrate Argo CD
 
+## Julia 
+
+- [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
+
 ## Jupyter Notebook 
 
 - [GusFurtado/DadosAbertosBrasil](https://github.com/GusFurtado/DadosAbertosBrasil) - Pacote Python para acesso a dados abertos e APIs do governo brasileiro.
@@ -1758,6 +1771,9 @@
 
 ## PHP 
 
+- [jublo/codebird-php](https://github.com/jublo/codebird-php) - Easy access to the Twitter REST API, Direct Messages API, Account Activity API, TON (Object Nest) API and Twitter Ads API — all from one PHP library.
+- [crater-invoice/crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
+- [spatie/Mailcoach](https://github.com/spatie/Mailcoach) - A self-hosted email list manager - in a modern jacket.
 - [rezaamini-ir/laravel-easypanel](https://github.com/rezaamini-ir/laravel-easypanel) - A beautiful and flexible admin panel creator based on Livewire for Laravel
 - [jeremykenedy/laravel-dashboard](https://github.com/jeremykenedy/laravel-dashboard) - This is an example of Spatie Laravel Dashboard using Livewire and package components. This example has all settings extended to the `dashboard.php` config file and the `.env` file. This example uses minimal styling and customization.
 - [westacks/telebot](https://github.com/westacks/telebot) - Easy way to create Telegram-bots in PHP. Rich Laravel support out of the box.
@@ -2247,6 +2263,7 @@
 
 ## TypeScript 
 
+- [Dhaiwat10/react-link-preview](https://github.com/Dhaiwat10/react-link-preview) - A React library that generates beautiful previews for your links.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
 - [intlify/vue-i18n-next](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3
 - [antfu/vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA for Vite

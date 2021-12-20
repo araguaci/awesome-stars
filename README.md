@@ -197,7 +197,6 @@
 ## CSS 
 
 - [Logan1x/bookMarks](https://github.com/Logan1x/bookMarks) - A reactjs project to store bookmarks 🔖
-- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [marvelapp/devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets
 - [CSS-Tricks/AnythingSlider](https://github.com/CSS-Tricks/AnythingSlider) - A jQuery Slider plugin for anything.
 - [zachstronaut/quintessential-css-cube](https://github.com/zachstronaut/quintessential-css-cube) - .qube -- The Quintessential Responsive 3D CSS Cube
@@ -334,7 +333,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
-- [livekit/livekit-server](https://github.com/livekit/livekit-server) - Scalable, production-grade WebRTC infrastructure. SDKs in JS, React, Flutter, Swift, Kotlin, Go, Ruby and Node.
+- [livekit/livekit-server](https://github.com/livekit/livekit-server) - Scalable, production-grade WebRTC infrastructure. SDKs in JS, React, Flutter, Swift, Kotlin, Go and Node.
 - [ttacon/libphonenumber](https://github.com/ttacon/libphonenumber) - golang port of Google's libphonenumber
 - [grafeas/grafeas](https://github.com/grafeas/grafeas) - Artifact Metadata API
 - [mgerb/ServerStatus](https://github.com/mgerb/ServerStatus) - A Discord bot to display the status of servers.
@@ -378,6 +377,7 @@
 
 ## HTML 
 
+- [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [Script47/Toast](https://github.com/Script47/Toast) - A Bootstrap 4.2+ jQuery plugin for the toast component
 - [symbol/symbol-docs](https://github.com/symbol/symbol-docs) - Open-source documentation of Symbol
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
@@ -575,6 +575,10 @@
 
 ## JavaScript 
 
+- [klaussinani/qoa](https://github.com/klaussinani/qoa) - Minimal interactive command-line prompts
+- [klaussinani/hyperocean](https://github.com/klaussinani/hyperocean) - Deep oceanic blue Hyper theme
+- [firebase/codelab-friendlychat-web](https://github.com/firebase/codelab-friendlychat-web) - The source for the Firebase codelab for building a cross-platform chat app
+- [16patsle/TermListDB](https://github.com/16patsle/TermListDB) - A term list project using Firestore as a backend
 - [mwakerman/kanbanist](https://github.com/mwakerman/kanbanist) - The missing kanban board for Todoist
 - [edent/TweeView](https://github.com/edent/TweeView) - A Tree View For Tweets
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
@@ -1180,7 +1184,7 @@
 - [alvesjtiago/electron-blockstack-demo](https://github.com/alvesjtiago/electron-blockstack-demo) - Electron + Blockstack auth demo application.
 - [electron/apps](https://github.com/electron/apps) - A collection of apps built on Electron
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://github.com/breakdance/breakdance for HTML-to-markdown conversion. Use https://github.com/jonschlinkert/markdown-toc to generate a table of contents.
-- [jonschlinkert/markdown-toc](https://github.com/jonschlinkert/markdown-toc) - Generate a markdown TOC (table of contents) for a README or any markdown files, using remarkable. Used by NASA, Sass, assemble, verb, and lots of other projects on GitHub. API and CLI.
+- [jonschlinkert/markdown-toc](https://github.com/jonschlinkert/markdown-toc) - API and CLI for generating a markdown TOC (table of contents) for a README or any markdown files. Uses Remarkable to parse markdown. Used by NASA/openmct, Prisma, Joi, Mocha, Sass, Prettier, Orbit DB, FormatJS, Raneto, hapijs/code, webpack-flow, docusaurus, release-it, ts-loader, json-server, reactfire, bunyan, husky, react-easy-state, react-snap, chakra-ui, carbon, alfresco, repolinter, Assemble, Verb, and thousands of other projects.
 - [eslintinit/polyrhythm](https://github.com/eslintinit/polyrhythm) - ⏱
 - [floralvikings/jira-connector](https://github.com/floralvikings/jira-connector) - NodeJS Wrapper for the Jira REST API
 - [web-pal/chronos-timetracker](https://github.com/web-pal/chronos-timetracker) - Desktop client for JIRA. Track time, upload worklogs without a hassle.
@@ -2011,7 +2015,7 @@
 - [RamonSilva20/mapos](https://github.com/RamonSilva20/mapos) - Sistema de Controle de Ordens de Serviço
 - [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
 - [sciactive/hookphp](https://github.com/sciactive/hookphp) - Method hooking in PHP.
-- [walkor/Workerman](https://github.com/walkor/Workerman) - An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. PHP&gt;=5.3.
+- [walkor/workerman](https://github.com/walkor/workerman) - An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. PHP&gt;=5.3.
 - [php-api-clients/supervisord](https://github.com/php-api-clients/supervisord) - Async first supervisord HTTP API Client for PHP 7
 - [reactphp/socket](https://github.com/reactphp/socket) - Async, streaming plaintext TCP/IP and secure TLS socket server and client connections for ReactPHP.
 - [danielstjules/Stringy](https://github.com/danielstjules/Stringy) - A PHP string manipulation library with multibyte support
@@ -2157,6 +2161,7 @@
 
 ## SCSS 
 
+- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [nzbin/three-dots](https://github.com/nzbin/three-dots) - 🔮 CSS loading animations made with single element.
 - [nasa/api-docs](https://github.com/nasa/api-docs) - api.nasa.gov
 - [compostrap/sidebar-menu](https://github.com/compostrap/sidebar-menu) - :page_with_curl: Simple and fast multi-level sidebar menu on Bootstrap (@twbs)
@@ -2263,6 +2268,9 @@
 
 ## TypeScript 
 
+- [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a powerful, lightspeed collaborative workspace for developer teams. Forum (New!): https://github.com/BoostIO/BoostNote-App/discussions
+- [youzan/vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
+- [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
 - [Dhaiwat10/react-link-preview](https://github.com/Dhaiwat10/react-link-preview) - A React library that generates beautiful previews for your links.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
 - [intlify/vue-i18n-next](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3

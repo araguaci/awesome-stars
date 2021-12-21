@@ -2288,7 +2288,7 @@
 - [twilio/flex-plugin-builder](https://github.com/twilio/flex-plugin-builder) - Packages related to building a Twilio Flex Plugin
 - [netlify/netlify-plugin-nextjs](https://github.com/netlify/netlify-plugin-nextjs) - A build plugin to integrate Next.js seamlessly with Netlify
 - [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Connect to 15+ database integrations.
 - [maximegris/typescript-express-sequelize](https://github.com/maximegris/typescript-express-sequelize) - Easily bootstrap your NodeJS project with Express, Sequelize and Typescript :+1:
 - [itgalaxy/favicons](https://github.com/itgalaxy/favicons) - Favicons generator for Node.js
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux
@@ -2765,7 +2765,7 @@
 - [swina/whoobe-one-studio](https://github.com/swina/whoobe-one-studio) - A visual component builder for TailwindCSS
 - [Kamona-WD/kui-laravel-jetstream](https://github.com/Kamona-WD/kui-laravel-jetstream) - Different UI for laravel/jetstream
 - [pratik227/quasar-qgrid](https://github.com/pratik227/quasar-qgrid) - QGrid is a Quasar App Extension.  It allows you to filter data for each column, Drag and Drop Rows and also allows you to filter data using header filters.
-- [itsalb3rt/sheiley_shop_app](https://github.com/itsalb3rt/sheiley_shop_app) - Sheiley Shop is a PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬
+- [itsalb3rt/sheiley-shop-app](https://github.com/itsalb3rt/sheiley-shop-app) - Sheiley Shop is a PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬
 - [pratik227/quasar-admin](https://github.com/pratik227/quasar-admin) - Free Quasar Admin Template based on Vue.js and used Quasar Framework.
 - [daptin/dadadash](https://github.com/daptin/dadadash) - Office suite with file browser, document editor, spreadsheet editor, calendar and data tables with CRUDX API's ready to deploy
 - [quasarframework/quasar-ui-qcalendar](https://github.com/quasarframework/quasar-ui-qcalendar) - QCalendar - Quasar App Extension, Vue CLI plug-in and UMD distributions available

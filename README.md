@@ -575,6 +575,7 @@
 
 ## JavaScript 
 
+- [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [klaussinani/qoa](https://github.com/klaussinani/qoa) - Minimal interactive command-line prompts
 - [klaussinani/hyperocean](https://github.com/klaussinani/hyperocean) - Deep oceanic blue Hyper theme
 - [firebase/codelab-friendlychat-web](https://github.com/firebase/codelab-friendlychat-web) - The source for the Firebase codelab for building a cross-platform chat app
@@ -1567,7 +1568,6 @@
 - [daneden/Baseline.js](https://github.com/daneden/Baseline.js) - A simple jQuery plugin for restoring vertical baselines thrown off by odd image sizes
 - [metafizzy/flickity](https://github.com/metafizzy/flickity) - :leaves: Touch, responsive, flickable carousels
 - [desandro/imagesloaded](https://github.com/desandro/imagesloaded) - :camera: JavaScript is all like "You images done yet or what?"
-- [ffdead/jquery-graceful-websocket](https://github.com/ffdead/jquery-graceful-websocket) - The Graceful WebSocket
 - [xplsv/obsidian](https://github.com/xplsv/obsidian) - javascript/webgl demo
 - [MozillaReality/sechelt](https://github.com/MozillaReality/sechelt) - A virtual reality fly through of a 3D landscape, built with Three.js and Cinema 4D.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
@@ -1627,6 +1627,7 @@
 
 ## Others 
 
+- [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
 - [Jhnbrn90/LaravelPackage.com](https://github.com/Jhnbrn90/LaravelPackage.com) - Documentation for LaravelPackage.com: Learn to create Laravel specific PHP packages from scratch, following this open documentation.
 - [Urigo/awesome-meteor](https://github.com/Urigo/awesome-meteor) - A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things
 - [amilajack/project-checklist](https://github.com/amilajack/project-checklist) - ✅ A checklist of things to do before releasing your project
@@ -2190,6 +2191,7 @@
 
 ## Shell 
 
+- [nextcloud/vm](https://github.com/nextcloud/vm) - 💻☁📦 The Nextcloud VM (virtual machine appliance), Home/SME Server and scripts for RPi (4). Community developed and maintained.
 - [fusionpbx/fusionpbx-install.sh](https://github.com/fusionpbx/fusionpbx-install.sh) - 
 - [ansible/ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio unlike any other.

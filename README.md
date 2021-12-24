@@ -98,6 +98,7 @@
 
 ## C# # 
 
+- [IdentityServer/IdentityServer4](https://github.com/IdentityServer/IdentityServer4) - OpenID Connect and OAuth 2.0 Framework for ASP.NET Core
 - [akkadotnet/akka.net](https://github.com/akkadotnet/akka.net) - Port of Akka actors for .NET
 - [mono/SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.
 - [beto-rodriguez/LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) - Simple, flexible, interactive & powerful charts, maps and gauges for .Net, LiveCharts2 can now practically run everywhere WPF, WinForms, Xamarin, Avalonia, WinUI, UWP, Blazor-wasm, MAUI (WIP)
@@ -275,6 +276,8 @@
 
 ## Dart 
 
+- [felipecastrosales/app_filmes](https://github.com/felipecastrosales/app_filmes) - 🎥 Aplicativo de Filmes com Flutter usando a API - TMDB para a consulta de dados. Desenvolvido na 04ª Edição da #DartWeek, de @RodrigoRahman. 🔥
+- [felipecastrosales/CalculatorBMI](https://github.com/felipecastrosales/CalculatorBMI) - A simple Calculator BMI develop with Flutter.
 - [thelazyindian/Tasks](https://github.com/thelazyindian/Tasks) - A clone of Google Tasks app made from scratch with flutter. WIP.
 - [FilledStacks/flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials) - The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
 - [felipecastrosales/DevQuiz](https://github.com/felipecastrosales/DevQuiz) - Dev.Quiz  👨‍💻 | Rocketseat 💜 - NLW 05 👩‍🚀
@@ -329,6 +332,7 @@
 
 ## Go 
 
+- [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
@@ -378,6 +382,8 @@
 
 ## HTML 
 
+- [ira-design/ira-illustrations](https://github.com/ira-design/ira-illustrations) - Build your own amazing illustrations
+- [creativetimofficial/material-kit](https://github.com/creativetimofficial/material-kit) - Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design
 - [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [Script47/Toast](https://github.com/Script47/Toast) - A Bootstrap 4.2+ jQuery plugin for the toast component
 - [symbol/symbol-docs](https://github.com/symbol/symbol-docs) - Open-source documentation of Symbol
@@ -575,6 +581,8 @@
 
 ## JavaScript 
 
+- [kubowania/crypto-dashboard-react](https://github.com/kubowania/crypto-dashboard-react) - A Crypto Dashboard built in React and Nodejs using RapidAPI
+- [harryho/db-samples](https://github.com/harryho/db-samples) - Northwind sample database for MySql, PostgresQL etc.
 - [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [klaussinani/qoa](https://github.com/klaussinani/qoa) - Minimal interactive command-line prompts
 - [klaussinani/hyperocean](https://github.com/klaussinani/hyperocean) - Deep oceanic blue Hyper theme
@@ -1627,6 +1635,7 @@
 
 ## Others 
 
+- [priyankavergadia/GCPSketchnote](https://github.com/priyankavergadia/GCPSketchnote) - If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.
 - [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
 - [Jhnbrn90/LaravelPackage.com](https://github.com/Jhnbrn90/LaravelPackage.com) - Documentation for LaravelPackage.com: Learn to create Laravel specific PHP packages from scratch, following this open documentation.
 - [Urigo/awesome-meteor](https://github.com/Urigo/awesome-meteor) - A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things
@@ -1776,6 +1785,7 @@
 
 ## PHP 
 
+- [getsentry/sentry-php](https://github.com/getsentry/sentry-php) - The official PHP SDK for Sentry (sentry.io)
 - [jublo/codebird-php](https://github.com/jublo/codebird-php) - Easy access to the Twitter REST API, Direct Messages API, Account Activity API, TON (Object Nest) API and Twitter Ads API — all from one PHP library.
 - [crater-invoice/crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
 - [spatie/Mailcoach](https://github.com/spatie/Mailcoach) - A self-hosted email list manager - in a modern jacket.
@@ -2271,6 +2281,7 @@
 
 ## TypeScript 
 
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source Airtable-like experience for your database (Firestore) with GCP's scalability. Build any automation or cloud functions for your product. ⚡️✨
 - [onderceylan/pwa-workshop-angular-firebase](https://github.com/onderceylan/pwa-workshop-angular-firebase) - Build a production ready PWA with Angular and Firebase! This workshop consists of multiple steps for producing a PWA by transforming a regular web app - Ionic Conference App into a PWA, finally deploying it to Firebase.
 - [onderceylan/pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator) - Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated images according to Web App Manifest specs and Apple Human Interface guidelines.
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a powerful, lightspeed collaborative workspace for developer teams. Forum (New!): https://github.com/BoostIO/BoostNote-App/discussions
@@ -2765,6 +2776,8 @@
 
 ## Vue 
 
+- [creativetimofficial/vue-paper-dashboard](https://github.com/creativetimofficial/vue-paper-dashboard) - Creative Tim Paper Dashboard made for Vue
+- [harryho/vue-crm](https://github.com/harryho/vue-crm) - Simple reusable CRM built on Vue 2 PWA template and Vuetify UI
 - [xiaoxian521/vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）
 - [swina/whoobe-one-studio](https://github.com/swina/whoobe-one-studio) - A visual component builder for TailwindCSS
 - [Kamona-WD/kui-laravel-jetstream](https://github.com/Kamona-WD/kui-laravel-jetstream) - Different UI for laravel/jetstream

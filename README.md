@@ -1346,7 +1346,7 @@
 - [GoogleChromeLabs/preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin) - Please use https://github.com/vuejs/preload-webpack-plugin instead.
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
 - [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1450 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [davidtheclark/react-aria-menubutton](https://github.com/davidtheclark/react-aria-menubutton) - A fully accessible, easily themeable, React-powered menu button
 - [geobde/react-triple-toggle](https://github.com/geobde/react-triple-toggle) - React multi toggle component
 - [zillow/react-slider](https://github.com/zillow/react-slider) - Accessible, CSS agnostic, slider component for React.
@@ -1785,6 +1785,7 @@
 
 ## PHP 
 
+- [Gregwar/Captcha](https://github.com/Gregwar/Captcha) - PHP Captcha library
 - [getsentry/sentry-php](https://github.com/getsentry/sentry-php) - The official PHP SDK for Sentry (sentry.io)
 - [jublo/codebird-php](https://github.com/jublo/codebird-php) - Easy access to the Twitter REST API, Direct Messages API, Account Activity API, TON (Object Nest) API and Twitter Ads API — all from one PHP library.
 - [crater-invoice/crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
@@ -2281,6 +2282,7 @@
 
 ## TypeScript 
 
+- [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source Airtable-like experience for your database (Firestore) with GCP's scalability. Build any automation or cloud functions for your product. ⚡️✨
 - [onderceylan/pwa-workshop-angular-firebase](https://github.com/onderceylan/pwa-workshop-angular-firebase) - Build a production ready PWA with Angular and Firebase! This workshop consists of multiple steps for producing a PWA by transforming a regular web app - Ionic Conference App into a PWA, finally deploying it to Firebase.
 - [onderceylan/pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator) - Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated images according to Web App Manifest specs and Apple Human Interface guidelines.

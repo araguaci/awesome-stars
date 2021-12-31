@@ -228,6 +228,7 @@
 - [delprzemo/react-admin-template](https://github.com/delprzemo/react-admin-template) - Simple React admin template - Hooks, Redux, Bootstrap :white_check_mark: :metal:
 - [picturepan2/spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive and Modern CSS Framework
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
+- [projectwallace/css-analyzer](https://github.com/projectwallace/css-analyzer) - Analytics for CSS
 - [creativetimofficial/now-ui-kit-react](https://github.com/creativetimofficial/now-ui-kit-react) - React version of Now UI Kit by Creative Tim
 - [primefaces/primeng](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library
 - [soulwire/Makisu](https://github.com/soulwire/Makisu) - CSS 3D Dropdown Concept
@@ -1019,7 +1020,6 @@
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 - [johnkorzhuk/grabient](https://github.com/johnkorzhuk/grabient) - UI to generate linear-gradients
 - [aladinyo/WhatsappyApp](https://github.com/aladinyo/WhatsappyApp) - A whatsapp clone progressive web application built with react nodejs and firebase
-- [projectwallace/css-analyzer](https://github.com/projectwallace/css-analyzer) - Analytics for CSS
 - [xTecna/sete-cliques](https://github.com/xTecna/sete-cliques) - 
 - [codethejason/flood-game](https://github.com/codethejason/flood-game) - Flood game implemented in ReasonReact from Simon Tatham's Portable Puzzle Collection.
 - [codethejason/checkers](https://github.com/codethejason/checkers) - A Checkers Game based on Javascript.
@@ -2455,7 +2455,7 @@
 - [getlift/lift](https://github.com/getlift/lift) - Expanding Serverless Framework beyond functions using the AWS CDK
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [rastapasta/foodsharing](https://github.com/rastapasta/foodsharing) - 🍴A modern approach to foodsharing.network's mobile app - full React Native reimplementation of the current Android app and beyond - for iOS and Android.
-- [michaelgomes/letmeask](https://github.com/michaelgomes/letmeask) - 
+- [devmaicon85/letmeask](https://github.com/devmaicon85/letmeask) - 
 - [makimenko/angular-template-for-threejs](https://github.com/makimenko/angular-template-for-threejs) - Angular Template For Three.js
 - [prisma/prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
@@ -2798,7 +2798,7 @@
 - [socketio/socket.io-admin-ui](https://github.com/socketio/socket.io-admin-ui) - Admin UI for Socket.IO
 - [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 🛸 Open source API development ecosystem https://hoppscotch.io
 - [Datlyfe/jira_clone](https://github.com/Datlyfe/jira_clone) - A Jira clone built with Vuejs & Nodejs/Graphql
 - [kadinzhang/Periodicity](https://github.com/kadinzhang/Periodicity) - A modern, powerful periodic table
 - [schoolofnetcom/cms-electron-php](https://github.com/schoolofnetcom/cms-electron-php) - 

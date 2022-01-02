@@ -307,7 +307,7 @@
 - [muesli/code-server](https://github.com/muesli/code-server) - My code-server Docker image
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [lorisleiva/laravel-docker](https://github.com/lorisleiva/laravel-docker) - 🐳 Generic docker image for Laravel Applications
-- [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) on Docker, with preconfigured Security, Tools, Self-Monitoring, and Prometheus Metrics. Up with a Single Command.
+- [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) on Docker, with preconfigured Security, Tools, and Monitoring. Enables Logs, Metrics, APM, Alerting, and SIEM features. Up with a Single Command.
 - [fam4r/docker-3cx](https://github.com/fam4r/docker-3cx) - Dockerfile (and compose) for 3CX https://www.3cx.com
 - [P3TERX/Aria2-Pro-Docker](https://github.com/P3TERX/Aria2-Pro-Docker) - Aria2 Pro | A perfect Aria2 Docker image | 更好用的 Aria2 Docker 容器镜像
 - [docker-library/redis](https://github.com/docker-library/redis) - Docker Official Image packaging for Redis
@@ -583,6 +583,13 @@
 
 ## JavaScript 
 
+- [kousun12/eternal](https://github.com/kousun12/eternal) - 👾~ music, eternal ~ 👾
+- [lucafalasco/SON](https://github.com/lucafalasco/SON) - ♫ Web-based music visualizer
+- [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~1.5KB routing for React and Preact. Nothing else but HOOKS.
+- [codex-team/codex.notes](https://github.com/codex-team/codex.notes) - WIP: crossplatform desktop notes application based on Electron and Editor.js
+- [kremalicious/portfolio](https://github.com/kremalicious/portfolio) - 👔 Portfolio thingy, built with Gatsby
+- [nextauthjs/next-auth-example](https://github.com/nextauthjs/next-auth-example) - An example project that shows how to use NextAuth.js
+- [molly/static-timeline-generator](https://github.com/molly/static-timeline-generator) - Create static timeline webpages.
 - [GoodManWEN/Programming-Language-Benchmarks-Visualization](https://github.com/GoodManWEN/Programming-Language-Benchmarks-Visualization) - Automaticlly updated language performance banchmarks in visualization. Data source from debian's the computer language benchmakrs game.
 - [kubowania/crypto-dashboard-react](https://github.com/kubowania/crypto-dashboard-react) - A Crypto Dashboard built in React and Nodejs using RapidAPI
 - [harryho/db-samples](https://github.com/harryho/db-samples) - Northwind sample database for MySql, PostgresQL etc.
@@ -1637,6 +1644,7 @@
 
 ## Others 
 
+- [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [priyankavergadia/GCPSketchnote](https://github.com/priyankavergadia/GCPSketchnote) - If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.
 - [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
 - [Jhnbrn90/LaravelPackage.com](https://github.com/Jhnbrn90/LaravelPackage.com) - Documentation for LaravelPackage.com: Learn to create Laravel specific PHP packages from scratch, following this open documentation.
@@ -2285,6 +2293,11 @@
 
 ## TypeScript 
 
+- [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
+- [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
+- [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
+- [oceanprotocol/market](https://github.com/oceanprotocol/market) - 🧜‍♀️ THE Data Market
+- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source Airtable-like experience for your database (Firestore) with GCP's scalability. Build any automation or cloud functions for your product. ⚡️✨
 - [onderceylan/pwa-workshop-angular-firebase](https://github.com/onderceylan/pwa-workshop-angular-firebase) - Build a production ready PWA with Angular and Firebase! This workshop consists of multiple steps for producing a PWA by transforming a regular web app - Ionic Conference App into a PWA, finally deploying it to Firebase.
@@ -2470,7 +2483,6 @@
 - [arimariojesus/letmeask](https://github.com/arimariojesus/letmeask) - Projeto desenvolvido durante a NLW #6 na trilha de ReactJS.
 - [alexandrecorazza/podcastr](https://github.com/alexandrecorazza/podcastr) - :headphones: Plataforma de podcast
 - [marcusmaialima/nlw-letmeask](https://github.com/marcusmaialima/nlw-letmeask) - Projeto desenvolvido na NLW da Rocketseat
-- [LucasWG94/letmeask](https://github.com/LucasWG94/letmeask) - This is a project developed during the Next Level Week Together, presented by Rocketseat during June 2021.
 - [eduardorerick/letmeask](https://github.com/eduardorerick/letmeask) - Aplicação desenvolvida durante a NLW com outras funcionalidades adicionadas por mim.
 - [moaijs/moai](https://github.com/moaijs/moai) - A React component library, where buttons look like buttons🗿
 - [Atom-Learning/components](https://github.com/Atom-Learning/components) - A collection of generic React components built using stitches, including components that cover layout, content, data collection, media and a host of other UI concerns.
@@ -2690,7 +2702,7 @@
 - [briebug/cypress-schematic](https://github.com/briebug/cypress-schematic) - **⛔️  DEPRECATED** Add cypress to an Angular CLI project
 - [akopkesheshyan/ng-person](https://github.com/akopkesheshyan/ng-person) - A universal avatar component for Angular 2+ applications that generates truly unique colored letter avatar based on provided name.
 - [graphile/starter](https://github.com/graphile/starter) - Opinionated SaaS quick-start with pre-built user account and organization system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. Powered by PostGraphile, TypeScript, Apollo Client, Graphile Worker, Graphile Migrate, GraphQL Code Generator, Ant Design and Next.js
-- [stefanoslig/angular-ngrx-nx-realworld-example-app](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Exemplary real world application built with Angular 12, NgRx 12, nrwl/nx 12
+- [stefanoslig/angular-ngrx-nx-realworld-example-app](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Exemplary real world application built with Angular 13, NgRx 13, nrwl/nx 13
 - [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder) - Deploy your Angular app to netlify from CLI
 - [NileshPatel17/ng-multiselect-dropdown](https://github.com/NileshPatel17/ng-multiselect-dropdown) - Multiple Select Dropdown Component
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript empowers you to access native platform APIs from JavaScript directly. Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.
@@ -2746,7 +2758,7 @@
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [rocketseat-content/youtube-clone-twitter](https://github.com/rocketseat-content/youtube-clone-twitter) - Responsive Twitter UI clone for study purposes.
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2021
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [johnpapa/angular-preload-and-interceptors](https://github.com/johnpapa/angular-preload-and-interceptors) - 
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - Open source editor that brings visual editing into React websites. A developer-centric CMS to build contextual and intuitive editing experience without sacrificing code quality.

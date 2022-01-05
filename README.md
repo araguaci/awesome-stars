@@ -585,6 +585,7 @@
 
 ## JavaScript 
 
+- [AOEpeople/awesome-devops](https://github.com/AOEpeople/awesome-devops) - Awesome List for Dev-Ops / Kubernetes / Cloud
 - [smaranjitghose/doc2pen](https://github.com/smaranjitghose/doc2pen) - An open source project aimed at making your student life easier!
 - [syxanash/syxanash.github.io](https://github.com/syxanash/syxanash.github.io) - my personal website
 - [os-js/OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform
@@ -1553,7 +1554,6 @@
 - [gillesdemey/node-record-lpcm16](https://github.com/gillesdemey/node-record-lpcm16) - :microphone: Records a 16-bit signed-integer linear pulse modulation code encoded audio file.
 - [antirek/owo-phone.js](https://github.com/antirek/owo-phone.js) - simple sip.js based webphone
 - [zzarcon/chaosocket](https://github.com/zzarcon/chaosocket) - :boom: Mock WebSockets and create chaos :boom:
-- [Marak/faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
 - [versatica/tryit-jssip](https://github.com/versatica/tryit-jssip) - New tryit-jssip application
 - [ricardojlrufino/webphone-sip](https://github.com/ricardojlrufino/webphone-sip) - WebRTC SIP based VoIP client software (+chrome extension)
 - [onsip/sipjs-examples](https://github.com/onsip/sipjs-examples) - Example applications using SIP.js
@@ -1651,6 +1651,7 @@
 
 ## Others 
 
+- [niagalves/guia-basico-LGPD](https://github.com/niagalves/guia-basico-LGPD) - Guia básico sobre a LGPD (Lei Geral de Proteção de Dados). Lei 13.709/2018 que entrou em vigor no Brasil dia  18/09/2020.
 - [syxanash/awesome-web-desktops](https://github.com/syxanash/awesome-web-desktops) - Websites, web apps, portfolios which look like desktop operating systems
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [priyankavergadia/GCPSketchnote](https://github.com/priyankavergadia/GCPSketchnote) - If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.
@@ -2370,7 +2371,7 @@
 - [phuoc-ng/responsive-page](https://github.com/phuoc-ng/responsive-page) - Collection of patterns to create a responsive website
 - [crisbeto/angular-svg-round-progressbar](https://github.com/crisbeto/angular-svg-round-progressbar) - Angular module that uses SVG to create a circular progressbar
 - [Saber2pr/editor](https://github.com/Saber2pr/editor) - :ocean: Web Editor for React/Tsx Ant-Design App Develop、Build !
-- [stream-labs/streamlabs-obs](https://github.com/stream-labs/streamlabs-obs) - Free and open source streaming software built on OBS and Electron.
+- [stream-labs/desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron.
 - [spacesvr/spacesvr](https://github.com/spacesvr/spacesvr) - Cross-Platform Web VR Framework
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
 - [1milligram/1loc](https://github.com/1milligram/1loc) - What's your favorite JavaScript single LOC (line of code)?

@@ -2433,7 +2433,7 @@
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [ReactTraining/react-workshop](https://github.com/ReactTraining/react-workshop) - The course material for our React Hooks workshop
 - [Hermanya/use-interval](https://github.com/Hermanya/use-interval) - ⏲ Dan Abramov's interval hook.
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components and hooks library with native dark theme support focused on usability, accessibility and developer experience
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
 - [LauraBeatris/use-selected-items-hook](https://github.com/LauraBeatris/use-selected-items-hook) - Easily select items based on an array
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [ionic-team/ionic-storage](https://github.com/ionic-team/ionic-storage) - Ionic Storage module for Ionic apps

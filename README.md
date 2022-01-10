@@ -585,6 +585,14 @@
 
 ## JavaScript 
 
+- [pat310/google-trends-api](https://github.com/pat310/google-trends-api) - An API layer on top of google trends
+- [chrisrzhou/react-globe](https://github.com/chrisrzhou/react-globe) - Create beautiful and interactive React + ThreeJS globe visualizations with ease.
+- [uinix-js/uinix-ui](https://github.com/uinix-js/uinix-ui) - A minimal framework-agnostic UI system to build UI systems.  Your system, your rules 🤘.
+- [chrisrzhou/google-globe-trends](https://github.com/chrisrzhou/google-globe-trends) - Create beautiful and interactive Google Trends globe visualizations with ease
+- [chrisrzhou/react-wordcloud](https://github.com/chrisrzhou/react-wordcloud) - ☁️ Simple React + D3 wordcloud component with powerful features.
+- [timdream/wordcloud2.js](https://github.com/timdream/wordcloud2.js) - Tag cloud/Wordle presentation on 2D canvas or HTML
+- [ransome1/sleek](https://github.com/ransome1/sleek) - Todo app based on todo.txt for Linux, Windows and MacOS, free and open-source.
+- [softvar/enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
 - [AOEpeople/awesome-devops](https://github.com/AOEpeople/awesome-devops) - Awesome List for Dev-Ops / Kubernetes / Cloud
 - [smaranjitghose/doc2pen](https://github.com/smaranjitghose/doc2pen) - An open source project aimed at making your student life easier!
 - [syxanash/syxanash.github.io](https://github.com/syxanash/syxanash.github.io) - my personal website
@@ -2161,6 +2169,7 @@
 
 ## Ruby 
 
+- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [hexlet-basics/hexlet-basics](https://github.com/hexlet-basics/hexlet-basics) - Interactive Programming Courses
 - [fiedl/your_platform](https://github.com/fiedl/your_platform) - Administrative and social network platform for closed user groups.

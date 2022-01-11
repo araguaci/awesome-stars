@@ -385,6 +385,8 @@
 
 ## HTML 
 
+- [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
+- [aliasaria/scrumblr](https://github.com/aliasaria/scrumblr) - Collaborative Online Scrum Tool Using Websockets, Node.js, jQuery, and CSS3
 - [smaranjitghose/awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites) - A community maintained open source project aimed at making a personal portfolio for researchers, developers, and analysts simple, fast, and less cumbersome. We make sure you have a full-fledged website to showcase your work while you can spend time on your learning and innovative endeavors.
 - [ira-design/ira-illustrations](https://github.com/ira-design/ira-illustrations) - Build your own amazing illustrations
 - [creativetimofficial/material-kit](https://github.com/creativetimofficial/material-kit) - Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design
@@ -585,6 +587,9 @@
 
 ## JavaScript 
 
+- [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
+- [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - Customization-first, performance-oriented and elegant UI framework for eCommerce (and not only) based on Vue.js and Google Retail UX Playbook. Made with 💚 by Vue Storefront team and contributors.
 - [pat310/google-trends-api](https://github.com/pat310/google-trends-api) - An API layer on top of google trends
 - [chrisrzhou/react-globe](https://github.com/chrisrzhou/react-globe) - Create beautiful and interactive React + ThreeJS globe visualizations with ease.
 - [uinix-js/uinix-ui](https://github.com/uinix-js/uinix-ui) - A minimal framework-agnostic UI system to build UI systems.  Your system, your rules 🤘.
@@ -2355,7 +2360,7 @@
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
 - [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
-- [withastro/astro](https://github.com/withastro/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts
+- [withastro/astro](https://github.com/withastro/astro) - Build faster websites, faster. 🚀🧑‍🚀✨
 - [ansible/ansible-hub-ui](https://github.com/ansible/ansible-hub-ui) - Ansible Automation Hub UI
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [chicio/chicio.github.io](https://github.com/chicio/chicio.github.io) - :ghost: Fabrizio Duroni (me :smile:) personal website. Created using GatsbyJS, Styled Components, Storybook, Typescript, tsParticles, GitHub pages, Github Actions, Upptime.
@@ -2510,7 +2515,7 @@
 - [moaijs/moai](https://github.com/moaijs/moai) - A React component library, where buttons look like buttons🗿
 - [Atom-Learning/components](https://github.com/Atom-Learning/components) - A collection of generic React components built using stitches, including components that cover layout, content, data collection, media and a host of other UI concerns.
 - [rodrigorgtic/minha-carteira-dashboard](https://github.com/rodrigorgtic/minha-carteira-dashboard) - :bar_chart: :chart_with_upwards_trend: Dashboard desenvolvido com ReactJs, TypeScript com boas práticas de desenvolvimento e performance.
-- [MarconWillian/letmeask](https://github.com/MarconWillian/letmeask) - Projeto desenvolvido na NextLevelWeek #Together.
+- [MarconWillian-Study/letmeask](https://github.com/MarconWillian-Study/letmeask) - Projeto desenvolvido na NextLevelWeek #Together.
 - [je4npw/LetMeAsk](https://github.com/je4npw/LetMeAsk) - Projeto para NLW - Rocketseat - feito em React - Instrutor dieegosf
 - [guilhermecapitao/letmeask](https://github.com/guilhermecapitao/letmeask) - This is a project developed during the Next Level Week Together, presented by Rocketseat during June 2021.
 - [josepholiveira/letmeask](https://github.com/josepholiveira/letmeask) - Let viewers decide which questions the host should answer during a livestream. Developed during @Rocketseat NLW#06 free training.
@@ -2816,6 +2821,9 @@
 
 ## Vue 
 
+- [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
+- [sinan-aydogan/anemon-laravel](https://github.com/sinan-aydogan/anemon-laravel) - Laravel, Vue3 and Tailwind3 based Admin Development KIT
+- [vuestorefront/template-magento](https://github.com/vuestorefront/template-magento) - 
 - [GoodManWEN/GoodManWEN.github.io](https://github.com/GoodManWEN/GoodManWEN.github.io) - 📕 A website simulating linux system's GUI, using theme of Deepin distro. 网页模拟桌面
 - [creativetimofficial/vue-paper-dashboard](https://github.com/creativetimofficial/vue-paper-dashboard) - Creative Tim Paper Dashboard made for Vue
 - [harryho/vue-crm](https://github.com/harryho/vue-crm) - Simple reusable CRM built on Vue 2 PWA template and Vuetify UI
@@ -2824,7 +2832,7 @@
 - [Kamona-WD/kui-laravel-jetstream](https://github.com/Kamona-WD/kui-laravel-jetstream) - Different UI for laravel/jetstream
 - [pratik227/quasar-qgrid](https://github.com/pratik227/quasar-qgrid) - QGrid is a Quasar App Extension.  It allows you to filter data for each column, Drag and Drop Rows and also allows you to filter data using header filters.
 - [itsalb3rt/sheiley-shop-app](https://github.com/itsalb3rt/sheiley-shop-app) - Sheiley Shop is a PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬
-- [pratik227/quasar-admin](https://github.com/pratik227/quasar-admin) - Free Quasar Admin Template based on Vue.js and used Quasar Framework.
+- [pratik227/quasar-admin](https://github.com/pratik227/quasar-admin) - Free Quasar Admin Template based on Vue.js and used Quasar Framework. New Dashboards - https://opensea.io/collection/dashboards
 - [daptin/dadadash](https://github.com/daptin/dadadash) - Office suite with file browser, document editor, spreadsheet editor, calendar and data tables with CRUDX API's ready to deploy
 - [quasarframework/quasar-ui-qcalendar](https://github.com/quasarframework/quasar-ui-qcalendar) - QCalendar - Quasar App Extension, Vue CLI plug-in and UMD distributions available
 - [anoff/plantbuddy](https://github.com/anoff/plantbuddy) - nodeMCU based moisture monitoring for plants 🌱 with a serverless backend

@@ -385,6 +385,7 @@
 
 ## HTML 
 
+- [Decathlon/vitamin-web](https://github.com/Decathlon/vitamin-web) - Decathlon Design System libraries for web applications
 - [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
 - [aliasaria/scrumblr](https://github.com/aliasaria/scrumblr) - Collaborative Online Scrum Tool Using Websockets, Node.js, jQuery, and CSS3
 - [smaranjitghose/awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites) - A community maintained open source project aimed at making a personal portfolio for researchers, developers, and analysts simple, fast, and less cumbersome. We make sure you have a full-fledged website to showcase your work while you can spend time on your learning and innovative endeavors.
@@ -997,7 +998,7 @@
 - [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design 2.0 UI KIT
 - [mirari/vue-fullscreen](https://github.com/mirari/vue-fullscreen) - A simple Vue.js component for fullscreen
 - [sadanandpai/sorting-visualizer](https://github.com/sadanandpai/sorting-visualizer) - Sorting Algorithms Visualizer
-- [amiroff/NextBook](https://github.com/amiroff/NextBook) - NextBook is quick and easy way to build technical books or documentation with markdown or MDX that run blazingly fast.
+- [amiroff/NextBook](https://github.com/amiroff/NextBook) - NextBook is quick and easy way to build technical books or documentation with markdown that run blazingly fast.
 - [pwambach/fat-file-finder](https://github.com/pwambach/fat-file-finder) - Electron app for finding large files on your filesystem. Build with React, Redux and ES6.
 - [G07cha/pomodoro](https://github.com/G07cha/pomodoro) - Pomodoro time managment tool build with electron :tomato:
 - [decosoftware/deco-ide](https://github.com/decosoftware/deco-ide) - The React Native IDE
@@ -1107,7 +1108,6 @@
 - [vialer/vialer-js](https://github.com/vialer/vialer-js) - Pluggable WebRTC softphone and communication platform.
 - [alepolidori/janus-webrtc-phone](https://github.com/alepolidori/janus-webrtc-phone) - SIP Phone WebRTC for your browser
 - [feross/simple-peer](https://github.com/feross/simple-peer) - 📡 Simple WebRTC video, voice, and data channels
-- [ringcentral/ringcentral-js-widgets](https://github.com/ringcentral/ringcentral-js-widgets) - RingCentral Integration Widget Library
 - [borakilicoglu/react-interactive-paycard](https://github.com/borakilicoglu/react-interactive-paycard) - React Interactive Paycard with Context API  and Hooks
 - [trazyn/weweChat](https://github.com/trazyn/weweChat) - 💬 Unofficial WeChat client built with React, MobX and Electron.
 - [h5o/h5o-js](https://github.com/h5o/h5o-js) - HTML5 outliner (JavaScript)
@@ -1130,7 +1130,7 @@
 - [zhw2590582/SubPlayer](https://github.com/zhw2590582/SubPlayer) - :memo: SubPlayer is an online subtitle editor
 - [zhw2590582/WFPlayer](https://github.com/zhw2590582/WFPlayer) - :ocean: WFPlayer.js is an audio waveform generator
 - [zhw2590582/term-web](https://github.com/zhw2590582/term-web) - :pager: A simple Terminal UI that run on the web
-- [jc21/nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [WAClient/WALC](https://github.com/WAClient/WALC) - An unofficial WhatsApp Desktop client for linux systems.
 - [ngekoding/whatsapp-api-tutorial](https://github.com/ngekoding/whatsapp-api-tutorial) - Implementation of whatsapp-web.js
@@ -1664,6 +1664,8 @@
 
 ## Others 
 
+- [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos) - 🌈 Uma coleção com links de recursos gratuitos para desenvolvimentos e estudos.
+- [nicolas-racchi/SaaS4Devs](https://github.com/nicolas-racchi/SaaS4Devs) - Awesome collection of content for developers trying to bootstrap their SaaS
 - [niagalves/guia-basico-LGPD](https://github.com/niagalves/guia-basico-LGPD) - Guia básico sobre a LGPD (Lei Geral de Proteção de Dados). Lei 13.709/2018 que entrou em vigor no Brasil dia  18/09/2020.
 - [syxanash/awesome-web-desktops](https://github.com/syxanash/awesome-web-desktops) - Websites, web apps, portfolios which look like desktop operating systems
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
@@ -2098,6 +2100,7 @@
 
 ## Python 
 
+- [jet-admin/jet-bridge](https://github.com/jet-admin/jet-bridge) - Jet Bridge – Admin Panel Framework for your application
 - [Ra-Na/GTranslate-strings-xml](https://github.com/Ra-Na/GTranslate-strings-xml) - Creats a strings.xml file by Google auto-translating an input strings.xml file
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [GusFurtado/DAB-Apps](https://github.com/GusFurtado/DAB-Apps) - Aplicações de exemplo utilizando o pacote DadosAbertosBrasil
@@ -2319,6 +2322,7 @@
 
 ## TypeScript 
 
+- [xlayers/xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design
 - [martijnvwezel/muino-time-management](https://github.com/martijnvwezel/muino-time-management) - The Muino Time Management/ accounting tool for keeping track of your hours on projects and tasks.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
@@ -2573,6 +2577,7 @@
 - [dericcain/react-tiny-fab](https://github.com/dericcain/react-tiny-fab) - 🤖A tiny Floating Action Button for React
 - [dgreif/ring](https://github.com/dgreif/ring) - Unofficial API for Ring Doorbells, Cameras, Alarm System, and Smart Lighting
 - [ringcentral/ringcentral-js](https://github.com/ringcentral/ringcentral-js) - RingCentral Connect Platform JS SDK
+- [ringcentral/ringcentral-js-widgets](https://github.com/ringcentral/ringcentral-js-widgets) - RingCentral Integration Widget Library
 - [finos/SymphonyElectron](https://github.com/finos/SymphonyElectron) - A desktop client for the Symphony Collaboration Platform built using Electron
 - [AiursoftWeb/Kahla.App](https://github.com/AiursoftWeb/Kahla.App) - Kahla is a cross-platform business messaging app.
 - [mattermost/desktop](https://github.com/mattermost/desktop) - Mattermost Desktop application for Windows, Mac and Linux
@@ -2832,7 +2837,7 @@
 - [Kamona-WD/kui-laravel-jetstream](https://github.com/Kamona-WD/kui-laravel-jetstream) - Different UI for laravel/jetstream
 - [pratik227/quasar-qgrid](https://github.com/pratik227/quasar-qgrid) - QGrid is a Quasar App Extension.  It allows you to filter data for each column, Drag and Drop Rows and also allows you to filter data using header filters.
 - [itsalb3rt/sheiley-shop-app](https://github.com/itsalb3rt/sheiley-shop-app) - Sheiley Shop is a PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬
-- [pratik227/quasar-admin](https://github.com/pratik227/quasar-admin) - Free Quasar Admin Template based on Vue.js and used Quasar Framework. New Dashboards - https://opensea.io/collection/dashboards
+- [pratik227/quasar-admin](https://github.com/pratik227/quasar-admin) - Free Quasar Admin Template based on Vue.js and used Quasar Framework.
 - [daptin/dadadash](https://github.com/daptin/dadadash) - Office suite with file browser, document editor, spreadsheet editor, calendar and data tables with CRUDX API's ready to deploy
 - [quasarframework/quasar-ui-qcalendar](https://github.com/quasarframework/quasar-ui-qcalendar) - QCalendar - Quasar App Extension, Vue CLI plug-in and UMD distributions available
 - [anoff/plantbuddy](https://github.com/anoff/plantbuddy) - nodeMCU based moisture monitoring for plants 🌱 with a serverless backend

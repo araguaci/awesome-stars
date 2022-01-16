@@ -590,6 +590,7 @@
 
 ## JavaScript 
 
+- [panshak/arc](https://github.com/panshak/arc) - Fullstack open source Invoicing application made with MongoDB, Express, React & Nodejs (MERN)
 - [toptal/haste-server](https://github.com/toptal/haste-server) - open source pastebin written in node.js
 - [chinchang/cta.js](https://github.com/chinchang/cta.js) - Animate your 'action-to-effect' paths
 - [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
@@ -2019,7 +2020,7 @@
 - [robsonvleite/optimizer](https://github.com/robsonvleite/optimizer) - Is a compact and easy-to-use tag creator to optimize your site (OnPage SEO de forma fácil e descomplicada, open graph, twitter card, facebook, google plus e outros)
 - [fragkp/laravel-route-breadcrumb](https://github.com/fragkp/laravel-route-breadcrumb) - Laravel: Add breadcrumbs to your routes
 - [saqueib/social-auth](https://github.com/saqueib/social-auth) - Starter kit for Socialite integration with Facebook, Google, Twitter and Github login
-- [Kristories/novassport](https://github.com/Kristories/novassport) - A Laravel Nova tool to manage API Authentication (Passport)
+- [wearedevtical/novassport](https://github.com/wearedevtical/novassport) - A Laravel Nova tool to manage API Authentication (Passport)
 - [mckenziearts/laravel-oauth](https://github.com/mckenziearts/laravel-oauth) - :octocat: Social OAuth authentication for Laravel 5 & 6. Drivers: Facebook, Twitter, Google, LinkedIn, Github, Bitbucket.
 - [SocialConnect/auth](https://github.com/SocialConnect/auth) - :atom: Social (OAuth1\OAuth2\OpenID\OpenIDConnect) sign with PHP :shipit:
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.

@@ -2351,7 +2351,7 @@
 - [intlify/vue-i18n-next](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3
 - [antfu/vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA for Vite
 - [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar) - ⚡ Explore high-performance tooling for Vue
-- [vuejs/vue-next](https://github.com/vuejs/vue-next) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [johnpapa/hello-worlds](https://github.com/johnpapa/hello-worlds) - Hello world apps for angular, react, svelte, and vue
 - [netless-io/netless-app](https://github.com/netless-io/netless-app) - Official Apps for the Agora Interactive Whiteboard.
@@ -2363,7 +2363,7 @@
 - [twilio/flex-plugin-builder](https://github.com/twilio/flex-plugin-builder) - Packages related to building a Twilio Flex Plugin
 - [netlify/netlify-plugin-nextjs](https://github.com/netlify/netlify-plugin-nextjs) - A build plugin to integrate Next.js seamlessly with Netlify
 - [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Connect to 15+ database integrations.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API..
 - [maximegris/typescript-express-sequelize](https://github.com/maximegris/typescript-express-sequelize) - Easily bootstrap your NodeJS project with Express, Sequelize and Typescript :+1:
 - [itgalaxy/favicons](https://github.com/itgalaxy/favicons) - Favicons generator for Node.js
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux

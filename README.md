@@ -991,7 +991,7 @@
 - [cern-phone-apps/mobile-phone-app](https://github.com/cern-phone-apps/mobile-phone-app) - CERN Phone Mobile client. Multiplatform phone application compatible with Android and iOS.
 - [pion/ion-app-web](https://github.com/pion/ion-app-web) - ion web app
 - [voximplant/react-native-demo](https://github.com/voximplant/react-native-demo) - React Native Voximplant Demo
-- [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys) - Lightweight full-featured typescript/javascript WhatsApp Web API
+- [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys) - Lightweight full-featured WhatsApp Web + Multi-Device API
 - [parse-community/parse-server-example](https://github.com/parse-community/parse-server-example) - Example server using Express and the parse-server module.
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js

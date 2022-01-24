@@ -389,6 +389,8 @@
 
 ## HTML 
 
+- [vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
+- [vasturiano/globe.gl](https://github.com/vasturiano/globe.gl) - UI component for Globe Data Visualization using ThreeJS/WebGL
 - [Decathlon/vitamin-web](https://github.com/Decathlon/vitamin-web) - Decathlon Design System libraries for web applications
 - [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
 - [aliasaria/scrumblr](https://github.com/aliasaria/scrumblr) - Collaborative Online Scrum Tool Using Websockets, Node.js, jQuery, and CSS3
@@ -591,6 +593,16 @@
 
 ## JavaScript 
 
+- [d3/d3-shape](https://github.com/d3/d3-shape) - Graphical primitives for visualization, such as lines and areas.
+- [d3/d3-force](https://github.com/d3/d3-force) - Force-directed graph layout using velocity Verlet integration.
+- [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
+- [ghostery/ghostery-extension](https://github.com/ghostery/ghostery-extension) - Ghostery Browser Extension for Firefox, Chrome, Opera and Edge
+- [hybridsjs/hybrids](https://github.com/hybridsjs/hybrids) - Extraordinary JavaScript framework with unique declarative and functional architecture
+- [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
+- [framework7io/framework7-website](https://github.com/framework7io/framework7-website) - Framework7 website for contributing and offline usage
+- [mavoweb/mavo](https://github.com/mavoweb/mavo) - Create web applications entirely by writing HTML and CSS!
+- [LeaVerou/bliss](https://github.com/LeaVerou/bliss) - Blissful JavaScript
+- [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 - [vvo/gifify](https://github.com/vvo/gifify) - 😻 Convert any video file to an optimized animated GIF.
 - [panshak/arc](https://github.com/panshak/arc) - Fullstack open source Invoicing application made with MongoDB, Express, React & Nodejs (MERN)
@@ -777,7 +789,7 @@
 - [ildaneta/my-personal-blog-gatsby](https://github.com/ildaneta/my-personal-blog-gatsby) - 🙆🏻‍♀️.  This is a repository of my blog, when I used the Gatsby and GraphQL to built this application. 🌼
 - [Rajesh-Royal/React-Js-Todo-App-with-firebase-auth](https://github.com/Rajesh-Royal/React-Js-Todo-App-with-firebase-auth) - TodoApp using ReactJS and Firebase | ReactJS, Material UI, Firebase, ExpressJS
 - [girliemac/fb-apiai-bot-demo](https://github.com/girliemac/fb-apiai-bot-demo) - A simple example of Facebook Chat Bot using API.ai
-- [terreng/simple-web-server](https://github.com/terreng/simple-web-server) - A continuation of Web Server for Chrome, built with Electron.
+- [terreng/simple-web-server](https://github.com/terreng/simple-web-server) - Create a local web server in just a few clicks with an easy to use interface. A continuation of Web Server for Chrome, built with Electron.
 - [felixrieseberg/electron-windows-store](https://github.com/felixrieseberg/electron-windows-store) - :package: Turn Electron Apps into Windows AppX Packages
 - [GameGodS3/DropPoint](https://github.com/GameGodS3/DropPoint) - Make drag-and-drop easier using DropPoint. Drag content without having to open side-by-side windows
 - [mawie81/electron-window-state](https://github.com/mawie81/electron-window-state) - A library to store and restore window sizes and positions for your Electron app
@@ -2339,6 +2351,8 @@
 
 ## TypeScript 
 
+- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
+- [Atyantik/react-pwa](https://github.com/Atyantik/react-pwa) - An upgradable boilerplate for Progressive web applications (PWA) with server side rendering, build with SEO in mind and achieving max page speed and optimized user experience.
 - [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Node.js stateless session utility using signed and encrypted cookies to store data. Works with Next.js, Express, NestJs, Fastify, and any Node.js HTTP framework.
 - [ritwickdey/vscode-live-server](https://github.com/ritwickdey/vscode-live-server) - Launch a development local Server with live reload feature for static & dynamic pages.
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
@@ -2846,6 +2860,7 @@
 
 ## Vue 
 
+- [hujiulong/vue-3d-model](https://github.com/hujiulong/vue-3d-model) - 📷 vue.js 3D model viewer component
 - [arnonrdp/Livrero](https://github.com/arnonrdp/Livrero) - A place for you to collect everything you've read.
 - [sumitkolhe/krates](https://github.com/sumitkolhe/krates) - :package: A free HTTP based JSON storage service
 - [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Free and Open Source UI Library for Vue 3 🤘

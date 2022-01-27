@@ -596,6 +596,11 @@
 
 ## JavaScript 
 
+- [patrickmonteiro/quasar-epub-reader](https://github.com/patrickmonteiro/quasar-epub-reader) - 📚 👓  An epub reader made with quasar framework and epubjs
+- [PDFTron/pdftron-document-search](https://github.com/PDFTron/pdftron-document-search) - Build search across multiple documents client-side in your file storage
+- [stephanrauh/ngx-extended-pdf-viewer](https://github.com/stephanrauh/ngx-extended-pdf-viewer) - A full-blown PDF viewer for Angular 9, 10, 11, 12, and beyond
+- [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
+- [ether/ep_webrtc](https://github.com/ether/ep_webrtc) - Audio & Video chat for Etherpad - Video Conferencing with a focus on collaboration
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [bpampuch/pdfmake](https://github.com/bpampuch/pdfmake) - Client/server side PDF printing in pure JavaScript
@@ -863,6 +868,7 @@
 - [bhj/karaoke-forever](https://github.com/bhj/karaoke-forever) - Open karaoke party system
 - [Temasys/AdapterJS](https://github.com/Temasys/AdapterJS) - AdapterJS Javascript Polyfill and Tools for WebRTC - Skylink WebRTC
 - [beautifulinteractions/beautiful-react-ui](https://github.com/beautifulinteractions/beautiful-react-ui) - 🚀A collection of lightweight and easy-to-customise controlled React components 🚀
+- [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend) - Clone project of a famous Q/A website for developers which is stackoverflow built using MySQL-Express-React-Node :globe_with_meridians:
 - [manikandanraji/youtubeclone-frontend](https://github.com/manikandanraji/youtubeclone-frontend) - Youtube Clone Frontend (React + Redux)
 - [MattMcFarland/react-darkroom](https://github.com/MattMcFarland/react-darkroom) - An HTML5 Image Editing Component built with ReactJS
@@ -2371,6 +2377,8 @@
 
 ## TypeScript 
 
+- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) - OpenTelemetry JavaScript Client
+- [react-pdf-viewer/react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer) - A React component to view a PDF document
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [lume/lume](https://github.com/lume/lume) - Create 3D web applications with HTML. Bring a new depth to your DOM!
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
@@ -2496,7 +2504,6 @@
 - [vuerd/vuerd](https://github.com/vuerd/vuerd) - Entity-Relationship Diagram Editor
 - [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
 - [TowhidKashem/snapchat-clone](https://github.com/TowhidKashem/snapchat-clone) - 👻 A SnapChat clone built with React and Redux. Written in Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!
-- [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [rpearce/image-zoom](https://github.com/rpearce/image-zoom) - 🔎 Medium.com style image zoom for React 🔍
 - [infinitered/reactotron-core-ui](https://github.com/infinitered/reactotron-core-ui) - 
 - [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's cutting edge React Native project boilerplate, along with a CLI, component/model generators, and more!

@@ -596,6 +596,8 @@
 
 ## JavaScript 
 
+- [hawkeye64/quasar-extras-svg-icons](https://github.com/hawkeye64/quasar-extras-svg-icons) - Extra SVG icons for Quasar Framework
+- [felixrieseberg/npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - :rocket: Upgrade npm on Windows
 - [patrickmonteiro/quasar-epub-reader](https://github.com/patrickmonteiro/quasar-epub-reader) - 📚 👓  An epub reader made with quasar framework and epubjs
 - [PDFTron/pdftron-document-search](https://github.com/PDFTron/pdftron-document-search) - Build search across multiple documents client-side in your file storage
 - [stephanrauh/ngx-extended-pdf-viewer](https://github.com/stephanrauh/ngx-extended-pdf-viewer) - A full-blown PDF viewer for Angular 9, 10, 11, 12, and beyond
@@ -667,7 +669,7 @@
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [shreyabiradar07/Pathshala](https://github.com/shreyabiradar07/Pathshala) - A MERN-based virtual collaborative learning web app.
 - [crater-invoice/crater-mobile](https://github.com/crater-invoice/crater-mobile) - Crater Invoice Mobile to manage your invoices on the go.
-- [frappe/datatable](https://github.com/frappe/datatable) - A simple, modern and interactive datatable library for the web
+- [frappe/datatable](https://github.com/frappe/datatable) - The Missing Javascript Datatable for the Web
 - [divriots/starter-simba](https://github.com/divriots/starter-simba) - Lion-based Design System
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [nextapps-de/spotlight](https://github.com/nextapps-de/spotlight) - Web's most easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies.
@@ -1588,7 +1590,6 @@
 - [archriss/react-native-swiper](https://github.com/archriss/react-native-swiper) - The best Swiper component for React Native.
 - [meliorence/react-native-snap-carousel](https://github.com/meliorence/react-native-snap-carousel) - Swiper/carousel component for React Native featuring previews, multiple layouts, parallax images, performant handling of huge numbers of items, and more. Compatible with Android & iOS.
 - [timomeh/react-native-material-bottom-navigation](https://github.com/timomeh/react-native-material-bottom-navigation) - 💅🔧👌 a beautiful, customizable and easy-to-use material design bottom navigation for react-native
-- [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
 - [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [craftpip/jquery-confirm](https://github.com/craftpip/jquery-confirm) - A multipurpose plugin for alert, confirm & dialog, with extended features.
@@ -2215,6 +2216,7 @@
 
 ## R 
 
+- [daattali/timevis](https://github.com/daattali/timevis) - 📅 Create interactive timeline visualizations in R
 - [rstudio/shiny](https://github.com/rstudio/shiny) - Easy interactive web applications with R
 - [r-lib/pkgdown](https://github.com/r-lib/pkgdown) - Generate static html documentation for an R package
 
@@ -2377,6 +2379,7 @@
 
 ## TypeScript 
 
+- [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable particles animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) - OpenTelemetry JavaScript Client
 - [react-pdf-viewer/react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer) - A React component to view a PDF document
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -2881,6 +2884,7 @@
 - [archriss/apipeline](https://github.com/archriss/apipeline) - Feature-rich and pluggable offline-first API wrapper for all your javascript environements ! Easily wire-up your API and make your app work offline in minutes ! Use AsyncStorage, SQLite or any driver you want !
 - [AylanBoscarino/panemovel](https://github.com/AylanBoscarino/panemovel) - Ache o posto de gasolina mais próximo com 1 único toque.
 - [react-native-webview/react-native-webview](https://github.com/react-native-webview/react-native-webview) - React Native Cross-Platform WebView
+- [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
 - [aykutkardas/Json-Function](https://github.com/aykutkardas/Json-Function) - It allows you to use methods such as schema, innerJoin, where, limit, select, orderBy on JSON data.
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [onsip/SIP.js](https://github.com/onsip/SIP.js) - A simple, intuitive, and powerful JavaScript signaling library
@@ -2895,6 +2899,7 @@
 
 ## Vue 
 
+- [hawkeye64/iconexplorer.app](https://github.com/hawkeye64/iconexplorer.app) - :zap: Icon Explorer application for Quasar Framework SVG icons. Over 60,000 searchable icons and growing.
 - [hujiulong/vue-3d-model](https://github.com/hujiulong/vue-3d-model) - 📷 vue.js 3D model viewer component
 - [arnonrdp/Livrero](https://github.com/arnonrdp/Livrero) - A place for you to collect everything you've read.
 - [sumitkolhe/krates](https://github.com/sumitkolhe/krates) - :package: A free HTTP based JSON storage service

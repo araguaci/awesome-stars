@@ -1666,7 +1666,7 @@
 
 ## Jupyter Notebook 
 
-- [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Code for Data Engineer Zoomcamp course
+- [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Free Data Engineering course!
 - [GusFurtado/DadosAbertosBrasil](https://github.com/GusFurtado/DadosAbertosBrasil) - Pacote Python para acesso a dados abertos e APIs do governo brasileiro.
 - [dadosgovbr/catalogos-dados-brasil](https://github.com/dadosgovbr/catalogos-dados-brasil) - Mapeamento de iniciativas (e catálogos) de dados abertos governamentais no Brasil.
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.

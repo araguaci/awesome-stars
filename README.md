@@ -338,6 +338,7 @@
 
 ## Go 
 
+- [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
@@ -598,6 +599,7 @@
 
 ## JavaScript 
 
+- [twilio/video-quickstart-js](https://github.com/twilio/video-quickstart-js) - A quickstart and code samples for Twilio Video JavaScript SDK. https://www.twilio.com/docs/video
 - [daattali/gslides-betternotes-extension](https://github.com/daattali/gslides-betternotes-extension) - The slide previews in the Speaker Notes window of Google Slides are tiny and unreadable. This extension automatically resizes the slides when the window is resized, and allows the user to drag the sidebar to select a size.
 - [hawkeye64/quasar-extras-svg-icons](https://github.com/hawkeye64/quasar-extras-svg-icons) - Extra SVG icons for Quasar Framework
 - [felixrieseberg/npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - :rocket: Upgrade npm on Windows
@@ -1408,6 +1410,7 @@
 - [huynhsamha/react-configure](https://github.com/huynhsamha/react-configure) - Necessary configure for create-react-app 🤣🤣🤣
 - [cornflourblue/react-signup-verification-boilerplate](https://github.com/cornflourblue/react-signup-verification-boilerplate) - React Boilerplate - Email Sign Up with Verification, Authentication & Forgot Password
 - [jherr/chat-o-matic](https://github.com/jherr/chat-o-matic) - Example code for a real time chat system with GraphQL subscriptions
+- [reactjs/pt-br.reactjs.org](https://github.com/reactjs/pt-br.reactjs.org) - 🇧🇷 React documentation website in Portuguese (Brazil)
 - [Jejinketsu/CEP_Distance](https://github.com/Jejinketsu/CEP_Distance) - Aplicação em node para calcular a distância entre dois pontos, dado o CEP de cada um.
 - [mweststrate/relative-deps](https://github.com/mweststrate/relative-deps) - Installs local dependencies for optimal developer experience
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
@@ -2550,7 +2553,7 @@
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [vercel/virtual-event-starter-kit](https://github.com/vercel/virtual-event-starter-kit) - Open source demo that Next.js developers can clone, deploy, and fully customize for events.
 - [shmuelhizmi/web-desktop-environment](https://github.com/shmuelhizmi/web-desktop-environment) - a web-based cross-platform desktop environment
-- [qwefgh90/ng-terminal](https://github.com/qwefgh90/ng-terminal) - NgTerminal is a terminal component on Angular 11. Doesn't support Ivy yet.
+- [qwefgh90/ng-terminal](https://github.com/qwefgh90/ng-terminal) - NgTerminal is a terminal component on Angular 12. Doesn't support Ivy yet.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [steelbrain/node-ssh](https://github.com/steelbrain/node-ssh) - SSH2 with Promises
@@ -2823,7 +2826,6 @@
 - [nrwl/nx-console](https://github.com/nrwl/nx-console) - Nx Console is the user interface for Nx.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [cornflourblue/angular-8-alert-notifications](https://github.com/cornflourblue/angular-8-alert-notifications) - Angular 8 - Alert (Toaster) Notifications
-- [reactjs/pt-br.reactjs.org](https://github.com/reactjs/pt-br.reactjs.org) - 🇧🇷 React documentation website in Portuguese (Brazil)
 - [gorhom/react-native-paper-onboarding](https://github.com/gorhom/react-native-paper-onboarding) - Paper Onboarding is a material design UI slider for `React Native`.
 - [gorhom/react-native-animated-tabbar](https://github.com/gorhom/react-native-animated-tabbar) - A 60FPS animated tab bar with a variety of cool animation presets 😎
 - [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet with fully configurable options 🚀

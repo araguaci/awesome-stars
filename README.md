@@ -416,7 +416,6 @@
 - [kakacordovil/nasa-api](https://github.com/kakacordovil/nasa-api) - APOD: Astronomy Picture of the Day Browse API https://api.nasa.gov/
 - [miromannino/Justified-Gallery](https://github.com/miromannino/Justified-Gallery) - Javascript library to help creating high quality justified galleries of images. Used by thousands of websites as well as the photography community 500px.
 - [desandro/masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout plugin
-- [RoderickQiu/wnr](https://github.com/RoderickQiu/wnr) - ⏱️ Work/Rest Timer. Stricter. Prettier. More features. Win/Mac/Linux.
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [n457/Uncolored](https://github.com/n457/Uncolored) - (Un)colored — Next generation desktop rich content editor that saves documents with themes. HTML & Markdown compatible. For Windows, OS X & Linux. — http://n457.github.io/Uncolored/
@@ -599,6 +598,7 @@
 
 ## JavaScript 
 
+- [chawk/bare_bones_react](https://github.com/chawk/bare_bones_react) - A simple react project with what you need to get started and everything you don't.
 - [WebDevSimplified/Zoom-Clone-With-WebRTC](https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC) - 
 - [twilio/video-quickstart-js](https://github.com/twilio/video-quickstart-js) - A quickstart and code samples for Twilio Video JavaScript SDK. https://www.twilio.com/docs/video
 - [daattali/gslides-betternotes-extension](https://github.com/daattali/gslides-betternotes-extension) - The slide previews in the Speaker Notes window of Google Slides are tiny and unreadable. This extension automatically resizes the slides when the window is resized, and allows the user to drag the sidebar to select a size.
@@ -759,6 +759,7 @@
 - [callmecavs/jump.js](https://github.com/callmecavs/jump.js) - A modern smooth scrolling library.
 - [callmecavs/bricks.js](https://github.com/callmecavs/bricks.js) - A blazing fast masonry layout generator for fixed width elements.
 - [Vestride/Shuffle](https://github.com/Vestride/Shuffle) - Categorize, sort, and filter a responsive grid of items
+- [RoderickQiu/wnr](https://github.com/RoderickQiu/wnr) - ⏱️ Work/Rest Timer. Stricter. Prettier. More features. Win/Mac/Linux. (BUSY PREPARING FOR GAOKAO, DEVELOPMENT WILL BE PAUSED UNTIL JUNE.)
 - [testing-library/testing-library-docs](https://github.com/testing-library/testing-library-docs) - docs site for @testing-library/*
 - [phuoc-ng/get-svg](https://github.com/phuoc-ng/get-svg) - A Chrome extension to download SVG from a webpage
 - [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native.
@@ -1187,7 +1188,7 @@
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [tuhinpal/WhatsBot](https://github.com/tuhinpal/WhatsBot) - Modular Userbot for Whatsapp
 - [salesforce/lwc](https://github.com/salesforce/lwc) - :zap: LWC - A Blazing Fast, Enterprise-Grade Web Components Foundation
-- [edumeet/edumeet](https://github.com/edumeet/edumeet) - Multiparty web-meetings using mediasoup and WebRTC
+- [edumeet/edumeet](https://github.com/edumeet/edumeet) - edumeet - multiparty web-meetings using mediasoup and WebRTC
 - [ondras/wwwsqldesigner](https://github.com/ondras/wwwsqldesigner) - WWW SQL Designer, your online SQL diagramming tool
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework
@@ -1716,6 +1717,7 @@
 
 ## Others 
 
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos) - 🌈 Uma coleção com links de recursos gratuitos para desenvolvimentos e estudos.
 - [nicolas-racchi/SaaS4Devs](https://github.com/nicolas-racchi/SaaS4Devs) - Awesome collection of content for developers trying to bootstrap their SaaS
@@ -1872,6 +1874,7 @@
 
 ## PHP 
 
+- [Plataformas-Cidadania/portalosc](https://github.com/Plataformas-Cidadania/portalosc) - 
 - [microweber/microweber](https://github.com/microweber/microweber) - Drag and Drop Website Builder and CMS with E-commerce
 - [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml. Any help is welcome!
 - [hisune/Echarts-PHP](https://github.com/hisune/Echarts-PHP) - Echarts-PHP a PHP library that works as a wrapper for the Echarts js library

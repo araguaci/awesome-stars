@@ -99,6 +99,8 @@
 
 ## C# # 
 
+- [planetarium/NineChronicles](https://github.com/planetarium/NineChronicles) - Unity client application for Nine Chronicles, a fully decentralized idle RPG powered by the community.
+- [inexorabletash/travellermap](https://github.com/inexorabletash/travellermap) - The source code to TravellerMap.com
 - [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
 - [IdentityServer/IdentityServer4](https://github.com/IdentityServer/IdentityServer4) - OpenID Connect and OAuth 2.0 Framework for ASP.NET Core
 - [akkadotnet/akka.net](https://github.com/akkadotnet/akka.net) - Port of Akka actors for .NET
@@ -150,6 +152,7 @@
 
 ## C++ 
 
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2021 | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter |
 - [CGAL/cgal](https://github.com/CGAL/cgal) - The public CGAL repository, see the README below
 - [BelledonneCommunications/linphone-desktop](https://github.com/BelledonneCommunications/linphone-desktop) - Linphone is a free VoIP and video softphone based on the SIP protocol. Mirror of git://git.linphone.org/linphone-desktop.git
 - [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
@@ -179,7 +182,7 @@
 - [Infactum/tg2sip](https://github.com/Infactum/tg2sip) - Telegram &lt;-&gt; SIP voice gateway
 - [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
-- [tudelft3d/3dfier](https://github.com/tudelft3d/3dfier) - The open-source tool for creating of 3D models
+- [tudelft3d/3dfier](https://github.com/tudelft3d/3dfier) - The open-source tool for creating 3D models
 - [google/earthenterprise](https://github.com/google/earthenterprise) - Google Earth Enterprise - Open Source
 - [grishka/libtgvoip](https://github.com/grishka/libtgvoip) - VoIP library for Telegram clients
 - [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
@@ -200,6 +203,7 @@
 
 ## CSS 
 
+- [issaafalkattan/React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
 - [creativetimofficial/paper-dashboard-react](https://github.com/creativetimofficial/paper-dashboard-react) - 
 - [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
 - [Logan1x/bookMarks](https://github.com/Logan1x/bookMarks) - A reactjs project to store bookmarks 🔖
@@ -392,6 +396,8 @@
 
 ## HTML 
 
+- [imfunniee/imfunniee.github.io](https://github.com/imfunniee/imfunniee.github.io) - 👨‍💻 personal portfolio website and projects
+- [tabatkins/bikeshed](https://github.com/tabatkins/bikeshed) - :bike: A preprocessor for anyone writing specifications that converts source files into actual specs.
 - [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [jgraph/drawio-github](https://github.com/jgraph/drawio-github) - Drawio GitHub Integration
@@ -598,6 +604,10 @@
 
 ## JavaScript 
 
+- [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
+- [danarrib/BulletGCSS](https://github.com/danarrib/BulletGCSS) - A High Caliber Ground Control Station System designed for the 21st century lifestyle
+- [nickarocho/minesweeper](https://github.com/nickarocho/minesweeper) - The classic game with the classic look (Client-side Game) | HTML, CSS, JavaScript, recursion
+- [inexorabletash/jsbasic](https://github.com/inexorabletash/jsbasic) - Applesoft BASIC in JavaScript
 - [chawk/bare_bones_react](https://github.com/chawk/bare_bones_react) - A simple react project with what you need to get started and everything you don't.
 - [WebDevSimplified/Zoom-Clone-With-WebRTC](https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC) - 
 - [twilio/video-quickstart-js](https://github.com/twilio/video-quickstart-js) - A quickstart and code samples for Twilio Video JavaScript SDK. https://www.twilio.com/docs/video
@@ -659,7 +669,6 @@
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~1.5KB routing for React and Preact. Nothing else but HOOKS.
 - [codex-team/codex.notes](https://github.com/codex-team/codex.notes) - WIP: crossplatform desktop notes application based on Electron and Editor.js
 - [kremalicious/portfolio](https://github.com/kremalicious/portfolio) - 👔 Portfolio thingy, built with Gatsby
-- [nextauthjs/next-auth-example](https://github.com/nextauthjs/next-auth-example) - An example project that shows how to use NextAuth.js
 - [molly/static-timeline-generator](https://github.com/molly/static-timeline-generator) - Create static timeline webpages.
 - [GoodManWEN/Programming-Language-Benchmarks-Visualization](https://github.com/GoodManWEN/Programming-Language-Benchmarks-Visualization) - Automaticlly updated language performance banchmarks in visualization. Data source from debian's the computer language benchmakrs game.
 - [kubowania/crypto-dashboard-react](https://github.com/kubowania/crypto-dashboard-react) - A Crypto Dashboard built in React and Nodejs using RapidAPI
@@ -1170,7 +1179,6 @@
 - [microsoft/devops-project-samples](https://github.com/microsoft/devops-project-samples) - Sample applications for Azure DevOps Project
 - [webrtcHacks/adapter](https://github.com/webrtcHacks/adapter) - Shim to insulate apps from spec changes and prefix differences. Latest adapter.js release:
 - [webrtc/adapter](https://github.com/webrtc/adapter) - READ ONLY FORK: Shim to insulate apps from spec changes and prefix differences. Latest adapter.js release:
-- [serialport/node-serialport](https://github.com/serialport/node-serialport) - Access serial ports with JavaScript. Linux, OSX and Windows. Welcome your robotic JavaScript overlords. Better yet, program them!
 - [mscdex/socksv5](https://github.com/mscdex/socksv5) - SOCKS protocol version 5 server and client implementations for node.js
 - [nccgroup/wssip](https://github.com/nccgroup/wssip) - Application for capturing, modifying and sending custom WebSocket data from client to server and vice versa.
 - [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
@@ -1717,6 +1725,8 @@
 
 ## Others 
 
+- [yiisoft/docs](https://github.com/yiisoft/docs) - Various Yii 3.0 related documentation
+- [RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos) - 🌈 Uma coleção com links de recursos gratuitos para desenvolvimentos e estudos.
@@ -1874,6 +1884,9 @@
 
 ## PHP 
 
+- [presentator/presentator](https://github.com/presentator/presentator) - Design presentation and collaboration platform
+- [samdark/sitemap](https://github.com/samdark/sitemap) - Sitemap and sitemap index builder
+- [samdark/yiipowered](https://github.com/samdark/yiipowered) - Yii powered websites showcase
 - [Plataformas-Cidadania/portalosc](https://github.com/Plataformas-Cidadania/portalosc) - 
 - [microweber/microweber](https://github.com/microweber/microweber) - Drag and Drop Website Builder and CMS with E-commerce
 - [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml. Any help is welcome!
@@ -2158,6 +2171,7 @@
 
 ## Python 
 
+- [pittcsc/Summer2022-Internships](https://github.com/pittcsc/Summer2022-Internships) - Collection of Summer 2022 tech internships!
 - [turicas/salarios-magistrados](https://github.com/turicas/salarios-magistrados) - Baixa as planilhas de salários de magistrados, extrai os contracheques, limpa e exporta pra CSV
 - [turicas/covid19-br](https://github.com/turicas/covid19-br) - Dados diários mais recentes do coronavírus por município brasileiro
 - [turicas/socios-brasil](https://github.com/turicas/socios-brasil) - Captura os dados de sócios das empresas brasileiras na Receita Federal e exporta para um formato legível por humanos
@@ -2394,6 +2408,7 @@
 
 ## TypeScript 
 
+- [issaafalkattan/react-landing-page-template-2021](https://github.com/issaafalkattan/react-landing-page-template-2021) - A sleek plug n play react landing page template.
 - [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web Z, GPL v3
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable particles animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) - OpenTelemetry JavaScript Client
@@ -2414,6 +2429,7 @@
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 - [oceanprotocol/market](https://github.com/oceanprotocol/market) - 🧜‍♀️ THE Data Market
+- [nextauthjs/next-auth-example](https://github.com/nextauthjs/next-auth-example) - An example project that shows how to use NextAuth.js
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source Airtable-like experience for your database (Firestore) with GCP's scalability. Build any automation or cloud functions for your product. ⚡️✨
@@ -2668,6 +2684,7 @@
 - [mattermost/desktop](https://github.com/mattermost/desktop) - Mattermost Desktop application for Windows, Mac and Linux
 - [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking hot React Notifications 🔥
 - [microsoft/google-play-vsts-extension](https://github.com/microsoft/google-play-vsts-extension) - Visual Studio Team Services (VSTS) extension for performing continuous delivery to the Google Play store from your automated CI builds
+- [serialport/node-serialport](https://github.com/serialport/node-serialport) - Access serial ports with JavaScript. Linux, OSX and Windows. Welcome your robotic JavaScript overlords. Better yet, program them!
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [start-javascript/sb-admin-material](https://github.com/start-javascript/sb-admin-material) - Simple Dashboard Admin App built using Angular 9 and Material 2.

@@ -608,6 +608,8 @@
 
 ## JavaScript 
 
+- [WebDevSimplified/wordle-clone](https://github.com/WebDevSimplified/wordle-clone) - 
+- [omariosouto/dicas-para-portifolio](https://github.com/omariosouto/dicas-para-portifolio) - 
 - [luisleao/telefone-speech-to-text](https://github.com/luisleao/telefone-speech-to-text) - Como transcrever falas de ligações telefônicas utilizando Twilio e Google Speech-to-Text
 - [protect-earth/protect.earth](https://github.com/protect-earth/protect.earth) - International Directory of Climate Action for Humans, Businesses, and anyone else.
 - [ken107/read-aloud](https://github.com/ken107/read-aloud) - An awesome browser extension that reads aloud webpage content with one click

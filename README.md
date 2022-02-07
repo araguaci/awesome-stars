@@ -204,6 +204,7 @@
 
 ## CSS 
 
+- [PandelisZ/workshop-guestbook](https://github.com/PandelisZ/workshop-guestbook) - 🚩 This is intended to be used to introduce people to Git through GitHub
 - [issaafalkattan/React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
 - [creativetimofficial/paper-dashboard-react](https://github.com/creativetimofficial/paper-dashboard-react) - 
 - [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
@@ -608,6 +609,9 @@
 
 ## JavaScript 
 
+- [weseek/growi](https://github.com/weseek/growi) - :anchor: GROWI - Team collaboration software using markdown
+- [PandelisZ/git-intro-slides](https://github.com/PandelisZ/git-intro-slides) - 🚩👨‍🎓 Slides for my GitHub Campus Expert workshop.
+- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [WebDevSimplified/wordle-clone](https://github.com/WebDevSimplified/wordle-clone) - 
 - [omariosouto/dicas-para-portifolio](https://github.com/omariosouto/dicas-para-portifolio) - 
 - [luisleao/telefone-speech-to-text](https://github.com/luisleao/telefone-speech-to-text) - Como transcrever falas de ligações telefônicas utilizando Twilio e Google Speech-to-Text
@@ -1444,7 +1448,7 @@
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [GoogleChromeLabs/preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin) - Please use https://github.com/vuejs/preload-webpack-plugin instead.
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
-- [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1450 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [davidtheclark/react-aria-menubutton](https://github.com/davidtheclark/react-aria-menubutton) - A fully accessible, easily themeable, React-powered menu button
 - [geobde/react-triple-toggle](https://github.com/geobde/react-triple-toggle) - React multi toggle component
@@ -2424,6 +2428,7 @@
 
 ## TypeScript 
 
+- [vuepress-theme-hope/vuepress-theme-hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope) - A vuepress theme with tons of features✨
 - [issaafalkattan/react-landing-page-template-2021](https://github.com/issaafalkattan/react-landing-page-template-2021) - A sleek plug n play react landing page template.
 - [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web Z, GPL v3
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable particles animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.

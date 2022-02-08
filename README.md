@@ -204,6 +204,7 @@
 
 ## CSS 
 
+- [denehyg/reveal.js-toolbar](https://github.com/denehyg/reveal.js-toolbar) - Toolbar plugin for reveal.js
 - [PandelisZ/workshop-guestbook](https://github.com/PandelisZ/workshop-guestbook) - 🚩 This is intended to be used to introduce people to Git through GitHub
 - [issaafalkattan/React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
 - [creativetimofficial/paper-dashboard-react](https://github.com/creativetimofficial/paper-dashboard-react) - 
@@ -212,7 +213,7 @@
 - [marvelapp/devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets
 - [CSS-Tricks/AnythingSlider](https://github.com/CSS-Tricks/AnythingSlider) - A jQuery Slider plugin for anything.
 - [zachstronaut/quintessential-css-cube](https://github.com/zachstronaut/quintessential-css-cube) - .qube -- The Quintessential Responsive 3D CSS Cube
-- [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Meticulously designed to make Obsidian feel native on desktop, mobile and tablet. You can customize colors, fonts and more with the companion plugin Minimal Theme Settings.
+- [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Meticulously designed to make Obsidian feel native across platforms. You can customize colors, fonts and more with the companion plugin Minimal Theme Settings.
 - [gadenbuie/tweet-conf-dash](https://github.com/gadenbuie/tweet-conf-dash) - A shiny twitter conference dashboard
 - [interglobalvision/432hz.audio](https://github.com/interglobalvision/432hz.audio) - 432hz.audio
 - [ondras/maslo](https://github.com/ondras/maslo) - Scalable Markdown-based HTML slide deck
@@ -609,6 +610,9 @@
 
 ## JavaScript 
 
+- [bpmn-io/bpmn-js-token-simulation](https://github.com/bpmn-io/bpmn-js-token-simulation) - A BPMN 2.0 specification compliant token simulator.
+- [denehyg/reveal.js-menu](https://github.com/denehyg/reveal.js-menu) - Slide out menu for reveal.js
+- [rajgoel/reveal.js-plugins](https://github.com/rajgoel/reveal.js-plugins) - Plugins for reveal.js
 - [weseek/growi](https://github.com/weseek/growi) - :anchor: GROWI - Team collaboration software using markdown
 - [PandelisZ/git-intro-slides](https://github.com/PandelisZ/git-intro-slides) - 🚩👨‍🎓 Slides for my GitHub Campus Expert workshop.
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework

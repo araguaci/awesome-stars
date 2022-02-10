@@ -610,6 +610,8 @@
 
 ## JavaScript 
 
+- [r-park/todo-react-redux](https://github.com/r-park/todo-react-redux) - Todo app with Create-React-App • React-Redux • Firebase • OAuth
+- [Soundnode/soundnode-app](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.
 - [merchizm/Todoiva](https://github.com/merchizm/Todoiva) - Todoiva is a stylish non-competitive electron app that moves smoothly along its own line. The application has been developed for coders to learn practically while coding.
 - [cisco/node-jose](https://github.com/cisco/node-jose) - 
 - [alvarotrigo/react-fullpage](https://github.com/alvarotrigo/react-fullpage) - Official React.js wrapper for fullPage.js https://alvarotrigo.com/react-fullpage/
@@ -862,7 +864,7 @@
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [shgysk8zer0/async-idb](https://github.com/shgysk8zer0/async-idb) - A promise based (async) wrapper for the IndexedDB API
 - [brainfoolong/form-data-json](https://github.com/brainfoolong/form-data-json) - A zero dependency, cross browser library to easily get or set/manipulate form input values as/from a json object.
-- [nk-o/jarallax](https://github.com/nk-o/jarallax) - NO dependencies JavaScript parallax scrolling
+- [nk-o/jarallax](https://github.com/nk-o/jarallax) - Parallax scrolling for modern browsers
 - [nadimkobeissi/appleprivacyletter](https://github.com/nadimkobeissi/appleprivacyletter) - An open letter against Apple's new privacy-invasive client-side content scanning.
 - [alyssaxuu/mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
@@ -1124,7 +1126,6 @@
 - [kevincennis/Mix.js](https://github.com/kevincennis/Mix.js) - Mutitrack mixing in JavaScript with the Web Audio API
 - [lugolabs/circles](https://github.com/lugolabs/circles) - A lightweight JavaScript library that generates circular graphs in SVG.
 - [sunnylqm/react-native-storage](https://github.com/sunnylqm/react-native-storage) - local storage wrapper for both react-native and browser. Support size controlling, auto expiring, remote data auto syncing and getting batch data in one query.
-- [Soundnode/soundnode-app](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.
 - [reactide/reactide](https://github.com/reactide/reactide) - Reactide is the first dedicated IDE for React web application development.
 - [patrikx3/onenote](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
@@ -1735,7 +1736,6 @@
 ## Objective-C 
 
 - [yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat) - 🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)
-- [facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) - Used to integrate the Facebook Platform with your iOS & tvOS apps.
 - [BelledonneCommunications/linphone-iphone](https://github.com/BelledonneCommunications/linphone-iphone) - Linphone is a free VoIP and video softphone based on the SIP protocol. Mirror of linphone-iphone (git://git.linphone.org/linphone-iphone.git)
 - [react-native-webrtc/react-native-voip-push-notification](https://github.com/react-native-webrtc/react-native-voip-push-notification) - React Native VoIP Push Notification - Currently iOS only
 - [react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps) - React Native Mapview component for iOS + Android
@@ -2428,6 +2428,7 @@
 
 ## Swift 
 
+- [facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) - Used to integrate the Facebook Platform with your iOS & tvOS apps.
 - [64characters/Telephone](https://github.com/64characters/Telephone) - SIP softphone for Mac
 - [okofish/EarthView](https://github.com/okofish/EarthView) - Google Earth View screensaver for Apple TV
 
@@ -2437,6 +2438,8 @@
 
 ## TypeScript 
 
+- [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework.
+- [r-park/soundcloud-ngrx](https://github.com/r-park/soundcloud-ngrx) - SoundCloud API client with Angular • RxJS • ngrx/store • ngrx/effects
 - [LeCoupa/vueflags](https://github.com/LeCoupa/vueflags) - 👩‍✈️👨‍✈️ One easy-to-use flag component for Vue.js with all ISO 3166-1 countries.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
@@ -2468,7 +2471,7 @@
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source Airtable-like experience for your database (Firestore) with GCP's scalability. Build any automation or cloud functions for your product. ⚡️✨
 - [onderceylan/pwa-workshop-angular-firebase](https://github.com/onderceylan/pwa-workshop-angular-firebase) - Build a production ready PWA with Angular and Firebase! This workshop consists of multiple steps for producing a PWA by transforming a regular web app - Ionic Conference App into a PWA, finally deploying it to Firebase.
 - [onderceylan/pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator) - Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated images according to Web App Manifest specs and Apple Human Interface guidelines.
-- [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a powerful, lightspeed collaborative workspace for developer teams. Forum (New!): https://github.com/BoostIO/BoostNote-App/discussions
+- [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
 - [youzan/vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
 - [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
 - [Dhaiwat10/react-link-preview](https://github.com/Dhaiwat10/react-link-preview) - A React library that generates beautiful previews for your links.
@@ -2963,6 +2966,7 @@
 
 ## Vue 
 
+- [danielroe/n3rdle](https://github.com/danielroe/n3rdle) - 
 - [LeCoupa/vuedarkmode](https://github.com/LeCoupa/vuedarkmode) - 👩‍🎨👨‍🎨 A minimalist dark design system for Vue.js. Based components designed for the insomniacs who enjoy dark interfaces as much as we do.
 - [hawkeye64/iconexplorer.app](https://github.com/hawkeye64/iconexplorer.app) - :zap: Icon Explorer application for Quasar Framework SVG icons. Over 60,000 searchable icons and growing.
 - [hujiulong/vue-3d-model](https://github.com/hujiulong/vue-3d-model) - 📷 vue.js 3D model viewer component

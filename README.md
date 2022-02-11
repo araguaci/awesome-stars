@@ -402,6 +402,7 @@
 
 ## HTML 
 
+- [utsav-devadiga/ColorPallete](https://github.com/utsav-devadiga/ColorPallete) - 
 - [imfunniee/imfunniee.github.io](https://github.com/imfunniee/imfunniee.github.io) - 👨‍💻 personal portfolio website and projects
 - [tabatkins/bikeshed](https://github.com/tabatkins/bikeshed) - :bike: A preprocessor for anyone writing specifications that converts source files into actual specs.
 - [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
@@ -610,6 +611,11 @@
 
 ## JavaScript 
 
+- [fireship-io/webrtc-firebase-demo](https://github.com/fireship-io/webrtc-firebase-demo) - Video Chat with WebRTC and Firebase
+- [ashutosh1919/Full_Stack_Web_Development_Course](https://github.com/ashutosh1919/Full_Stack_Web_Development_Course) - This repo contains all assignments for Full stack web development course on coursera
+- [leerob/youtube-to-mp3](https://github.com/leerob/youtube-to-mp3) - ⚡️Electron application to convert and download YouTube videos as MP3s
+- [Secretmapper/react-image-annotation](https://github.com/Secretmapper/react-image-annotation) - An infinitely customizable image annotation library built on React
+- [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [r-park/todo-react-redux](https://github.com/r-park/todo-react-redux) - Todo app with Create-React-App • React-Redux • Firebase • OAuth
 - [Soundnode/soundnode-app](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.
 - [merchizm/Todoiva](https://github.com/merchizm/Todoiva) - Todoiva is a stylish non-competitive electron app that moves smoothly along its own line. The application has been developed for coders to learn practically while coding.
@@ -920,7 +926,7 @@
 - [yangshun/tree-node-cli](https://github.com/yangshun/tree-node-cli) - 🌲 Node.js library to list the contents of directories in a tree-like format, similar to the Linux tree command
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 - [grab/front-end-guide](https://github.com/grab/front-end-guide) - 📚 Study guide and introduction to the modern front end stack.
-- [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the Webdriver API
+- [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the W3C Webdriver API
 - [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, end-to-end encrypted and open-source.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
@@ -1747,6 +1753,8 @@
 
 ## Others 
 
+- [ilmoi/awesome-solana-nfts](https://github.com/ilmoi/awesome-solana-nfts) - A curated list of Solana NFT protocols, repos & community tools
+- [engineerapart/TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) - Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!
 - [luisleao/frontinsampa](https://github.com/luisleao/frontinsampa) - Confira aqui como foram desenvolvidas todas as atividades de interatividade com a Twilio no FrontinSampa 2021.
 - [alan-ai/alan-sdk-web](https://github.com/alan-ai/alan-sdk-web) - Voice assistant SDK for Web by Alan AI lets you quickly add a voice assistant or chatbot to your app built with React, Angular, Vue, Ember, JavaScript, Electron.
 - [yiisoft/docs](https://github.com/yiisoft/docs) - Various Yii 3.0 related documentation
@@ -2364,7 +2372,7 @@
 - [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 - [andrius/asterisk](https://github.com/andrius/asterisk) - Asterisk PBX in Docker on Alpine Linux. Smallest Asterisk ever! ;)
 - [murilomagalhaes/vagrant-php-mssql](https://github.com/murilomagalhaes/vagrant-php-mssql) - A complete development environment for working with PHP and MS SQL Server. Based on Ubuntu 20.04 (Focal)
-- [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - What tools and plugins I use for web development?
+- [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - Tools I use for web development.
 - [CrunchyData/crunchy-containers](https://github.com/CrunchyData/crunchy-containers) - Containers for Managing PostgreSQL on Kubernetes by Crunchy Data
 - [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
 - [codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart) - Guia rápido do WSL2 + Docker
@@ -2465,7 +2473,7 @@
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 - [oceanprotocol/market](https://github.com/oceanprotocol/market) - 🧜‍♀️ THE Data Market
-- [nextauthjs/next-auth-example](https://github.com/nextauthjs/next-auth-example) - An example project that shows how to use NextAuth.js
+- [nextauthjs/next-auth-example](https://github.com/nextauthjs/next-auth-example) - Example showing how to use NextAuth.js with Next.js
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Open-source Airtable-like experience for your database (Firestore) with GCP's scalability. Build any automation or cloud functions for your product. ⚡️✨
@@ -2966,6 +2974,7 @@
 
 ## Vue 
 
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [danielroe/n3rdle](https://github.com/danielroe/n3rdle) - 
 - [LeCoupa/vuedarkmode](https://github.com/LeCoupa/vuedarkmode) - 👩‍🎨👨‍🎨 A minimalist dark design system for Vue.js. Based components designed for the insomniacs who enjoy dark interfaces as much as we do.
 - [hawkeye64/iconexplorer.app](https://github.com/hawkeye64/iconexplorer.app) - :zap: Icon Explorer application for Quasar Framework SVG icons. Over 60,000 searchable icons and growing.

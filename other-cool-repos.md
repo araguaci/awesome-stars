@@ -43,6 +43,7 @@
   - [❗️ A collaborative list of resources for developers](https://github.com/marcelscruz/dev-resources)
   - [🚀A series of exquisite and compact web page cool effects](https://github.com/lindelof/awesome-web-effect)
   - [🔗 Some useful websites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+  - [🚀 Awesome (free) web apps that work without login](https://github.com/aviaryan/awesome-no-login-web-apps)
 
 ## Open-Source
 

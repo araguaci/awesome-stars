@@ -99,6 +99,8 @@
 
 ## C# # 
 
+- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
+- [JasonStein/Notepads](https://github.com/JasonStein/Notepads) - A modern, lightweight text editor with a minimalist design.
 - [planetarium/NineChronicles](https://github.com/planetarium/NineChronicles) - Unity client application for Nine Chronicles, a fully decentralized idle RPG powered by the community.
 - [inexorabletash/travellermap](https://github.com/inexorabletash/travellermap) - The source code to TravellerMap.com
 - [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
@@ -283,6 +285,7 @@
 
 ## CoffeeScript 
 
+- [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
 - [adaltas/node-csv](https://github.com/adaltas/node-csv) - Full featured CSV parser with simple api and tested against large datasets.
 - [Pathgather/please-wait](https://github.com/Pathgather/please-wait) - A simple library to show your users a beautiful splash page while your application loads.
 - [JoelBesada/pasteboard](https://github.com/JoelBesada/pasteboard) - Clipboard and drag & drop image sharing web app
@@ -402,6 +405,11 @@
 
 ## HTML 
 
+- [araguaci/javascript-slider-reviews](https://github.com/araguaci/javascript-slider-reviews) - AVALIAÇÕES - FLORIPA SURF CLUB SURF SCHOOL 🌊 A ESCOLA QUE ENSINA EM ONDAS PERFEITAS PARA INICIANTES 🌊 www.floripasurfclub.com.br - @floripasurfcluboficial
+- [araguaci/araguaci.github.io](https://github.com/araguaci/araguaci.github.io) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
+- [araguaci/catequese-para-adultos](https://github.com/araguaci/catequese-para-adultos) - A fé de dois mil anos da Igreja, explicada de forma concisa, simples e acessível a todos, é o que este curso de catequese deseja transmitir.
+- [araguaci/brasil-pela-liberdade](https://github.com/araguaci/brasil-pela-liberdade) - ✠ Brasil pela Liberdade ✠
+- [araguaci/jornada-seja-grato](https://github.com/araguaci/jornada-seja-grato) - SEJA GRATO FATOS ESQUECIDOS BREVE JORNADA DE 200 ANOS
 - [utsav-devadiga/ColorPallete](https://github.com/utsav-devadiga/ColorPallete) - 
 - [imfunniee/imfunniee.github.io](https://github.com/imfunniee/imfunniee.github.io) - 👨‍💻 personal portfolio website and projects
 - [tabatkins/bikeshed](https://github.com/tabatkins/bikeshed) - :bike: A preprocessor for anyone writing specifications that converts source files into actual specs.
@@ -611,6 +619,26 @@
 
 ## JavaScript 
 
+- [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
+- [araguaci/a-oracao-de-sao-miguel](https://github.com/araguaci/a-oracao-de-sao-miguel) - “São Miguel Arcanjo, defendei-nos no combate”: conheça a história e a teologia por trás desta prece, escrita pelo Papa Leão XIII depois de uma suposta visão de espíritos malignos sobrevoando a cidade de Roma.
+- [araguaci/matrix](https://github.com/araguaci/matrix) - Matrix Unicode init with Canadian Aboriginal https://matrix-five.vercel.app/
+- [araguaci/santo-agostinho](https://github.com/araguaci/santo-agostinho) - 
+- [adrai/flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
+- [araguaci/os-10-mandamentos](https://github.com/araguaci/os-10-mandamentos) - 
+- [atulmy/fullstack-graphql](https://github.com/atulmy/fullstack-graphql) - 🌈  Simple Fullstack GraphQL Application. API built with Express + GraphQL + Sequelize (supports MySQL, Postgres, Sqlite and MSSQL). WebApp built with React + Redux to access the API. Written in ES6 using Babel + Webpack.
+- [atulmy/crate](https://github.com/atulmy/crate) - 👕 👖 📦  A sample web and mobile application built with Node, Express, React, React Native, Redux and GraphQL. Very basic replica of stitchfix.com / krate.in (allows users to get monthly subscription of trendy clothes and accessories).
+- [Strider-CD/strider](https://github.com/Strider-CD/strider) - Open Source Continuous Integration & Deployment Server
+- [Gherciu/react-p5](https://github.com/Gherciu/react-p5) - 🎨 This Component lets you integrate p5 Sketches into your React App.
+- [generative-design/Code-Package-p5.js](https://github.com/generative-design/Code-Package-p5.js) - Code package of the book: Generative Design – Creative Coding for the Web with JavaScript in p5.js
+- [hsnaydd/moveTo](https://github.com/hsnaydd/moveTo) - A lightweight scroll animation javascript library without any dependency
+- [rnosov/react-reveal](https://github.com/rnosov/react-reveal) - Easily add reveal on scroll animations to your React app
+- [hustcc/canvas-nest.js](https://github.com/hustcc/canvas-nest.js) - :cancer: Interactive Particle / Nest System With JavaScript and Canvas, no jQuery.
+- [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
+- [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [photonstorm/phaser-examples](https://github.com/photonstorm/phaser-examples) - Contains hundreds of source code examples and related media for the Phaser HTML5 Game Framework.
+- [bartiniAU/bartini.app-home](https://github.com/bartiniAU/bartini.app-home) - 🍸 A fun, simple, bright splash / landing page made for Bartini - cocktail making app.
+- [HashLips/generative-art-opensource](https://github.com/HashLips/generative-art-opensource) - Create generative art by using the canvas api and node js, feel free to contribute to this repo with new ideas.
+- [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
 - [fireship-io/webrtc-firebase-demo](https://github.com/fireship-io/webrtc-firebase-demo) - Video Chat with WebRTC and Firebase
 - [ashutosh1919/Full_Stack_Web_Development_Course](https://github.com/ashutosh1919/Full_Stack_Web_Development_Course) - This repo contains all assignments for Full stack web development course on coursera
 - [leerob/youtube-to-mp3](https://github.com/leerob/youtube-to-mp3) - ⚡️Electron application to convert and download YouTube videos as MP3s
@@ -621,7 +649,6 @@
 - [merchizm/Todoiva](https://github.com/merchizm/Todoiva) - Todoiva is a stylish non-competitive electron app that moves smoothly along its own line. The application has been developed for coders to learn practically while coding.
 - [cisco/node-jose](https://github.com/cisco/node-jose) - 
 - [alvarotrigo/react-fullpage](https://github.com/alvarotrigo/react-fullpage) - Official React.js wrapper for fullPage.js https://alvarotrigo.com/react-fullpage/
-- [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 - [bpmn-io/bpmn-js-token-simulation](https://github.com/bpmn-io/bpmn-js-token-simulation) - A BPMN 2.0 specification compliant token simulator.
 - [denehyg/reveal.js-menu](https://github.com/denehyg/reveal.js-menu) - Slide out menu for reveal.js
 - [rajgoel/reveal.js-plugins](https://github.com/rajgoel/reveal.js-plugins) - Plugins for reveal.js
@@ -1753,6 +1780,16 @@
 
 ## Others 
 
+- [araguaci/crux-sacra-sit-mihi-lux](https://github.com/araguaci/crux-sacra-sit-mihi-lux) - 
+- [araguaci/google-sheets-gatsby](https://github.com/araguaci/google-sheets-gatsby) - 
+- [araguaci/botpress](https://github.com/araguaci/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
+- [araguaci/quasar-awesome](https://github.com/araguaci/quasar-awesome) - 🎉 A list of awesome things related to Quasar
+- [araguaci/developers-retrospective](https://github.com/araguaci/developers-retrospective) - 개발자 회고 모음
+- [araguaci/Front-End-Web-Development-Resources](https://github.com/araguaci/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
+- [araguaci/recursos-gratuitos](https://github.com/araguaci/recursos-gratuitos) - 🌈 Uma coleção com links de recursos gratuitos para desenvolvimentos e estudos.
+- [araguaci/cronograma-para-a-t1ran1a](https://github.com/araguaci/cronograma-para-a-t1ran1a) - Cronograma para Tirania
+- [araguaci/olavo-de-carvalho](https://github.com/araguaci/olavo-de-carvalho) - 
+- [araguaci/portfolio-particles](https://github.com/araguaci/portfolio-particles) - 
 - [ilmoi/awesome-solana-nfts](https://github.com/ilmoi/awesome-solana-nfts) - A curated list of Solana NFT protocols, repos & community tools
 - [engineerapart/TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) - Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!
 - [luisleao/frontinsampa](https://github.com/luisleao/frontinsampa) - Confira aqui como foram desenvolvidas todas as atividades de interatividade com a Twilio no FrontinSampa 2021.
@@ -1916,6 +1953,7 @@
 
 ## PHP 
 
+- [SuperPWA/Super-Progressive-Web-Apps](https://github.com/SuperPWA/Super-Progressive-Web-Apps) - SuperPWA helps to convert your WordPress website into Progressive Web Apps instantly. PWA (Progressive Web Apps) demo at : https://superpwa.com and Plugin :
 - [noncent/instagram-data-scraper](https://github.com/noncent/instagram-data-scraper) - Instagram Data Scraper, Instagram Web Scraper, Instagram Super Scraper is a PHP script which takes @user-name or #keywords as input and returns all information related to user or hash-tags e.g. likes, comments, post count, images, likes on images etc...  You can search @account information and #hash-tag simultaneously by using space separated words in search box jQuery is using to build the Awesome View, to handle each and every request separately. I hope you like this small chunk of code  All code is well commented to understand the flow and functionality, if I missed something or any improvement/suggestion you have, kindly let me know..
 - [presentator/presentator](https://github.com/presentator/presentator) - Design presentation and collaboration platform
 - [samdark/sitemap](https://github.com/samdark/sitemap) - Sitemap and sitemap index builder
@@ -2204,6 +2242,7 @@
 
 ## Python 
 
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
@@ -2363,6 +2402,7 @@
 
 ## Shell 
 
+- [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [capyvara/brazil-civil-registry-data](https://github.com/capyvara/brazil-civil-registry-data) - Raw scrapings of ARPEN https://transparencia.registrocivil.org.br/
 - [nextcloud/vm](https://github.com/nextcloud/vm) - 💻☁📦 The Nextcloud VM (virtual machine appliance), Home/SME Server and scripts for RPi (4). Community developed and maintained.
@@ -2428,6 +2468,7 @@
 
 ## Svelte 
 
+- [tonyketcham/p5-svelte](https://github.com/tonyketcham/p5-svelte) - Easily add p5 sketches to a Svelte project 🍛 🌱
 - [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
 - [bradtraversy/svelte-feedback-app](https://github.com/bradtraversy/svelte-feedback-app) - Feedback app built with Svelte
 - [Aveek-Saha/DuskPlayer](https://github.com/Aveek-Saha/DuskPlayer) - A minimal music player built on electron.
@@ -2446,6 +2487,8 @@
 
 ## TypeScript 
 
+- [araguaci/slidev](https://github.com/araguaci/slidev) - Presentation Slides for Developers (Beta)
+- [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop page builder and CMS for React, Vue, Angular, and more
 - [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework.
 - [r-park/soundcloud-ngrx](https://github.com/r-park/soundcloud-ngrx) - SoundCloud API client with Angular • RxJS • ngrx/store • ngrx/effects
 - [LeCoupa/vueflags](https://github.com/LeCoupa/vueflags) - 👩‍✈️👨‍✈️ One easy-to-use flag component for Vue.js with all ISO 3166-1 countries.

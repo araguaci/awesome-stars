@@ -406,6 +406,7 @@
 
 ## HTML 
 
+- [jaegertracing/documentation](https://github.com/jaegertracing/documentation) - Documentation/website for the Jaeger Distributed Tracing project.
 - [araguaci/javascript-slider-reviews](https://github.com/araguaci/javascript-slider-reviews) - AVALIAÇÕES - FLORIPA SURF CLUB SURF SCHOOL 🌊 A ESCOLA QUE ENSINA EM ONDAS PERFEITAS PARA INICIANTES 🌊 www.floripasurfclub.com.br - @floripasurfcluboficial
 - [araguaci/araguaci.github.io](https://github.com/araguaci/araguaci.github.io) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [araguaci/catequese-para-adultos](https://github.com/araguaci/catequese-para-adultos) - A fé de dois mil anos da Igreja, explicada de forma concisa, simples e acessível a todos, é o que este curso de catequese deseja transmitir.
@@ -620,6 +621,9 @@
 
 ## JavaScript 
 
+- [VitorValandro/gravitational](https://github.com/VitorValandro/gravitational) - Um jogo simples desenvolvido em Javascript e HTML5, com um ranking PHP usando banco de dados MySQL.
+- [stereobooster/react-ideal-image](https://github.com/stereobooster/react-ideal-image) - 🖼️ An Almost Ideal React Image Component
+- [dannyconnell/quasalang](https://github.com/dannyconnell/quasalang) - Generate Quasar i18n language files from a CSV file
 - [supermedium/aframe-environment-component](https://github.com/supermedium/aframe-environment-component) - :sunrise_over_mountains: Infinite background environments for A-Frame in a line of HTML.
 - [Elijas/auto-youtube-subscription-playlist-2](https://github.com/Elijas/auto-youtube-subscription-playlist-2) - Script automatically adds videos to playlists from Youtube channels and/or subscriptions (Youtube Collections alternative).
 - [s-kris/rey](https://github.com/s-kris/rey) - RE-imagined Youtube music player for web (& desktop)
@@ -2255,6 +2259,7 @@
 
 ## Python 
 
+- [mdibaiee/flappy-es](https://github.com/mdibaiee/flappy-es) - Flappy Bird AI using Evolution Strategies
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
@@ -2500,6 +2505,9 @@
 
 ## TypeScript 
 
+- [diego3g/react-data-fetching](https://github.com/diego3g/react-data-fetching) - 
+- [ElevenSymbols/orca](https://github.com/ElevenSymbols/orca) - Build modern community apps with React and Node.
+- [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Create videos programmatically in React
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [araguaci/slidev](https://github.com/araguaci/slidev) - Presentation Slides for Developers (Beta)
@@ -3032,6 +3040,7 @@
 
 ## Vue 
 
+- [slanatech/dashblocks-template](https://github.com/slanatech/dashblocks-template) - Dashblocks Vue Material Admin Template
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [danielroe/n3rdle](https://github.com/danielroe/n3rdle) - 
 - [LeCoupa/vuedarkmode](https://github.com/LeCoupa/vuedarkmode) - 👩‍🎨👨‍🎨 A minimalist dark design system for Vue.js. Based components designed for the insomniacs who enjoy dark interfaces as much as we do.

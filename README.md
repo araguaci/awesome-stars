@@ -206,6 +206,7 @@
 
 ## CSS 
 
+- [codrops/GlitchSlideshow](https://github.com/codrops/GlitchSlideshow) - A slideshow that uses a CSS glitch effect for slide transitions.
 - [denehyg/reveal.js-toolbar](https://github.com/denehyg/reveal.js-toolbar) - Toolbar plugin for reveal.js
 - [PandelisZ/workshop-guestbook](https://github.com/PandelisZ/workshop-guestbook) - 🚩 This is intended to be used to introduce people to Git through GitHub
 - [issaafalkattan/React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
@@ -349,6 +350,7 @@
 
 ## Go 
 
+- [esimov/triangle](https://github.com/esimov/triangle) - Convert images to computer generated art using delaunay triangulation.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -410,7 +412,7 @@
 - [araguaci/javascript-slider-reviews](https://github.com/araguaci/javascript-slider-reviews) - AVALIAÇÕES - FLORIPA SURF CLUB SURF SCHOOL 🌊 A ESCOLA QUE ENSINA EM ONDAS PERFEITAS PARA INICIANTES 🌊 www.floripasurfclub.com.br - @floripasurfcluboficial
 - [araguaci/araguaci.github.io](https://github.com/araguaci/araguaci.github.io) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [araguaci/catequese-para-adultos](https://github.com/araguaci/catequese-para-adultos) - A fé de dois mil anos da Igreja, explicada de forma concisa, simples e acessível a todos, é o que este curso de catequese deseja transmitir.
-- [araguaci/brasil-pela-liberdade](https://github.com/araguaci/brasil-pela-liberdade) - ✠ Brasil pela Liberdade ✠
+- [araguaci/brasil-pela-liberdade](https://github.com/araguaci/brasil-pela-liberdade) - ✠ Brasil pela Liberdade ✠ Brasileiros unidos pedindo liberdade. Uma série de eventos realizados em todo o Brasil, pedindo liberdade para trabalhar e seguir com suas vidas.
 - [araguaci/jornada-seja-grato](https://github.com/araguaci/jornada-seja-grato) - SEJA GRATO FATOS ESQUECIDOS BREVE JORNADA DE 200 ANOS
 - [utsav-devadiga/ColorPallete](https://github.com/utsav-devadiga/ColorPallete) - 
 - [imfunniee/imfunniee.github.io](https://github.com/imfunniee/imfunniee.github.io) - 👨‍💻 personal portfolio website and projects
@@ -571,6 +573,7 @@
 
 ## Java 
 
+- [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [codenameone/CodenameOne](https://github.com/codenameone/CodenameOne) - Cross-platform framework for building truly native mobile apps with Java or Kotlin. Write Once Run Anywhere support for iOS, Android, Desktop & Web.
 - [benwtrent/janus-gateway-android](https://github.com/benwtrent/janus-gateway-android) - This is an API wrapper that utilizes the native WebRTC build and is made to ease communication with the janus-gateway
 - [Piasy/BigImageViewer](https://github.com/Piasy/BigImageViewer) - Big image viewer supporting pan and zoom, with very little memory usage and full featured image loading choices. Powered by Subsampling Scale Image View, Fresco, Glide, and Picasso. Even with gif and webp support! 🍻
@@ -621,6 +624,12 @@
 
 ## JavaScript 
 
+- [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
+- [esimov/triangle-app](https://github.com/esimov/triangle-app) - Desktop application for Triangle.
+- [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS.
+- [PortalNetwork/nifty-game](https://github.com/PortalNetwork/nifty-game) - 🃏🎮A NFT(ERC721) card game build on Ethereum, Truffle, Ganache and hosting on IPFS.
+- [smollweide/react-speed-dial](https://github.com/smollweide/react-speed-dial) - React Component that implements a speed dial using Material-UI.
+- [nodegit/nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
 - [VitorValandro/gravitational](https://github.com/VitorValandro/gravitational) - Um jogo simples desenvolvido em Javascript e HTML5, com um ranking PHP usando banco de dados MySQL.
 - [stereobooster/react-ideal-image](https://github.com/stereobooster/react-ideal-image) - 🖼️ An Almost Ideal React Image Component
 - [dannyconnell/quasalang](https://github.com/dannyconnell/quasalang) - Generate Quasar i18n language files from a CSV file
@@ -638,7 +647,7 @@
 - [ntkme/github-buttons](https://github.com/ntkme/github-buttons) - :octocat: Unofficial github:buttons.
 - [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 - [araguaci/a-oracao-de-sao-miguel](https://github.com/araguaci/a-oracao-de-sao-miguel) - “São Miguel Arcanjo, defendei-nos no combate”: conheça a história e a teologia por trás desta prece, escrita pelo Papa Leão XIII depois de uma suposta visão de espíritos malignos sobrevoando a cidade de Roma.
-- [araguaci/matrix](https://github.com/araguaci/matrix) - Matrix Unicode init with Canadian Aboriginal https://matrix-five.vercel.app/
+- [araguaci/matrix](https://github.com/araguaci/matrix) - Matrix Unicode init with Canadian Aboriginal =&gt; 0x1400 - 0x167F https://matrix-five.vercel.app/
 - [araguaci/santo-agostinho](https://github.com/araguaci/santo-agostinho) - 
 - [adrai/flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
 - [araguaci/os-10-mandamentos](https://github.com/araguaci/os-10-mandamentos) - 
@@ -1797,6 +1806,9 @@
 
 ## Others 
 
+- [svpino/twitter](https://github.com/svpino/twitter) - A collection of the most relevant content I've posted on Twitter
+- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [araguaci/crux-sacra-sit-mihi-lux](https://github.com/araguaci/crux-sacra-sit-mihi-lux) - 
 - [araguaci/google-sheets-gatsby](https://github.com/araguaci/google-sheets-gatsby) - 
 - [araguaci/botpress](https://github.com/araguaci/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
@@ -2259,6 +2271,8 @@
 
 ## Python 
 
+- [sepandhaghighi/samila](https://github.com/sepandhaghighi/samila) - Generative Art Generator
+- [InstaPy/instapy-quickstart](https://github.com/InstaPy/instapy-quickstart) - 💨 Simply get InstaPy up and running in minutes.
 - [mdibaiee/flappy-es](https://github.com/mdibaiee/flappy-es) - Flappy Bird AI using Evolution Strategies
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
@@ -2388,6 +2402,7 @@
 
 ## SCSS 
 
+- [snapshot-labs/snapshot-spaces](https://github.com/snapshot-labs/snapshot-spaces) - 
 - [LeCoupa/vuetimeline](https://github.com/LeCoupa/vuetimeline) - 🕵️‍♀️🕵️‍♂️ One easy-to-use component for Vue.js to build beautiful responsive timelines.
 - [ingram-projects/animxyz](https://github.com/ingram-projects/animxyz) - The first truly composable CSS animation library. Built for Vue, React, SCSS, and CSS, AnimXYZ will bring your website to life.
 - [Spiderpig86/Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the modern web.
@@ -2505,6 +2520,12 @@
 
 ## TypeScript 
 
+- [microsoft/maker.js](https://github.com/microsoft/maker.js) - 📐⚙ 2D vector line drawing and shape modeling for CNC and laser cutters.
+- [Anish-Agnihotri/tweetdrop](https://github.com/Anish-Agnihotri/tweetdrop) - Generate dispersable airdrops from Twitter threads.
+- [Kruemelkatze/vscode-dashboard](https://github.com/Kruemelkatze/vscode-dashboard) - A speed-dial like project dashboard for VSCode.
+- [Ecodev/natural-gallery-js](https://github.com/Ecodev/natural-gallery-js) - A lazy load, infinite scroll and natural layout list gallery
+- [Ecodev/fab-speed-dial](https://github.com/Ecodev/fab-speed-dial) - Angular Material FAB speed dial
+- [dyte-in/react-sample-app](https://github.com/dyte-in/react-sample-app) - Sample app to demonstrate the integration code and working of Dyte SDK for mobile, using React.
 - [diego3g/react-data-fetching](https://github.com/diego3g/react-data-fetching) - 
 - [ElevenSymbols/orca](https://github.com/ElevenSymbols/orca) - Build modern community apps with React and Node.
 - [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.

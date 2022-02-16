@@ -71,6 +71,7 @@
 
 ## C 
 
+- [fulldecent/system-bus-radio](https://github.com/fulldecent/system-bus-radio) - Transmits AM radio on computers without radio transmitting hardware.
 - [tanersener/ffmpeg-kit](https://github.com/tanersener/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
 - [phpredis/phpredis](https://github.com/phpredis/phpredis) - A PHP extension for Redis
 - [asterisk/asterisk](https://github.com/asterisk/asterisk) - Mirror of the official Asterisk (https://www.asterisk.org) Project repository. No pull requests here please.  Use Gerrit:
@@ -154,6 +155,7 @@
 
 ## C++ 
 
+- [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) - GNU Radio – the Free and Open Software Radio Ecosystem
 - [RHVoice/RHVoice](https://github.com/RHVoice/RHVoice) - a free and open source speech synthesizer for Russian and other languages
 - [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2021 | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter |
 - [CGAL/cgal](https://github.com/CGAL/cgal) - The public CGAL repository, see the README below
@@ -350,6 +352,7 @@
 
 ## Go 
 
+- [esimov/pigo](https://github.com/esimov/pigo) - Fast face detection, pupil/eyes localization and facial landmark points detection library in pure Go.
 - [esimov/triangle](https://github.com/esimov/triangle) - Convert images to computer generated art using delaunay triangulation.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
@@ -624,6 +627,10 @@
 
 ## JavaScript 
 
+- [uberswe/triangulate](https://github.com/uberswe/triangulate) - This is the source code for https://www.triangulate.xyz which is used to create computer generated art. Written with Golang and ReactJS.
+- [conda-forge/conda-forge.github.io](https://github.com/conda-forge/conda-forge.github.io) - The conda-forge website.
+- [Azure-Samples/js-e2e-express-server-cognitive-services](https://github.com/Azure-Samples/js-e2e-express-server-cognitive-services) - Cognitive Services hosted from Express.js with at least 1 browser to Azure example
+- [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
 - [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
 - [esimov/triangle-app](https://github.com/esimov/triangle-app) - Desktop application for Triangle.
 - [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS.
@@ -2271,6 +2278,8 @@
 
 ## Python 
 
+- [ryanvolz/radioconda](https://github.com/ryanvolz/radioconda) - Software radio distribution and installer for conda
+- [jopohl/urh](https://github.com/jopohl/urh) - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
 - [sepandhaghighi/samila](https://github.com/sepandhaghighi/samila) - Generative Art Generator
 - [InstaPy/instapy-quickstart](https://github.com/InstaPy/instapy-quickstart) - 💨 Simply get InstaPy up and running in minutes.
 - [mdibaiee/flappy-es](https://github.com/mdibaiee/flappy-es) - Flappy Bird AI using Evolution Strategies
@@ -2520,6 +2529,8 @@
 
 ## TypeScript 
 
+- [Camberi/firecms](https://github.com/Camberi/firecms) - Awesome Firestore based CMS
+- [ionic-team/ionic-react-conference-app](https://github.com/ionic-team/ionic-react-conference-app) - This is a very early version of the ionic react conference app.
 - [microsoft/maker.js](https://github.com/microsoft/maker.js) - 📐⚙ 2D vector line drawing and shape modeling for CNC and laser cutters.
 - [Anish-Agnihotri/tweetdrop](https://github.com/Anish-Agnihotri/tweetdrop) - Generate dispersable airdrops from Twitter threads.
 - [Kruemelkatze/vscode-dashboard](https://github.com/Kruemelkatze/vscode-dashboard) - A speed-dial like project dashboard for VSCode.
@@ -3072,7 +3083,7 @@
 - [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Free and Open Source UI Library for Vue 3 🤘
 - [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue 3 Admin Template
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
-- [sinan-aydogan/anemon-laravel](https://github.com/sinan-aydogan/anemon-laravel) - Laravel, Vue3 and Tailwind3 based Admin Development KIT
+- [sinan-aydogan/anemon-laravel](https://github.com/sinan-aydogan/anemon-laravel) - Laravel 9, Vue3 and Tailwind3 based Admin Development KIT
 - [vuestorefront/template-magento](https://github.com/vuestorefront/template-magento) - 
 - [GoodManWEN/GoodManWEN.github.io](https://github.com/GoodManWEN/GoodManWEN.github.io) - 📕 A website simulating linux system's GUI, using theme of Deepin distro. 网页模拟桌面
 - [creativetimofficial/vue-paper-dashboard](https://github.com/creativetimofficial/vue-paper-dashboard) - Creative Tim Paper Dashboard made for Vue

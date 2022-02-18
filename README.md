@@ -630,6 +630,9 @@
 
 ## JavaScript 
 
+- [gnikoloff/text-trail-effect](https://github.com/gnikoloff/text-trail-effect) - using WebGL framebuffers via three.js for advanced graphical effects
+- [marcofugaro/codrops-texture-projection](https://github.com/marcofugaro/codrops-texture-projection) - Article about Texture Projection in Three.js
+- [araguaci/supsocial](https://github.com/araguaci/supsocial) - SUPSOCIAL - FLORIPA SUP CLUB - Stand Up Paddle SURFCLUB tendo noção de sua responsabilidade com a sociedade promove ações de inclusão social. Utilizando o esporte como ferramenta sócio educativa. Temas como meio ambiente e conservação das praias são frequentes e aplicados na prática.
 - [expressjs/cors](https://github.com/expressjs/cors) - Node.js CORS middleware
 - [phoenixlzx/telegram-stickerimage-bot](https://github.com/phoenixlzx/telegram-stickerimage-bot) - Bot to export telegram stickers to images
 - [gulpjs/gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
@@ -1995,6 +1998,8 @@
 
 ## PHP 
 
+- [araguaci/floripasupcamp](https://github.com/araguaci/floripasupcamp) - Club de Aventura, gestao, aula, surf, supsurf, aluguel, suptour, equipamento, qualidade, seguranca, consultoria, treinamento, evento turistico, roteiro ambiental e gastronomico.
+- [deployphp/deployer](https://github.com/deployphp/deployer) - A deployment tool written in PHP with support for popular frameworks out of the box
 - [nelmio/NelmioCorsBundle](https://github.com/nelmio/NelmioCorsBundle) - Adds CORS (Cross-Origin Resource Sharing) headers support in your Symfony application
 - [SuperPWA/Super-Progressive-Web-Apps](https://github.com/SuperPWA/Super-Progressive-Web-Apps) - SuperPWA helps to convert your WordPress website into Progressive Web Apps instantly. PWA (Progressive Web Apps) demo at : https://superpwa.com and Plugin :
 - [noncent/instagram-data-scraper](https://github.com/noncent/instagram-data-scraper) - Instagram Data Scraper, Instagram Web Scraper, Instagram Super Scraper is a PHP script which takes @user-name or #keywords as input and returns all information related to user or hash-tags e.g. likes, comments, post count, images, likes on images etc...  You can search @account information and #hash-tag simultaneously by using space separated words in search box jQuery is using to build the Awesome View, to handle each and every request separately. I hope you like this small chunk of code  All code is well commented to understand the flow and functionality, if I missed something or any improvement/suggestion you have, kindly let me know..
@@ -3082,6 +3087,7 @@
 
 ## Vue 
 
+- [alvarosabu/slidev-theme-penguin](https://github.com/alvarosabu/slidev-theme-penguin) - A Penguin 🐧   theme for Slidev
 - [slanatech/dashblocks-template](https://github.com/slanatech/dashblocks-template) - Dashblocks Vue Material Admin Template
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [danielroe/n3rdle](https://github.com/danielroe/n3rdle) - 

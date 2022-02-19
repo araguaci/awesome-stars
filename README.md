@@ -414,9 +414,10 @@
 
 ## HTML 
 
+- [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [jaegertracing/documentation](https://github.com/jaegertracing/documentation) - Documentation/website for the Jaeger Distributed Tracing project.
 - [araguaci/javascript-slider-reviews](https://github.com/araguaci/javascript-slider-reviews) - AVALIAÇÕES - FLORIPA SURF CLUB SURF SCHOOL 🌊 A ESCOLA QUE ENSINA EM ONDAS PERFEITAS PARA INICIANTES 🌊 www.floripasurfclub.com.br - @floripasurfcluboficial
-- [araguaci/araguaci.github.io](https://github.com/araguaci/araguaci.github.io) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
+- [araguaci/araguaci.github.io](https://github.com/araguaci/araguaci.github.io) - Since 1994, creation and development of systems, portals, personal pages, websites, and specialized systems for internet and websites for managing registrations and routines. Specialization in analysis and development of systems for customer service, CRM, SAC, Helpdesk & Telemarketing. Also acting with customer support and remote administration of database and corporate portals.
 - [araguaci/catequese-para-adultos](https://github.com/araguaci/catequese-para-adultos) - A fé de dois mil anos da Igreja, explicada de forma concisa, simples e acessível a todos, é o que este curso de catequese deseja transmitir.
 - [araguaci/brasil-pela-liberdade](https://github.com/araguaci/brasil-pela-liberdade) - ✠ Brasil pela Liberdade ✠ Brasileiros unidos pedindo liberdade. Uma série de eventos realizados em todo o Brasil, pedindo liberdade para trabalhar e seguir com suas vidas.
 - [araguaci/jornada-seja-grato](https://github.com/araguaci/jornada-seja-grato) - SEJA GRATO FATOS ESQUECIDOS BREVE JORNADA DE 200 ANOS
@@ -630,6 +631,7 @@
 
 ## JavaScript 
 
+- [peterpeterparker/discoverweekly.dev](https://github.com/peterpeterparker/discoverweekly.dev) - The playlists made by devs, every Wednesday.
 - [gnikoloff/text-trail-effect](https://github.com/gnikoloff/text-trail-effect) - using WebGL framebuffers via three.js for advanced graphical effects
 - [marcofugaro/codrops-texture-projection](https://github.com/marcofugaro/codrops-texture-projection) - Article about Texture Projection in Three.js
 - [araguaci/supsocial](https://github.com/araguaci/supsocial) - SUPSOCIAL - FLORIPA SUP CLUB - Stand Up Paddle SURFCLUB tendo noção de sua responsabilidade com a sociedade promove ações de inclusão social. Utilizando o esporte como ferramenta sócio educativa. Temas como meio ambiente e conservação das praias são frequentes e aplicados na prática.
@@ -2357,7 +2359,7 @@
 - [Netflix/flamescope](https://github.com/Netflix/flamescope) - FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [mrprompt/meteoros-floripa](https://github.com/mrprompt/meteoros-floripa) - Estações de capturas de meteoros em Florianópolis/SC
-- [gdcmarinho/links-uteis](https://github.com/gdcmarinho/links-uteis) - 📎 Lista de links úteis para o desenvolvimento de projetos de programação e design
+- [gdcmarinho/links-uteis](https://github.com/gdcmarinho/links-uteis) - 📎 Lista de links úteis para o desenvolvimento de projetos
 - [GeneralMills/pytrends](https://github.com/GeneralMills/pytrends) - Pseudo API for Google Trends
 - [mozilla/experimenter](https://github.com/mozilla/experimenter) - A web application for managing user experiments for Mozilla Firefox.
 - [CleverProgrammer/CP-Twilio-Python-Text-App](https://github.com/CleverProgrammer/CP-Twilio-Python-Text-App) - How to Text Using Twilio API with Python
@@ -2533,6 +2535,7 @@
 
 ## Swift 
 
+- [chicio/TabBarUIAction](https://github.com/chicio/TabBarUIAction) - 📚📱 A SwiftUI custom TabBar view with action button for modal content display. Fully compatible with Mac Catalyst.  📚📱
 - [facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) - Used to integrate the Facebook Platform with your iOS & tvOS apps.
 - [64characters/Telephone](https://github.com/64characters/Telephone) - SIP softphone for Mac
 - [okofish/EarthView](https://github.com/okofish/EarthView) - Google Earth View screensaver for Apple TV
@@ -2543,6 +2546,9 @@
 
 ## TypeScript 
 
+- [peterpeterparker/web-social-share](https://github.com/peterpeterparker/web-social-share) - A Web Component to share url and text on social networks
+- [peterpeterparker/tietracker](https://github.com/peterpeterparker/tietracker) - A simple, open source and free time tracking app ⏱️
+- [googleapis/nodejs-text-to-speech](https://github.com/googleapis/nodejs-text-to-speech) - Node.js client for Google Cloud Text-to-Speech
 - [influxdata/ui](https://github.com/influxdata/ui) - UI for InfluxDB
 - [Camberi/firecms](https://github.com/Camberi/firecms) - Awesome Firestore based CMS
 - [ionic-team/ionic-react-conference-app](https://github.com/ionic-team/ionic-react-conference-app) - This is a very early version of the ionic react conference app.

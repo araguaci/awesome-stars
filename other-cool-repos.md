@@ -21,6 +21,8 @@
   - [🛁 Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
   - [What's your favorite JavaScript single LOC (line of code)?1loc.dev](https://github.com/1milligram/1loc)
   - [A CSS course to turn you into a magician](https://adamschwartz.co/magic-of-css/chapters/6-transitions/)
+  - [A list of Tech Blogs](https://github.com/markodenic/awesome-tech-blogs)
+  - [tech-blogs.dev](https://tech-blogs.dev/) 
 
 ### Readme.md Tools
 

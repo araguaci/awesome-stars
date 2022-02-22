@@ -101,6 +101,7 @@
 
 ## C# # 
 
+- [aspose-words/Aspose.Words-for-.NET](https://github.com/aspose-words/Aspose.Words-for-.NET) - Aspose.Words for .NET examples, plugins and showcases
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [JasonStein/Notepads](https://github.com/JasonStein/Notepads) - A modern, lightweight text editor with a minimalist design.
 - [planetarium/NineChronicles](https://github.com/planetarium/NineChronicles) - Unity client application for Nine Chronicles, a fully decentralized idle RPG powered by the community.
@@ -209,6 +210,7 @@
 
 ## CSS 
 
+- [adamschwartz/magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician.
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s developer docs.
 - [codrops/GlitchSlideshow](https://github.com/codrops/GlitchSlideshow) - A slideshow that uses a CSS glitch effect for slide transitions.
 - [denehyg/reveal.js-toolbar](https://github.com/denehyg/reveal.js-toolbar) - Toolbar plugin for reveal.js
@@ -354,6 +356,7 @@
 
 ## Go 
 
+- [miguelmota/golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang compared to Node.js for learning
 - [dstdfx/twbridge](https://github.com/dstdfx/twbridge) - Telegram &lt;-&gt; Whatsapp bridge that allows getting and replying to the messages
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [esimov/pigo](https://github.com/esimov/pigo) - Fast face detection, pupil/eyes localization and facial landmark points detection library in pure Go.
@@ -632,6 +635,15 @@
 
 ## JavaScript 
 
+- [madzadev/audio-player](https://github.com/madzadev/audio-player) - 🎵 Music player with custom controls, playlist, filters, and search.
+- [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) - A list of Tech Blogs.
+- [DianaMartine/curso-dio-sintaxe-basica-javascript](https://github.com/DianaMartine/curso-dio-sintaxe-basica-javascript) - 
+- [ctf0/Laravel-Media-Manager](https://github.com/ctf0/Laravel-Media-Manager) - A "Vuejs & Laravel" Media Manager With Tons of Features
+- [Kamona-WD/tailwindcss-perspective](https://github.com/Kamona-WD/tailwindcss-perspective) - A little bit of utility classes related to css 3d transform
+- [kamona-ui/kui-dashboard-vue-jsx](https://github.com/kamona-ui/kui-dashboard-vue-jsx) - Admin dashboard template built with tailwindcss & vue-jsx.
+- [kamona-ui/video-conference-layout](https://github.com/kamona-ui/video-conference-layout) - Video conference layout with tailwindcss & vuejs jsx
+- [filipedeschamps/rss-feed-emitter](https://github.com/filipedeschamps/rss-feed-emitter) - Super RSS News Feed aggregator written in Node.js and ES6
+- [cvdlab/react-planner](https://github.com/cvdlab/react-planner) - :pencil2: A React Component for plans design. Draw a 2D floorplan and navigate it in 3D mode.
 - [nolimits4web/atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects
 - [peterpeterparker/discoverweekly.dev](https://github.com/peterpeterparker/discoverweekly.dev) - The playlists made by devs, every Wednesday.
 - [gnikoloff/text-trail-effect](https://github.com/gnikoloff/text-trail-effect) - using WebGL framebuffers via three.js for advanced graphical effects
@@ -1826,6 +1838,7 @@
 
 ## Others 
 
+- [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
 - [svpino/twitter](https://github.com/svpino/twitter) - A collection of the most relevant content I've posted on Twitter
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
@@ -2294,6 +2307,7 @@
 
 ## Python 
 
+- [donnemartin/viz](https://github.com/donnemartin/viz) - Visualize GitHub's most popular repos.  http://www.donnemartin.com/viz
 - [KanegaeGabriel/telegram-export-converter](https://github.com/KanegaeGabriel/telegram-export-converter) - Script to convert Telegram .html chat export files to easier to process .csv.
 - [siddheshshankar/Send-Email-Using-SMTP](https://github.com/siddheshshankar/Send-Email-Using-SMTP) - 
 - [ryanvolz/radioconda](https://github.com/ryanvolz/radioconda) - Software radio distribution and installer for conda
@@ -2549,6 +2563,7 @@
 
 ## TypeScript 
 
+- [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [tanhakabir/rest-book](https://github.com/tanhakabir/rest-book) - 

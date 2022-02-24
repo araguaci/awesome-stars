@@ -126,6 +126,7 @@
   - [🕊️🔒💬 A P2P end-to-end encrypted messaging app](https://github.com/HR/ciphora)
   - [🚀 P2P end-to-end encrypted file sharing app](https://github.com/HR/spacedrop)
   - [:octocat:100+ open-source clones of popular sites like Airbnb, Amazon...](https://github.com/GorvGoyl/Clone-Wars)
+  - [nicedoc.io](https://nicedoc.io/araguaci/awesome-stars)
 
 
 ### Linux

@@ -1002,7 +1002,7 @@
 - [matheusrocha89/graphql-camara-deputados](https://github.com/matheusrocha89/graphql-camara-deputados) - API GraphQL com os dados da câmara de deputados do Brasil
 - [planetscale/vercel-integration-example](https://github.com/planetscale/vercel-integration-example) - 
 - [leerob/fastfeedback](https://github.com/leerob/fastfeedback) - Easily add user reviews, feedback, and comments to your website in one line of code.
-- [react-native-mapbox-gl/maps](https://github.com/react-native-mapbox-gl/maps) - A Mapbox GL react native module for creating custom maps
+- [rnmapbox/maps](https://github.com/rnmapbox/maps) - A Mapbox GL react native module for creating custom maps
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
 - [Mango/slideout](https://github.com/Mango/slideout) - A touch slideout navigation menu for your mobile web apps.
@@ -1545,7 +1545,6 @@
 - [huynhsamha/react-configure](https://github.com/huynhsamha/react-configure) - Necessary configure for create-react-app 🤣🤣🤣
 - [cornflourblue/react-signup-verification-boilerplate](https://github.com/cornflourblue/react-signup-verification-boilerplate) - React Boilerplate - Email Sign Up with Verification, Authentication & Forgot Password
 - [jherr/chat-o-matic](https://github.com/jherr/chat-o-matic) - Example code for a real time chat system with GraphQL subscriptions
-- [reactjs/pt-br.reactjs.org](https://github.com/reactjs/pt-br.reactjs.org) - 🇧🇷 React documentation website in Portuguese (Brazil)
 - [Jejinketsu/CEP_Distance](https://github.com/Jejinketsu/CEP_Distance) - Aplicação em node para calcular a distância entre dois pontos, dado o CEP de cada um.
 - [mweststrate/relative-deps](https://github.com/mweststrate/relative-deps) - Installs local dependencies for optimal developer experience
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
@@ -3054,6 +3053,7 @@
 - [nrwl/nx-console](https://github.com/nrwl/nx-console) - Nx Console is the user interface for Nx.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [cornflourblue/angular-8-alert-notifications](https://github.com/cornflourblue/angular-8-alert-notifications) - Angular 8 - Alert (Toaster) Notifications
+- [reactjs/pt-br.reactjs.org](https://github.com/reactjs/pt-br.reactjs.org) - 🇧🇷 React documentation website in Portuguese (Brazil)
 - [gorhom/react-native-paper-onboarding](https://github.com/gorhom/react-native-paper-onboarding) - Paper Onboarding is a material design UI slider for `React Native`.
 - [gorhom/react-native-animated-tabbar](https://github.com/gorhom/react-native-animated-tabbar) - A 60FPS animated tab bar with a variety of cool animation presets 😎
 - [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet with fully configurable options 🚀

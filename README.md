@@ -2827,7 +2827,7 @@
 - [arimariojesus/letmeask](https://github.com/arimariojesus/letmeask) - Projeto desenvolvido durante a NLW #6 na trilha de ReactJS.
 - [alexandrecorazza/podcastr](https://github.com/alexandrecorazza/podcastr) - :headphones: Plataforma de podcast
 - [marcusmaialima/nlw-letmeask](https://github.com/marcusmaialima/nlw-letmeask) - Projeto desenvolvido na NLW da Rocketseat
-- [eduardorerick/letmeask](https://github.com/eduardorerick/letmeask) - Aplicação desenvolvida durante a NLW com outras funcionalidades adicionadas por mim.
+- [eduardorerick/letmeask](https://github.com/eduardorerick/letmeask) - Aplicação que me garantiu uma bolsa de estudos no Ignite! Desenvolvida durante a NLW com outras funcionalidades adicionadas por mim.
 - [moaijs/moai](https://github.com/moaijs/moai) - A React component library, where buttons look like buttons🗿
 - [Atom-Learning/components](https://github.com/Atom-Learning/components) - A collection of generic React components built using stitches, including components that cover layout, content, data collection, media and a host of other UI concerns.
 - [rodrigorgtic/minha-carteira-dashboard](https://github.com/rodrigorgtic/minha-carteira-dashboard) - :bar_chart: :chart_with_upwards_trend: Dashboard desenvolvido com ReactJs, TypeScript com boas práticas de desenvolvimento e performance.

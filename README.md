@@ -330,7 +330,7 @@
 - [muesli/code-server](https://github.com/muesli/code-server) - My code-server Docker image
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [lorisleiva/laravel-docker](https://github.com/lorisleiva/laravel-docker) - 🐳 Generic docker image for Laravel Applications
-- [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) on Docker, with preconfigured Security, Tools, and Monitoring. Enables Logs, Metrics, APM, Alerting, and SIEM features. Up with a Single Command.
+- [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) on Docker, with preconfigured Security, Tools, and Monitoring. Enables Logs, Metrics, APM, Alerting, and SIEM features. Up with a Single Command. Now Supports v8.0!
 - [tiredofit/docker-freepbx](https://github.com/tiredofit/docker-freepbx) - Dockerized FreePBX 15 w/Asterisk 17, Seperate MySQL Database support, and Data Persistence and UCP
 - [fam4r/docker-3cx](https://github.com/fam4r/docker-3cx) - Dockerfile (and compose) for 3CX https://www.3cx.com
 - [P3TERX/Aria2-Pro-Docker](https://github.com/P3TERX/Aria2-Pro-Docker) - Aria2 Pro | A perfect Aria2 Docker image | 更好用的 Aria2 Docker 容器镜像
@@ -2472,7 +2472,7 @@
 - [compostrap/sidebar-menu](https://github.com/compostrap/sidebar-menu) - :page_with_curl: Simple and fast multi-level sidebar menu on Bootstrap (@twbs)
 - [rodrigorgtic/spiderman-frontend](https://github.com/rodrigorgtic/spiderman-frontend) - 🕷️ Front-end desenvolvido com a finalidade de estudos de responsividade, efeitos e boas práticas de criação de front-end.
 - [hydecorp/hydejack](https://github.com/hydecorp/hydejack) - A boutique Jekyll theme for hackers, nerds, and academics
-- [pmarsceill/just-the-docs](https://github.com/pmarsceill/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
+- [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
 - [warengonzaga/fork-corner](https://github.com/warengonzaga/fork-corner) - A modern and global open source fork corner label for your project's landing page.
 - [wonderfullandingpage/react-exquisite-resume](https://github.com/wonderfullandingpage/react-exquisite-resume) - A beautiful personal resume developed based on react
 - [alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) - A series of ReactJS coding challenges with a variety of difficulties.

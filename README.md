@@ -642,6 +642,9 @@
 
 ## JavaScript 
 
+- [babel/website](https://github.com/babel/website) - :globe_with_meridians: The Babel documentation website
+- [hzoo/hopeinsource.com](https://github.com/hzoo/hopeinsource.com) - 🙏 Hope In Source podcast site (+ transcripts)
+- [magenta/lofi-player](https://github.com/magenta/lofi-player) - 🔥 Virtual room in your browser that lets you play with the Lo-Fi VIBE and relax
 - [as-ideas/add-to-homescreen-react](https://github.com/as-ideas/add-to-homescreen-react) - A React component providing add-to-home-screen functionality for different platforms
 - [typesense/docusaurus-theme-search-typesense](https://github.com/typesense/docusaurus-theme-search-typesense) - A fork of the awesome @docusaurus/theme-search-algolia library customized to work with Typesense
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥

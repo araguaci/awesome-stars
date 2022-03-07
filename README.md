@@ -599,6 +599,7 @@
 - [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 - [cesardeazevedo/react-native-collapsing-toolbar](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - react-native wrapper for android CollapsingToolbarLayout
 - [cesardeazevedo/react-native-bottom-sheet-behavior](https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior) - react-native wrapper for android BottomSheetBehavior
+- [rnmapbox/maps](https://github.com/rnmapbox/maps) - A Mapbox GL react native module for creating custom maps
 - [react-native-webrtc/react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) - The WebRTC module for React Native
 - [react-native-share/react-native-share](https://github.com/react-native-share/react-native-share) - Social share, sending simple data to other apps.
 - [react-native-webrtc/react-native-webrtc-web-shim](https://github.com/react-native-webrtc/react-native-webrtc-web-shim) - Web Shim for React Native WebRTC
@@ -642,6 +643,7 @@
 
 ## JavaScript 
 
+- [BlinkTagInc/gtfs-to-html](https://github.com/BlinkTagInc/gtfs-to-html) - Build human readable transit timetables as HTML or PDF from GTFS.
 - [babel/website](https://github.com/babel/website) - :globe_with_meridians: The Babel documentation website
 - [hzoo/hopeinsource.com](https://github.com/hzoo/hopeinsource.com) - 🙏 Hope In Source podcast site (+ transcripts)
 - [magenta/lofi-player](https://github.com/magenta/lofi-player) - 🔥 Virtual room in your browser that lets you play with the Lo-Fi VIBE and relax
@@ -1010,7 +1012,6 @@
 - [matheusrocha89/graphql-camara-deputados](https://github.com/matheusrocha89/graphql-camara-deputados) - API GraphQL com os dados da câmara de deputados do Brasil
 - [planetscale/vercel-integration-example](https://github.com/planetscale/vercel-integration-example) - 
 - [leerob/fastfeedback](https://github.com/leerob/fastfeedback) - Easily add user reviews, feedback, and comments to your website in one line of code.
-- [rnmapbox/maps](https://github.com/rnmapbox/maps) - A Mapbox GL react native module for creating custom maps
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
 - [Mango/slideout](https://github.com/Mango/slideout) - A touch slideout navigation menu for your mobile web apps.
@@ -2080,7 +2081,7 @@
 - [spekulatius/PHPScraper](https://github.com/spekulatius/PHPScraper) - PHP Scraper - an highly opinionated web-interface for PHP
 - [slimphp/Slim](https://github.com/slimphp/Slim) - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
 - [tailflow/laravel-orion](https://github.com/tailflow/laravel-orion) - The simplest way to create REST API with Laravel
-- [familytree365/genealogy](https://github.com/familytree365/genealogy) - Laravel 8 backend API using PHP 8. Family tree and genealogy data processing website software.
+- [familytree365/genealogy](https://github.com/familytree365/genealogy) - Laravel 9 backend API using PHP 8.1. Family tree and genealogy data processing website software.
 - [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer
 - [GMX9/Crypto-Exchange-PHP](https://github.com/GMX9/Crypto-Exchange-PHP) - Free crypto exchange built with changenow.io API
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
@@ -2265,7 +2266,7 @@
 - [marcelgsantos/palestra-programacao-assincrona-com-php](https://github.com/marcelgsantos/palestra-programacao-assincrona-com-php) - Exemplos utilizados na palestra 'Introdução a Programação Assíncrona em PHP'
 - [mikecao/flight](https://github.com/mikecao/flight) - An extensible micro-framework for PHP
 - [mikecao/shorty](https://github.com/mikecao/shorty) - A simple URL shortener for PHP
-- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Your Own URL Shortener
+- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Y̲our O̲wn U̲R̲L̲ S̲hortener
 - [ColorlibHQ/Sneaky-Restaurant](https://github.com/ColorlibHQ/Sneaky-Restaurant) - 
 - [Vonage/vonage-php-code-snippets](https://github.com/Vonage/vonage-php-code-snippets) - PHP code examples for using Nexmo
 - [Vonage/vonage-php-sdk-core](https://github.com/Vonage/vonage-php-sdk-core) - Vonage REST API client for PHP. API support for SMS, Voice, Text-to-Speech, Numbers, Verify (2FA) and more.
@@ -2586,6 +2587,7 @@
 
 ## TypeScript 
 
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [iota-community/iota-wiki](https://github.com/iota-community/iota-wiki) - IOTA Wiki
 - [jakejarvis/jarv.is](https://github.com/jakejarvis/jarv.is) - 🏡 My humble abode on the World Wide Web
 - [jahirfiquitiva/jahir.dev](https://github.com/jahirfiquitiva/jahir.dev) - My personal website 💎 – Built using Next.js, TypeScript, MDX, contentlayer, Notion and emotion styled components

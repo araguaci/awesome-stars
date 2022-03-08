@@ -271,7 +271,6 @@
 - [HTMLElements/smart-webcomponents-angular](https://github.com/HTMLElements/smart-webcomponents-angular) - Smart UI for Angular
 - [birobirobiro/casa-criativa](https://github.com/birobirobiro/casa-criativa) - Projeto criado durante o WorkshopDev
 - [meta-magic/amexio.github.io](https://github.com/meta-magic/amexio.github.io) - Amexio is a rich set of Angular 7 (170+) components powered by HTML5 & CSS3 for Responsive Design and with 80+ Material Design Themes, UI Components, Charts, Gauges, Data Point Widgets, Dashboards. Amexio is completely Open Sourced and Free. It's based on Apache 2 License. You can use it in your production grade work today at no cost or no obligation.
-- [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
 - [carbon-design-system/design-language-website](https://github.com/carbon-design-system/design-language-website) - IBM Design Language website
 - [CodeHimBlog/jquery-jside-menu](https://github.com/CodeHimBlog/jquery-jside-menu) - jSide Menu is a well designed, simple and clean side navigation menu with dropdowns.
 - [twbs/ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
@@ -420,6 +419,7 @@
 
 ## HTML 
 
+- [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [araguaci/earth-rainbow-bridge](https://github.com/araguaci/earth-rainbow-bridge) - Work In Progress. For meditation with Tzolkin Noosfera http://gaia.artesdosul.com/
 - [ribafs/jquery-autocomplete](https://github.com/ribafs/jquery-autocomplete) - Usando a API ViaCEP com jQuery para autocompletar dados do CEP em Form
 - [theus/instantgram](https://github.com/theus/instantgram) - :cloud: A bookmarklet for download photos in Instagram
@@ -882,6 +882,7 @@
 - [somewebmedia/hc-offcanvas-nav](https://github.com/somewebmedia/hc-offcanvas-nav) - JavaScript library for creating toggled off-canvas multi-level navigations, allowing endless nesting of submenu elements, supporting swipe gestures, keyboard interactions and ARIA attributes.
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [cassidoo/shopify-react-astro](https://github.com/cassidoo/shopify-react-astro) - A demo of a Shopify site using Astro and React.
+- [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
 - [iuccio/csvToJson](https://github.com/iuccio/csvToJson) - Convert CSV file to JSON
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [joyboxapp/joybox](https://github.com/joyboxapp/joybox) - A pinboard for audiovisual media.
@@ -1859,6 +1860,7 @@
 
 ## Others 
 
+- [chentsulin/awesome-react-renderer](https://github.com/chentsulin/awesome-react-renderer) - Awesome list of React Renderer
 - [ribafs/all-awesomes](https://github.com/ribafs/all-awesomes) - Todas as listas awesomes que encontrei mais outros similares Lnks de projetos, ideias sobre projetos, livros de programação grátis, linguagens de programação, PHP, Laravel, etc
 - [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
 - [svpino/twitter](https://github.com/svpino/twitter) - A collection of the most relevant content I've posted on Twitter
@@ -2081,7 +2083,7 @@
 - [spekulatius/PHPScraper](https://github.com/spekulatius/PHPScraper) - PHP Scraper - an highly opinionated web-interface for PHP
 - [slimphp/Slim](https://github.com/slimphp/Slim) - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
 - [tailflow/laravel-orion](https://github.com/tailflow/laravel-orion) - The simplest way to create REST API with Laravel
-- [familytree365/genealogy](https://github.com/familytree365/genealogy) - Laravel 9 backend API using PHP 8.1. Family tree and genealogy data processing website software.
+- [familytree365/genealogy](https://github.com/familytree365/genealogy) - Laravel 9.x backend using PHP 8.1. Family tree and genealogy data processing website software.
 - [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer
 - [GMX9/Crypto-Exchange-PHP](https://github.com/GMX9/Crypto-Exchange-PHP) - Free crypto exchange built with changenow.io API
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
@@ -2485,6 +2487,7 @@
 - [machine-learning-apps/Issue-Label-Bot](https://github.com/machine-learning-apps/Issue-Label-Bot) - Code For The Issue Label Bot, an App that automatically labels issues using machine learning, available on the GitHub Marketplace.   This is also code for the blog article: "How to automate tasks on GitHub with machine learning for fun and profit"
 - [creativetimofficial/paper-dashboard-angular](https://github.com/creativetimofficial/paper-dashboard-angular) - Angular version of the original Paper Dashboard.
 - [creativetimofficial/material-dashboard-angular2](https://github.com/creativetimofficial/material-dashboard-angular2) - Material Dashboard Angular
+- [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
 - [creativetimofficial/now-ui-kit-angular](https://github.com/creativetimofficial/now-ui-kit-angular) - 
 - [loiane/reactive-spring-angular](https://github.com/loiane/reactive-spring-angular) - :rocket: Simple application demonstrating Spring Webflux API + Angular/RxJS client.
 - [flutter/website](https://github.com/flutter/website) - Flutter web site
@@ -2587,6 +2590,7 @@
 
 ## TypeScript 
 
+- [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [iota-community/iota-wiki](https://github.com/iota-community/iota-wiki) - IOTA Wiki
 - [jakejarvis/jarv.is](https://github.com/jakejarvis/jarv.is) - 🏡 My humble abode on the World Wide Web
@@ -2683,7 +2687,6 @@
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
 - [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
-- [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
 - [ansible/ansible-hub-ui](https://github.com/ansible/ansible-hub-ui) - Ansible Automation Hub UI
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [chicio/chicio.github.io](https://github.com/chicio/chicio.github.io) - :ghost: Fabrizio Duroni (me :smile:) personal website. Created using GatsbyJS, Styled Components, Storybook, Typescript, tsParticles, GitHub pages, Github Actions, Upptime.

@@ -36,6 +36,7 @@
   - [Others](#others)
   - [PHP](#php)
   - [Pascal](#pascal)
+  - [PostScript](#postscript)
   - [PowerShell](#powershell)
   - [Pug](#pug)
   - [Puppet](#puppet)
@@ -644,6 +645,10 @@
 
 ## JavaScript 
 
+- [ilkeryilmaz/timelinejs](https://github.com/ilkeryilmaz/timelinejs) - 🎬 jQuery timeline plugin, easily creates timeline slider.
+- [LLK/scratch-gui](https://github.com/LLK/scratch-gui) - Graphical User Interface for creating and running Scratch 3.0 projects.
+- [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js
+- [WordPress/dashicons](https://github.com/WordPress/dashicons) - Dashicons, the WordPress admin icon font. For the official resource, please see the WordPress Developer Hub.
 - [BrunoS3D/Calculator-React](https://github.com/BrunoS3D/Calculator-React) - 🖥 REACT.JS - Uma simples calculadora amigável feita em React.
 - [BlinkTagInc/gtfs-to-html](https://github.com/BlinkTagInc/gtfs-to-html) - Build human readable transit timetables as HTML or PDF from GTFS.
 - [babel/website](https://github.com/babel/website) - :globe_with_meridians: The Babel documentation website
@@ -2040,6 +2045,7 @@
 
 ## PHP 
 
+- [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) - WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.
 - [XOOPS/XoopsCore](https://github.com/XOOPS/XoopsCore) - Core Framework for next version of XOOPS CMS: 2.6.0
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [araguaci/floripasupcamp](https://github.com/araguaci/floripasupcamp) - Club de Aventura, gestao, aula, surf, supsurf, aluguel, suptour, equipamento, qualidade, seguranca, consultoria, treinamento, evento turistico, roteiro ambiental e gastronomico.
@@ -2311,6 +2317,10 @@
 
 - [HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL and SQLite, written in Delphi
 
+## PostScript 
+
+- [neilorangepeel/Free-Social-Icons](https://github.com/neilorangepeel/Free-Social-Icons) - Vector based social icons made with Sketch App for mac
+
 ## PowerShell 
 
 - [potatoqualitee/kbupdate](https://github.com/potatoqualitee/kbupdate) - 🛡 KB Viewer, Saver, Installer and Uninstaller
@@ -2427,7 +2437,7 @@
 
 ## ReScript 
 
-- [mobily/stacks](https://github.com/mobily/stacks) - ⚡ Build React Native layouts quickly with ease and fun.
+- [mobily/stacks](https://github.com/mobily/stacks) - ⚡ A set of useful components to help you build and maintain React Native (Web too) layouts with ease.
 
 ## Roff 
 

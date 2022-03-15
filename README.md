@@ -29,6 +29,7 @@
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
+  - [Less](#less)
   - [Lua](#lua)
   - [Makefile](#makefile)
   - [Nunjucks](#nunjucks)
@@ -648,6 +649,8 @@
 
 ## JavaScript 
 
+- [anuraghazra/CanvasFun](https://github.com/anuraghazra/CanvasFun) - :heart: Creative Coding Projects
+- [anuraghazra/EvolutionAquerium](https://github.com/anuraghazra/EvolutionAquerium) - :fish: :bug: Small Inteli Creatures Based On Steering Behaviours
 - [araguaci/lorentzcti-changelog](https://github.com/araguaci/lorentzcti-changelog) - 
 - [molly/web3-is-going-great](https://github.com/molly/web3-is-going-great) - A timeline of some of the greatest hits in cryptocurrencies, NFTs, and other web3 projects since the beginning of 2021
 - [ilkeryilmaz/timelinejs](https://github.com/ilkeryilmaz/timelinejs) - 🎬 jQuery timeline plugin, easily creates timeline slider.
@@ -1035,7 +1038,6 @@
 - [lukejacksonn/oceanwind](https://github.com/lukejacksonn/oceanwind) - Compiles tailwind shorthand into css at runtime. Succeeded by Twind.
 - [bhj/karaoke-forever](https://github.com/bhj/karaoke-forever) - Open karaoke party system
 - [Temasys/AdapterJS](https://github.com/Temasys/AdapterJS) - AdapterJS Javascript Polyfill and Tools for WebRTC - Skylink WebRTC
-- [beautifulinteractions/beautiful-react-ui](https://github.com/beautifulinteractions/beautiful-react-ui) - 🚀A collection of lightweight and easy-to-customise controlled React components 🚀
 - [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend) - Clone project of a famous Q/A website for developers built using MySQL, Express, React, Node, Sequelize :globe_with_meridians:
 - [manikandanraji/youtubeclone-frontend](https://github.com/manikandanraji/youtubeclone-frontend) - Youtube Clone Frontend (React + Redux)
@@ -1204,7 +1206,6 @@
 - [MEGAMINDMK/Php-Electronjs](https://github.com/MEGAMINDMK/Php-Electronjs) - A working php server with electronjs fully customizable & easy to use
 - [mglaman/conductor](https://github.com/mglaman/conductor) - A Composer user interface built using Electron.
 - [aj-techsoul/ELECTRON-4-PHP](https://github.com/aj-techsoul/ELECTRON-4-PHP) - An easiest way to use php in electron
-- [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design 2.0 UI KIT
 - [mirari/vue-fullscreen](https://github.com/mirari/vue-fullscreen) - A simple Vue.js component for fullscreen
 - [sadanandpai/sorting-visualizer](https://github.com/sadanandpai/sorting-visualizer) - Sorting Algorithms Visualizer
 - [amiroff/NextBook](https://github.com/amiroff/NextBook) - NextBook is quick and easy way to build technical books or documentation with markdown that run blazingly fast.
@@ -1844,6 +1845,10 @@
 - [android/uamp](https://github.com/android/uamp) - A sample audio app for Android
 - [aebrer/uncomplicatedIChing](https://github.com/aebrer/uncomplicatedIChing) - A repo for the source code of my I Ching Android app
 
+## Less 
+
+- [uiwjs/react-markdown-preview](https://github.com/uiwjs/react-markdown-preview) - React component preview markdown text in web browser. The minimal amount of CSS to replicate the GitHub Markdown style. Support dark-mode/night mode.
+
 ## Lua 
 
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
@@ -2051,6 +2056,7 @@
 
 ## PHP 
 
+- [MedicOneSystems/livewire-datatables](https://github.com/MedicOneSystems/livewire-datatables) - Advanced datatables using Laravel, Livewire, Tailwind CSS and Alpine JS
 - [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) - WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.
 - [XOOPS/XoopsCore](https://github.com/XOOPS/XoopsCore) - Core Framework for next version of XOOPS CMS: 2.6.0
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
@@ -2504,6 +2510,7 @@
 - [rodrigorgtic/spiderman-frontend](https://github.com/rodrigorgtic/spiderman-frontend) - 🕷️ Front-end desenvolvido com a finalidade de estudos de responsividade, efeitos e boas práticas de criação de front-end.
 - [hydecorp/hydejack](https://github.com/hydecorp/hydejack) - A boutique Jekyll theme for hackers, nerds, and academics
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
+- [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design 2.0 UI KIT
 - [warengonzaga/fork-corner](https://github.com/warengonzaga/fork-corner) - A modern and global open source fork corner label for your project's landing page.
 - [wonderfullandingpage/react-exquisite-resume](https://github.com/wonderfullandingpage/react-exquisite-resume) - A beautiful personal resume developed based on react
 - [alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) - A series of ReactJS coding challenges with a variety of difficulties.
@@ -2754,7 +2761,6 @@
 - [Codecademy/docs](https://github.com/Codecademy/docs) - Codecademy Docs is a collection of information for all things code. 📕
 - [picturama/picturama](https://github.com/picturama/picturama) - Digital image organizer powered by the web
 - [uiwjs/react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
-- [uiwjs/react-markdown-preview](https://github.com/uiwjs/react-markdown-preview) - React component preview markdown text in web browser. The minimal amount of CSS to replicate the GitHub Markdown style.
 - [devweslen/nlw-heat](https://github.com/devweslen/nlw-heat) - Application developed to practice learned technologies. Made at the NextLevel Week (NLW) event hosted by @Rocketseat.
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.

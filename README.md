@@ -422,6 +422,7 @@
 
 ## HTML 
 
+- [araguaci/stop-war-for-ever](https://github.com/araguaci/stop-war-for-ever) - STOP WAR FOR EVER BE DONE GOD'S WILL
 - [mapbox/mapbox.js](https://github.com/mapbox/mapbox.js) - Mapbox JavaScript API, a Leaflet Plugin
 - [photoprism/photoprism-docs](https://github.com/photoprism/photoprism-docs) - Official Documentation (English)
 - [meilisearch/demos](https://github.com/meilisearch/demos) - All available MeiliSearch demos
@@ -457,7 +458,7 @@
 - [symbol/symbol-docs](https://github.com/symbol/symbol-docs) - Open-source documentation of Symbol
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [jeromeetienne/threex](https://github.com/jeromeetienne/threex) - Game Extensions for three.js
-- [newdigate/teensy-eurorack](https://github.com/newdigate/teensy-eurorack) - Eurorack shield for teensy 4.1 with 14 in / 16 out analog channels
+- [newdigate/teensy-eurorack](https://github.com/newdigate/teensy-eurorack) - Hardware Design: Eurorack shield for teensy 4.1 with 14 in / 16 out analog channels
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
 - [SheetJS/SheetJS.github.io](https://github.com/SheetJS/SheetJS.github.io) - :goberserk: SheetJS Spreadsheet Parser/Writer tests and demos
 - [voronoys/voronoys_sc](https://github.com/voronoys/voronoys_sc) - Voronoys app used for Shiny-contest challenge
@@ -3163,6 +3164,7 @@
 - [sahat/satellizer](https://github.com/sahat/satellizer) - Token-based AngularJS Authentication
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
 - [rocketseat-content/youtube-challenge-nestjs-graphql](https://github.com/rocketseat-content/youtube-challenge-nestjs-graphql) - GraphQL API with NestJS in Back-end. React in Front-end.
+- [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
@@ -3247,7 +3249,6 @@
 - [coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - Open source admin template based on Bootstrap 5 and Vue 3
 - [dockeron/dockeron](https://github.com/dockeron/dockeron) - 🤖🤖🤖 Electron + Vue.js for Docker
 - [jsfanatik/vuestacks-calendar-vue-firebase](https://github.com/jsfanatik/vuestacks-calendar-vue-firebase) - 
-- [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 - [mtolhuys/laravel-schematics](https://github.com/mtolhuys/laravel-schematics) - A Laravel package making a diagram of your models, relations and the ability to build them with it
 - [nexmo-community/call-from-browser](https://github.com/nexmo-community/call-from-browser) - Make phone calls from a web browser with Nexmo In-App Voice and Vue.JS

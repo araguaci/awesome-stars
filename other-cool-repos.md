@@ -23,6 +23,8 @@
   - [A CSS course to turn you into a magician](https://adamschwartz.co/magic-of-css/chapters/6-transitions/)
   - [A list of Tech Blogs](https://github.com/markodenic/awesome-tech-blogs)
   - [tech-blogs.dev](https://tech-blogs.dev/) 
+  - [🎯Guia para se tornar um desenvolvedor front-end - pt-br](https://github.com/arthurspk/guiadofrontend/blob/main/README.md)
+  - [🎯GUIA EXTENSO DE PROGRAMAÇÃO](https://github.com/arthurspk/guiadevbrasil/blob/main/README.md)
 
 ### Readme.md Tools
 

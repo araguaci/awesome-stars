@@ -23,6 +23,7 @@
   - [HTML](#html)
   - [Handlebars](#handlebars)
   - [Haskell](#haskell)
+  - [JSON](#json)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jsonnet](#jsonnet)
@@ -427,7 +428,6 @@
 - [araguaci/stop-war-for-ever](https://github.com/araguaci/stop-war-for-ever) - STOP WAR FOR EVER BE DONE GOD'S WILL
 - [mapbox/mapbox.js](https://github.com/mapbox/mapbox.js) - Mapbox JavaScript API, a Leaflet Plugin
 - [photoprism/photoprism-docs](https://github.com/photoprism/photoprism-docs) - Official Documentation (English)
-- [meilisearch/demos](https://github.com/meilisearch/demos) - All available MeiliSearch demos
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [araguaci/earth-rainbow-bridge](https://github.com/araguaci/earth-rainbow-bridge) - Work In Progress. For meditation with Tzolkin Noosfera http://gaia.artesdosul.com/
 - [ribafs/jquery-autocomplete](https://github.com/ribafs/jquery-autocomplete) - Usando a API ViaCEP com jQuery para autocompletar dados do CEP em Form
@@ -597,6 +597,10 @@
 - [aviaviavi/toodles](https://github.com/aviaviavi/toodles) - Project management directly from the TODOs in your codebase
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 
+## JSON 
+
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN
+
 ## Java 
 
 - [Erudika/scoold](https://github.com/Erudika/scoold) - A Stack Overflow clone for teams (self-hosted or hosted)
@@ -652,6 +656,8 @@
 
 ## JavaScript 
 
+- [diego3g/video-to-reels](https://github.com/diego3g/video-to-reels) - Automatically edit videos to post on Instagram Reels
+- [ErickWendel/semana-javascript-expert06](https://github.com/ErickWendel/semana-javascript-expert06) - Todas as aulas da Semana JS Expert 6.0 - Spotify Radio
 - [ozanturhan/webrtc-nestjs-react-example](https://github.com/ozanturhan/webrtc-nestjs-react-example) - WebRTC Multi-Peer Example With React & NestJS
 - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [bachvtuan/Github-Contribution-Graph](https://github.com/bachvtuan/Github-Contribution-Graph) - Jquery plugin to render like contribution graph on Github.
@@ -674,6 +680,7 @@
 - [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js
 - [WordPress/dashicons](https://github.com/WordPress/dashicons) - Dashicons, the WordPress admin icon font. For the official resource, please see the WordPress Developer Hub.
 - [BrunoS3D/Calculator-React](https://github.com/BrunoS3D/Calculator-React) - 🖥 REACT.JS - Uma simples calculadora amigável feita em React.
+- [meilisearch/demos](https://github.com/meilisearch/demos) - All available MeiliSearch demos
 - [BlinkTagInc/gtfs-to-html](https://github.com/BlinkTagInc/gtfs-to-html) - Build human readable transit timetables as HTML or PDF from GTFS.
 - [babel/website](https://github.com/babel/website) - :globe_with_meridians: The Babel documentation website
 - [hzoo/hopeinsource.com](https://github.com/hzoo/hopeinsource.com) - 🙏 Hope In Source podcast site (+ transcripts)
@@ -1380,7 +1387,7 @@
 - [wpbrasil/certificates-for-wordcamp](https://github.com/wpbrasil/certificates-for-wordcamp) - Certificates generator for WordCamps
 - [mermaidjs/mermaid-live-editor](https://github.com/mermaidjs/mermaid-live-editor) - Location has moved to https://github.com/mermaid-js/mermaid-live-editor
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
-- [DemocracyEarth/dapp](https://github.com/DemocracyEarth/dapp) - Censorship resistant democracies.
+- [DemocracyEarth/wallet](https://github.com/DemocracyEarth/wallet) - Censorship resistant democracies.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [Sinetheta/burn](https://github.com/Sinetheta/burn) - :fire: jQuery plugin to apply flame effect to text
 - [jagenjo/webglstudio.js](https://github.com/jagenjo/webglstudio.js) - A full open source 3D graphics editor in the browser, with scene editor, coding pad, graph editor, virtual file system, and many features more.
@@ -1463,7 +1470,7 @@
 - [bencevans/node-sonos](https://github.com/bencevans/node-sonos) - 🔈 Sonos Media Player Interface/Client
 - [nodegui/react-nodegui-starter](https://github.com/nodegui/react-nodegui-starter) - Starter repository for react based native desktop apps using react-nodegui
 - [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Open-Source Backend Server for Web, Mobile & Flutter Developers 🚀
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net) - This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source projects. Jump in!
 - [leecade/react-native-unlock](https://github.com/leecade/react-native-unlock) - 
 - [OmarElgabry/chat.io](https://github.com/OmarElgabry/chat.io) - A Real Time Chat Application built using Node.js, Express, Mongoose, Socket.io, Passport, & Redis.
@@ -1511,7 +1518,6 @@
 - [Rich-Harris/pancake](https://github.com/Rich-Harris/pancake) - Experimental charting library for Svelte
 - [sveltejs/template](https://github.com/sveltejs/template) - Template for building basic applications with Svelte
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [mmazzarolo/serverino](https://github.com/mmazzarolo/serverino) - Tiny CLI-based static server
 - [mmazzarolo/react-native-trello-login](https://github.com/mmazzarolo/react-native-trello-login) - Use Trello's API token-based authentication in React-Native
 - [mmazzarolo/react-native-modal-datetime-picker](https://github.com/mmazzarolo/react-native-modal-datetime-picker) - A React-Native datetime-picker for Android and iOS
@@ -1965,7 +1971,7 @@
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 - [devrelcollective/awesome-devrel](https://github.com/devrelcollective/awesome-devrel) - Awesome Developer Relations resources curated by the DevRel Collective
 - [Mayank0255/Mayank0255](https://github.com/Mayank0255/Mayank0255) - Don't just fork it. Star it too!
-- [workos-inc/awesome-developer-experience](https://github.com/workos-inc/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
+- [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
 - [linuxhandbook/status](https://github.com/linuxhandbook/status) - 📈 Uptime monitor and status page for Linux Handbook, powered by @upptime
 - [linuxhandbook/tutorial-snippets](https://github.com/linuxhandbook/tutorial-snippets) - Repository to share long code snippets for LHB tutorials
 - [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
@@ -2077,6 +2083,8 @@
 
 ## PHP 
 
+- [vildanbina/livewire-wizard](https://github.com/vildanbina/livewire-wizard) - Livewire component that provides you with a wizard that supports multiple steps form while maintaining state.
+- [aglipanci/laravel-eloquent-case](https://github.com/aglipanci/laravel-eloquent-case) - CASE statement support for Laravel Query Builder.
 - [roots/sage](https://github.com/roots/sage) - WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and a modern development workflow
 - [googleapis/google-cloud-php-translate](https://github.com/googleapis/google-cloud-php-translate) - 
 - [MedicOneSystems/livewire-datatables](https://github.com/MedicOneSystems/livewire-datatables) - Advanced datatables using Laravel, Livewire, Tailwind CSS and Alpine JS

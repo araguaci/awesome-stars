@@ -293,6 +293,7 @@
 
 ## Clojure 
 
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 
 ## CoffeeScript 
@@ -424,6 +425,7 @@
 
 ## HTML 
 
+- [prabhuignoto/react-creme](https://github.com/prabhuignoto/react-creme) - 🍦 Comprehensive UI Tool Kit for React
 - [exercism/website-copy](https://github.com/exercism/website-copy) - A repository for exercism's website's copy
 - [araguaci/stop-war-for-ever](https://github.com/araguaci/stop-war-for-ever) - STOP WAR FOR EVER BE DONE GOD'S WILL
 - [mapbox/mapbox.js](https://github.com/mapbox/mapbox.js) - Mapbox JavaScript API, a Leaflet Plugin
@@ -656,6 +658,11 @@
 
 ## JavaScript 
 
+- [glennreyes/react-countup](https://github.com/glennreyes/react-countup) - 💫 A configurable React component wrapper around CountUp.js
+- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
+- [angular-ui/ui-grid](https://github.com/angular-ui/ui-grid) - UI Grid: an Angular Data Grid
+- [timgit/pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Node.js using PostgreSQL like a boss
+- [araguaci/timeline-surf-santa-catarina](https://github.com/araguaci/timeline-surf-santa-catarina) - 🚧 working in progress 🚧
 - [diego3g/video-to-reels](https://github.com/diego3g/video-to-reels) - Automatically edit videos to post on Instagram Reels
 - [ErickWendel/semana-javascript-expert06](https://github.com/ErickWendel/semana-javascript-expert06) - Todas as aulas da Semana JS Expert 6.0 - Spotify Radio
 - [ozanturhan/webrtc-nestjs-react-example](https://github.com/ozanturhan/webrtc-nestjs-react-example) - WebRTC Multi-Peer Example With React & NestJS
@@ -1902,6 +1909,7 @@
 
 ## Others 
 
+- [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - GUIA EXTENSO DE PROGRAMAÇÃO:
 - [danopstech/starlink](https://github.com/danopstech/starlink) - 📈 Starlink Monitoring System. Measuring the performance of your Starlink internet connection
 - [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺  A repository to index and organize the latest machine learning courses found on YouTube.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
@@ -2653,6 +2661,8 @@
 
 ## TypeScript 
 
+- [fkhadra/react-morphing-modal](https://github.com/fkhadra/react-morphing-modal) - React fullscreen modal with swag 😎
+- [fkhadra/react-contexify](https://github.com/fkhadra/react-contexify) - Add a context menu to your react app with ease
 - [hejny/Ukraine](https://github.com/hejny/Ukraine) - 🟦🟨 Help Ukraine - add ribbon with Ukraine flag into the website you manage, show the anti-war message to Russian users, or block them from your service. 🇺🇦
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - The open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL.
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.

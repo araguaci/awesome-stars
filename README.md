@@ -74,6 +74,7 @@
 
 ## C 
 
+- [uber/h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system
 - [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.
 - [fulldecent/system-bus-radio](https://github.com/fulldecent/system-bus-radio) - Transmits AM radio on computers without radio transmitting hardware.
 - [tanersener/ffmpeg-kit](https://github.com/tanersener/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
@@ -160,6 +161,7 @@
 
 ## C++ 
 
+- [AcademySoftwareFoundation/MaterialX](https://github.com/AcademySoftwareFoundation/MaterialX) - MaterialX is an open standard for the exchange of rich material and look-development content across applications and renderers.
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 - [typesense/typesense](https://github.com/typesense/typesense) - Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍 ✨ An Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch.
 - [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) - GNU Radio – the Free and Open Software Radio Ecosystem
@@ -427,6 +429,7 @@
 
 ## HTML 
 
+- [hexagrahamaton/hexular](https://github.com/hexagrahamaton/hexular) - Hexagonal cellular automata platform
 - [prabhuignoto/react-creme](https://github.com/prabhuignoto/react-creme) - 🍦 Comprehensive UI Tool Kit for React
 - [exercism/website-copy](https://github.com/exercism/website-copy) - A repository for exercism's website's copy
 - [araguaci/stop-war-for-ever](https://github.com/araguaci/stop-war-for-ever) - STOP WAR FOR EVER BE DONE GOD'S WILL
@@ -511,7 +514,7 @@
 - [opentargets/opentargets.github.io](https://github.com/opentargets/opentargets.github.io) - Open Targets corporate website code using Jekyll
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [hermanzdosilovic/online-compiler](https://github.com/hermanzdosilovic/online-compiler) - Online compiler written in less than 200 lines of code.
-- [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements) - Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities.
+- [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements) - 𝙃𝙪𝙜𝙚 collection of FREE Tailwind components with 𝗶𝗺𝗽𝗿𝗼𝘃𝗲𝗱 𝗱𝗲𝘀𝗶𝗴𝗻 & 𝗺𝗼𝗿𝗲 𝗳𝗲𝗮𝘁𝘂𝗿𝗲𝘀 😎. Mobile-friendly thanks to integration with the latest Bootstrap 5 - bulit with pure JavaScript .
 - [cunhasbia/single-page-application](https://github.com/cunhasbia/single-page-application) - ✔️ a simple SPA that validates a login and shows the content page through javascript and DOM manipulation.
 - [Timoteoo/log-user-actions](https://github.com/Timoteoo/log-user-actions) - Basic app that logs to the database some things that the user do, such as login dates, amount of times that some user logged in...
 - [rocketseat-content/youtube-git-guia-pratico-iniciante](https://github.com/rocketseat-content/youtube-git-guia-pratico-iniciante) - 
@@ -660,6 +663,17 @@
 
 ## JavaScript 
 
+- [28mm/blast-radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs using d3.js
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+- [josephsurin/tiled-hexagons](https://github.com/josephsurin/tiled-hexagons) - 📦💻 Simple React single or tessellated 2D/3D hexagon buttons
+- [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
+- [zombieFox/awesomeSheet](https://github.com/zombieFox/awesomeSheet) - Online Pathfinder Character Sheet
+- [zombieFox/hexagonTab](https://github.com/zombieFox/hexagonTab) - Hexagon bookmarks accented with a chosen colour. Customise the layout, style, background and bookmarks with hexagonTab.
+- [vonWolfehaus/von-grid](https://github.com/vonWolfehaus/von-grid) - Hexagonal & square tile grid system with three.js
+- [maxogden/hexbin](https://github.com/maxogden/hexbin) - community curated list of hexagon logos
+- [zya/apophenia](https://github.com/zya/apophenia) - you'll only see when you're looking. work in progress
+- [zya/beet.js](https://github.com/zya/beet.js) - Polyrhythmic Sequencer library for Web Audio API.
+- [aditya-r-m/twisty-polyhedra](https://github.com/aditya-r-m/twisty-polyhedra) - 3D Twisty puzzles built on JavaScript 2D canvas API
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [glennreyes/react-countup](https://github.com/glennreyes/react-countup) - 💫 A configurable React component wrapper around CountUp.js
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
@@ -1126,7 +1140,7 @@
 - [Snipa22/nodejs-pool](https://github.com/Snipa22/nodejs-pool) - 
 - [dylang/changelog](https://github.com/dylang/changelog) - Finally see what's changed when you do npm update.  Changelog generates a changelog for npm modules and github repos.
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
-- [digitalfabrik/react-sticky-headroom](https://github.com/digitalfabrik/react-sticky-headroom) - A React Component to hide a Header using css sticky position
+- [digitalfabrik/react-sticky-headroom](https://github.com/digitalfabrik/react-sticky-headroom) - A React Component to hide a Header using CSS sticky position
 - [nextcloud/deck](https://github.com/nextcloud/deck) - 🗂 Kanban-style project & personal management tool for Nextcloud, similar to Trello
 - [nice-registry/ghub.io](https://github.com/nice-registry/ghub.io) - Redirect to an npm package's repository page
 - [zeke/semantic-pull-requests](https://github.com/zeke/semantic-pull-requests) - :robot: Let the robots take care of the semantic versioning
@@ -1912,6 +1926,9 @@
 
 ## Others 
 
+- [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
+- [raphamorim/awesome-canvas](https://github.com/raphamorim/awesome-canvas) - A curated list of awesome HTML5 Canvas with examples, related articles and posts.
+- [laurent22/TypeScript-Website](https://github.com/laurent22/TypeScript-Website) - The Website and web infrastructure for learning TypeScript
 - [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - GUIA EXTENSO DE PROGRAMAÇÃO:
 - [danopstech/starlink](https://github.com/danopstech/starlink) - 📈 Starlink Monitoring System. Measuring the performance of your Starlink internet connection
 - [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺  A repository to index and organize the latest machine learning courses found on YouTube.
@@ -2531,6 +2548,7 @@
 
 ## Rust 
 
+- [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -2666,6 +2684,9 @@
 
 ## TypeScript 
 
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [Winbee/joplin-turn-to-chart](https://github.com/Winbee/joplin-turn-to-chart) - This Joplin plugin transforms a markdown table into d3js chart.
+- [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - Protocol and application framework for decentralized NFT minting, storefronts, and sales.
 - [fkhadra/react-morphing-modal](https://github.com/fkhadra/react-morphing-modal) - React fullscreen modal with swag 😎
 - [fkhadra/react-contexify](https://github.com/fkhadra/react-contexify) - Add a context menu to your react app with ease
 - [hejny/Ukraine](https://github.com/hejny/Ukraine) - 🟦🟨 Help Ukraine - add ribbon with Ukraine flag into the website you manage, show the anti-war message to Russian users, or block them from your service. 🇺🇦

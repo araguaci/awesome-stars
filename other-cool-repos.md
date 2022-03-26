@@ -12,13 +12,19 @@
 * [➤ Code Design](#code-design)
 
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
 ### Where We Come
 
   - [❄️ A short Introduction to Node.js](https://github.com/maxogden/art-of-node)
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
 ### Who am i
 
   - [🌍 Normalized repository URLs for every package in the npm registry. Updated daily...](https://github.com/nice-registry/all-the-package-repos)
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ### Learning
 
@@ -40,10 +46,14 @@
   - [🎯Guia para se tornar um desenvolvedor front-end - pt-br](https://github.com/arthurspk/guiadofrontend/blob/main/README.md)
   - [🎯GUIA EXTENSO DE PROGRAMAÇÃO](https://github.com/arthurspk/guiadevbrasil/blob/main/README.md)
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
 ### Readme Tools
 
   -[📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!](https://github.com/lowlighter/metrics)
   
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
 ### Tools For Devs
 
   - [🚀Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment](https://github.com/appwrite/appwrite)
@@ -65,6 +75,8 @@
   - [🚀 Awesome (free) web apps that work without login](https://github.com/aviaryan/awesome-no-login-web-apps)
   - [upptime status](https://status-plus.github.io/StatusPlus/)
     - [example of upptime config](https://github.com/Status-Plus/StatusPlus/blob/master/.upptimerc.yml) 
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ## Open-Source
 
@@ -125,6 +137,8 @@
     </tbody>
 </table>
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
 ### Components
 
   - [Chrome-style tabs in HTML/CSS](https://github.com/adamschwartz/chrome-tabs)
@@ -132,6 +146,8 @@
   - [React Native TimeLine Theme](https://github.com/tomzaku/react-native-timeline-theme)
   - [A React Component to hide a Header using css sticky position](https://github.com/Integreat/react-sticky-headroom)
 
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ### App
 
@@ -145,14 +161,20 @@
   - [nicedoc.io](https://nicedoc.io/araguaci/awesome-stars)
 
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
 ### Linux
 
   - [🎨 Tmux powerline theme](https://github.com/wfxr/tmux-power)
 
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
 ### Code Design
 
   - [HTML Standard](https://github.com/whatwg/html)
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 <details>
 <summary>📖 README TIPS </summary>

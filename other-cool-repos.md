@@ -1,3 +1,17 @@
+## ➤ Table of Contents
+
+* [➤ Where We Come](#where-we-come)
+* [➤ Who am i](#who-am-i)
+* [➤ Learning](#learning)
+* [➤ Readme.md Tools](#readme-tools)
+* [➤ Tools For Devs](#tools-for-devs)
+* [➤ Open-Source](#open-source)
+* [➤ Components](#components)
+* [➤ App](#app)
+* [➤ Linux](#linux)
+* [➤ Code Design](#code-design)
+
+
 ### Where We Come
 
   - [❄️ A short Introduction to Node.js](https://github.com/maxogden/art-of-node)
@@ -26,7 +40,7 @@
   - [🎯Guia para se tornar um desenvolvedor front-end - pt-br](https://github.com/arthurspk/guiadofrontend/blob/main/README.md)
   - [🎯GUIA EXTENSO DE PROGRAMAÇÃO](https://github.com/arthurspk/guiadevbrasil/blob/main/README.md)
 
-### Readme.md Tools
+### Readme Tools
 
   -[📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!](https://github.com/lowlighter/metrics)
   

@@ -338,7 +338,7 @@
 - [muesli/code-server](https://github.com/muesli/code-server) - My code-server Docker image
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [lorisleiva/laravel-docker](https://github.com/lorisleiva/laravel-docker) - 🐳 Generic docker image for Laravel Applications
-- [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) on Docker, with preconfigured Security, Tools, and Monitoring. Enables Logs, Metrics, APM, Alerting, and SIEM features. Up with a Single Command. Now Supports v8.0!
+- [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) on Docker, preconfigured Out of the Box. Enables Logging, Metrics, APM, Alerting, ML, and SIEM features. Up with a Single Command. Now Supports v8.0!
 - [tiredofit/docker-freepbx](https://github.com/tiredofit/docker-freepbx) - Dockerized FreePBX 15 w/Asterisk 17, Seperate MySQL Database support, and Data Persistence and UCP
 - [fam4r/docker-3cx](https://github.com/fam4r/docker-3cx) - Dockerfile (and compose) for 3CX https://www.3cx.com
 - [P3TERX/Aria2-Pro-Docker](https://github.com/P3TERX/Aria2-Pro-Docker) - Aria2 Pro | A perfect Aria2 Docker image | 更好用的 Aria2 Docker 容器镜像
@@ -458,7 +458,6 @@
 - [jgraph/drawio-github](https://github.com/jgraph/drawio-github) - Drawio GitHub Integration
 - [vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
 - [vasturiano/globe.gl](https://github.com/vasturiano/globe.gl) - UI component for Globe Data Visualization using ThreeJS/WebGL
-- [Decathlon/vitamin-web](https://github.com/Decathlon/vitamin-web) - Decathlon Design System libraries for web applications
 - [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
 - [aliasaria/scrumblr](https://github.com/aliasaria/scrumblr) - Collaborative Online Scrum Tool Using Websockets, Node.js, jQuery, and CSS3
 - [smaranjitghose/awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites) - A community maintained open source project aimed at making a personal portfolio for researchers, developers, and analysts simple, fast, and less cumbersome. We make sure you have a full-fledged website to showcase your work while you can spend time on your learning and innovative endeavors.
@@ -665,6 +664,9 @@
 
 ## JavaScript 
 
+- [electron/update-electron-app](https://github.com/electron/update-electron-app) - 🌲 A drop-in module that adds autoUpdating capabilities to Electron apps
+- [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) - 📡 A free service that makes it easy for open-source Electron apps to update themselves.
+- [kazupon/vue-i18n](https://github.com/kazupon/vue-i18n) - :globe_with_meridians: Internationalization plugin for Vue.js
 - [mdn/pwa-examples](https://github.com/mdn/pwa-examples) - Examples for progressive web apps.
 - [andreasbm/web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [dabeng/OrgChart](https://github.com/dabeng/OrgChart) - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.
@@ -855,6 +857,7 @@
 - [surmon-china/vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
 - [chinchang/cta.js](https://github.com/chinchang/cta.js) - Animate your 'action-to-effect' paths
 - [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
+- [Decathlon/vitamin-web](https://github.com/Decathlon/vitamin-web) - Decathlon Design System libraries for web applications
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 - [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - Customization-first, performance-oriented and elegant UI framework for eCommerce (and not only) based on Vue.js and Google Retail UX Playbook. Made with 💚 by Vue Storefront team and contributors.
@@ -2695,7 +2698,7 @@
 - [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - Protocol and application framework for decentralized NFT minting, storefronts, and sales.
 - [fkhadra/react-morphing-modal](https://github.com/fkhadra/react-morphing-modal) - React fullscreen modal with swag 😎
 - [fkhadra/react-contexify](https://github.com/fkhadra/react-contexify) - Add a context menu to your react app with ease
-- [hejny/Ukraine](https://github.com/hejny/Ukraine) - 🟦🟨 Help Ukraine - add ribbon with Ukraine flag into the website you manage, show the anti-war message to Russian users, or block them from your service. 🇺🇦
+- [hejny/Ukraine](https://github.com/hejny/Ukraine) - Help Ukraine - add ribbon with Ukraine flag into the website you manage, show the anti-war message to Russian users, or block them from your service.
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - The open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL.
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [pablohen/covid](https://github.com/pablohen/covid) - Veja as estatísticas da Covid-19 de cada cidade do Brasil https://covid.pablohen.vercel.app.

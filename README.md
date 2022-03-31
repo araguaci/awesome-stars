@@ -68,7 +68,6 @@
 ## Blade 
 
 - [lorisleiva/artisan-ui](https://github.com/lorisleiva/artisan-ui) - 🧰 Run your artisan commands by pressing buttons
-- [rappasoft/laravel-livewire-tables](https://github.com/rappasoft/laravel-livewire-tables) - A dynamic table component for Laravel Livewire - For Slack access, visit:
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 - [mckenziearts/laravel-notify](https://github.com/mckenziearts/laravel-notify) - Flexible Flash notifications for Laravel
 
@@ -1637,7 +1636,7 @@
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [GoogleChromeLabs/preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin) - Please use https://github.com/vuejs/preload-webpack-plugin instead.
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [davidtheclark/react-aria-menubutton](https://github.com/davidtheclark/react-aria-menubutton) - A fully accessible, easily themeable, React-powered menu button
 - [geobde/react-triple-toggle](https://github.com/geobde/react-triple-toggle) - React multi toggle component
@@ -2256,6 +2255,7 @@
 - [andygrunwald/DigitalKanban](https://github.com/andygrunwald/DigitalKanban) - A small digital Kanban board based on Symfony2. This application was developed during a small university project.
 - [thedevdojo/chatter](https://github.com/thedevdojo/chatter) - Chatter is a Simple Laravel Forum Package
 - [kingdom553/blade-template-using-api](https://github.com/kingdom553/blade-template-using-api) - This is the laravel front end project using blade template.
+- [rappasoft/laravel-livewire-tables](https://github.com/rappasoft/laravel-livewire-tables) - A dynamic table component for Laravel Livewire - For Slack access, visit:
 - [FTXInfotech/laravel-adminpanel](https://github.com/FTXInfotech/laravel-adminpanel) - A Laravel Admin Panel (Laravel Version : 6.0)
 - [beyondcode/laravel-websockets](https://github.com/beyondcode/laravel-websockets) - Websockets for Laravel. Done right.
 - [laravel/ui](https://github.com/laravel/ui) - Laravel UI utilities and presets.
@@ -2733,7 +2733,7 @@
 - [Ecodev/fab-speed-dial](https://github.com/Ecodev/fab-speed-dial) - Angular Material FAB speed dial
 - [dyte-in/react-sample-app](https://github.com/dyte-in/react-sample-app) - Sample app to demonstrate the integration code and working of Dyte SDK for mobile, using React.
 - [diego3g/react-data-fetching](https://github.com/diego3g/react-data-fetching) - 
-- [ElevenSymbols/orca](https://github.com/ElevenSymbols/orca) - Build modern community apps with React and Node.
+- [DimiMikadze/orca](https://github.com/DimiMikadze/orca) - Build modern community apps with React and Node.
 - [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Create videos programmatically in React
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.

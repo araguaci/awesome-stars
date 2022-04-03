@@ -671,6 +671,8 @@
 
 ## JavaScript 
 
+- [ahmadawais/WPGulp](https://github.com/ahmadawais/WPGulp) - An advanced Gulp workflow for WordPress development with extensive documentation. Used by 40,000+ themes and plugins.
+- [amilajack/js-algorithms](https://github.com/amilajack/js-algorithms) - A collection of algorithms written in javascript
 - [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [chocolatey/choco-theme](https://github.com/chocolatey/choco-theme) - 
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
@@ -2039,7 +2041,7 @@
 - [mcollina/aws-cdk](https://github.com/mcollina/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) - Awesome list of progressive web apps! (PR welcomed ;))
 - [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) - Boilerplates for mobile and web apps
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [trungk18/front-end-editorial-style-guide](https://github.com/trungk18/front-end-editorial-style-guide) - A style guide on the standard format, spelling, and construction of commonly used words and phrases. For clarity and consistency of our internal and external communications – from our user interface to our sales, marketing, and commercial docs.
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 - [frontendbr/open-source](https://github.com/frontendbr/open-source) - Quer uma ajuda para seu projeto? Crie uma issue!

@@ -581,7 +581,6 @@
 - [tomsaleeba/test-data-site](https://github.com/tomsaleeba/test-data-site) - Various assets for testing websites (photos with EXIF, etc)
 - [aeagle/react-spaces](https://github.com/aeagle/react-spaces) - React components that allow you to divide a page or container into nestable anchored, scrollable and resizable spaces.
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
-- [wamp-proto/wamp-proto](https://github.com/wamp-proto/wamp-proto) - The Web Application Messaging Protocol
 - [coreui/coreui-free-angular-admin-template](https://github.com/coreui/coreui-free-angular-admin-template) - CoreUI Angular is free Angular 13 admin template based on Bootstrap 5
 - [deepu105/angular-clock](https://github.com/deepu105/angular-clock) - angular clock widget directive: Demo-
 - [siddii/angular-timer](https://github.com/siddii/angular-timer) - re-usable/inter-operable AngularJS timer directive ⛺
@@ -1946,6 +1945,7 @@
 
 ## Others 
 
+- [bnb/awesome-awesome-nodejs](https://github.com/bnb/awesome-awesome-nodejs) - 🐢🚀 An Awesome list of Awesome lists related to Node.js.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [captn3m0/ideas](https://github.com/captn3m0/ideas) - :rocket: Ideas for everyone under a CC licence. Feel free to use. I'll send you a postcard if you build anything on this list.
@@ -2134,6 +2134,8 @@
 
 ## PHP 
 
+- [minicli/minicli](https://github.com/minicli/minicli) - A minimalist framework for command-line applications in PHP
+- [erikaheidi/gdaisy](https://github.com/erikaheidi/gdaisy) - php-gd based image templates
 - [salesagility/SuiteCRM](https://github.com/salesagility/SuiteCRM) - SuiteCRM - Open source CRM for the world
 - [vildanbina/livewire-wizard](https://github.com/vildanbina/livewire-wizard) - Livewire component that provides you with a wizard that supports multiple steps form while maintaining state.
 - [aglipanci/laravel-eloquent-case](https://github.com/aglipanci/laravel-eloquent-case) - CASE statement support for Laravel Query Builder.
@@ -2522,6 +2524,7 @@
 - [GeneralMills/pytrends](https://github.com/GeneralMills/pytrends) - Pseudo API for Google Trends
 - [mozilla/experimenter](https://github.com/mozilla/experimenter) - A web application for managing user experiments for Mozilla Firefox.
 - [CleverProgrammer/CP-Twilio-Python-Text-App](https://github.com/CleverProgrammer/CP-Twilio-Python-Text-App) - How to Text Using Twilio API with Python
+- [wamp-proto/wamp-proto](https://github.com/wamp-proto/wamp-proto) - The Web Application Messaging Protocol
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
@@ -2591,6 +2594,7 @@
 
 ## SCSS 
 
+- [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [mmistakes/jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic) - Your new Jekyll default theme
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [snapshot-labs/snapshot-spaces](https://github.com/snapshot-labs/snapshot-spaces) - 
@@ -2715,6 +2719,7 @@
 
 ## TypeScript 
 
+- [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark.
 - [xmlking/ngx-starter-kit](https://github.com/xmlking/ngx-starter-kit) - :a: Angular :rocket: NestJS :monkey: Starter Kit
 - [rodrigorgtic/decode-savepass](https://github.com/rodrigorgtic/decode-savepass) - Aplicação utilizada na live decode sobre Criando um App utilizando armazenamento local no React Native.
 - [ChangoMan/web3modal-example](https://github.com/ChangoMan/web3modal-example) - Example using web3modal and Next.js

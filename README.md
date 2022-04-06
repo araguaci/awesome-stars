@@ -673,6 +673,8 @@
 
 ## JavaScript 
 
+- [visjs/vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
+- [btholt/next-course-starter](https://github.com/btholt/next-course-starter) - Starter kit for making courses for Frontend Masters
 - [ahmadawais/WPGulp](https://github.com/ahmadawais/WPGulp) - An advanced Gulp workflow for WordPress development with extensive documentation. Used by 40,000+ themes and plugins.
 - [amilajack/js-algorithms](https://github.com/amilajack/js-algorithms) - A collection of algorithms written in javascript
 - [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
@@ -1932,6 +1934,7 @@
 
 ## Nunjucks 
 
+- [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [jamstack/jamstack.org](https://github.com/jamstack/jamstack.org) - The official Jamstack site
 
 ## Objective-C 
@@ -2448,6 +2451,7 @@
 
 ## Python 
 
+- [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [kelvins/Municipios-Brasileiros](https://github.com/kelvins/Municipios-Brasileiros) - :house_with_garden: Dados relacionados aos municípios brasileiros: código IBGE, nome, capital, código UF, UF, estado, latitude, longitude, código SIAFI, DDD e Fuso Horário.
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
@@ -2558,6 +2562,7 @@
 
 ## Ruby 
 
+- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [companionstudio/instagram-token-agent](https://github.com/companionstudio/instagram-token-agent) - A service to keep your Instagram Basic Display API token fresh.
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
@@ -2585,6 +2590,7 @@
 
 ## Rust 
 
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a diff that understands syntax 🟥🟩
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
@@ -2727,6 +2733,7 @@
 
 ## TypeScript 
 
+- [open-source-labs/Chronos](https://github.com/open-source-labs/Chronos) - 📊 📊 📊 Monitors the health and web traffic of servers, microservices, and containers with real-time data monitoring and receive automated notifications over Slack or email.
 - [GetStream/stream-chat-react](https://github.com/GetStream/stream-chat-react) - React Chat SDK ➜ Stream Chat 💬
 - [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark.
 - [xmlking/ngx-starter-kit](https://github.com/xmlking/ngx-starter-kit) - :a: Angular :rocket: NestJS :monkey: Starter Kit
@@ -2856,7 +2863,7 @@
 - [maykbrito/ts-proxy-server](https://github.com/maykbrito/ts-proxy-server) - Boilerplate API proxy server to hide API keys, adding rate limit and cache. See it working at https://github.com/maykbrito/openweather-example
 - [maykbrito/openweather-example](https://github.com/maykbrito/openweather-example) - test to using the API proxy server template &gt;&gt; https://github.com/maykbrito/ts-proxy-server
 - [Vestride/react-stacked-elements](https://github.com/Vestride/react-stacked-elements) - Toggle the visibility of two elements without removing them from the document layout
-- [bytedance/bytemd](https://github.com/bytedance/bytemd) - A hackable Markdown editor component built with Svelte
+- [bytedance/bytemd](https://github.com/bytedance/bytemd) - A hackable Markdown editor component
 - [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
 - [shikijs/twoslash](https://github.com/shikijs/twoslash) - You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples

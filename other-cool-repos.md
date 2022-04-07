@@ -75,6 +75,7 @@
   - [🚀 Awesome (free) web apps that work without login](https://github.com/aviaryan/awesome-no-login-web-apps)
   - [upptime status](https://status-plus.github.io/StatusPlus/)
     - [example of upptime config](https://github.com/Status-Plus/StatusPlus/blob/master/.upptimerc.yml) 
+  - [A fresher "Fork me on GitHub" callout](tholman.com/github-corners)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 

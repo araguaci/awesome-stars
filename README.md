@@ -436,6 +436,7 @@
 
 ## HTML 
 
+- [guidone/node-red-contrib-chatbot](https://github.com/guidone/node-red-contrib-chatbot) - Visually build a full featured chat bot for Telegram, Facebook Messenger and Slack with Node-RED. Almost no coding skills required.
 - [GetStream/stream-react-example](https://github.com/GetStream/stream-react-example) - Use React and Redux to build your own feature-rich and scalable social network app! Visit cabin.getstream.io for an overview of all 8 tutorials and a live demo.
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [chocolatey/docs](https://github.com/chocolatey/docs) - https://docs.chocolatey.org - new docs website
@@ -620,6 +621,8 @@
 
 ## Java 
 
+- [googlemaps/android-samples](https://github.com/googlemaps/android-samples) - Samples demonstrating how to use Maps SDK for Android
+- [googlemaps/android-maps-utils](https://github.com/googlemaps/android-maps-utils) - Maps SDK for Android Utility Library
 - [Erudika/scoold](https://github.com/Erudika/scoold) - A Stack Overflow clone for teams (self-hosted or hosted)
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
@@ -673,6 +676,8 @@
 
 ## JavaScript 
 
+- [manuelbieh/geolib](https://github.com/manuelbieh/geolib) - Zero dependency library to provide some basic geo functions
+- [jamesqquick/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript](https://github.com/jamesqquick/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript) - Build a Quiz App with HTML, CSS, and JavaScript
 - [visjs/vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
 - [btholt/next-course-starter](https://github.com/btholt/next-course-starter) - Starter kit for making courses for Frontend Masters
 - [ahmadawais/WPGulp](https://github.com/ahmadawais/WPGulp) - An advanced Gulp workflow for WordPress development with extensive documentation. Used by 40,000+ themes and plugins.
@@ -1620,7 +1625,7 @@
 - [btholt/complete-intro-to-linux-and-the-cli](https://github.com/btholt/complete-intro-to-linux-and-the-cli) - 🐧  The Complete Intro to Linux and the Command Line, as taught for Frontend Masters
 - [btholt/complete-intro-to-containers](https://github.com/btholt/complete-intro-to-containers) - The Complete Intro to Containers! As taught on Frontend Masters.
 - [testing-library/testing-playground](https://github.com/testing-library/testing-playground) - Simple and complete DOM testing playground that encourage good testing practices.
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (February 2022)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)
 - [PatrickJS/angular-starter](https://github.com/PatrickJS/angular-starter) - Angular Starter
 - [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
@@ -2141,6 +2146,8 @@
 
 ## PHP 
 
+- [Automattic/WP-Job-Manager](https://github.com/Automattic/WP-Job-Manager) - Manage job listings from the WordPress admin panel, and allow users to post jobs directly to your site.
+- [mevdschee/php-crud-api](https://github.com/mevdschee/php-crud-api) - Single file PHP script that adds a REST API to a SQL database
 - [minicli/minicli](https://github.com/minicli/minicli) - A minimalist framework for command-line applications in PHP
 - [erikaheidi/gdaisy](https://github.com/erikaheidi/gdaisy) - php-gd based image templates
 - [salesagility/SuiteCRM](https://github.com/salesagility/SuiteCRM) - SuiteCRM - Open source CRM for the world
@@ -2451,6 +2458,7 @@
 
 ## Python 
 
+- [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [kelvins/Municipios-Brasileiros](https://github.com/kelvins/Municipios-Brasileiros) - :house_with_garden: Dados relacionados aos municípios brasileiros: código IBGE, nome, capital, código UF, UF, estado, latitude, longitude, código SIAFI, DDD e Fuso Horário.
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
@@ -2733,6 +2741,7 @@
 
 ## TypeScript 
 
+- [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
 - [open-source-labs/Chronos](https://github.com/open-source-labs/Chronos) - 📊 📊 📊 Monitors the health and web traffic of servers, microservices, and containers with real-time data monitoring and receive automated notifications over Slack or email.
 - [GetStream/stream-chat-react](https://github.com/GetStream/stream-chat-react) - React Chat SDK ➜ Stream Chat 💬
 - [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark.
@@ -2955,7 +2964,7 @@
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [steelbrain/node-ssh](https://github.com/steelbrain/node-ssh) - SSH2 with Promises
 - [tediousjs/tedious](https://github.com/tediousjs/tedious) - Node TDS module for connecting to SQL Server databases.
-- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)
+- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (Preview)
 - [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop with cross database and platform support.
 - [actionhero/actionhero](https://github.com/actionhero/actionhero) - Actionhero is a realtime multi-transport nodejs API Server with integrated cluster capabilities and delayed tasks
 - [actionhero/actionhero-tutorial](https://github.com/actionhero/actionhero-tutorial) - An example actionhero project demonstrating many common features
@@ -3312,6 +3321,7 @@
 
 ## Vue 
 
+- [GeneaLabs/nova-map-marker-field](https://github.com/GeneaLabs/nova-map-marker-field) - Provides an visual interface for editing latitude and longitude coordinates.
 - [debs-obrien/debbie.codes](https://github.com/debs-obrien/debbie.codes) - My website built in Nuxt and using Nuxt Content. Feel free to clone it and play around with it.
 - [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) - 🥝 Next generation of the Kiwi IRC web client
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.

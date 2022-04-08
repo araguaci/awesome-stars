@@ -14,7 +14,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-## Server UP
+### Server UP
 
   - [🚀one-line-web-server🚀](https://notes.aliciasykes.com/32456/one-line-web-server)
 

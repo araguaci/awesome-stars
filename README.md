@@ -218,6 +218,7 @@
 
 ## CSS 
 
+- [Lissy93/callisto-theme-standard-notes](https://github.com/Lissy93/callisto-theme-standard-notes) - 🌑 A dusty navy and teal color theme for Standard Notes and Listed.to
 - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [olton/Metro4-React](https://github.com/olton/Metro4-React) - Metro 4 for ReactJS. Build impressive responsive, mobile-first projects on the web with the first front-end component library in Metro Style and not only.
@@ -305,6 +306,7 @@
 
 ## CoffeeScript 
 
+- [Lissy93/twitter-sentiment-visualisation](https://github.com/Lissy93/twitter-sentiment-visualisation) - :earth_africa: The R&D of a sentiment analysis module, and the implementation of it on real-time social media data, to generate a series of live visual representations of sentiment towards a specific topic or by location in order to find trends.
 - [meilisearch/demos](https://github.com/meilisearch/demos) - All available MeiliSearch demos
 - [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
 - [adaltas/node-csv](https://github.com/adaltas/node-csv) - Full featured CSV parser with simple api and tested against large datasets.
@@ -370,6 +372,8 @@
 
 ## Go 
 
+- [GoogleCloudPlatform/golang-samples](https://github.com/GoogleCloudPlatform/golang-samples) - Sample apps and code written for Google Cloud in the Go programming language.
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira
 - [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
@@ -465,6 +469,7 @@
 - [utsav-devadiga/ColorPallete](https://github.com/utsav-devadiga/ColorPallete) - 
 - [imfunniee/imfunniee.github.io](https://github.com/imfunniee/imfunniee.github.io) - 👨‍💻 personal portfolio website and projects
 - [tabatkins/bikeshed](https://github.com/tabatkins/bikeshed) - :bike: A preprocessor for anyone writing specifications that converts source files into actual specs.
+- [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web Z, GPL v3
 - [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 - [jgraph/drawio-github](https://github.com/jgraph/drawio-github) - Drawio GitHub Integration
@@ -677,6 +682,9 @@
 
 ## JavaScript 
 
+- [araguaci/budibase](https://github.com/araguaci/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
+- [madnight/githut](https://github.com/madnight/githut) - Github Language Statistics
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [spritejs/spritejs](https://github.com/spritejs/spritejs) - A cross platform high-performance graphics system.
 - [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
 - [tholman/generative-artistry](https://github.com/tholman/generative-artistry) - A website for self coding generative art tutorials.
@@ -1963,6 +1971,9 @@
 
 ## Others 
 
+- [Lissy93/Lissy93](https://github.com/Lissy93/Lissy93) - 🥳 Hello World!
+- [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 💖 A curated list of awesome things related to docsify
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
 - [wesbos/dad-jokes](https://github.com/wesbos/dad-jokes) - dad jokes
 - [lauragift21/awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) - 🔥 Awesome list of resources on Web Development.
 - [bnb/awesome-awesome-nodejs](https://github.com/bnb/awesome-awesome-nodejs) - 🐢🚀 An Awesome list of Awesome lists related to Node.js.
@@ -2154,6 +2165,7 @@
 
 ## PHP 
 
+- [naveen17797/gitpress](https://github.com/naveen17797/gitpress) - Run your WP site on github pages, php innovation award winner  https://www.phpclasses.org/package/12091-PHP-Make-a-WordPress-site-run-on-GitHub-pages.html
 - [Automattic/WP-Job-Manager](https://github.com/Automattic/WP-Job-Manager) - Manage job listings from the WordPress admin panel, and allow users to post jobs directly to your site.
 - [mevdschee/php-crud-api](https://github.com/mevdschee/php-crud-api) - Single file PHP script that adds a REST API to a SQL database
 - [minicli/minicli](https://github.com/minicli/minicli) - A minimalist framework for command-line applications in PHP
@@ -2427,7 +2439,7 @@
 - [reactphp/socket](https://github.com/reactphp/socket) - Async, streaming plaintext TCP/IP and secure TLS socket server and client connections for ReactPHP.
 - [danielstjules/Stringy](https://github.com/danielstjules/Stringy) - A PHP string manipulation library with multibyte support
 - [shadowhand/latitude](https://github.com/shadowhand/latitude) - A SQL query builder with zero dependencies
-- [laravel/laravel](https://github.com/laravel/laravel) - A PHP framework for web artisans.
+- [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 - [php-pm/php-pm](https://github.com/php-pm/php-pm) - PPM is a process manager, supercharger and load balancer for modern PHP applications.
 - [alex-LE/yourTinyTodo](https://github.com/alex-LE/yourTinyTodo) - Simple way to manage your todo list in AJAX style.
 - [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
@@ -2466,6 +2478,7 @@
 
 ## Python 
 
+- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
 - [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
@@ -2751,6 +2764,10 @@
 
 ## TypeScript 
 
+- [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
+- [johnpapa/shopathome](https://github.com/johnpapa/shopathome) - Choose from Angular, React, Svelte, and Vue applications with an Azure Functions API, that deploys to Azure Static Web Apps
+- [araguaci/curso-angular](https://github.com/araguaci/curso-angular) - :mortar_board: [PT-BR] Curso de Angular (v2+) gratuito - loiane.training [EN] Source code of my free Angular training.
+- [proyecto26/MyAPI](https://github.com/proyecto26/MyAPI) - A template to create awesome APIs easily ⚡️
 - [williamngan/pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
 - [DadJokes-io/Dad_Jokes_API](https://github.com/DadJokes-io/Dad_Jokes_API) - Dad Jokes API contains unlimited dad jokes. If you would like an API Key head over to https://rapidapi.com/KegenGuyll/api/dad-jokes/details
 - [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
@@ -2810,7 +2827,6 @@
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [vuepress-theme-hope/vuepress-theme-hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope) - A vuepress theme with tons of features✨
 - [issaafalkattan/react-landing-page-template-2021](https://github.com/issaafalkattan/react-landing-page-template-2021) - A sleek plug n play react landing page template.
-- [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web Z, GPL v3
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable particles, confetti and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) - OpenTelemetry JavaScript Client
 - [react-pdf-viewer/react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer) - A React component to view a PDF document
@@ -3333,6 +3349,9 @@
 
 ## Vue 
 
+- [johnpapa/heroes-vue](https://github.com/johnpapa/heroes-vue) - Tour of Heroes app written with Vue
+- [Lissy93/all-the-countries](https://github.com/Lissy93/all-the-countries) - 🌎 Just a quick app, for learning the countries and their flags
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
 - [Gomah/bluise](https://github.com/Gomah/bluise) - 🍄   Bluise - A Nuxt.js & Netlify CMS boilerplate.
 - [GeneaLabs/nova-map-marker-field](https://github.com/GeneaLabs/nova-map-marker-field) - Provides an visual interface for editing latitude and longitude coordinates.
 - [debs-obrien/debbie.codes](https://github.com/debs-obrien/debbie.codes) - My website built in Nuxt and using Nuxt Content. Feel free to clone it and play around with it.

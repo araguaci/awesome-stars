@@ -53,6 +53,16 @@
   - [🎯Guia para se tornar um desenvolvedor front-end - pt-br](https://github.com/arthurspk/guiadofrontend/blob/main/README.md)
   - [🎯GUIA EXTENSO DE PROGRAMAÇÃO](https://github.com/arthurspk/guiadevbrasil/blob/main/README.md)
 
+**Interested in video tutorials? 100 Days of Kubernetes journey**
+<!-- YOUTUBE-LIST:START -->
+- [Live Q&amp;A How I get started with new tools](https://www.youtube.com/watch?v=fZGNdpVICQU)
+- [Using an AI to create a cloud native security blog post](https://www.youtube.com/watch?v=urmSHV3yTYE)
+- [Kubernetes Security through GitOps Best Practices: ArgoCD and Starboard](https://www.youtube.com/watch?v=YvMY8to9aHI)
+- [Get started with Kubernetes Security and Starboard](https://www.youtube.com/watch?v=QgctrpTpJec)
+- [Join me for coffee -- live Q &amp; A](https://www.youtube.com/watch?v=QJSzPrfXvpk)
+<!-- YOUTUBE-LIST:END -->
+
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ### Readme Tools

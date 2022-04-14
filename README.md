@@ -163,6 +163,7 @@
 
 ## C++ 
 
+- [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - This repository was made to create an objective comparison of multiple framework that grant us to "transform" our web app to desktop application formats.
 - [AcademySoftwareFoundation/MaterialX](https://github.com/AcademySoftwareFoundation/MaterialX) - MaterialX is an open standard for the exchange of rich material and look-development content across applications and renderers.
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
@@ -684,6 +685,8 @@
 
 ## JavaScript 
 
+- [vivek9patel/chrome-extension-react-boilerplate](https://github.com/vivek9patel/chrome-extension-react-boilerplate) - A boilerplate code to build a chrome extension with react and webpack.
+- [probablykasper/embler](https://github.com/probablykasper/embler) - Turn binaries into applications
 - [samirdjelal/mail-dev](https://github.com/samirdjelal/mail-dev) - Cross-platform, Local SMTP Server For Email Testing/Debugging
 - [kimlimjustin/google-keep-clone](https://github.com/kimlimjustin/google-keep-clone) - Clone of Google Keep built using Django and Javascript
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
@@ -751,7 +754,6 @@
 - [cezaraugusto/You-Dont-Know-JS](https://github.com/cezaraugusto/You-Dont-Know-JS) - 📗📒 (PT-Br translation) JS Book Series.
 - [felipe-augusto/clean-code-javascript](https://github.com/felipe-augusto/clean-code-javascript) - Conceitos de Código Limpo adaptados em JavaScript (Tradução PT-BR)
 - [marcbruederlin/particles.js](https://github.com/marcbruederlin/particles.js) - A lightweight, dependency-free and responsive javascript plugin for particle backgrounds.
-- [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - :closed_book: A minimal Markdown editor desktop app
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - :closed_book: A minimal Markdown editor desktop app
 - [anuraghazra/CanvasFun](https://github.com/anuraghazra/CanvasFun) - :heart: Creative Coding Projects
 - [anuraghazra/EvolutionAquerium](https://github.com/anuraghazra/EvolutionAquerium) - :fish: :bug: Small Inteli Creatures Based On Steering Behaviours
@@ -1982,6 +1984,7 @@
 
 ## Others 
 
+- [100daysofkubernetes/100DaysOfKubernetes](https://github.com/100daysofkubernetes/100DaysOfKubernetes) - 100DaysOfKubernetes book
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite) - Carefully curated list of awesome Appwrite resources 💪
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
@@ -2690,6 +2693,7 @@
 
 ## Shell 
 
+- [envygeeks/jekyll-docker](https://github.com/envygeeks/jekyll-docker) - ⛴ Docker images, and CI builders for Jekyll.
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystems
 - [armbian/build](https://github.com/armbian/build) - Armbian Linux build framework
@@ -2969,7 +2973,7 @@
 - [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind, Prisma, and Vercel.
 - [js-works/shoelace-theme-designer](https://github.com/js-works/shoelace-theme-designer) - 
 - [fulls1z3/universal](https://github.com/fulls1z3/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, CLI scaffolding, dev/prod modes, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 - [react-boilerplate/react-boilerplate-cra-template](https://github.com/react-boilerplate/react-boilerplate-cra-template) - :fire: Setup Create React App with React Boilerplate. Highly scalable & Best DX & Performance Focused & Best practices.
 - [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕜 Modern Timeline Component for React
 - [seek-oss/vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript

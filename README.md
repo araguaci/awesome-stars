@@ -105,6 +105,7 @@
 
 ## C# # 
 
+- [TelegramBots/Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - .NET Client for Telegram Bot API
 - [meysamhadeli/awesome-dotnet-tips](https://github.com/meysamhadeli/awesome-dotnet-tips) - Curated list of awesome tips and tricks, resources, videos and articles in .net, software architecture, microservice and cloud-native
 - [chocolatey/ChocolateyGUI](https://github.com/chocolatey/ChocolateyGUI) - A delicious GUI for Chocolatey
 - [aspose-words/Aspose.Words-for-.NET](https://github.com/aspose-words/Aspose.Words-for-.NET) - Aspose.Words for .NET examples, plugins and showcases
@@ -195,7 +196,6 @@
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 - [bittoin/Qt-GUI-for-Arduino](https://github.com/bittoin/Qt-GUI-for-Arduino) - Projeto de interface gráfica feita com Qt para controle e leitura de dados do Arduino. Interações com widgets, mouse e teclado.
 - [DoubangoTelecom/ultimateMICR-SDK](https://github.com/DoubangoTelecom/ultimateMICR-SDK) - Bank check information extraction/OCR from Magnetic Ink Character Recognition [MICR] (E-13B & CMC-7) using deep learning
-- [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: GDevelop is an open-source, cross-platform game engine designed to be used by everyone.
 - [Infactum/tg2sip](https://github.com/Infactum/tg2sip) - Telegram &lt;-&gt; SIP voice gateway
 - [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
@@ -220,6 +220,7 @@
 
 ## CSS 
 
+- [birobirobiro/live-twitch-rocket-travel](https://github.com/birobirobiro/live-twitch-rocket-travel) - Rocket Travel - Projeto desenvolvido durante a live na Twitch
 - [Lissy93/callisto-theme-standard-notes](https://github.com/Lissy93/callisto-theme-standard-notes) - 🌑 A dusty navy and teal color theme for Standard Notes and Listed.to
 - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -443,6 +444,8 @@
 
 ## HTML 
 
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [kennedybarros/repsonsive-website-playstation](https://github.com/kennedybarros/repsonsive-website-playstation) - Responsive E-commerce Website PlayStation
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [guidone/node-red-contrib-chatbot](https://github.com/guidone/node-red-contrib-chatbot) - Visually build a full featured chat bot for Telegram, Facebook Messenger and Slack with Node-RED. Almost no coding skills required.
 - [GetStream/stream-react-example](https://github.com/GetStream/stream-react-example) - Use React and Redux to build your own feature-rich and scalable social network app! Visit cabin.getstream.io for an overview of all 8 tutorials and a live demo.
@@ -579,7 +582,6 @@
 - [google/WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [mdn/dom-examples](https://github.com/mdn/dom-examples) - Code examples that accompany various MDN DOM and Web API documentation pages
 - [djaiss/mapsicon](https://github.com/djaiss/mapsicon) - A free collection of maps for every country in the world, available in 11 sizes or in SVG.
-- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [zenorocha/voice-elements](https://github.com/zenorocha/voice-elements) - :speaker: Web Component wrapper to the Web Speech API, that allows you to do voice recognition and speech synthesis using Polymer
 - [mdn/interactive-examples](https://github.com/mdn/interactive-examples) - Home of the MDN live code editor interactive examples
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
@@ -685,6 +687,8 @@
 
 ## JavaScript 
 
+- [Shabang-Systems/Condution](https://github.com/Shabang-Systems/Condution) - Tasks? Done. That was quick.
+- [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium
 - [vivek9patel/chrome-extension-react-boilerplate](https://github.com/vivek9patel/chrome-extension-react-boilerplate) - A boilerplate code to build a chrome extension with react and webpack.
 - [probablykasper/embler](https://github.com/probablykasper/embler) - Turn binaries into applications
 - [samirdjelal/mail-dev](https://github.com/samirdjelal/mail-dev) - Cross-platform, Local SMTP Server For Email Testing/Debugging
@@ -1161,6 +1165,7 @@
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [igorescobar/jQuery-Mask-Plugin](https://github.com/igorescobar/jQuery-Mask-Plugin) - A jQuery Plugin to make masks on form fields and HTML elements.
+- [phpservermon/phpservermon](https://github.com/phpservermon/phpservermon) - PHP Server Monitor
 - [omariosouto/spotcast](https://github.com/omariosouto/spotcast) - :sound: A Spotify + Pocket Casts merge, feito com React Native
 - [oslabs-beta/ReactRTC](https://github.com/oslabs-beta/ReactRTC) - NPM package that simplifies set-up of WebRTC as importable React components
 - [madrobby/vapor.js](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library
@@ -1454,6 +1459,7 @@
 - [edumeet/edumeet](https://github.com/edumeet/edumeet) - edumeet - multiparty web-meetings using mediasoup and WebRTC
 - [ondras/wwwsqldesigner](https://github.com/ondras/wwwsqldesigner) - WWW SQL Designer, your online SQL diagramming tool
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
+- [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: GDevelop is an open-source, cross-platform game engine designed to be used by everyone.
 - [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework
 - [fonoster/routr](https://github.com/fonoster/routr) - Routr: Next-generation SIP Server
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
@@ -2182,6 +2188,7 @@
 
 ## PHP 
 
+- [humhub/humhub](https://github.com/humhub/humhub) - HumHub is an Open Source Enterprise Social Network. Easy to install, intuitive to use and extendable with countless freely available modules.
 - [naveen17797/gitpress](https://github.com/naveen17797/gitpress) - Run your WP site on github pages, php innovation award winner  https://www.phpclasses.org/package/12091-PHP-Make-a-WordPress-site-run-on-GitHub-pages.html
 - [Automattic/WP-Job-Manager](https://github.com/Automattic/WP-Job-Manager) - Manage job listings from the WordPress admin panel, and allow users to post jobs directly to your site.
 - [mevdschee/php-crud-api](https://github.com/mevdschee/php-crud-api) - Single file PHP script that adds a REST API to a SQL database
@@ -2251,7 +2258,6 @@
 - [phpseclib/phpseclib](https://github.com/phpseclib/phpseclib) - PHP Secure Communications Library
 - [ADOdb/ADOdb](https://github.com/ADOdb/ADOdb) - ADOdb is a PHP database class library that provides powerful abstractions for performing queries and managing databases. ADOdb also hides the differences between DB engines so you can easily switch them without changing your code.
 - [microsoft/msphpsql](https://github.com/microsoft/msphpsql) - Microsoft Drivers for PHP for SQL Server
-- [phpservermon/phpservermon](https://github.com/phpservermon/phpservermon) - PHP Server Monitor
 - [IssabelFoundation/issabelPBX](https://github.com/IssabelFoundation/issabelPBX) - Asterisk configuration GUI
 - [eduardokum/laravel-boleto](https://github.com/eduardokum/laravel-boleto) - Pacote para gerar boletos e remessas
 - [mrprompt/imovelweb-sdk](https://github.com/mrprompt/imovelweb-sdk) - SDK de integração com a API da Imóvel Web.
@@ -2495,6 +2501,7 @@
 
 ## Python 
 
+- [Scille/parsec-cloud](https://github.com/Scille/parsec-cloud) - Open source Dropbox-like file sharing with full client encryption !
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
 - [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
@@ -2653,6 +2660,7 @@
 
 ## SCSS 
 
+- [warengonzaga/css-text-portrait-builder](https://github.com/warengonzaga/css-text-portrait-builder) - A popular pure CSS text portrait builder for your loved ones. 🥰
 - [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [mmistakes/jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic) - Your new Jekyll default theme
@@ -2784,6 +2792,8 @@
 
 ## TypeScript 
 
+- [XRFoundation/XREngine](https://github.com/XRFoundation/XREngine) - Immersive infrastructure for everyone. Everything you need to build and deploy scalable realtime 3D social apps and more. 🤖 🚀 👓 🚀 🕹️ 🚀 🧑🏿‍🚀
+- [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app) - 💅 A ready-to-go with a well-thought-out structure Electron app boilerplate with ReactJS, TypeScript, CSS / SASS modules, SWC, Eslint, Prettier, GitHub Action releases and more.
 - [zowe/vscode-extension-for-zowe](https://github.com/zowe/vscode-extension-for-zowe) - Visual Studio Code Plug-in for Zowe, which lets users interact with z/OS data sets on a remote mainframe instance. Powered by Zowe CLI.
 - [ngx-rocket/generator-ngx-rocket](https://github.com/ngx-rocket/generator-ngx-rocket) - :rocket: Extensible Angular 13+ enterprise-grade project generator
 - [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk) - Matrix SDK for React Javascript

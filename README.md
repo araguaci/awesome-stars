@@ -2189,6 +2189,12 @@
 
 ## PHP 
 
+- [contao/contao](https://github.com/contao/contao) - Contao Open Source CMS
+- [code16/sharp](https://github.com/code16/sharp) - Laravel 8+ Content management framework
+- [thephpleague/commonmark](https://github.com/thephpleague/commonmark) - Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
+- [thephpleague/skeleton](https://github.com/thephpleague/skeleton) - A skeleton repository for League Packages
+- [thephpleague/oauth2-google](https://github.com/thephpleague/oauth2-google) - Google Provider for the OAuth 2.0 Client
+- [thephpleague/config](https://github.com/thephpleague/config) - Simple yet expressive schema-based configuration library for PHP apps
 - [humhub/humhub](https://github.com/humhub/humhub) - HumHub is an Open Source Enterprise Social Network. Easy to install, intuitive to use and extendable with countless freely available modules.
 - [naveen17797/gitpress](https://github.com/naveen17797/gitpress) - Run your WP site on github pages, php innovation award winner  https://www.phpclasses.org/package/12091-PHP-Make-a-WordPress-site-run-on-GitHub-pages.html
 - [Automattic/WP-Job-Manager](https://github.com/Automattic/WP-Job-Manager) - Manage job listings from the WordPress admin panel, and allow users to post jobs directly to your site.
@@ -2618,6 +2624,7 @@
 
 ## Ruby 
 
+- [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [companionstudio/instagram-token-agent](https://github.com/companionstudio/instagram-token-agent) - A service to keep your Instagram Basic Display API token fresh.
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
@@ -2774,6 +2781,7 @@
 
 ## Svelte 
 
+- [simeydotme/svelte-range-slider-pips](https://github.com/simeydotme/svelte-range-slider-pips) - Multi-Thumb, Accessible, Beautiful Range Slider with Pips
 - [tonyketcham/p5-svelte](https://github.com/tonyketcham/p5-svelte) - Easily add p5 sketches to a Svelte project 🍛 🌱
 - [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
 - [bradtraversy/svelte-feedback-app](https://github.com/bradtraversy/svelte-feedback-app) - Feedback app built with Svelte

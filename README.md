@@ -688,6 +688,7 @@
 
 ## JavaScript 
 
+- [LeaVerou/inspire.js](https://github.com/LeaVerou/inspire.js) - Lean, hackable, extensible slide deck framework. Previously known as CSSS.
 - [Shabang-Systems/Condution](https://github.com/Shabang-Systems/Condution) - Tasks? Done. That was quick.
 - [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium
 - [vivek9patel/chrome-extension-react-boilerplate](https://github.com/vivek9patel/chrome-extension-react-boilerplate) - A boilerplate code to build a chrome extension with react and webpack.
@@ -1389,7 +1390,7 @@
 - [flatlogic/react-material-admin](https://github.com/flatlogic/react-material-admin) - ☄️React Material Admin is a React template built with Material-UI
 - [reduction-admin/react-reduction](https://github.com/reduction-admin/react-reduction) - React Reduction - Free Admin Template Built with React and Bootstrap4
 - [DesignRevision/shards-dashboard-react](https://github.com/DesignRevision/shards-dashboard-react) - ⚛️A free and beautiful React admin dashboard template pack.
-- [Fugiman/google-meet-grid-view](https://github.com/Fugiman/google-meet-grid-view) - Userscript to offer a grid-view layout in Google Meets
+- [FugiTech/google-meet-grid-view](https://github.com/FugiTech/google-meet-grid-view) - Userscript to offer a grid-view layout in Google Meets
 - [KiranGershenfeld/VisualizingTwitchCommunities](https://github.com/KiranGershenfeld/VisualizingTwitchCommunities) - Graphing communities on Twitch.tv in a visually intuitive way
 - [karlhadwen/netflix](https://github.com/karlhadwen/netflix) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Netflix Using React
 - [karlhadwen/todoist](https://github.com/karlhadwen/todoist) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Todoist Using React
@@ -2802,6 +2803,7 @@
 
 ## TypeScript 
 
+- [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [XRFoundation/XREngine](https://github.com/XRFoundation/XREngine) - Immersive infrastructure for everyone. Everything you need to build and deploy scalable realtime 3D social apps and more. 🤖 🚀 👓 🚀 🕹️ 🚀 🧑🏿‍🚀
 - [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app) - 💅 A ready-to-go with a well-thought-out structure Electron app boilerplate with ReactJS, TypeScript, CSS / SASS modules, SWC, Eslint, Prettier, GitHub Action releases and more.
 - [zowe/vscode-extension-for-zowe](https://github.com/zowe/vscode-extension-for-zowe) - Visual Studio Code Plug-in for Zowe, which lets users interact with z/OS data sets on a remote mainframe instance. Powered by Zowe CLI.

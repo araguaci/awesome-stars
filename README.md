@@ -634,6 +634,7 @@
 
 ## Java 
 
+- [Telegram-FOSS-Team/Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Unofficial, FOSS-friendly fork of the original Telegram client for Android
 - [googlemaps/android-samples](https://github.com/googlemaps/android-samples) - Samples demonstrating how to use Maps SDK for Android
 - [googlemaps/android-maps-utils](https://github.com/googlemaps/android-maps-utils) - Maps SDK for Android Utility Library
 - [Erudika/scoold](https://github.com/Erudika/scoold) - A Stack Overflow clone for teams (self-hosted or hosted)
@@ -689,6 +690,7 @@
 
 ## JavaScript 
 
+- [CodingTrain/website](https://github.com/CodingTrain/website) - The train engine powering the Coding Train website
 - [exercism/javascript](https://github.com/exercism/javascript) - Exercism exercises in JavaScript.
 - [LeaVerou/inspire.js](https://github.com/LeaVerou/inspire.js) - Lean, hackable, extensible slide deck framework. Previously known as CSSS.
 - [Shabang-Systems/Condution](https://github.com/Shabang-Systems/Condution) - Tasks? Done. That was quick.
@@ -2512,6 +2514,7 @@
 
 ## Python 
 
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [exercism/python](https://github.com/exercism/python) - Exercism exercises in Python.
 - [Scille/parsec-cloud](https://github.com/Scille/parsec-cloud) - Open source Dropbox-like file sharing with full client encryption !
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -2807,6 +2810,9 @@
 
 ## TypeScript 
 
+- [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
+- [antfu/vue-starport](https://github.com/antfu/vue-starport) - 🛰 Shared component across routes with animations
+- [LekoArts/figma-theme-ui](https://github.com/LekoArts/figma-theme-ui) - Convert a Theme UI config to Figma Styles
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [XRFoundation/XREngine](https://github.com/XRFoundation/XREngine) - Immersive infrastructure for everyone. Everything you need to build and deploy scalable realtime 3D social apps and more. 🤖 🚀 👓 🚀 🕹️ 🚀 🧑🏿‍🚀

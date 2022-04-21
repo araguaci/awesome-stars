@@ -165,6 +165,7 @@
 
 ## C++ 
 
+- [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - This repository was made to create an objective comparison of multiple framework that grant us to "transform" our web app to desktop application formats.
 - [AcademySoftwareFoundation/MaterialX](https://github.com/AcademySoftwareFoundation/MaterialX) - MaterialX is an open standard for the exchange of rich material and look-development content across applications and renderers.
@@ -690,6 +691,8 @@
 
 ## JavaScript 
 
+- [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
+- [sadanandpai/shortest-path-finder](https://github.com/sadanandpai/shortest-path-finder) - Shortest Path Finder visualizer using Breadth First Search algorithm
 - [CodingTrain/website](https://github.com/CodingTrain/website) - The train engine powering the Coding Train website
 - [exercism/javascript](https://github.com/exercism/javascript) - Exercism exercises in JavaScript.
 - [LeaVerou/inspire.js](https://github.com/LeaVerou/inspire.js) - Lean, hackable, extensible slide deck framework. Previously known as CSSS.
@@ -1152,7 +1155,7 @@
 - [StartBootstrap/startbootstrap-simple-sidebar](https://github.com/StartBootstrap/startbootstrap-simple-sidebar) - An off canvas sidebar navigation Bootstrap HTML template created by Start Bootstrap
 - [alenaksu/json-viewer](https://github.com/alenaksu/json-viewer) - Web Component to visualize JSON data in a tree view
 - [javve/list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
-- [withastro/snowpack](https://github.com/withastro/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
+- [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [lukejacksonn/oceanwind](https://github.com/lukejacksonn/oceanwind) - Compiles tailwind shorthand into css at runtime. Succeeded by Twind.
 - [bhj/karaoke-forever](https://github.com/bhj/karaoke-forever) - Open karaoke party system
 - [Temasys/AdapterJS](https://github.com/Temasys/AdapterJS) - AdapterJS Javascript Polyfill and Tools for WebRTC - Skylink WebRTC
@@ -1996,6 +1999,8 @@
 
 ## Others 
 
+- [sadanandpai/javascript-code-challenges](https://github.com/sadanandpai/javascript-code-challenges) - A collection of JavaScript modern interview code challenges for beginners to experts
+- [sadanandpai/frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend tech guide and curated collection of frontend materials
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [100daysofkubernetes/100DaysOfKubernetes](https://github.com/100daysofkubernetes/100DaysOfKubernetes) - 100DaysOfKubernetes book
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
@@ -2810,6 +2815,7 @@
 
 ## TypeScript 
 
+- [sadanandpai/resume-builder](https://github.com/sadanandpai/resume-builder) - Build a standard and professional single page resume
 - [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [antfu/vue-starport](https://github.com/antfu/vue-starport) - 🛰 Shared component across routes with animations
 - [LekoArts/figma-theme-ui](https://github.com/LekoArts/figma-theme-ui) - Convert a Theme UI config to Figma Styles

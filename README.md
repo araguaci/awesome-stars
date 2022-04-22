@@ -1545,6 +1545,7 @@
 - [openseadragon/openseadragon](https://github.com/openseadragon/openseadragon) - An open-source, web-based viewer for zoomable images, implemented in pure JavaScript.
 - [arturbien/Mandala-3D](https://github.com/arturbien/Mandala-3D) - :cherry_blossom: Dynamically drawing 3D Mandala patterns. Made with three.js and GSAP tweenmax.
 - [ArtBIT/ips-qr-code](https://github.com/ArtBIT/ips-qr-code) - IPS QR Code Generator
+- [ArtBIT/html5-mandala](https://github.com/ArtBIT/html5-mandala) - Interactive radial symmetry image tool
 - [rnd7/mandala](https://github.com/rnd7/mandala) - Beautiful Mandalas with Three.js and Electron
 - [envelop-app/envelop-web](https://github.com/envelop-app/envelop-web) - 🌐 Envelop web app
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
@@ -1710,7 +1711,6 @@
 - [gpietro/react-numpad](https://github.com/gpietro/react-numpad) - A numpad for number, date and time, built with and for React.
 - [freiksenet/react-calendar](https://github.com/freiksenet/react-calendar) - A modular toolkit to build calendar-related things in React
 - [jquense/react-big-calendar](https://github.com/jquense/react-big-calendar) - gcal/outlook like calendar component
-- [konvajs/react-konva](https://github.com/konvajs/react-konva) - React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [nmn/react-timeago](https://github.com/nmn/react-timeago) - A simple time-ago component for ReactJs.
 - [chenglou/react-treeview](https://github.com/chenglou/react-treeview) - Easy, light, flexible tree view made with React.
@@ -3208,7 +3208,6 @@
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [johnpapa/typescript-async](https://github.com/johnpapa/typescript-async) - Creating Asynchronous Code with TypeScript
 - [johnpapa/angular-lazy-load-demo](https://github.com/johnpapa/angular-lazy-load-demo) - Lazy loading Angular components
-- [ArtBIT/html5-mandala](https://github.com/ArtBIT/html5-mandala) - Interactive radial symmetry image tool
 - [johannesjo/angular2-promise-buttons](https://github.com/johannesjo/angular2-promise-buttons) - Chilled loading buttons for angular2
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
 - [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
@@ -3344,6 +3343,7 @@
 - [SinghDigamber/angular-http-observables](https://github.com/SinghDigamber/angular-http-observables) - Angular 13 Observables tutorial - Manage HTTP response with RxJS observables and operators, build a live country search module from scratch.
 - [johnpapa/angular-event-view-cli](https://github.com/johnpapa/angular-event-view-cli) - Angular Demo with a Little bit of a lot of features
 - [johnpapa/vscode-angular-snippets](https://github.com/johnpapa/vscode-angular-snippets) - Angular Snippets for VS Code
+- [konvajs/react-konva](https://github.com/konvajs/react-konva) - React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
 - [malerba118/react-particle-image](https://github.com/malerba118/react-particle-image) - Render images as interactive particles
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [iamhosseindhv/notistack](https://github.com/iamhosseindhv/notistack) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other

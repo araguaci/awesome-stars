@@ -446,6 +446,7 @@
 
 ## HTML 
 
+- [johnpolacek/tweendeck](https://github.com/johnpolacek/tweendeck) - Next level animation for web presentations
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [kennedybarros/repsonsive-website-playstation](https://github.com/kennedybarros/repsonsive-website-playstation) - Responsive E-commerce Website PlayStation
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
@@ -691,6 +692,8 @@
 
 ## JavaScript 
 
+- [johnpolacek/BigVideo.js](https://github.com/johnpolacek/BigVideo.js) - The jQuery Plugin for Big Background Video (and Images)
+- [mgechev/mk.js](https://github.com/mgechev/mk.js) - Canvas implementation of basic fighting game which allows multiplayer over the network.
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
 - [sadanandpai/shortest-path-finder](https://github.com/sadanandpai/shortest-path-finder) - Shortest Path Finder visualizer using Breadth First Search algorithm
 - [CodingTrain/website](https://github.com/CodingTrain/website) - The train engine powering the Coding Train website
@@ -1056,7 +1059,6 @@
 - [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
-- [blaadje/Todolist](https://github.com/blaadje/Todolist) - 
 - [dotenorio/clipboard-manager-electron](https://github.com/dotenorio/clipboard-manager-electron) - A clipboard manager built with Electron
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a brain
 - [advanced-rest-client/arc-electron](https://github.com/advanced-rest-client/arc-electron) - Advanced REST Client - Desktop application
@@ -1545,7 +1547,6 @@
 - [openseadragon/openseadragon](https://github.com/openseadragon/openseadragon) - An open-source, web-based viewer for zoomable images, implemented in pure JavaScript.
 - [arturbien/Mandala-3D](https://github.com/arturbien/Mandala-3D) - :cherry_blossom: Dynamically drawing 3D Mandala patterns. Made with three.js and GSAP tweenmax.
 - [ArtBIT/ips-qr-code](https://github.com/ArtBIT/ips-qr-code) - IPS QR Code Generator
-- [ArtBIT/html5-mandala](https://github.com/ArtBIT/html5-mandala) - Interactive radial symmetry image tool
 - [rnd7/mandala](https://github.com/rnd7/mandala) - Beautiful Mandalas with Three.js and Electron
 - [envelop-app/envelop-web](https://github.com/envelop-app/envelop-web) - 🌐 Envelop web app
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
@@ -1999,6 +2000,7 @@
 
 ## Others 
 
+- [araguaci/hello-worlds](https://github.com/araguaci/hello-worlds) - Hello world apps for angular, react, svelte, and vue
 - [sadanandpai/javascript-code-challenges](https://github.com/sadanandpai/javascript-code-challenges) - A collection of JavaScript modern interview code challenges for beginners to experts
 - [sadanandpai/frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend tech guide and curated collection of frontend materials
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
@@ -2519,6 +2521,7 @@
 
 ## Python 
 
+- [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [exercism/python](https://github.com/exercism/python) - Exercism exercises in Python.
 - [Scille/parsec-cloud](https://github.com/Scille/parsec-cloud) - Open source Dropbox-like file sharing with full client encryption !
@@ -3208,6 +3211,7 @@
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [johnpapa/typescript-async](https://github.com/johnpapa/typescript-async) - Creating Asynchronous Code with TypeScript
 - [johnpapa/angular-lazy-load-demo](https://github.com/johnpapa/angular-lazy-load-demo) - Lazy loading Angular components
+- [ArtBIT/html5-mandala](https://github.com/ArtBIT/html5-mandala) - Interactive radial symmetry image tool
 - [johannesjo/angular2-promise-buttons](https://github.com/johannesjo/angular2-promise-buttons) - Chilled loading buttons for angular2
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
 - [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+

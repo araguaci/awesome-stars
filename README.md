@@ -692,6 +692,11 @@
 
 ## JavaScript 
 
+- [collab-project/videojs-record](https://github.com/collab-project/videojs-record) - video.js plugin for recording audio/video/image files
+- [100mslive/100ms-web](https://github.com/100mslive/100ms-web) - Build powerful live applications in hours
+- [streamproc/MediaStreamRecorder](https://github.com/streamproc/MediaStreamRecorder) - Cross browser audio/video/screen recording. It supports Chrome, Firefox, Opera and Microsoft Edge. It even works on Android browsers. It follows latest MediaRecorder API standards and provides similar APIs.
+- [muaz-khan/RecordRTC](https://github.com/muaz-khan/RecordRTC) - RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.
+- [muaz-khan/RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.)
 - [johnpolacek/BigVideo.js](https://github.com/johnpolacek/BigVideo.js) - The jQuery Plugin for Big Background Video (and Images)
 - [mgechev/mk.js](https://github.com/mgechev/mk.js) - Canvas implementation of basic fighting game which allows multiplayer over the network.
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
@@ -2451,7 +2456,7 @@
 - [marcelgsantos/palestra-programacao-assincrona-com-php](https://github.com/marcelgsantos/palestra-programacao-assincrona-com-php) - Exemplos utilizados na palestra 'Introdução a Programação Assíncrona em PHP'
 - [mikecao/flight](https://github.com/mikecao/flight) - An extensible micro-framework for PHP
 - [mikecao/shorty](https://github.com/mikecao/shorty) - A simple URL shortener for PHP
-- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Y̲our O̲wn U̲R̲L̲ S̲hortener - the 𝑑𝑒 𝑓𝑎𝑐𝑡𝑜 standard self hosted URL shortener in PHP. Star us on Github!
+- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 Y̲our O̲wn U̲R̲L̲ S̲hortener - the 𝑑𝑒 𝑓𝑎𝑐𝑡𝑜 standard self hosted URL shortener in PHP
 - [ColorlibHQ/Sneaky-Restaurant](https://github.com/ColorlibHQ/Sneaky-Restaurant) - 
 - [Vonage/vonage-php-code-snippets](https://github.com/Vonage/vonage-php-code-snippets) - PHP code examples for using Nexmo
 - [Vonage/vonage-php-sdk-core](https://github.com/Vonage/vonage-php-sdk-core) - Vonage REST API client for PHP. API support for SMS, Voice, Text-to-Speech, Numbers, Verify (2FA) and more.
@@ -2521,6 +2526,9 @@
 
 ## Python 
 
+- [Zi-hao-Wei/A-ESRGAN](https://github.com/Zi-hao-Wei/A-ESRGAN) - A-ESRGAN aims to provide better super-resolution images by using multi-scale attention U-net discriminators.
+- [Image-Py/imagepy](https://github.com/Image-Py/imagepy) - Image process framework based on plugin like imagej, it is esay to glue with scipy.ndimage, scikit-image, opencv, simpleitk, mayavi...and any libraries based on numpy
+- [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [exercism/python](https://github.com/exercism/python) - Exercism exercises in Python.
@@ -2669,7 +2677,6 @@
 
 ## Rust 
 
-- [iohzrd/identia](https://github.com/iohzrd/identia) - Decentralized, censorship resistant social media on IPFS.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a diff that understands syntax 🟥🟩
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -2798,6 +2805,7 @@
 ## Svelte 
 
 - [simeydotme/svelte-range-slider-pips](https://github.com/simeydotme/svelte-range-slider-pips) - Multi-Thumb, Accessible, Beautiful Range Slider with Pips
+- [iohzrd/identia](https://github.com/iohzrd/identia) - Decentralized, censorship resistant social media on IPFS.
 - [tonyketcham/p5-svelte](https://github.com/tonyketcham/p5-svelte) - Easily add p5 sketches to a Svelte project 🍛 🌱
 - [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
 - [bradtraversy/svelte-feedback-app](https://github.com/bradtraversy/svelte-feedback-app) - Feedback app built with Svelte
@@ -3468,7 +3476,7 @@
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [Datlyfe/jira_clone](https://github.com/Datlyfe/jira_clone) - A Jira clone built with Vuejs & Nodejs/Graphql
-- [kadinzhang/Periodicity](https://github.com/kadinzhang/Periodicity) - a better periodic table
+- [kadinzhang/Periodicity](https://github.com/kadinzhang/Periodicity) - periodic table for trend analysis
 - [schoolofnetcom/cms-electron-php](https://github.com/schoolofnetcom/cms-electron-php) - 
 - [tmdh/laravel-kit](https://github.com/tmdh/laravel-kit) - A desktop Laravel admin panel app
 - [officert/vue-friendly-iframe](https://github.com/officert/vue-friendly-iframe) - A Vue js component for creating super fast loading, non-blocking iframes.

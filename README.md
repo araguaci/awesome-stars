@@ -33,6 +33,7 @@
   - [Less](#less)
   - [Lua](#lua)
   - [Makefile](#makefile)
+  - [Markdown](#markdown)
   - [Nunjucks](#nunjucks)
   - [Objective-C](#objective-c)
   - [Others](#others)
@@ -446,6 +447,8 @@
 
 ## HTML 
 
+- [CodinGame/codingame-game-engine](https://github.com/CodinGame/codingame-game-engine) - CodinGame Engine
+- [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [johnpolacek/tweendeck](https://github.com/johnpolacek/tweendeck) - Next level animation for web presentations
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [kennedybarros/repsonsive-website-playstation](https://github.com/kennedybarros/repsonsive-website-playstation) - Responsive E-commerce Website PlayStation
@@ -692,6 +695,7 @@
 
 ## JavaScript 
 
+- [AykutSarac/react-quiz](https://github.com/AykutSarac/react-quiz) - 💡 Quiz app made using React & Open Trivia DB.
 - [collab-project/videojs-record](https://github.com/collab-project/videojs-record) - video.js plugin for recording audio/video/image files
 - [100mslive/100ms-web](https://github.com/100mslive/100ms-web) - Build powerful live applications in hours
 - [streamproc/MediaStreamRecorder](https://github.com/streamproc/MediaStreamRecorder) - Cross browser audio/video/screen recording. It supports Chrome, Firefox, Opera and Microsoft Edge. It even works on Android browsers. It follows latest MediaRecorder API standards and provides similar APIs.
@@ -1239,7 +1243,6 @@
 - [http-party/create-servers](https://github.com/http-party/create-servers) - Create an http AND/OR an https server and call the same request handler.
 - [http-party/node-http-proxy](https://github.com/http-party/node-http-proxy) - A full-featured http proxy for node.js
 - [http-party/node-portfinder](https://github.com/http-party/node-portfinder) - A simple tool to find an open port or domain socket on the current machine
-- [hcnode/AlexGallery](https://github.com/hcnode/AlexGallery) - Images gallery with node.js and nw
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 - [thegamenicorus/react-native-phone-input](https://github.com/thegamenicorus/react-native-phone-input) - Phone input box for React Native
 - [bl00mber/react-phone-input-2](https://github.com/bl00mber/react-phone-input-2) - :telephone_receiver: Highly customizable phone input component with auto formatting
@@ -1707,7 +1710,7 @@
 - [GoogleChromeLabs/preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin) - Please use https://github.com/vuejs/preload-webpack-plugin instead.
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1950 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [davidtheclark/react-aria-menubutton](https://github.com/davidtheclark/react-aria-menubutton) - A fully accessible, easily themeable, React-powered menu button
 - [geobde/react-triple-toggle](https://github.com/geobde/react-triple-toggle) - React multi toggle component
 - [zillow/react-slider](https://github.com/zillow/react-slider) - Accessible, CSS agnostic, slider component for React.
@@ -1986,6 +1989,10 @@
 - [Helsinki-NLP/Tatoeba-Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge) - 
 - [WillStreeter/ws-dev-docker-example](https://github.com/WillStreeter/ws-dev-docker-example) - A Docker eco-system bundling 4 repositories to facilitate a FullStack integrated development environment encompassing an NGINX proxy instance, MongoDB instance, Front-End Angular (4.1.)x  App, Back-End NodeJs Express App.
 
+## Markdown 
+
+- [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
+
 ## Nunjucks 
 
 - [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
@@ -2005,6 +2012,8 @@
 
 ## Others 
 
+- [quasilyte/talks](https://github.com/quasilyte/talks) - A collection of slides, notes and other related stuff from talks I have given.
+- [cipher387/awesome-grep](https://github.com/cipher387/awesome-grep) - List of GREP modifications and alternatives for a variety of purposes
 - [araguaci/hello-worlds](https://github.com/araguaci/hello-worlds) - Hello world apps for angular, react, svelte, and vue
 - [sadanandpai/javascript-code-challenges](https://github.com/sadanandpai/javascript-code-challenges) - A collection of JavaScript modern interview code challenges for beginners to experts
 - [sadanandpai/frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend tech guide and curated collection of frontend materials
@@ -2677,6 +2686,7 @@
 
 ## Rust 
 
+- [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a diff that understands syntax 🟥🟩
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -2733,6 +2743,7 @@
 
 ## Shell 
 
+- [cipher387/grep_for_osint](https://github.com/cipher387/grep_for_osint) - GREP FOR OSINT is a set of very simple shell scripts that will help you quickly analyze a text or a folder with files for data useful for investigation (phone numbers, bank card numbers, URLs, emails and nicknames).
 - [envygeeks/jekyll-docker](https://github.com/envygeeks/jekyll-docker) - ⛴ Docker images, and CI builders for Jekyll.
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystems
@@ -2826,6 +2837,8 @@
 
 ## TypeScript 
 
+- [reaviz/reaflow](https://github.com/reaviz/reaflow) - 🕸 React library for building workflow editors, flow charts and diagrams
+- [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - 🧩 Visualize your JSON data onto graphs seamlessly.
 - [sadanandpai/resume-builder](https://github.com/sadanandpai/resume-builder) - Build a standard and professional single page resume
 - [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [antfu/vue-starport](https://github.com/antfu/vue-starport) - 🛰 Shared component across routes with animations
@@ -3107,7 +3120,7 @@
 - [alexandrecorazza/podcastr](https://github.com/alexandrecorazza/podcastr) - :headphones: Plataforma de podcast
 - [marcusmaialima/nlw-letmeask](https://github.com/marcusmaialima/nlw-letmeask) - Projeto desenvolvido na NLW da Rocketseat
 - [eduardorerick/letmeask](https://github.com/eduardorerick/letmeask) - Aplicação que me garantiu uma bolsa de estudos no Ignite! Desenvolvida durante a NLW com outras funcionalidades adicionadas por mim.
-- [thien-do/moai](https://github.com/thien-do/moai) - A React component library, where buttons look like buttons🗿
+- [moaijs/moai](https://github.com/moaijs/moai) - A React component library, where buttons look like buttons🗿
 - [Atom-Learning/components](https://github.com/Atom-Learning/components) - A collection of generic React components built using stitches, including components that cover layout, content, data collection, media and a host of other UI concerns.
 - [rodrigorgtic/minha-carteira-dashboard](https://github.com/rodrigorgtic/minha-carteira-dashboard) - :bar_chart: :chart_with_upwards_trend: Dashboard desenvolvido com ReactJs, TypeScript com boas práticas de desenvolvimento e performance.
 - [MarconWillian-Study/letmeask](https://github.com/MarconWillian-Study/letmeask) - Projeto desenvolvido na NextLevelWeek #Together.
@@ -3426,6 +3439,7 @@
 
 ## Vue 
 
+- [AykutSarac/chatify](https://github.com/AykutSarac/chatify) - 💬 Realtime Chat application made with Vue 3, Fastify and WebSocket.
 - [peterroe/Rss-Reader](https://github.com/peterroe/Rss-Reader) - Desktop Rss reader, based on Vue3 and tauri-app, free and open source
 - [sdras/hero-generator](https://github.com/sdras/hero-generator) - 🦸🏻‍♀️Hero Generator! Create a nice hero image for your site or app
 - [sdras/ecommerce-netlify](https://github.com/sdras/ecommerce-netlify) - 🛍 A JAMstack Ecommerce Site built with Nuxt and Netlify Functions

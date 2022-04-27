@@ -448,6 +448,7 @@
 
 ## HTML 
 
+- [tuhinpal/dynamic-image](https://github.com/tuhinpal/dynamic-image) - Dynamically generate images for open-graph or website
 - [CodinGame/codingame-game-engine](https://github.com/CodinGame/codingame-game-engine) - CodinGame Engine
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [johnpolacek/tweendeck](https://github.com/johnpolacek/tweendeck) - Next level animation for web presentations
@@ -697,6 +698,7 @@
 
 ## JavaScript 
 
+- [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio) - My self coded personal website build with React.js
 - [PaulieScanlon/paulie-dev-2019](https://github.com/PaulieScanlon/paulie-dev-2019) - My blog is built using @pauliescanlon/gatsby-theme-terminal 🕺
 - [gbraadnl/gauth](https://github.com/gbraadnl/gauth) - A simple application for multi-factor authentication, written in HTML using jQuery Mobile, jsSHA and LocalStorage.
 - [AykutSarac/react-quiz](https://github.com/AykutSarac/react-quiz) - 💡 Quiz app made using React & Open Trivia DB.
@@ -1361,7 +1363,6 @@
 - [Akryum/vue-googlemaps](https://github.com/Akryum/vue-googlemaps) - Integrate Google Maps in your Vue application
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [aakashsr/GithubSquare](https://github.com/aakashsr/GithubSquare) - Explore the most starred projects , trending developers , popular repositories of any date and face off Github Profiles of your choice.
 - [klaussinani/ao](https://github.com/klaussinani/ao) - Elegant Microsoft To-Do desktop app
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -1903,6 +1904,7 @@
 - [gillesdemey/node-record-lpcm16](https://github.com/gillesdemey/node-record-lpcm16) - :microphone: Records a 16-bit signed-integer linear pulse modulation code encoded audio file.
 - [antirek/owo-phone.js](https://github.com/antirek/owo-phone.js) - simple sip.js based webphone
 - [zzarcon/chaosocket](https://github.com/zzarcon/chaosocket) - :boom: Mock WebSockets and create chaos :boom:
+- [Marak/faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
 - [versatica/tryit-jssip](https://github.com/versatica/tryit-jssip) - New tryit-jssip application
 - [ricardojlrufino/webphone-sip](https://github.com/ricardojlrufino/webphone-sip) - WebRTC SIP based VoIP client software (+chrome extension)
 - [onsip/sipjs-examples](https://github.com/onsip/sipjs-examples) - Example applications using SIP.js
@@ -2516,6 +2518,8 @@
 
 ## PowerShell 
 
+- [LeDragoX/Win-10-Smart-Debloat-Tools](https://github.com/LeDragoX/Win-10-Smart-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10+.
+- [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [MicrosoftDocs/PowerShell-Docs](https://github.com/MicrosoftDocs/PowerShell-Docs) - The official PowerShell documentation sources
 - [dataplat/dbatools](https://github.com/dataplat/dbatools) - 🚀 SQL Server automation and instance migrations have never been safer, faster or freer
 - [potatoqualitee/kbupdate](https://github.com/potatoqualitee/kbupdate) - 🛡 KB Viewer, Saver, Installer and Uninstaller
@@ -2665,6 +2669,7 @@
 
 ## Ruby 
 
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [companionstudio/instagram-token-agent](https://github.com/companionstudio/instagram-token-agent) - A service to keep your Instagram Basic Display API token fresh.
@@ -2845,6 +2850,8 @@
 
 ## TypeScript 
 
+- [Aashishkushwaha/The-Millionaires-Quiz](https://github.com/Aashishkushwaha/The-Millionaires-Quiz) - This is a simple quiz game where you'll earn pseudo money if you answer correctly.
+- [zThiago15/nlwValoriza](https://github.com/zThiago15/nlwValoriza) - Projeto desenvolvido durante a NLW 6! Se trata de um sistema de elogio entre usuários por meio de tags. 🚀
 - [apache-superset/superset-ui](https://github.com/apache-superset/superset-ui) - Apache Superset UI packages
 - [apache-superset/superset-ui-plugins](https://github.com/apache-superset/superset-ui-plugins) - A collection of official Superset UI plugins
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
@@ -3163,6 +3170,7 @@
 - [jasperapp/jasper](https://github.com/jasperapp/jasper) - Jasper - A flexible and powerful issue reader for GitHub
 - [JustFly1984/react-google-maps-api](https://github.com/JustFly1984/react-google-maps-api) - React Google Maps API
 - [googlemaps/js-samples](https://github.com/googlemaps/js-samples) - Samples for the Google Maps JavaScript v3 API
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [googleapis/google-auth-library-nodejs](https://github.com/googleapis/google-auth-library-nodejs) - 🔑 Google Auth Library for Node.js
 - [bicarbon8/todoTxtWebUi](https://github.com/bicarbon8/todoTxtWebUi) - A web UI to use with a todo.txt file

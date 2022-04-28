@@ -126,7 +126,6 @@
 - [ElectronNET/Electron.NET](https://github.com/ElectronNET/Electron.NET) - :electron: Build cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor).
 - [Megabit/Blazorise](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Bulma, AntDesign, and Material.
 - [HHChaos/Drawing-Studio](https://github.com/HHChaos/Drawing-Studio) - A creative app with intelligence. It was given 1st place for Best User Experience in 2019 Microsoft 365 app awards.
-- [fluentpos/fluentpos](https://github.com/fluentpos/fluentpos) - Open Source Point Of Sales and Inventory Management Solution built with ASP.NET Core 5.0 WebAPI and Angular 12 Material.
 - [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app) - Example Docker Compose app
 - [renatogroffe/ASPNETCore5-REST_API-Kafka_ContagemAcessos](https://github.com/renatogroffe/ASPNETCore5-REST_API-Kafka_ContagemAcessos) - Exemplo de API REST criada com o .NET 5 + ASP.NET Core para contagem de acessos e envio de mensagens para um tópico do Apache Kafka (utilizando a biblioteca Confluent.Kafka).
 - [renatogroffe/DotNet5-WorkerService-Kafka-SqlServer_ContagemAcessos](https://github.com/renatogroffe/DotNet5-WorkerService-Kafka-SqlServer_ContagemAcessos) - Exemplo de consumo de mensagens de um tópico do Apache Kafka com dados de contagens de acesso em um Worker Service criado com .NET 5, utilizando ainda SQL Server + Dapper.Contrib para gravação dos dados e um Dockerfile para geração de imagens Docker em Linux.
@@ -223,6 +222,7 @@
 
 ## CSS 
 
+- [sighingnow/jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) - Build Jekyll site with GitBook style!
 - [birobirobiro/live-twitch-rocket-travel](https://github.com/birobirobiro/live-twitch-rocket-travel) - Rocket Travel - Projeto desenvolvido durante a live na Twitch
 - [Lissy93/callisto-theme-standard-notes](https://github.com/Lissy93/callisto-theme-standard-notes) - 🌑 A dusty navy and teal color theme for Standard Notes and Listed.to
 - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
@@ -379,6 +379,7 @@
 
 ## Go 
 
+- [miconda/sipexer](https://github.com/miconda/sipexer) - Modern and flexible SIP cli tool
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [GoogleCloudPlatform/golang-samples](https://github.com/GoogleCloudPlatform/golang-samples) - Sample apps and code written for Google Cloud in the Go programming language.
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications
@@ -1472,7 +1473,6 @@
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [zhw2590582/SubPlayer](https://github.com/zhw2590582/SubPlayer) - :memo: SubPlayer is an online subtitle editor
 - [zhw2590582/WFPlayer](https://github.com/zhw2590582/WFPlayer) - :ocean: WFPlayer.js is an audio waveform generator
-- [zhw2590582/term-web](https://github.com/zhw2590582/term-web) - :pager: A simple Terminal UI that run on the web
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [WAClient/WALC](https://github.com/WAClient/WALC) - An unofficial WhatsApp Desktop client for linux systems.

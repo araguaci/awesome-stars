@@ -165,6 +165,7 @@
 
 ## C++ 
 
+- [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
 - [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - This repository was made to create an objective comparison of multiple framework that grant us to "transform" our web app to desktop application formats.
@@ -322,6 +323,8 @@
 
 ## Dart 
 
+- [flutter-webrtc/flutter-webrtc-demo](https://github.com/flutter-webrtc/flutter-webrtc-demo) - Demo for flutter-webrtc
+- [flutter-webrtc/dart-sip-ua](https://github.com/flutter-webrtc/dart-sip-ua) - A dart-lang version of the SIP UA stack.
 - [felipecastrosales/app_filmes](https://github.com/felipecastrosales/app_filmes) - 🎥 Aplicativo de Filmes com Flutter usando a API - TMDB para a consulta de dados. Desenvolvido na 04ª Edição da #DartWeek, de @RodrigoRahman. 🔥
 - [felipecastrosales/CalculatorBMI](https://github.com/felipecastrosales/CalculatorBMI) - A simple Calculator BMI develop with Flutter.
 - [thelazyindian/Tasks](https://github.com/thelazyindian/Tasks) - A clone of Google Tasks app made from scratch with flutter. WIP.
@@ -379,6 +382,7 @@
 
 ## Go 
 
+- [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [miconda/sipexer](https://github.com/miconda/sipexer) - Modern and flexible SIP cli tool
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [GoogleCloudPlatform/golang-samples](https://github.com/GoogleCloudPlatform/golang-samples) - Sample apps and code written for Google Cloud in the Go programming language.
@@ -449,6 +453,7 @@
 
 ## HTML 
 
+- [i18next/i18next-gitbook](https://github.com/i18next/i18next-gitbook) - 
 - [tuhinpal/dynamic-image](https://github.com/tuhinpal/dynamic-image) - Dynamically generate images for open-graph or website
 - [CodinGame/codingame-game-engine](https://github.com/CodinGame/codingame-game-engine) - CodinGame Engine
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
@@ -642,6 +647,8 @@
 
 ## Java 
 
+- [spring-io/start.spring.io](https://github.com/spring-io/start.spring.io) - https://start.spring.io
+- [flutter-webrtc/flutter-webrtc](https://github.com/flutter-webrtc/flutter-webrtc) - WebRTC plugin for Flutter Mobile/Desktop/Web
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [Telegram-FOSS-Team/Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Unofficial, FOSS-friendly fork of the original Telegram client for Android
 - [googlemaps/android-samples](https://github.com/googlemaps/android-samples) - Samples demonstrating how to use Maps SDK for Android
@@ -699,6 +706,7 @@
 
 ## JavaScript 
 
+- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio) - My self coded personal website build with React.js
 - [PaulieScanlon/paulie-dev-2019](https://github.com/PaulieScanlon/paulie-dev-2019) - My blog is built using @pauliescanlon/gatsby-theme-terminal 🕺
 - [gbraadnl/gauth](https://github.com/gbraadnl/gauth) - A simple application for multi-factor authentication, written in HTML using jQuery Mobile, jsSHA and LocalStorage.
@@ -1985,12 +1993,14 @@
 
 ## Lua 
 
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 
 ## Makefile 
 
+- [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [thumbor/awesome-thumbor](https://github.com/thumbor/awesome-thumbor) - Everything thumbor, awesomely curated & updated weekly.
 - [Helsinki-NLP/Tatoeba-Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge) - 
 - [WillStreeter/ws-dev-docker-example](https://github.com/WillStreeter/ws-dev-docker-example) - A Docker eco-system bundling 4 repositories to facilitate a FullStack integrated development environment encompassing an NGINX proxy instance, MongoDB instance, Front-End Angular (4.1.)x  App, Back-End NodeJs Express App.
@@ -2018,6 +2028,7 @@
 
 ## Others 
 
+- [Yegorov/awesome-ruby-blogs](https://github.com/Yegorov/awesome-ruby-blogs) - A curated list of Awesome Ruby Blogs and Newsletters for Ruby Developers and Newbies
 - [quasilyte/talks](https://github.com/quasilyte/talks) - A collection of slides, notes and other related stuff from talks I have given.
 - [cipher387/awesome-grep](https://github.com/cipher387/awesome-grep) - List of GREP modifications and alternatives for a variety of purposes
 - [araguaci/hello-worlds](https://github.com/araguaci/hello-worlds) - Hello world apps for angular, react, svelte, and vue
@@ -2222,6 +2233,7 @@
 
 ## PHP 
 
+- [oscarotero/Embed](https://github.com/oscarotero/Embed) - Get info from any web service or page
 - [contao/contao](https://github.com/contao/contao) - Contao Open Source CMS
 - [code16/sharp](https://github.com/code16/sharp) - Laravel 8+ Content management framework
 - [thephpleague/commonmark](https://github.com/thephpleague/commonmark) - Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
@@ -2546,7 +2558,7 @@
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 - [rochacbruno/dynaconf](https://github.com/rochacbruno/dynaconf) - Configuration Management for Python ⚙
-- [rochacbruno/python-week-2022](https://github.com/rochacbruno/python-week-2022) - Template Para a Python Week 2002 - 25 a 29 de Abril na Linux Tips
+- [rochacbruno/python-week-2022](https://github.com/rochacbruno/python-week-2022) - Template Para a Python Week 2002 - 25 a 29 de Abril na LINUXTips
 - [Zi-hao-Wei/A-ESRGAN](https://github.com/Zi-hao-Wei/A-ESRGAN) - A-ESRGAN aims to provide better super-resolution images by using multi-scale attention U-net discriminators.
 - [Image-Py/imagepy](https://github.com/Image-Py/imagepy) - Image process framework based on plugin like imagej, it is esay to glue with scipy.ndimage, scikit-image, opencv, simpleitk, mayavi...and any libraries based on numpy
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
@@ -2756,6 +2768,7 @@
 
 ## Shell 
 
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [cipher387/grep_for_osint](https://github.com/cipher387/grep_for_osint) - GREP FOR OSINT is a set of very simple shell scripts that will help you quickly analyze a text or a folder with files for data useful for investigation (phone numbers, bank card numbers, URLs, emails and nicknames).
 - [envygeeks/jekyll-docker](https://github.com/envygeeks/jekyll-docker) - ⛴ Docker images, and CI builders for Jekyll.
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
@@ -2850,6 +2863,7 @@
 
 ## TypeScript 
 
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [Aashishkushwaha/The-Millionaires-Quiz](https://github.com/Aashishkushwaha/The-Millionaires-Quiz) - This is a simple quiz game where you'll earn pseudo money if you answer correctly.
 - [zThiago15/nlwValoriza](https://github.com/zThiago15/nlwValoriza) - Projeto desenvolvido durante a NLW 6! Se trata de um sistema de elogio entre usuários por meio de tags. 🚀
 - [apache-superset/superset-ui](https://github.com/apache-superset/superset-ui) - Apache Superset UI packages
@@ -2930,7 +2944,7 @@
 - [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework.
 - [r-park/soundcloud-ngrx](https://github.com/r-park/soundcloud-ngrx) - SoundCloud API client with Angular • RxJS • ngrx/store • ngrx/effects
 - [LeCoupa/vueflags](https://github.com/LeCoupa/vueflags) - 👩‍✈️👨‍✈️ One easy-to-use flag component for Vue.js with all ISO 3166-1 countries.
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [vuepress-theme-hope/vuepress-theme-hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope) - A vuepress theme with tons of features✨
 - [issaafalkattan/react-landing-page-template-2021](https://github.com/issaafalkattan/react-landing-page-template-2021) - A sleek plug n play react landing page template.

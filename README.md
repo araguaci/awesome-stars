@@ -1762,7 +1762,7 @@
 - [erikras/react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
 - [parse-community/parse-dashboard](https://github.com/parse-community/parse-dashboard) - A dashboard for managing your Parse Server Apps
 - [dipakkr/node-auth](https://github.com/dipakkr/node-auth) - Implementing Authentication in NodeJS With Express and JWT - CodeLab #1
-- [parse-community/Parse-SDK-JS](https://github.com/parse-community/Parse-SDK-JS) - The JavaScript SDK for the Parse Platform
+- [parse-community/Parse-SDK-JS](https://github.com/parse-community/Parse-SDK-JS) - The JavaScript SDK for Parse Platform
 - [evgomes/notes-redux](https://github.com/evgomes/notes-redux) - Sample React + Redux application.
 - [evgomes/react-context-api](https://github.com/evgomes/react-context-api) - Sample React application that uses the React Context API to manage state.
 - [ngReact/ngReact](https://github.com/ngReact/ngReact) - Use React Components in Angular

@@ -59,6 +59,7 @@
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
+  - [VBScript](#vbscript)
   - [Vala](#vala)
   - [Vue](#vue)
 
@@ -408,7 +409,7 @@
 - [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed hybrid transaction/analytical  database compatible with the MySQL protocol
 - [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
@@ -458,6 +459,7 @@
 
 ## HTML 
 
+- [StartPolymer/progressive-web-app-template](https://github.com/StartPolymer/progressive-web-app-template) - Starting point for building Progressive Web Apps PWA based on Polymer with motto #UseThePlatform.
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and powerful Jekyll theme for presenting professional writing
 - [i18next/i18next-gitbook](https://github.com/i18next/i18next-gitbook) - 
 - [tuhinpal/dynamic-image](https://github.com/tuhinpal/dynamic-image) - Dynamically generate images for open-graph or website
@@ -712,6 +714,12 @@
 
 ## JavaScript 
 
+- [ssshooter/nippon-color](https://github.com/ssshooter/nippon-color) - copy nippon-color PWA build with vue-cli 3
+- [umluizlima/flask-pwa](https://github.com/umluizlima/flask-pwa) - A progressive webapp template.
+- [softvar/secure-ls](https://github.com/softvar/secure-ls) - :lock: Secure localStorage data with high level of encryption and data compression
+- [TomPrograms/stormdb](https://github.com/TomPrograms/stormdb) - 🌩️ StormDB is a tiny, lightweight, 0 dependency, easy-to-use JSON-based database for NodeJS, the browser or Electron.
+- [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
+- [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - 
 - [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism) - 🎉 Generate CSS for your Neumorphism/Soft UI design
 - [jlongster/absurd-sql](https://github.com/jlongster/absurd-sql) - sqlite3 in ur indexeddb (hopefully a better backend soon)
@@ -734,6 +742,7 @@
 - [muaz-khan/RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.)
 - [johnpolacek/BigVideo.js](https://github.com/johnpolacek/BigVideo.js) - The jQuery Plugin for Big Background Video (and Images)
 - [mgechev/mk.js](https://github.com/mgechev/mk.js) - Canvas implementation of basic fighting game which allows multiplayer over the network.
+- [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
 - [sadanandpai/shortest-path-finder](https://github.com/sadanandpai/shortest-path-finder) - Shortest Path Finder visualizer using Breadth First Search algorithm
 - [CodingTrain/website](https://github.com/CodingTrain/website) - The train engine powering the Coding Train website
 - [exercism/javascript](https://github.com/exercism/javascript) - Exercism exercises in JavaScript.
@@ -2578,7 +2587,6 @@
 - [Image-Py/imagepy](https://github.com/Image-Py/imagepy) - Image process framework based on plugin like imagej, it is esay to glue with scipy.ndimage, scikit-image, opencv, simpleitk, mayavi...and any libraries based on numpy
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
-- [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [exercism/python](https://github.com/exercism/python) - Exercism exercises in Python.
 - [Scille/parsec-cloud](https://github.com/Scille/parsec-cloud) - Open source Dropbox-like file sharing with full client encryption !
@@ -2785,6 +2793,7 @@
 
 ## Shell 
 
+- [huogerac/dev-tools](https://github.com/huogerac/dev-tools) - 
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [cipher387/grep_for_osint](https://github.com/cipher387/grep_for_osint) - GREP FOR OSINT is a set of very simple shell scripts that will help you quickly analyze a text or a folder with files for data useful for investigation (phone numbers, bank card numbers, URLs, emails and nicknames).
 - [envygeeks/jekyll-docker](https://github.com/envygeeks/jekyll-docker) - ⛴ Docker images, and CI builders for Jekyll.
@@ -2858,6 +2867,7 @@
 
 ## Svelte 
 
+- [sveltejs/realworld](https://github.com/sveltejs/realworld) - SvelteKit implementation of the RealWorld app
 - [simeydotme/svelte-range-slider-pips](https://github.com/simeydotme/svelte-range-slider-pips) - Multi-Thumb, Accessible, Beautiful Range Slider with Pips
 - [iohzrd/identia](https://github.com/iohzrd/identia) - Decentralized, censorship resistant social media on IPFS.
 - [tonyketcham/p5-svelte](https://github.com/tonyketcham/p5-svelte) - Easily add p5 sketches to a Svelte project 🍛 🌱
@@ -2880,6 +2890,13 @@
 
 ## TypeScript 
 
+- [eramdam/BetterTweetDeck](https://github.com/eramdam/BetterTweetDeck) - A browser extension to improve TweetDeck with a lot of features
+- [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
+- [salgum1114/react-design-editor](https://github.com/salgum1114/react-design-editor) - React Design Editor has started to developed direct manipulation of editable design tools like Powerpoint, We've developed it with reactjs, ant.design, fabricjs
+- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
+- [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
+- [Urigo/SOFA](https://github.com/Urigo/SOFA) - The best way to create REST APIs - Generate RESTful APIs from your GraphQL Server
+- [fatihsolhan/r-onboarding](https://github.com/fatihsolhan/r-onboarding) - r-onboarding is a super-slim, fully-typed onboarding component for React
 - [gobeam/truthy](https://github.com/gobeam/truthy) - Open source headless CMS API written using NestJS, that has pre built modules like User Management, Role Management, Permission Management, Email Module, Account Settings, OTP, Throttling, RBAC support, Localization, and many more.
 - [ninest/husker](https://github.com/ninest/husker) - Useful Northeastern resources and links; a Student Hub alternative
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
@@ -3323,7 +3340,6 @@
 - [pocka/storybook-addon-designs](https://github.com/pocka/storybook-addon-designs) - A Storybook addon that embeds Figma, websites, or images in the addon panel.
 - [pocka/storybook-addon-vue-info](https://github.com/pocka/storybook-addon-vue-info) - Info addon for Vue components
 - [aurelia/aurelia](https://github.com/aurelia/aurelia) - Aurelia 2, a standards-based, front-end framework designed for high-performing, ambitious applications.
-- [aurelia/framework](https://github.com/aurelia/framework) - The Aurelia 1 framework entry point, bringing together all the required sub-modules of Aurelia.
 - [angular/universal](https://github.com/angular/universal) - Server-side rendering and Prerendering for Angular
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
@@ -3486,12 +3502,17 @@
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 
+## VBScript 
+
+- [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win) - pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It's simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well.
+
 ## Vala 
 
 - [pdfpc/pdfpc](https://github.com/pdfpc/pdfpc) - A presenter console with multi-monitor support for PDF files.
 
 ## Vue 
 
+- [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX.
 - [AykutSarac/chatify](https://github.com/AykutSarac/chatify) - 💬 Realtime Chat application made with Vue 3, Fastify and WebSocket.
 - [peterroe/Rss-Reader](https://github.com/peterroe/Rss-Reader) - Desktop Rss reader, based on Vue3 and tauri-app, free and open source
 - [sdras/hero-generator](https://github.com/sdras/hero-generator) - 🦸🏻‍♀️Hero Generator! Create a nice hero image for your site or app

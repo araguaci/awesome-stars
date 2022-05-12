@@ -107,7 +107,7 @@
 
 ## C# # 
 
-- [nager/Nager.Date](https://github.com/nager/Nager.Date) - :earth_americas: Worldwide public holiday
+- [nager/Nager.Date](https://github.com/nager/Nager.Date) - :earth_americas: Worldwide public holiday (REST API)
 - [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 6, Docker Containers and Azure Kubernetes Services. Supports Visual Studi
 - [TelegramBots/Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - .NET Client for Telegram Bot API
 - [chocolatey/ChocolateyGUI](https://github.com/chocolatey/ChocolateyGUI) - A delicious GUI for Chocolatey
@@ -390,7 +390,7 @@
 
 ## Go 
 
-- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A web and RPC framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [miconda/sipexer](https://github.com/miconda/sipexer) - Modern and flexible SIP cli tool
@@ -463,6 +463,7 @@
 
 ## HTML 
 
+- [chrisguest75/docker_build_examples](https://github.com/chrisguest75/docker_build_examples) - Tests, tricks, tips and examples of Docker builds.
 - [willianjusten/will-jekyll-template](https://github.com/willianjusten/will-jekyll-template) - A simple Jekyll theme.
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
 - [codingforentrepreneurs/30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - Learn Python for the next 30 (or so) Days.
@@ -979,7 +980,7 @@
 - [d3/d3-force](https://github.com/d3/d3-force) - Force-directed graph layout using velocity Verlet integration.
 - [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 - [ghostery/ghostery-extension](https://github.com/ghostery/ghostery-extension) - Ghostery Browser Extension for Firefox, Chrome, Opera and Edge
-- [hybridsjs/hybrids](https://github.com/hybridsjs/hybrids) - Extraordinary JavaScript framework with unique declarative and functional architecture
+- [hybridsjs/hybrids](https://github.com/hybridsjs/hybrids) - Extraordinary JavaScript UI framework with unique declarative and functional architecture
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [framework7io/framework7-website](https://github.com/framework7io/framework7-website) - Framework7 website for contributing and offline usage
 - [mavoweb/mavo](https://github.com/mavoweb/mavo) - Create web applications entirely by writing HTML and CSS!
@@ -1758,7 +1759,7 @@
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
 - [HelioSilva/Whatsapp-bot-NodeJS](https://github.com/HelioSilva/Whatsapp-bot-NodeJS) - Whatsapp bot para delivery de uma lanchonete usando NodeJS.
 - [nhn/toast-ui.doc](https://github.com/nhn/toast-ui.doc) - 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2022)
 - [CodAffection/Angular-7-Master-Detail-CRUD-with-Web-API](https://github.com/CodAffection/Angular-7-Master-Detail-CRUD-with-Web-API) - Angular 7 Master Detail CRUD with Web API
 - [phonegap/phonegap-mobile-accessibility](https://github.com/phonegap/phonegap-mobile-accessibility) - PhoneGap plugin to expose mobile accessibility APIs.
 - [techiediaries/fake-api-jwt-json-server](https://github.com/techiediaries/fake-api-jwt-json-server) - A Fake API with JWT Authentication using json-server and jsonwebtoken
@@ -2014,7 +2015,6 @@
 - [mozilla/TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
 - [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
 - [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Free Data Engineering course!
-- [GusFurtado/DadosAbertosBrasil](https://github.com/GusFurtado/DadosAbertosBrasil) - Pacote Python para acesso a dados abertos e APIs do governo brasileiro.
 - [dadosgovbr/catalogos-dados-brasil](https://github.com/dadosgovbr/catalogos-dados-brasil) - Mapeamento de iniciativas (e catálogos) de dados abertos governamentais no Brasil.
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [3778/COVID-19](https://github.com/3778/COVID-19) - Ciência de Dados aplicada à pandemia do novo coronavírus.
@@ -2074,6 +2074,7 @@
 
 ## Others 
 
+- [FriendsOfCake/awesome-cakephp](https://github.com/FriendsOfCake/awesome-cakephp) - A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 - [postmanlabs/postman-flows](https://github.com/postmanlabs/postman-flows) - We're maintaining this repo to share the progress of Flows publicly and get feedback at the same time.
 - [app-generator/admin-dashboards](https://github.com/app-generator/admin-dashboards) - Admin Dashboards - Open-Source and Free | AppSeed
 - [learn-co-curriculum/wsl-setup](https://github.com/learn-co-curriculum/wsl-setup) - Instructions on how to set up a development environment on Windows Subsystem for Linux
@@ -2188,7 +2189,7 @@
 - [trungk18/front-end-editorial-style-guide](https://github.com/trungk18/front-end-editorial-style-guide) - A style guide on the standard format, spelling, and construction of commonly used words and phrases. For clarity and consistency of our internal and external communications – from our user interface t
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 - [frontendbr/open-source](https://github.com/frontendbr/open-source) - Quer uma ajuda para seu projeto? Crie uma issue!
-- [felipefialho/frontend-challenges](https://github.com/felipefialho/frontend-challenges) - :boom: Listing some playful open-source's challenges of companies to test your knowledge
+- [felipefialho/frontend-challenges](https://github.com/felipefialho/frontend-challenges) - A public list of open-source challenges from companies around the world
 - [maziarraissi/Applied-Deep-Learning](https://github.com/maziarraissi/Applied-Deep-Learning) - Applied Deep Learning Course
 - [mbiesiad/awesome-translations](https://github.com/mbiesiad/awesome-translations) - 😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍
 - [accelerated-text/awesome-nlg](https://github.com/accelerated-text/awesome-nlg) - A curated list of resources dedicated to Natural Language Generation (NLG)
@@ -2270,6 +2271,8 @@
 
 ## PHP 
 
+- [firebase/php-jwt](https://github.com/firebase/php-jwt) - PHP package for JWT
+- [croogo/croogo](https://github.com/croogo/croogo) - A CakePHP powered Content Management System
 - [nuwave/lighthouse](https://github.com/nuwave/lighthouse) - A framework for serving GraphQL from Laravel
 - [oscarotero/Embed](https://github.com/oscarotero/Embed) - Get info from any web service or page
 - [contao/contao](https://github.com/contao/contao) - Contao Open Source CMS
@@ -2646,6 +2649,7 @@
 - [Ra-Na/GTranslate-strings-xml](https://github.com/Ra-Na/GTranslate-strings-xml) - Creats a strings.xml file by Google auto-translating an input strings.xml file
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [GusFurtado/DAB-Apps](https://github.com/GusFurtado/DAB-Apps) - Aplicações de exemplo utilizando o pacote DadosAbertosBrasil
+- [GusFurtado/DadosAbertosBrasil](https://github.com/GusFurtado/DadosAbertosBrasil) - Pacote Python para acesso a dados abertos e APIs do governo brasileiro.
 - [ansible/galaxy](https://github.com/ansible/galaxy) - Source code behind the Galaxy hub at http://galaxy.ansible.com
 - [robertjkeck2/AutoCaller](https://github.com/robertjkeck2/AutoCaller) - Automated call and text service powered by Twilio
 - [marcodiiga/aws-sam-cli](https://github.com/marcodiiga/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
@@ -2913,6 +2917,9 @@
 
 ## TypeScript 
 
+- [roldanjr/pomatez](https://github.com/roldanjr/pomatez) - Stay Focused. Take a Break.
+- [benji6/virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) - :notes: Library for declaratively manipulating the Web Audio API
+- [chrisguest75/github-of-life](https://github.com/chrisguest75/github-of-life) - game-of-life in github colours
 - [notiz-dev/nestjs-prisma-starter](https://github.com/notiz-dev/nestjs-prisma-starter) - Starter template for NestJS 😻 includes GraphQL with Prisma Client, Passport-JWT authentication, Swagger Api and Docker
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
@@ -3545,6 +3552,7 @@
 
 ## Vue 
 
+- [metalsadman/quasar-laravel](https://github.com/metalsadman/quasar-laravel) - Cloned from https://github.com/impxd/laravel-quasar-pwa-template
 - [bagisto/laravel-pwa](https://github.com/bagisto/laravel-pwa) - Transform your website like Mobile Application while having full functionality of the website using Laravel PWA
 - [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX.
 - [AykutSarac/chatify](https://github.com/AykutSarac/chatify) - 💬 Realtime Chat application made with Vue 3, Fastify and WebSocket.

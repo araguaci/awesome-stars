@@ -724,6 +724,8 @@
 
 ## JavaScript 
 
+- [React-Proto/react-proto](https://github.com/React-Proto/react-proto) - :art: React application prototyping tool for developers and designers :building_construction:
+- [benji6/andromeda](https://github.com/benji6/andromeda) - :musical_keyboard: Make Music In Your Browser!
 - [akitaonrails/akitando_episode_0118](https://github.com/akitaonrails/akitando_episode_0118) - examples to illustrate my YouTube channel's episode 118 about Databases
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS node.
@@ -1835,7 +1837,7 @@
 - [tediousjs/node-mssql](https://github.com/tediousjs/node-mssql) - Microsoft SQL Server client for Node.js
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake & DB2
 - [EmailThis/extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) - ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - 📷 Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
@@ -2551,7 +2553,7 @@
 - [RamonSilva20/mapos](https://github.com/RamonSilva20/mapos) - Sistema de Controle de Ordens de Serviço
 - [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. 
 - [sciactive/hookphp](https://github.com/sciactive/hookphp) - Method hooking in PHP.
-- [walkor/workerman](https://github.com/walkor/workerman) - An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. PHP&gt;=5.3.
+- [walkor/workerman](https://github.com/walkor/workerman) - An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. PHP&gt;=5.4.
 - [php-api-clients/supervisord](https://github.com/php-api-clients/supervisord) - Async first supervisord HTTP API Client for PHP 7
 - [reactphp/socket](https://github.com/reactphp/socket) - Async, streaming plaintext TCP/IP and secure TLS socket server and client connections for ReactPHP.
 - [danielstjules/Stringy](https://github.com/danielstjules/Stringy) - A PHP string manipulation library with multibyte support
@@ -2917,6 +2919,9 @@
 
 ## TypeScript 
 
+- [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
+- [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex hackable website builder
+- [pbeshai/use-query-params](https://github.com/pbeshai/use-query-params) - React Hook for managing state in URL query parameters with easy serialization.
 - [roldanjr/pomatez](https://github.com/roldanjr/pomatez) - Stay Focused. Take a Break.
 - [benji6/virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) - :notes: Library for declaratively manipulating the Web Audio API
 - [chrisguest75/github-of-life](https://github.com/chrisguest75/github-of-life) - game-of-life in github colours
@@ -3097,7 +3102,7 @@
 - [maykbrito/ts-proxy-server](https://github.com/maykbrito/ts-proxy-server) - Boilerplate API proxy server to hide API keys, adding rate limit and cache. See it working at https://github.com/maykbrito/openweather-example
 - [maykbrito/openweather-example](https://github.com/maykbrito/openweather-example) - test to using the API proxy server template &gt;&gt; https://github.com/maykbrito/ts-proxy-server
 - [Vestride/react-stacked-elements](https://github.com/Vestride/react-stacked-elements) - Toggle the visibility of two elements without removing them from the document layout
-- [bytedance/bytemd](https://github.com/bytedance/bytemd) - A hackable Markdown editor component
+- [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown editor and viewer
 - [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
 - [shikijs/twoslash](https://github.com/shikijs/twoslash) - You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples

@@ -165,6 +165,8 @@
 
 ## C++ 
 
+- [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
+- [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
 - [dotnet/diagnostics](https://github.com/dotnet/diagnostics) - This repository contains the source code for various .NET Core runtime diagnostic tools and documents.
 - [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
 - [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
@@ -724,6 +726,7 @@
 
 ## JavaScript 
 
+- [daniloab/rbaf-graphql-api](https://github.com/daniloab/rbaf-graphql-api) - Backend GraphQL Server.
 - [React-Proto/react-proto](https://github.com/React-Proto/react-proto) - :art: React application prototyping tool for developers and designers :building_construction:
 - [benji6/andromeda](https://github.com/benji6/andromeda) - :musical_keyboard: Make Music In Your Browser!
 - [akitaonrails/akitando_episode_0118](https://github.com/akitaonrails/akitando_episode_0118) - examples to illustrate my YouTube channel's episode 118 about Databases
@@ -1599,7 +1602,6 @@
 - [JabRef/cloudref](https://github.com/JabRef/cloudref) - CloudRef - collaboratively managing references in the cloud
 - [drichard/mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application leveraging HTML5 technologies
 - [jonmiles/bootstrap-treeview](https://github.com/jonmiles/bootstrap-treeview) - Tree View for Twitter Bootstrap -
-- [react-component/tree](https://github.com/react-component/tree) - React Tree
 - [venits/react-native-map-clustering](https://github.com/venits/react-native-map-clustering) - React Native map clustering both for Android and iOS.
 - [venits/react-native-login-template](https://github.com/venits/react-native-login-template) - Simple login template for React Native.
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
@@ -2076,6 +2078,9 @@
 
 ## Others 
 
+- [kleiton0x00/CORS-one-liner](https://github.com/kleiton0x00/CORS-one-liner) - A one liner Bash command which finds CORS in every possible endpoint.
+- [kleiton0x00/Advanced-SQL-Injection-Cheatsheet](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet) - A cheat sheet that contains advanced queries for SQL Injection of all types.
+- [arainho/awesome-api-security](https://github.com/arainho/awesome-api-security) - A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.
 - [FriendsOfCake/awesome-cakephp](https://github.com/FriendsOfCake/awesome-cakephp) - A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 - [postmanlabs/postman-flows](https://github.com/postmanlabs/postman-flows) - We're maintaining this repo to share the progress of Flows publicly and get feedback at the same time.
 - [app-generator/admin-dashboards](https://github.com/app-generator/admin-dashboards) - Admin Dashboards - Open-Source and Free | AppSeed
@@ -2273,6 +2278,10 @@
 
 ## PHP 
 
+- [scoumbourdis/grocery-crud](https://github.com/scoumbourdis/grocery-crud) - Grocery CRUD is a PHP Codeigniter Framework library that creates a full functional CRUD system without the requirement of extra customisation to the JavaScripts or the CSS to do it so.
+- [kirilkirkov/Ecommerce-CodeIgniter-Bootstrap](https://github.com/kirilkirkov/Ecommerce-CodeIgniter-Bootstrap) - Responsive, Multi-Vendor, MultiLanguage Online Store Platform (shopping cart solution)
+- [apigee/apigee-client-php](https://github.com/apigee/apigee-client-php) - Client library to make API calls to Apigee Edge Management API
+- [code-boxx/invoicr](https://github.com/code-boxx/invoicr) - Invoicr is a free and open-source PHP invoice generator that is capable of churning out HTML, PDF, and DOCX invoices.
 - [firebase/php-jwt](https://github.com/firebase/php-jwt) - PHP package for JWT
 - [croogo/croogo](https://github.com/croogo/croogo) - A CakePHP powered Content Management System
 - [nuwave/lighthouse](https://github.com/nuwave/lighthouse) - A framework for serving GraphQL from Laravel
@@ -2820,6 +2829,7 @@
 
 ## Shell 
 
+- [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - DreamFactory API Management Platform
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [huogerac/dev-tools](https://github.com/huogerac/dev-tools) - 
@@ -2919,6 +2929,7 @@
 
 ## TypeScript 
 
+- [daniloab/graphql-real-world-server](https://github.com/daniloab/graphql-real-world-server) - Nodejs GraphQL server that represents the talk built for Paraiba.js edition https://daniloab.github.io/graphql-real-world/#0
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex hackable website builder
 - [pbeshai/use-query-params](https://github.com/pbeshai/use-query-params) - React Hook for managing state in URL query parameters with easy serialization.
@@ -3050,14 +3061,14 @@
 - [nextauthjs/next-auth-example](https://github.com/nextauthjs/next-auth-example) - Example showing how to use NextAuth.js with Next.js
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source Airtable-like UI for your database and to build serverless cloud functions visually in the context of your data.⚡️✨
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source low-code platform for your backend. Airtable-like UI for your database meets cloud functions workflows, all in your browser ⚡️✨ Code in JS/TS, use any NPM, API.
 - [onderceylan/pwa-workshop-angular-firebase](https://github.com/onderceylan/pwa-workshop-angular-firebase) - Build a production ready PWA with Angular and Firebase! This workshop consists of multiple steps for producing a PWA by transforming a regular web app - Ionic Conference App into a PWA, finally deploy
 - [onderceylan/pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator) - Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated i
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
 - [youzan/vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
 - [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
 - [Dhaiwat10/react-link-preview](https://github.com/Dhaiwat10/react-link-preview) - A React library that generates beautiful previews for your links.
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [intlify/vue-i18n-next](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3
 - [antfu/vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA for Vite
 - [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar) - ⚡ Explore high-performance tooling for Vue
@@ -3340,6 +3351,7 @@
 - [fullcalendar/fullcalendar-scheduler](https://github.com/fullcalendar/fullcalendar-scheduler) - FullCalendar add-on for displaying events and resources
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [ondras/my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
+- [react-component/tree](https://github.com/react-component/tree) - React Tree
 - [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library) - 🦉 Simple and complete React Native testing utilities that encourage good testing practices.
 - [callstack/react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
 - [venits/react-native-firebase-login-template-typescript](https://github.com/venits/react-native-firebase-login-template-typescript) - React Native Login Template with Firebase Authorization and Typescript support.

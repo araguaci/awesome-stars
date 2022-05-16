@@ -38,6 +38,7 @@
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
+- [PLSQL](#plsql)
 - [Pascal](#pascal)
 - [PostScript](#postscript)
 - [PowerShell](#powershell)
@@ -107,6 +108,7 @@
 
 ## C# # 
 
+- [MvvmCross/MvvmCross](https://github.com/MvvmCross/MvvmCross) - The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
 - [nager/Nager.Date](https://github.com/nager/Nager.Date) - :earth_americas: Worldwide public holiday (REST API)
 - [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 6, Docker Containers and Azure Kubernetes Services. Supports Visual Studi
 - [TelegramBots/Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - .NET Client for Telegram Bot API
@@ -465,6 +467,7 @@
 
 ## HTML 
 
+- [davidstutz/bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect) - JQuery multiselect plugin based on Twitter Bootstrap.
 - [chrisguest75/docker_build_examples](https://github.com/chrisguest75/docker_build_examples) - Tests, tricks, tips and examples of Docker builds.
 - [willianjusten/will-jekyll-template](https://github.com/willianjusten/will-jekyll-template) - A simple Jekyll theme.
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
@@ -726,6 +729,12 @@
 
 ## JavaScript 
 
+- [cloudflare/workers-graphql-server](https://github.com/cloudflare/workers-graphql-server) - 🔥Lightning-fast, globally distributed Apollo GraphQL server, deployed at the edge using Cloudflare Workers
+- [snapappointments/bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
+- [selectize/selectize.js](https://github.com/selectize/selectize.js) - Selectize is the hybrid of a textbox and &lt;select&gt; box. It's jQuery based, and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
+- [riophae/vue-treeselect](https://github.com/riophae/vue-treeselect) - A multi-select component with nested options support for Vue.js
+- [atulmy/oauth](https://github.com/atulmy/oauth) - 🔗  OAuth 2.0 implementation for various providers in one place.
+- [sebhildebrandt/systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS
 - [daniloab/rbaf-graphql-api](https://github.com/daniloab/rbaf-graphql-api) - Backend GraphQL Server.
 - [React-Proto/react-proto](https://github.com/React-Proto/react-proto) - :art: React application prototyping tool for developers and designers :building_construction:
 - [benji6/andromeda](https://github.com/benji6/andromeda) - :musical_keyboard: Make Music In Your Browser!
@@ -2078,6 +2087,10 @@
 
 ## Others 
 
+- [kevleyski/webrtc](https://github.com/kevleyski/webrtc) - WebRTC Development
+- [nimblenote/nimblenote](https://github.com/nimblenote/nimblenote) - Simple keyboard-driven note taking application for macOS, Linux and Windows.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - Building the homepage every developer deserves 👩🏽‍💻 👨‍💻
 - [kleiton0x00/CORS-one-liner](https://github.com/kleiton0x00/CORS-one-liner) - A one liner Bash command which finds CORS in every possible endpoint.
 - [kleiton0x00/Advanced-SQL-Injection-Cheatsheet](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet) - A cheat sheet that contains advanced queries for SQL Injection of all types.
 - [arainho/awesome-api-security](https://github.com/arainho/awesome-api-security) - A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.
@@ -2573,6 +2586,10 @@
 - [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
 - [Automattic/jetpack](https://github.com/Automattic/jetpack) - Security, performance, marketing, and design tools — Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic.
 
+## PLSQL 
+
+- [chinnonsantos/sql-paises-estados-cidades](https://github.com/chinnonsantos/sql-paises-estados-cidades) - SQL de todos os Países e Nações (c/ Código do Portal do Comércio Exterior ou BACEN) + Estados e Federações Brasileiras (c/ DDD e Código do IBGE) + Cidades e Municípios Brasileiros (c/ Código do IBGE),
+
 ## Pascal 
 
 - [HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL and SQLite, written in Delphi
@@ -2929,6 +2946,20 @@
 
 ## TypeScript 
 
+- [nuxt-community/html-validator-module](https://github.com/nuxt-community/html-validator-module) - HTML validation for Nuxt
+- [atulmy/gql-query-builder](https://github.com/atulmy/gql-query-builder) - 🔧 Simple GraphQL Query Builder
+- [useAnimations/react-useanimations](https://github.com/useAnimations/react-useanimations) - React-useanimations is a collection of free animated open source icons for React.js.
+- [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
+- [dotansimha/graphql-yoga](https://github.com/dotansimha/graphql-yoga) - 🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements W3C Fetch API and can run/deploy on any JS environment.
+- [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components) - Spectrum Web Components
+- [ozanturhan/trend-repositories](https://github.com/ozanturhan/trend-repositories) - Github Trend Repositories
+- [RStankov/FocusedTask](https://github.com/RStankov/FocusedTask) - MacOS menu bar todo app built with Electron, React and Redux. It goals is to help you do deep work.
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [vandreleal/sentineo](https://github.com/vandreleal/sentineo) - 🌌 SentiNEO: Near-Earth Objects Viewer
+- [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
+- [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
+- [amilajack/erb-sqlite-example](https://github.com/amilajack/erb-sqlite-example) - An example of erb with native dependencies (sqlite3 in this case)
+- [vuepress/vuepress-next](https://github.com/vuepress/vuepress-next) - Repo for VuePress 2
 - [daniloab/graphql-real-world-server](https://github.com/daniloab/graphql-real-world-server) - Nodejs GraphQL server that represents the talk built for Paraiba.js edition https://daniloab.github.io/graphql-real-world/#0
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex hackable website builder

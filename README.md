@@ -417,12 +417,12 @@
 - [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed hybrid transaction/analytical  database compatible with the MySQL protocol
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/signup
 - [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
-- [livekit/livekit-server](https://github.com/livekit/livekit-server) - Scalable, high-performance WebRTC SFU. SDKs in JS, React, Flutter, Swift, Kotlin, Go, Ruby and Node.
+- [livekit/livekit](https://github.com/livekit/livekit) - Scalable, high-performance WebRTC SFU. SDKs in JavaScript, React, React Native, Flutter, Swift, Kotlin, Unity/C#, Go, Ruby and Node.
 - [ttacon/libphonenumber](https://github.com/ttacon/libphonenumber) - golang port of Google's libphonenumber
 - [grafeas/grafeas](https://github.com/grafeas/grafeas) - Artifact Metadata API
 - [mgerb/ServerStatus](https://github.com/mgerb/ServerStatus) - A Discord bot to display the status of servers.
@@ -454,6 +454,7 @@
 - [apex/gh-polls](https://github.com/apex/gh-polls) - Polls for user feedback in GitHub issues
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
 - [docker/machine](https://github.com/docker/machine) - Machine management for a container-centric world
+- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
@@ -730,6 +731,13 @@
 
 ## JavaScript 
 
+- [symfony/webpack-encore](https://github.com/symfony/webpack-encore) - A simple but powerful API for processing & compiling assets built around Webpack
+- [8bitpress/advanced-graphql-source-code](https://github.com/8bitpress/advanced-graphql-source-code) - Complete project files for the Advanced GraphQL with Apollo & React book
+- [bradtraversy/mern-tutorial](https://github.com/bradtraversy/mern-tutorial) - Goalsetter application from Youtube series
+- [jaredwray/keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends
+- [zuixjs/web-app](https://github.com/zuixjs/web-app) - Component based web app template with side drawer, Material Design UI, FAB menu and more...
+- [zuixjs/zuix-html-pwa](https://github.com/zuixjs/zuix-html-pwa) - Progressive Web App template with a responsive, touch-first layout.
+- [Simicart/siminia-public](https://github.com/Simicart/siminia-public) - Simicart Siminia project public repository
 - [cloudflare/workers-graphql-server](https://github.com/cloudflare/workers-graphql-server) - 🔥Lightning-fast, globally distributed Apollo GraphQL server, deployed at the edge using Cloudflare Workers
 - [snapappointments/bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
 - [selectize/selectize.js](https://github.com/selectize/selectize.js) - Selectize is the hybrid of a textbox and &lt;select&gt; box. It's jQuery based, and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
@@ -1637,7 +1645,6 @@
 - [web-pal/chronos-timetracker](https://github.com/web-pal/chronos-timetracker) - Desktop client for JIRA. Track time, upload worklogs without a hassle.
 - [danielbayerlein/dashboard](https://github.com/danielbayerlein/dashboard) - 📺 Create your own team dashboard with custom widgets. Built with Next.js, React, styled-components and polished.
 - [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
-- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [docker/getting-started](https://github.com/docker/getting-started) - Getting started with Docker
 - [dart-lang/site-www](https://github.com/dart-lang/site-www) - Source for Dart website
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
@@ -1671,7 +1678,6 @@
 - [JasonEtco/todo](https://github.com/JasonEtco/todo) - 🤖✅ GitHub App that creates new issues from actionable comments in your code.
 - [csorlandi/app-tipo-ifood](https://github.com/csorlandi/app-tipo-ifood) - 
 - [fisshy/react-scroll](https://github.com/fisshy/react-scroll) - React scroll component
-- [jpedroschmitz/gatsby-starter-ts](https://github.com/jpedroschmitz/gatsby-starter-ts) - TypeScript starter for Gatsby. No plugins and styling. Exactly the necessary to start. Ready for Gatsby v4 🔥
 - [jpedroschmitz/gatsby-starter-rocketdocs](https://github.com/jpedroschmitz/gatsby-starter-rocketdocs) - The documentation starter you were looking for ⚡️
 - [jpedroschmitz/rocketdocs](https://github.com/jpedroschmitz/rocketdocs) - Easy to use Gatsby Theme to create documentation websites ⚡️🔥
 - [barisesen/github-timeline](https://github.com/barisesen/github-timeline) - View other users' timeline
@@ -2176,7 +2182,7 @@
 - [OtacilioN/OtacilioN](https://github.com/OtacilioN/OtacilioN) - 
 - [OtacilioN/awesome-hacktoberfest-plant-a-tree](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree) - Will you choose the :sparkles: Hacktoberfest t-shirt :sparkles: but don't want to stop contributing to the environment and a sustainable future? Find an organization here so you can plant a tree! :see
 - [OtacilioN/awesome-hacktoberfest-2021](https://github.com/OtacilioN/awesome-hacktoberfest-2021) - A curated list of awesome Hacktoberfest 2021 repositories, guides and resources
-- [jesherdevsk8/Comandos-Git](https://github.com/jesherdevsk8/Comandos-Git) - Anotações de comandos Git
+- [jesherdevsk8/comandos-git](https://github.com/jesherdevsk8/comandos-git) - Anotações de comandos Git
 - [dgtlmoon/awesome-website-change-monitoring](https://github.com/dgtlmoon/awesome-website-change-monitoring) - A curated list of awesome tools for website diffing and change monitoring.
 - [react-brasil/empresas-que-usam-react-no-brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil) - Repositório que mostra empresas e projetos que utilizam React no Brasil
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
@@ -2291,6 +2297,8 @@
 
 ## PHP 
 
+- [symfony/console](https://github.com/symfony/console) - The Console component eases the creation of beautiful and testable command line interfaces.
+- [RobDWaller/ReallySimpleJWT](https://github.com/RobDWaller/ReallySimpleJWT) - A really simple library to generate JSON Web Tokens in PHP.
 - [scoumbourdis/grocery-crud](https://github.com/scoumbourdis/grocery-crud) - Grocery CRUD is a PHP Codeigniter Framework library that creates a full functional CRUD system without the requirement of extra customisation to the JavaScripts or the CSS to do it so.
 - [kirilkirkov/Ecommerce-CodeIgniter-Bootstrap](https://github.com/kirilkirkov/Ecommerce-CodeIgniter-Bootstrap) - Responsive, Multi-Vendor, MultiLanguage Online Store Platform (shopping cart solution)
 - [apigee/apigee-client-php](https://github.com/apigee/apigee-client-php) - Client library to make API calls to Apigee Edge Management API
@@ -2625,6 +2633,7 @@
 
 ## Python 
 
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [dogsheep/github-to-sqlite](https://github.com/dogsheep/github-to-sqlite) - Save data from GitHub to a SQLite database
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
@@ -2947,6 +2956,7 @@
 
 ## TypeScript 
 
+- [YeonV/Vitron](https://github.com/YeonV/Vitron) - ⚡Vite + :electron: Electron
 - [ngxs/store](https://github.com/ngxs/store) - 🚀 NGXS - State Management for Angular
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [nuxt-community/html-validator-module](https://github.com/nuxt-community/html-validator-module) - HTML validation for Nuxt
@@ -3408,7 +3418,7 @@
 - [softsimon/ngx-bootstrap-multiselect](https://github.com/softsimon/ngx-bootstrap-multiselect) - Angular 9+ Dropdown Multiselect Bootstrap
 - [ng-bootstrap/ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular powered Bootstrap
 - [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open-Source Business Management Platform (ERP/CRM/HRM)
-- [datorama/akita](https://github.com/datorama/akita) - 🚀 State Management Tailored-Made for JS Applications
+- [salesforce/akita](https://github.com/salesforce/akita) - 🚀 State Management Tailored-Made for JS Applications
 - [trungk18/angular-tetris](https://github.com/trungk18/angular-tetris) - Tetris game built with Angular 10 and Akita 🎮
 - [mgechev/guess-angular](https://github.com/mgechev/guess-angular) - 
 - [guess-js/guess](https://github.com/guess-js/guess) - 🔮 Libraries & tools for enabling Machine Learning driven user-experiences on the web
@@ -3427,6 +3437,7 @@
 - [microsoft/opensource-management-portal](https://github.com/microsoft/opensource-management-portal) - Microsoft's monolithic GitHub Management Portal enabling enterprise scale self-service powered by the GitHub API 🏔🧑‍💻🧰
 - [eugustavo/github-badges](https://github.com/eugustavo/github-badges) - Application made to create badges for your readme 📑
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) - Non-opinionated TypeScript starter for Next.js. All the tools you need to build your next project ⚡️
+- [jpedroschmitz/gatsby-starter-ts](https://github.com/jpedroschmitz/gatsby-starter-ts) - TypeScript starter for Gatsby. No plugins and styling. Exactly the necessary to start. Ready for Gatsby v4 🔥
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [pocka/storybook-addon-designs](https://github.com/pocka/storybook-addon-designs) - A Storybook addon that embeds Figma, websites, or images in the addon panel.
 - [pocka/storybook-addon-vue-info](https://github.com/pocka/storybook-addon-vue-info) - Info addon for Vue components

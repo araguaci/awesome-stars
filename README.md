@@ -2961,6 +2961,7 @@
 
 ## TypeScript 
 
+- [cedoor/mindmapp](https://github.com/cedoor/mindmapp) - :rocket: Web application to draw mind maps.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  End-to-end typesafe APIs made easy
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
 - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.

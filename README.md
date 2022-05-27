@@ -478,7 +478,6 @@
 - [codingforentrepreneurs/30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - Learn Python for the next 30 (or so) Days.
 - [StartPolymer/progressive-web-app-template](https://github.com/StartPolymer/progressive-web-app-template) - Starting point for building Progressive Web Apps PWA based on Polymer with motto #UseThePlatform.
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and powerful Jekyll theme for presenting professional writing
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [i18next/i18next-gitbook](https://github.com/i18next/i18next-gitbook) - 
 - [tuhinpal/dynamic-image](https://github.com/tuhinpal/dynamic-image) - Dynamically generate images for open-graph or website
 - [CodinGame/codingame-game-engine](https://github.com/CodinGame/codingame-game-engine) - CodinGame Engine
@@ -734,6 +733,7 @@
 
 ## JavaScript 
 
+- [YeonV/LedFx-Frontend-v2](https://github.com/YeonV/LedFx-Frontend-v2) - 
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [jonathontoon/manifest](https://github.com/jonathontoon/manifest) - An instant grid-based pinboard for note taking in your browser.
@@ -1032,7 +1032,7 @@
 - [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - Customization-first, performance-oriented and elegant UI framework for eCommerce (and not only) based on Vue.js and Google Retail UX Playbook. Made with 💚 by Vue Storefront team and contributors.
 - [pat310/google-trends-api](https://github.com/pat310/google-trends-api) - An API layer on top of google trends
 - [chrisrzhou/react-globe](https://github.com/chrisrzhou/react-globe) - Create beautiful and interactive React + ThreeJS globe visualizations with ease.
-- [uinix-js/uinix-ui](https://github.com/uinix-js/uinix-ui) - A minimal framework-agnostic UI system to build UI systems.  Your system, your rules 🤘.
+- [uinix-js/uinix-ui](https://github.com/uinix-js/uinix-ui) - A minimal framework-agnostic and configurable UI system to build UI systems. Your system your rules 🤘.
 - [chrisrzhou/google-globe-trends](https://github.com/chrisrzhou/google-globe-trends) - Create beautiful and interactive Google Trends globe visualizations with ease
 - [chrisrzhou/react-wordcloud](https://github.com/chrisrzhou/react-wordcloud) - ☁️ Simple React + D3 wordcloud component with powerful features.
 - [timdream/wordcloud2.js](https://github.com/timdream/wordcloud2.js) - Tag cloud/Wordle presentation on 2D canvas or HTML
@@ -2109,7 +2109,7 @@
 - [kevleyski/webrtc](https://github.com/kevleyski/webrtc) - WebRTC Development
 - [nimblenote/nimblenote](https://github.com/nimblenote/nimblenote) - Simple keyboard-driven note taking application for macOS, Linux and Windows.
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - Building the homepage every developer deserves 👩🏽‍💻 👨‍💻
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is where developers grow together 👩🏽‍💻 👨‍💻
 - [kleiton0x00/CORS-one-liner](https://github.com/kleiton0x00/CORS-one-liner) - A one liner Bash command which finds CORS in every possible endpoint.
 - [kleiton0x00/Advanced-SQL-Injection-Cheatsheet](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet) - A cheat sheet that contains advanced queries for SQL Injection of all types.
 - [arainho/awesome-api-security](https://github.com/arainho/awesome-api-security) - A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.
@@ -2542,7 +2542,7 @@
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
 - [desenvolvimento-web/crud-php](https://github.com/desenvolvimento-web/crud-php) - Exemplo de aplicação CRUD usando PHP puro, sem bibliotecas ou frameworks.
 - [wikimedia/mediawiki-extensions-GoogleLogin](https://github.com/wikimedia/mediawiki-extensions-GoogleLogin) - Github mirror of  MediaWiki extension GoogleLogin - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
-- [overtrue/socialite](https://github.com/overtrue/socialite) - :octocat: Socialite is an OAuth2 Authentication tool. It is inspired by laravel/socialite, you can easily use it without Laravel.
+- [overtrue/socialite](https://github.com/overtrue/socialite) - Socialite is an OAuth2 Authentication tool. It is inspired by laravel/socialite, you can easily use it without Laravel.
 - [GregMage/xmdoc](https://github.com/GregMage/xmdoc) - Module complémentaire à d'autres modules pour attacher tout type de fichiers
 - [opensource-socialnetwork/opensource-socialnetwork](https://github.com/opensource-socialnetwork/opensource-socialnetwork) - Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people who s
 - [rlerdorf/opcache-status](https://github.com/rlerdorf/opcache-status) - A one-page opcache status page
@@ -2972,6 +2972,9 @@
 
 ## TypeScript 
 
+- [hodgef/PRSS](https://github.com/hodgef/PRSS) - Build blazing fast blogs, documentation sites, showcases and more.
+- [digital-loukoum/gravity](https://github.com/digital-loukoum/gravity) - Next-generation backend framework with isomorphic capacities
+- [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [samuelmaddock/electron-browser-shell](https://github.com/samuelmaddock/electron-browser-shell) - A minimal, tabbed web browser with support for Chrome extensions—built on Electron.
 - [electron-userland/electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [cedoor/mindmapp](https://github.com/cedoor/mindmapp) - :rocket: Web application to draw mind maps.
@@ -3015,6 +3018,7 @@
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [Urigo/SOFA](https://github.com/Urigo/SOFA) - The best way to create REST APIs - Generate RESTful APIs from your GraphQL Server
 - [fatihsolhan/r-onboarding](https://github.com/fatihsolhan/r-onboarding) - r-onboarding is a super-slim, fully-typed onboarding component for React
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [gobeam/truthy](https://github.com/gobeam/truthy) - Open source headless CMS API written using NestJS, that has pre built modules like User Management, Role Management, Permission Management, Email Module, Account Settings, OTP, Throttling, RBAC suppor
 - [ninest/husker](https://github.com/ninest/husker) - Useful Northeastern resources and links; a Student Hub alternative
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
@@ -3637,6 +3641,7 @@
 
 ## Vue 
 
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Aggregated set of useful tools that every developer may need once in a while.
 - [metalsadman/quasar-laravel](https://github.com/metalsadman/quasar-laravel) - Cloned from https://github.com/impxd/laravel-quasar-pwa-template
 - [bagisto/laravel-pwa](https://github.com/bagisto/laravel-pwa) - Transform your website like Mobile Application while having full functionality of the website using Laravel PWA
 - [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX.

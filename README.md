@@ -619,7 +619,6 @@
 - [parlametria/leggoR](https://github.com/parlametria/leggoR) - Acesso, tradução e modelos usando dados do congresso nacional
 - [HubSpot/cms-theme-boilerplate](https://github.com/HubSpot/cms-theme-boilerplate) - A straight-forward starting point for building a great website on the HubSpot CMS
 - [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
-- [google/WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [mdn/dom-examples](https://github.com/mdn/dom-examples) - Code examples that accompany various MDN DOM and Web API documentation pages
 - [djaiss/mapsicon](https://github.com/djaiss/mapsicon) - A free collection of maps for every country in the world, available in 11 sizes or in SVG.
 - [zenorocha/voice-elements](https://github.com/zenorocha/voice-elements) - :speaker: Web Component wrapper to the Web Speech API, that allows you to do voice recognition and speech synthesis using Polymer
@@ -774,7 +773,6 @@
 - [ssshooter/nippon-color](https://github.com/ssshooter/nippon-color) - copy nippon-color PWA build with vue-cli 3
 - [umluizlima/flask-pwa](https://github.com/umluizlima/flask-pwa) - A progressive webapp template.
 - [softvar/secure-ls](https://github.com/softvar/secure-ls) - :lock: Secure localStorage data with high level of encryption and data compression
-- [TomPrograms/stormdb](https://github.com/TomPrograms/stormdb) - 🌩️ StormDB is a tiny, lightweight, 0 dependency, easy-to-use JSON-based database for NodeJS, the browser or Electron.
 - [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
 - [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
 - [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism) - 🎉 Generate CSS for your Neumorphism/Soft UI design
@@ -1658,6 +1656,7 @@
 - [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
 - [docker/getting-started](https://github.com/docker/getting-started) - Getting started with Docker
 - [dart-lang/site-www](https://github.com/dart-lang/site-www) - Source for Dart website
+- [google/WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [jakkra/SmartMirror](https://github.com/jakkra/SmartMirror) - My MagicMirror running on a Raspberry Pi
 - [pascalopitz/unoffical-sonos-controller-for-linux](https://github.com/pascalopitz/unoffical-sonos-controller-for-linux) - An Electron based linux app for controlling your sonos system.
@@ -2972,6 +2971,8 @@
 
 ## TypeScript 
 
+- [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) - 🥳 Real simple Electron + Vite + Vue boilerplate.
+- [CorentinTh/inert](https://github.com/CorentinTh/inert) - Minimalistic tower defense in the browser entirely in typescript (no deps).
 - [hodgef/PRSS](https://github.com/hodgef/PRSS) - Build blazing fast blogs, documentation sites, showcases and more.
 - [digital-loukoum/gravity](https://github.com/digital-loukoum/gravity) - Next-generation backend framework with isomorphic capacities
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching

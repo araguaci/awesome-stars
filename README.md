@@ -180,7 +180,6 @@
 - [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
 - [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
-- [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - This repository was made to create an objective comparison of multiple framework that grant us to "transform" our web app to desktop application formats.
 - [AcademySoftwareFoundation/MaterialX](https://github.com/AcademySoftwareFoundation/MaterialX) - MaterialX is an open standard for the exchange of rich material and look-development content across applications and renderers.
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
@@ -479,6 +478,8 @@
 
 ## HTML 
 
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi or Ubuntu/Debian.
+- [akashgiricse/templates-using-bootstrap4](https://github.com/akashgiricse/templates-using-bootstrap4) - 🌆 Here I've aggregated some of the most commonly used web-page templates made using Bootstrap4 🛒
 - [jh3y/driveway](https://github.com/jh3y/driveway) - pure CSS masonry layouts
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free open source Tailwind CSS components 🐳
 - [js13kGames/resources](https://github.com/js13kGames/resources) - js13kGames Resources
@@ -538,7 +539,7 @@
 - [aliasaria/scrumblr](https://github.com/aliasaria/scrumblr) - Collaborative Online Scrum Tool Using Websockets, Node.js, jQuery, and CSS3
 - [smaranjitghose/awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites) - A community maintained open source project aimed at making a personal portfolio for researchers, developers, and analysts simple, fast, and less cumbersome. We make sure you have a full-fledged websit
 - [ira-design/ira-illustrations](https://github.com/ira-design/ira-illustrations) - Build your own amazing illustrations
-- [creativetimofficial/material-kit](https://github.com/creativetimofficial/material-kit) - Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design
+- [creativetimofficial/material-kit](https://github.com/creativetimofficial/material-kit) - Free and Open Source UI Kit for Bootstrap 5, React, Vue.js, React Native and Sketch based on Google's Material Design
 - [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [Script47/Toast](https://github.com/Script47/Toast) - A Bootstrap 4.2+ jQuery plugin for the toast component
 - [symbol/symbol-docs](https://github.com/symbol/symbol-docs) - Open-source documentation of Symbol
@@ -748,6 +749,12 @@
 
 ## JavaScript 
 
+- [lukechilds/reverse-shell](https://github.com/lukechilds/reverse-shell) - Reverse Shell as a Service
+- [manuarora700/simple-developer-portfolio-website](https://github.com/manuarora700/simple-developer-portfolio-website) - ✈️ A simple portfolio for developers to showcase their skills and projects. Blog and tutorial at freeCodeCamp.
+- [manuarora700/100-days-interview-preparation](https://github.com/manuarora700/100-days-interview-preparation) - ⚡️ 100 Days of DS Algo for interview preparation (C++ and Javascript)
+- [manuarora700/react-code-editor](https://github.com/manuarora700/react-code-editor) - 💻 Build your own code editor that compiles and runs 40+ programming languages.
+- [Elringus/DotNetJS](https://github.com/Elringus/DotNetJS) - Consume C# in JavaScript with comfort: single-file UMD library, auto-generated 2-way bindings and type definitions
+- [kamranahmedse/jquery-toast-plugin](https://github.com/kamranahmedse/jquery-toast-plugin) - Highly customizable jquery plugin to show toast messages
 - [danileao/rocketmusic](https://github.com/danileao/rocketmusic) - 
 - [plonegovbr/plone.org.br](https://github.com/plonegovbr/plone.org.br) - Site da comunidade brasileira de Plone
 - [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language.
@@ -851,6 +858,7 @@
 - [kimlimjustin/google-keep-clone](https://github.com/kimlimjustin/google-keep-clone) - Clone of Google Keep built using Django and Javascript
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [ArchiveBox/electron-archivebox](https://github.com/ArchiveBox/electron-archivebox) - Desktop Electron app for ArchiveBox internet archiver. (ALPHA: not ready for general use)
+- [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - This repository was made to create an objective comparison of multiple framework that grant us to "transform" our web app to desktop application formats.
 - [cardano-foundation/developer-portal](https://github.com/cardano-foundation/developer-portal) - The Cardano Developer Portal
 - [nextauthjs/next-auth-gatsby-example](https://github.com/nextauthjs/next-auth-gatsby-example) - Example showing how to use NextAuth.js with Gatsby
 - [sdras/vue-vscode-snippets](https://github.com/sdras/vue-vscode-snippets) - These snippets were built to supercharge my workflow in the most seamless manner possible.
@@ -1638,6 +1646,7 @@
 - [cambecc/earth](https://github.com/cambecc/earth) - a project to visualize global weather conditions
 - [kenshoo/react-multi-select](https://github.com/kenshoo/react-multi-select) - A Multi Select component built with and for React
 - [cassidoo/todometer](https://github.com/cassidoo/todometer) - A meter-based to-do list
+- [stacks-network/docs](https://github.com/stacks-network/docs) - Unleash Bitcoin's full potential with decentralized apps and smart contracts. The documentation covers key aspects of the Stacks network and technology and provides tutorials and other helpful content
 - [contentful/contentful.js](https://github.com/contentful/contentful.js) - JavaScript library for Contentful's Delivery API (node & browser)
 - [ryanwiemer/subtle-ui](https://github.com/ryanwiemer/subtle-ui) - A collection of clever yet understated user interactions found on the web
 - [ryanwiemer/gatsby-starter-gcn](https://github.com/ryanwiemer/gatsby-starter-gcn) - A starter template to build amazing static websites with Gatsby, Contentful and Netlify
@@ -1833,7 +1842,7 @@
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
 - [HelioSilva/Whatsapp-bot-NodeJS](https://github.com/HelioSilva/Whatsapp-bot-NodeJS) - Whatsapp bot para delivery de uma lanchonete usando NodeJS.
 - [nhn/toast-ui.doc](https://github.com/nhn/toast-ui.doc) - 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2022)
 - [CodAffection/Angular-7-Master-Detail-CRUD-with-Web-API](https://github.com/CodAffection/Angular-7-Master-Detail-CRUD-with-Web-API) - Angular 7 Master Detail CRUD with Web API
 - [phonegap/phonegap-mobile-accessibility](https://github.com/phonegap/phonegap-mobile-accessibility) - PhoneGap plugin to expose mobile accessibility APIs.
 - [techiediaries/fake-api-jwt-json-server](https://github.com/techiediaries/fake-api-jwt-json-server) - A Fake API with JWT Authentication using json-server and jsonwebtoken
@@ -1872,7 +1881,7 @@
 - [mstijak/tdo](https://github.com/mstijak/tdo) - Keyboard driven, hackable TODO list
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [lukejacksonn/servor](https://github.com/lukejacksonn/servor) - Dependency free file server for single page app development
-- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - The tiny framework for building hypertext applications.
+- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications.
 - [lukejacksonn/perflink](https://github.com/lukejacksonn/perflink) - Low friction JavaScript benchmarks that you can share via URL
 - [lukejacksonn/react-slack-clone](https://github.com/lukejacksonn/react-slack-clone) - Complete chat application, built with Chatkit | by @lukejacksonn
 - [erikras/react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
@@ -2148,6 +2157,7 @@
 
 ## Others 
 
+- [paadevelopments/pexxalert](https://github.com/paadevelopments/pexxalert) - An advanced JavaScript alert/dialog library for all PWAs. NPM accessible.
 - [lucasgdb/useful-dev-tools](https://github.com/lucasgdb/useful-dev-tools) - :star: A list with useful tools that help many Developers. Hacktoberfest :star:
 - [sw-yx/spark-joy](https://github.com/sw-yx/spark-joy) - ✨😂 1000+ ways to add design flair, user delight, and whimsy to your product.
 - [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) - :pager: Links to others' solutions to Projects (https://github.com/karan/Projects/)
@@ -2203,7 +2213,6 @@
 - [araguaci/crux-sacra-sit-mihi-lux](https://github.com/araguaci/crux-sacra-sit-mihi-lux) - 
 - [araguaci/google-sheets-gatsby](https://github.com/araguaci/google-sheets-gatsby) - 
 - [araguaci/quasar-awesome](https://github.com/araguaci/quasar-awesome) - 🎉 A list of awesome things related to Quasar
-- [araguaci/developers-retrospective](https://github.com/araguaci/developers-retrospective) - 개발자 회고 모음
 - [araguaci/Front-End-Web-Development-Resources](https://github.com/araguaci/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
 - [araguaci/recursos-gratuitos](https://github.com/araguaci/recursos-gratuitos) - 🌈 Uma coleção com links de recursos gratuitos para desenvolvimentos e estudos.
 - [araguaci/cronograma-para-a-t1ran1a](https://github.com/araguaci/cronograma-para-a-t1ran1a) - Cronograma para Tirania
@@ -2872,7 +2881,7 @@
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 - [huytd/kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
@@ -3032,6 +3041,9 @@
 
 ## TypeScript 
 
+- [sunface/datav](https://github.com/sunface/datav) - 📊https://datav.io is a modern APM, provide observability for your business, application and infrastructure. It's also a lightweight alternative to Grafana.
+- [jsonhero-io/jsonhero-web](https://github.com/jsonhero-io/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
+- [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [danileao/permissions_users](https://github.com/danileao/permissions_users) - 
 - [lklima/rive-animated-app](https://github.com/lklima/rive-animated-app) - 
 - [sveltejs/sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
@@ -3484,7 +3496,6 @@
 - [reach/reach-ui](https://github.com/reach/reach-ui) - The Accessible Foundation for React Apps and Design Systems
 - [hirosystems/stacks-wallet](https://github.com/hirosystems/stacks-wallet) - Stacks Wallet—Send and receive STX tokens on the Stacks Blockchain.
 - [kata-ai/aksara-ui](https://github.com/kata-ai/aksara-ui) - Aksara Design System, from Kata.ai.
-- [stacks-network/docs](https://github.com/stacks-network/docs) - Unleash Bitcoin's full potential with decentralized apps and smart contracts. The documentation covers key aspects of the Stacks network and technology and provides tutorials and other helpful content
 - [LauraBeatris/floripamais](https://github.com/LauraBeatris/floripamais) - Website of the Floripa+ organization - built with Next.js and integrated with Strapi CMS
 - [Swizec/useAuth](https://github.com/Swizec/useAuth) - The simplest way to add authentication to your React app. Supports various providers.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
@@ -3721,6 +3732,7 @@
 
 ## Vue 
 
+- [getumbrel/umbrel-dashboard](https://github.com/getumbrel/umbrel-dashboard) - Web-based dashboard to interact with your Umbrel
 - [jordihales/hypercolor](https://github.com/jordihales/hypercolor) - A curated collection of beautiful premade gradients using default colors from the Tailwind palette as well as a selection of custom color gradients.
 - [zernonia/madewithsupabase](https://github.com/zernonia/madewithsupabase) - A collection of projects made with Supabase – Websites, Mobile Apps, SaaS, Plugins and more!
 - [karrot-dev/karrot-frontend](https://github.com/karrot-dev/karrot-frontend) - Karrot is a free and open-source tool for grassroots initiatives and groups of people that want to coordinate face-to-face activities on a local, autonomous and voluntary basis.
@@ -3738,7 +3750,7 @@
 - [aeksco/nuxt-netlify-lambda-starter](https://github.com/aeksco/nuxt-netlify-lambda-starter) - :hammer_and_wrench: SEO-friendly website starter backed by Netlify lambda functions in a simple, friendly repo
 - [johnpapa/heroes-vue](https://github.com/johnpapa/heroes-vue) - Tour of Heroes app written with Vue
 - [Lissy93/all-the-countries](https://github.com/Lissy93/all-the-countries) - 🌎 Just a quick app, for learning the countries and their flags
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [Gomah/bluise](https://github.com/Gomah/bluise) - 🍄   Bluise - A Nuxt.js & Netlify CMS boilerplate.
 - [GeneaLabs/nova-map-marker-field](https://github.com/GeneaLabs/nova-map-marker-field) - Provides an visual interface for editing latitude and longitude coordinates.
 - [debs-obrien/debbie.codes](https://github.com/debs-obrien/debbie.codes) - My website built in Nuxt and using Nuxt Content. Feel free to clone it and play around with it.

@@ -77,6 +77,7 @@
 
 ## C 
 
+- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 - [uber/h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system
 - [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.
@@ -749,6 +750,7 @@
 
 ## JavaScript 
 
+- [marciovsena/abibliadigital](https://github.com/marciovsena/abibliadigital) - A RESTful API for Bible
 - [lukechilds/reverse-shell](https://github.com/lukechilds/reverse-shell) - Reverse Shell as a Service
 - [manuarora700/simple-developer-portfolio-website](https://github.com/manuarora700/simple-developer-portfolio-website) - ✈️ A simple portfolio for developers to showcase their skills and projects. Blog and tutorial at freeCodeCamp.
 - [manuarora700/100-days-interview-preparation](https://github.com/manuarora700/100-days-interview-preparation) - ⚡️ 100 Days of DS Algo for interview preparation (C++ and Javascript)
@@ -2036,7 +2038,6 @@
 - [akveo/blur-admin](https://github.com/akveo/blur-admin) - AngularJS Bootstrap Admin Panel Framework
 - [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
 - [neokoenig/jQuery-gridmanager](https://github.com/neokoenig/jQuery-gridmanager) - A way of building rows and grids with built in editable regions; requires jQuery, jQueryUI, Bootstrap 3.x, & optional TinyMCE or CKEditor
-- [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
 - [chris-rudmin/opus-recorder](https://github.com/chris-rudmin/opus-recorder) - A library for encoding and decoding web audio as OggOpus.
 - [mattdiamond/Recorderjs](https://github.com/mattdiamond/Recorderjs) - A plugin for recording/exporting the output of Web Audio API nodes
 - [gillesdemey/node-record-lpcm16](https://github.com/gillesdemey/node-record-lpcm16) - :microphone: Records a 16-bit signed-integer linear pulse modulation code encoded audio file.
@@ -2369,6 +2370,7 @@
 
 ## PHP 
 
+- [scrawler-labs/router](https://github.com/scrawler-labs/router) - An Fully Automatic RESTful PHP Router
 - [elementor/elementor](https://github.com/elementor/elementor) - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
 - [sstur/js2php](https://github.com/sstur/js2php) - JavaScript to PHP source transformation
 - [symfony/console](https://github.com/symfony/console) - The Console component eases the creation of beautiful and testable command line interfaces.
@@ -3041,6 +3043,7 @@
 
 ## TypeScript 
 
+- [DoableDanny/NextJS-HarperDB-Task-Timer](https://github.com/DoableDanny/NextJS-HarperDB-Task-Timer) - Fullstack productivity timer app built with NextJS and HarperDB
 - [sunface/datav](https://github.com/sunface/datav) - 📊https://datav.io is a modern APM, provide observability for your business, application and infrastructure. It's also a lightweight alternative to Grafana.
 - [jsonhero-io/jsonhero-web](https://github.com/jsonhero-io/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
@@ -3129,7 +3132,7 @@
 - [LekoArts/figma-theme-ui](https://github.com/LekoArts/figma-theme-ui) - Convert a Theme UI config to Figma Styles
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
-- [XRFoundation/XREngine](https://github.com/XRFoundation/XREngine) - Immersive infrastructure for everyone. Everything you need to build and deploy scalable realtime 3D social apps and more. 🤖 🚀 👓 🚀 🕹️ 🚀 🧑🏿‍🚀
+- [XRFoundation/XREngine](https://github.com/XRFoundation/XREngine) - Ethereal Engine - Bringing us together with The open social spatial web. 🤖 🚀 👓 🕹️ 🧑🏿‍🚀
 - [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app) - 💅 A ready-to-go with a well-thought-out structure Electron app boilerplate with ReactJS, TypeScript, CSS / SASS modules, SWC, Eslint, Prettier, GitHub Action releases and more.
 - [zowe/vscode-extension-for-zowe](https://github.com/zowe/vscode-extension-for-zowe) - Visual Studio Code Plug-in for Zowe, which lets users interact with z/OS data sets on a remote mainframe instance. Powered by Zowe CLI.
 - [ngx-rocket/generator-ngx-rocket](https://github.com/ngx-rocket/generator-ngx-rocket) - :rocket: Extensible Angular 13+ enterprise-grade project generator
@@ -3503,7 +3506,7 @@
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [ChristySchott/react-linkedin](https://github.com/ChristySchott/react-linkedin) - Clone do LinkedIn sendo desenvolvido em React
 - [rocketseat-content/youtube-clone-linkedin](https://github.com/rocketseat-content/youtube-clone-linkedin) - LinkedIn Feed UI Clone.
-- [aposin/ng-aquila](https://github.com/aposin/ng-aquila) - Angular UI Component library for the Open Insurance Platform
+- [allianz/ng-aquila](https://github.com/allianz/ng-aquila) - Angular UI Component library for the Open Insurance Platform
 - [LauraBeatris/hotseat-api](https://github.com/LauraBeatris/hotseat-api) - Rest API of a barber shop application - Built with Express, TypeORM and Postgres
 - [LauraBeatris/gobarber-web](https://github.com/LauraBeatris/gobarber-web) - Manage appointments in barbershops - Built with React Native and Styled Components
 - [maykbrito/mini-video-me](https://github.com/maykbrito/mini-video-me) - 📹   A small webcam player focused on providing an easy way to add and control your webcam during recordings.
@@ -3680,7 +3683,7 @@
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A fast, offline-first, reactive database for JavaScript Applications
 - [actions-on-google/smart-home-local](https://github.com/actions-on-google/smart-home-local) - Local Home SDK sample
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
@@ -3717,6 +3720,7 @@
 - [aykutkardas/Json-Function](https://github.com/aykutkardas/Json-Function) - It allows you to use methods such as schema, innerJoin, where, limit, select, orderBy on JSON data.
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [onsip/SIP.js](https://github.com/onsip/SIP.js) - A simple, intuitive, and powerful JavaScript signaling library
+- [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
 - [ringcentral/ringcentral-web-phone](https://github.com/ringcentral/ringcentral-web-phone) - RingCentral WebPhone Library for JavaScript WebRTC
 - [palantir/plottable](https://github.com/palantir/plottable) - :bar_chart: A library of modular chart components built on D3
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web

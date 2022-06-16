@@ -634,7 +634,6 @@
 - [parlametria/leggoR](https://github.com/parlametria/leggoR) - Acesso, tradução e modelos usando dados do congresso nacional
 - [HubSpot/cms-theme-boilerplate](https://github.com/HubSpot/cms-theme-boilerplate) - A straight-forward starting point for building a great website on the HubSpot CMS
 - [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
-- [mdn/dom-examples](https://github.com/mdn/dom-examples) - Code examples that accompany various MDN DOM and Web API documentation pages
 - [djaiss/mapsicon](https://github.com/djaiss/mapsicon) - A free collection of maps for every country in the world, available in 11 sizes or in SVG.
 - [zenorocha/voice-elements](https://github.com/zenorocha/voice-elements) - :speaker: Web Component wrapper to the Web Speech API, that allows you to do voice recognition and speech synthesis using Polymer
 - [mdn/interactive-examples](https://github.com/mdn/interactive-examples) - Home of the MDN live code editor interactive examples
@@ -688,6 +687,7 @@
 
 ## Java 
 
+- [eugenp/tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
 - [dbpedia/chatbot](https://github.com/dbpedia/chatbot) - DBpedia Chatbot
 - [joindesk/Joindesk](https://github.com/joindesk/Joindesk) - Open source Project Management application.
 - [learning-zone/java-interview-questions](https://github.com/learning-zone/java-interview-questions) - Java Interview Questions ( JDK 18 )
@@ -735,7 +735,7 @@
 - [jitterbit/dropbox-connector](https://github.com/jitterbit/dropbox-connector) - An example Jitterbit Harmony Connector that interacts with Dropbox.
 - [ionic-team/capacitor-plugins](https://github.com/ionic-team/capacitor-plugins) - Official plugins for Capacitor ⚡️
 - [andpor/react-native-sqlite-storage](https://github.com/andpor/react-native-sqlite-storage) - Full featured SQLite3 Native Plugin for React Native (Android and iOS)
-- [andOTP/andOTP](https://github.com/andOTP/andOTP) - Open source two-factor authentication for Android
+- [andOTP/andOTP](https://github.com/andOTP/andOTP) - [Unmaintained] Open source two-factor authentication for Android
 - [f-droid/fdroidclient](https://github.com/f-droid/fdroidclient) - Android client application.
 - [googlesamples/google-services](https://github.com/googlesamples/google-services) - A collection of quickstart samples demonstrating the Google APIs for Android and iOS
 - [datso/react-native-pjsip](https://github.com/datso/react-native-pjsip) - A PJSIP module for React Native.
@@ -869,7 +869,6 @@
 - [sdras/vue-vscode-snippets](https://github.com/sdras/vue-vscode-snippets) - These snippets were built to supercharge my workflow in the most seamless manner possible.
 - [mathieudutour/medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog) - Switch from Medium to your own blog in a few minutes
 - [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
-- [araguaci/budibase](https://github.com/araguaci/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
 - [madnight/githut](https://github.com/madnight/githut) - Github Language Statistics
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [spritejs/spritejs](https://github.com/spritejs/spritejs) - A cross platform high-performance graphics system.
@@ -1201,7 +1200,7 @@
 - [callmecavs/jump.js](https://github.com/callmecavs/jump.js) - A modern smooth scrolling library.
 - [callmecavs/bricks.js](https://github.com/callmecavs/bricks.js) - A blazing fast masonry layout generator for fixed width elements.
 - [Vestride/Shuffle](https://github.com/Vestride/Shuffle) - Categorize, sort, and filter a responsive grid of items
-- [RoderickQiu/wnr](https://github.com/RoderickQiu/wnr) - ⏱️ Work/Rest Timer. Stricter. Prettier. More features. Win/Mac/Linux. (BUSY PREPARING FOR GAOKAO, DEVELOPMENT WILL BE PAUSED UNTIL JUNE.)
+- [RoderickQiu/wnr](https://github.com/RoderickQiu/wnr) - ⏱️ Work/Rest Timer. Stricter. Prettier. More features. Win/Mac/Linux. New updates coming!!!!
 - [testing-library/testing-library-docs](https://github.com/testing-library/testing-library-docs) - docs site for @testing-library/*
 - [phuoc-ng/get-svg](https://github.com/phuoc-ng/get-svg) - A Chrome extension to download SVG from a webpage
 - [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native.
@@ -1719,6 +1718,7 @@
 - [pascalopitz/unoffical-sonos-controller-for-linux](https://github.com/pascalopitz/unoffical-sonos-controller-for-linux) - An Electron based linux app for controlling your sonos system.
 - [bencevans/node-sonos](https://github.com/bencevans/node-sonos) - 🔈 Sonos Media Player Interface/Client
 - [nodegui/react-nodegui-starter](https://github.com/nodegui/react-nodegui-starter) - Starter repository for react based native desktop apps using react-nodegui
+- [mdn/dom-examples](https://github.com/mdn/dom-examples) - Code examples that accompany various MDN DOM and Web API documentation pages
 - [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - 
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net) - This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source p
@@ -2897,6 +2897,7 @@
 
 ## SCSS 
 
+- [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [jh3y/whirl](https://github.com/jh3y/whirl) - CSS loading animations with minimal effort!
 - [mbarker84/eleventy-parcel](https://github.com/mbarker84/eleventy-parcel) - 
 - [mbarker84/css-irl-eleventy](https://github.com/mbarker84/css-irl-eleventy) - 
@@ -3046,6 +3047,7 @@
 
 ## TypeScript 
 
+- [primer/primitives](https://github.com/primer/primitives) - Color, typography, and spacing primitives in json.
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [dastasoft/memory-game](https://github.com/dastasoft/memory-game) - 
 - [marakoss/sos-moto-app](https://github.com/marakoss/sos-moto-app) - SOS MOTO is a mobile application written in React Native that allows you to call a nearest contact from your GPS location to get a quick help. We have over 10k active users in Europe and steadily grow
@@ -3182,7 +3184,7 @@
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
-- [tanhakabir/rest-book](https://github.com/tanhakabir/rest-book) - 
+- [tanhakabir/rest-book](https://github.com/tanhakabir/rest-book) - REST Book is a Visual Studio Code extension that allows you to perform REST calls in a Notebook interface.
 - [peterpeterparker/web-social-share](https://github.com/peterpeterparker/web-social-share) - A Web Component to share url and text on social networks
 - [peterpeterparker/tietracker](https://github.com/peterpeterparker/tietracker) - A simple, open source and free time tracking app ⏱️
 - [googleapis/nodejs-text-to-speech](https://github.com/googleapis/nodejs-text-to-speech) - Node.js client for Google Cloud Text-to-Speech

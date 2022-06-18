@@ -479,6 +479,7 @@
 
 ## HTML 
 
+- [jerosoler/css-svg-generator-waves](https://github.com/jerosoler/css-svg-generator-waves) - 🎨 CSS / SVG Generator Waves
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian.
 - [akashgiricse/templates-using-bootstrap4](https://github.com/akashgiricse/templates-using-bootstrap4) - 🌆 Here I've aggregated some of the most commonly used web-page templates made using Bootstrap4 🛒
 - [jh3y/driveway](https://github.com/jh3y/driveway) - pure CSS masonry layouts
@@ -499,7 +500,7 @@
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [johnpolacek/tweendeck](https://github.com/johnpolacek/tweendeck) - Next level animation for web presentations
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [kennedybarros/repsonsive-website-playstation](https://github.com/kennedybarros/repsonsive-website-playstation) - Responsive E-commerce Website PlayStation
+- [kennedybarros/responsive-website-playstation](https://github.com/kennedybarros/responsive-website-playstation) - Responsive E-commerce Website PlayStation
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [guidone/node-red-contrib-chatbot](https://github.com/guidone/node-red-contrib-chatbot) - Visually build a full featured chat bot for Telegram, Facebook Messenger and Slack with Node-RED. Almost no coding skills required.
 - [GetStream/stream-react-example](https://github.com/GetStream/stream-react-example) - Use React and Redux to build your own feature-rich and scalable social network app! Visit cabin.getstream.io for an overview of all 8 tutorials and a live demo.
@@ -749,6 +750,10 @@
 
 ## JavaScript 
 
+- [makeusabrew/bootbox](https://github.com/makeusabrew/bootbox) - Wrappers for JavaScript alert(), confirm() and other flexible dialogs using Twitter's bootstrap framework
+- [Bogdan-Lyashenko/js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
+- [jerosoler/Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
+- [ksowah/CONNECT-THE-CHAT-APP](https://github.com/ksowah/CONNECT-THE-CHAT-APP) - 
 - [JessicaWachtel/React-To-Do-List-Tutorial](https://github.com/JessicaWachtel/React-To-Do-List-Tutorial) - To-Do List Tutorial
 - [Basharath/FormEasy](https://github.com/Basharath/FormEasy) - A simple open source library to receive contact forms for static sites
 - [SammSuccess/text-to-speech](https://github.com/SammSuccess/text-to-speech) - 
@@ -2161,6 +2166,7 @@
 
 ## Others 
 
+- [tombetthauser/fullstack-faqs](https://github.com/tombetthauser/fullstack-faqs) - Common questions and solutions observed during fullstack portfolio projects, specifically for Flask and Express React applications.
 - [paadevelopments/pexxalert](https://github.com/paadevelopments/pexxalert) - An advanced JavaScript alert/dialog library for all PWAs. NPM accessible.
 - [lucasgdb/useful-dev-tools](https://github.com/lucasgdb/useful-dev-tools) - :star: A list with useful tools that help many Developers. Hacktoberfest :star:
 - [sw-yx/spark-joy](https://github.com/sw-yx/spark-joy) - ✨😂 1000+ ways to add design flair, user delight, and whimsy to your product.
@@ -2373,6 +2379,9 @@
 
 ## PHP 
 
+- [Laragear/TwoFactor](https://github.com/Laragear/TwoFactor) - Two-Factor Authentication for all your users out-of-the-box.
+- [Laragear/WebAuthn](https://github.com/Laragear/WebAuthn) - Authenticate users with fingerprints, patterns and biometric data.
+- [suphiyasin/instagram-advanced-user-finder](https://github.com/suphiyasin/instagram-advanced-user-finder) - An auto software that collects, scans and sends automatic instagram users
 - [scrawler-labs/router](https://github.com/scrawler-labs/router) - An Fully Automatic RESTful PHP Router
 - [elementor/elementor](https://github.com/elementor/elementor) - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
 - [sstur/js2php](https://github.com/sstur/js2php) - JavaScript to PHP source transformation
@@ -2487,7 +2496,7 @@
 - [googleapis/google-auth-library-php](https://github.com/googleapis/google-auth-library-php) - Google Auth Library for PHP
 - [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
 - [leocavalcante/siler](https://github.com/leocavalcante/siler) - ⚡ Flat-files and plain-old PHP functions rockin'on as a set of general purpose high-level abstractions.
-- [CodelyTV/php-ddd-example](https://github.com/CodelyTV/php-ddd-example) - 🐘🎯 Hexagonal Architecture + DDD + CQRS in PHP using Symfony 5
+- [CodelyTV/php-ddd-example](https://github.com/CodelyTV/php-ddd-example) - 🐘🎯 Hexagonal Architecture + DDD + CQRS in PHP using Symfony 6
 - [javiereguiluz/easy-admin-demo](https://github.com/javiereguiluz/easy-admin-demo) - A demo application to showcase EasyAdmin features
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
 - [microsoft/tolerant-php-parser](https://github.com/microsoft/tolerant-php-parser) - An early-stage PHP parser designed for IDE usage scenarios.
@@ -2713,6 +2722,7 @@
 
 ## Python 
 
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
 - [dunossauro/todo_list_flask_brython](https://github.com/dunossauro/todo_list_flask_brython) - um todo-list/kanban implementado com python fullstack
 - [dunossauro/live-de-python](https://github.com/dunossauro/live-de-python) - Repositório das lives semanais
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
@@ -3047,6 +3057,7 @@
 
 ## TypeScript 
 
+- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
 - [primer/primitives](https://github.com/primer/primitives) - Color, typography, and spacing primitives in json.
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [dastasoft/memory-game](https://github.com/dastasoft/memory-game) - 
@@ -3178,7 +3189,7 @@
 - [jahirfiquitiva/jahir.dev](https://github.com/jahirfiquitiva/jahir.dev) - My personal website 💎 – Built using Next.js, TypeScript, MDX, contentlayer, Notion and emotion styled components
 - [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev) - My portfolio powered by Next.js, content sourced from Notion, styled with Tailwind CSS and deployed on Vercel. 🙌
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
-- [jahirfiquitiva/worldwide-holidays](https://github.com/jahirfiquitiva/worldwide-holidays) - Get to know the upcoming worldwide holidays
+- [jahirfiquitiva/world-holidays](https://github.com/jahirfiquitiva/world-holidays) - Get to know the upcoming worldwide holidays
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Figma to HTML, CSS, React, Vue, and more!
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
@@ -3615,7 +3626,7 @@
 - [googleapis/repo-automation-bots](https://github.com/googleapis/repo-automation-bots) - A collection of bots, based on probot, for performing common maintenance tasks across the open-source repos managed by Google on GitHub.
 - [donmccasland/nodejs-docker](https://github.com/donmccasland/nodejs-docker) - The Node.js Docker image used by Google App Engine Flexible.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [PeppaPigHS/dashboard-oi](https://github.com/PeppaPigHS/dashboard-oi) - 
+- [peppapighs/dashboard-oi](https://github.com/peppapighs/dashboard-oi) - 
 - [guilhermerodz/next-chakra-skylab-homepage](https://github.com/guilhermerodz/next-chakra-skylab-homepage) - Rocketseat Skylab Homepage UI clone made with Next.js and Chakra UI
 - [angular-extensions/model](https://github.com/angular-extensions/model) - Angular Model - Simple state management with minimalist API, one way data flow, multiple model support and immutable data exposed as RxJS Observable.
 - [bithost-gmbh/ngx-mat-select-search](https://github.com/bithost-gmbh/ngx-mat-select-search) - Angular component providing an input field for searching / filtering MatSelect options of the Angular Material library.

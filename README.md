@@ -52,6 +52,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [Sass](#sass)
 - [Scala](#scala)
 - [Scheme](#scheme)
 - [Shell](#shell)
@@ -750,6 +751,11 @@
 
 ## JavaScript 
 
+- [ant-media/videojs-webrtc-plugin](https://github.com/ant-media/videojs-webrtc-plugin) - Webrtc plug-in for videojs
+- [AKAspanion/ui-neumorphism](https://github.com/AKAspanion/ui-neumorphism) - 📕 React component library designed on the "new skeuomorphism" or "neumorphism" UI/UX trend.
+- [vizzuhq/vizzu-lib](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
+- [googlecodelabs/maps-platform-101-js](https://github.com/googlecodelabs/maps-platform-101-js) - 
+- [dialaabulkhail/my_portfolio](https://github.com/dialaabulkhail/my_portfolio) - 
 - [makeusabrew/bootbox](https://github.com/makeusabrew/bootbox) - Wrappers for JavaScript alert(), confirm() and other flexible dialogs using Twitter's bootstrap framework
 - [Bogdan-Lyashenko/js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
 - [jerosoler/Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
@@ -1762,7 +1768,6 @@
 - [dorny/typescript-intro](https://github.com/dorny/typescript-intro) - Presentation and demo projects about TypeScript - https://dorny.github.io/typescript-intro
 - [brown-ccv/ccv-website](https://github.com/brown-ccv/ccv-website) - CCV Hugo Website
 - [brown-ccv/alex-recommends](https://github.com/brown-ccv/alex-recommends) - Github Action to run Alex on PRs
-- [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [mdn/mdn-storybook](https://github.com/mdn/mdn-storybook) - UI components for MDN Web Docs
 - [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev) - The frontend, backend, and content source code for web.dev
 - [Pomax/lib-font](https://github.com/Pomax/lib-font) - This library adds a new Font() object to the JavaScript toolbox, similar to new Image() for images
@@ -2166,6 +2171,7 @@
 
 ## Others 
 
+- [themesberg/glass-ui](https://github.com/themesberg/glass-ui) - CSS UI library based on the glassmorphism design specifications
 - [tombetthauser/fullstack-faqs](https://github.com/tombetthauser/fullstack-faqs) - Common questions and solutions observed during fullstack portfolio projects, specifically for Flask and Express React applications.
 - [paadevelopments/pexxalert](https://github.com/paadevelopments/pexxalert) - An advanced JavaScript alert/dialog library for all PWAs. NPM accessible.
 - [lucasgdb/useful-dev-tools](https://github.com/lucasgdb/useful-dev-tools) - :star: A list with useful tools that help many Developers. Hacktoberfest :star:
@@ -2379,6 +2385,7 @@
 
 ## PHP 
 
+- [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [Laragear/TwoFactor](https://github.com/Laragear/TwoFactor) - Two-Factor Authentication for all your users out-of-the-box.
 - [Laragear/WebAuthn](https://github.com/Laragear/WebAuthn) - Authenticate users with fingerprints, patterns and biometric data.
 - [suphiyasin/instagram-advanced-user-finder](https://github.com/suphiyasin/instagram-advanced-user-finder) - An auto software that collects, scans and sends automatic instagram users
@@ -2945,6 +2952,10 @@
 - [flutter/website](https://github.com/flutter/website) - Flutter documentation web site
 - [MatejKustec/SpinThatShit](https://github.com/MatejKustec/SpinThatShit) - A set of SCSS mixins for single element loaders and spinners
 
+## Sass 
+
+- [luxonauta/luxa](https://github.com/luxonauta/luxa) - A minimalist CSS framework.
+
 ## Scala 
 
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
@@ -3057,6 +3068,10 @@
 
 ## TypeScript 
 
+- [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 2.0.
+- [pbeshai/tidy](https://github.com/pbeshai/tidy) - Tidy up your data with JavaScript, inspired by dplyr and the tidyverse
+- [wonderflow-bv/wanda](https://github.com/wonderflow-bv/wanda) - Wanda design system monorepo
+- [AKAspanion/chat-app](https://github.com/AKAspanion/chat-app) - 💬 Real-time chat application with no history.
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
 - [primer/primitives](https://github.com/primer/primitives) - Color, typography, and spacing primitives in json.
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
@@ -3093,7 +3108,7 @@
 - [samuelmaddock/electron-browser-shell](https://github.com/samuelmaddock/electron-browser-shell) - A minimal, tabbed web browser with support for Chrome extensions—built on Electron.
 - [electron-userland/electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [cedoor/mindmapp](https://github.com/cedoor/mindmapp) - :rocket: Web application to draw mind maps.
-- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  End-to-end typesafe APIs made easy
+- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
 - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [YeonV/Vitron](https://github.com/YeonV/Vitron) - ⚡Vite + :electron: Electron
@@ -3151,7 +3166,7 @@
 - [LekoArts/figma-theme-ui](https://github.com/LekoArts/figma-theme-ui) - Convert a Theme UI config to Figma Styles
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
-- [XRFoundation/XREngine](https://github.com/XRFoundation/XREngine) - Ethereal Engine - Bringing us together with The open social spatial web. 🤖 🚀 👓 🕹️ 🧑🏿‍🚀
+- [XRFoundation/XREngine](https://github.com/XRFoundation/XREngine) - Ethereal Engine - Bringing us together with on the open social spatial web. 🤖 🚀 👓 🕹️ 🧑🏿‍🚀
 - [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app) - 💅 A ready-to-go with a well-thought-out structure Electron app boilerplate with ReactJS, TypeScript, CSS / SASS modules, SWC, Eslint, Prettier, GitHub Action releases and more.
 - [zowe/vscode-extension-for-zowe](https://github.com/zowe/vscode-extension-for-zowe) - Visual Studio Code Plug-in for Zowe, which lets users interact with z/OS data sets on a remote mainframe instance. Powered by Zowe CLI.
 - [ngx-rocket/generator-ngx-rocket](https://github.com/ngx-rocket/generator-ngx-rocket) - :rocket: Extensible Angular 13+ enterprise-grade project generator
@@ -3586,6 +3601,7 @@
 - [angular/universal](https://github.com/angular/universal) - Server-side rendering and Prerendering for Angular
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [ccontrols/storybook-5-controls-starter](https://github.com/ccontrols/storybook-5-controls-starter) - 
 - [ccontrols/storybook-6-controls-starter](https://github.com/ccontrols/storybook-6-controls-starter) - 
 - [atanasster/storybook-addon-decorator](https://github.com/atanasster/storybook-addon-decorator) - A storybook sample addon to create a decorator

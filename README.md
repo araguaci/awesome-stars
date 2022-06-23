@@ -95,7 +95,7 @@
 - [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
 - [OpenSIPS/opensips](https://github.com/OpenSIPS/opensips) - OpenSIPS is a GPL implementation of a multi-functionality SIP Server that targets to deliver a high-level technical solution (performance, security and quality) to be used in professional SIP server p
 - [meetecho/janus-gateway](https://github.com/meetecho/janus-gateway) - Janus WebRTC Server
-- [chebur/pjsip](https://github.com/chebur/pjsip) - PJSIP is Open Source SIP, Media, and NAT Traversal Library
+- [nesterenkodm/pjsip](https://github.com/nesterenkodm/pjsip) - PJSIP is Open Source SIP, Media, and NAT Traversal Library
 - [pjsip/pjproject](https://github.com/pjsip/pjproject) - PJSIP project
 - [kamailio/kamailio](https://github.com/kamailio/kamailio) - Kamailio - The Open Source SIP Server for large VoIP and real-time communication platforms -
 - [baresip/baresip](https://github.com/baresip/baresip) - Baresip is a modular SIP User-Agent with audio and video support
@@ -1768,6 +1768,7 @@
 - [dorny/typescript-intro](https://github.com/dorny/typescript-intro) - Presentation and demo projects about TypeScript - https://dorny.github.io/typescript-intro
 - [brown-ccv/ccv-website](https://github.com/brown-ccv/ccv-website) - CCV Hugo Website
 - [brown-ccv/alex-recommends](https://github.com/brown-ccv/alex-recommends) - Github Action to run Alex on PRs
+- [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [mdn/mdn-storybook](https://github.com/mdn/mdn-storybook) - UI components for MDN Web Docs
 - [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev) - The frontend, backend, and content source code for web.dev
 - [Pomax/lib-font](https://github.com/Pomax/lib-font) - This library adds a new Font() object to the JavaScript toolbox, similar to new Image() for images
@@ -2990,7 +2991,7 @@
 - [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 - [andrius/asterisk](https://github.com/andrius/asterisk) - Asterisk PBX in Docker on Alpine Linux. Smallest Asterisk ever! ;)
 - [murilomagalhaes/vagrant-php-mssql](https://github.com/murilomagalhaes/vagrant-php-mssql) - A complete development environment for working with PHP and MS SQL Server. Based on Ubuntu 20.04 (Focal)
-- [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - Setup your MacOS for web development at ease.
+- [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - Setup your MacOS for web development in few minutes.
 - [CrunchyData/crunchy-containers](https://github.com/CrunchyData/crunchy-containers) - Containers for Managing PostgreSQL on Kubernetes by Crunchy Data
 - [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
 - [codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart) - Guia rápido do WSL2 + Docker
@@ -3006,7 +3007,7 @@
 - [wfxr/tmux-power](https://github.com/wfxr/tmux-power) - 🎨 Tmux powerline theme
 - [sipcapture/homer](https://github.com/sipcapture/homer) - HOMER - 100% Open-Source SIP / VoIP / RTC Packet Capture & Monitoring
 - [x2on/OpenSSL-for-iPhone](https://github.com/x2on/OpenSSL-for-iPhone) - A script for compiling OpenSSL for iOS Devices (iPhone, iPad, iPod Touch, AppleTV, MacCatalyst)
-- [VoiSmart/pjsip-android-builder](https://github.com/VoiSmart/pjsip-android-builder) - Complete Android build environment for PJSIP with OpenSSL, OpenH264, libyuv and G.729
+- [VoiSmart/pjsip-android-builder](https://github.com/VoiSmart/pjsip-android-builder) - Complete Android build environment for PJSIP with OpenSSL, OpenH264, Opus and G.729
 - [makenew/serverless-nodejs](https://github.com/makenew/serverless-nodejs) - Bootstrap a new Node.js Serverless project in five minutes or less.
 - [node-red/node-red-docker](https://github.com/node-red/node-red-docker) - Repository for all things Node-RED and Docker related
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
@@ -3068,6 +3069,8 @@
 
 ## TypeScript 
 
+- [tauri-apps/create-tauri-app](https://github.com/tauri-apps/create-tauri-app) - A toolkit to rapidly scaffold out a new tauri-apps project using the framework of their choice.
+- [dailydotdev/apps](https://github.com/dailydotdev/apps) - daily.dev application suite
 - [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 2.0.
 - [pbeshai/tidy](https://github.com/pbeshai/tidy) - Tidy up your data with JavaScript, inspired by dplyr and the tidyverse
 - [wonderflow-bv/wanda](https://github.com/wonderflow-bv/wanda) - Wanda design system monorepo
@@ -3322,7 +3325,7 @@
 - [crisbeto/angular-svg-round-progressbar](https://github.com/crisbeto/angular-svg-round-progressbar) - Angular module that uses SVG to create a circular progressbar
 - [Saber2pr/editor](https://github.com/Saber2pr/editor) - :ocean: Web Editor for React/Tsx Ant-Design App Develop、Build !
 - [stream-labs/desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron.
-- [spacesvr/spacesvr](https://github.com/spacesvr/spacesvr) - A standardized reality for future of the 3D Web.
+- [musehq/spacesvr](https://github.com/musehq/spacesvr) - A standardized reality for future of the 3D Web.
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
 - [1milligram/1loc](https://github.com/1milligram/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [1milligram/csslayout](https://github.com/1milligram/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
@@ -3601,7 +3604,6 @@
 - [angular/universal](https://github.com/angular/universal) - Server-side rendering and Prerendering for Angular
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
-- [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [ccontrols/storybook-5-controls-starter](https://github.com/ccontrols/storybook-5-controls-starter) - 
 - [ccontrols/storybook-6-controls-starter](https://github.com/ccontrols/storybook-6-controls-starter) - 
 - [atanasster/storybook-addon-decorator](https://github.com/atanasster/storybook-addon-decorator) - A storybook sample addon to create a decorator

@@ -1513,7 +1513,7 @@
 - [fullstackreact/google-maps-react](https://github.com/fullstackreact/google-maps-react) - Companion code to the "How to Write a Google Maps React Component" Tutorial
 - [Akryum/vue-googlemaps](https://github.com/Akryum/vue-googlemaps) - Integrate Google Maps in your Vue application
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is a low-code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you
 - [aakashsr/GithubSquare](https://github.com/aakashsr/GithubSquare) - Explore the most starred projects , trending developers , popular repositories of any date and face off Github Profiles of your choice.
 - [klaussinani/ao](https://github.com/klaussinani/ao) - Elegant Microsoft To-Do desktop app
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -2172,6 +2172,7 @@
 
 ## Others 
 
+- [dendronhq/awesome-dendron](https://github.com/dendronhq/awesome-dendron) - A big list of Dendron docs, talks, tools, examples, articles, extensions, vaults, showcases, and more that the internet has to offer.
 - [themesberg/glass-ui](https://github.com/themesberg/glass-ui) - CSS UI library based on the glassmorphism design specifications
 - [tombetthauser/fullstack-faqs](https://github.com/tombetthauser/fullstack-faqs) - Common questions and solutions observed during fullstack portfolio projects, specifically for Flask and Express React applications.
 - [paadevelopments/pexxalert](https://github.com/paadevelopments/pexxalert) - An advanced JavaScript alert/dialog library for all PWAs. NPM accessible.
@@ -2386,6 +2387,7 @@
 
 ## PHP 
 
+- [benbalter/wordpress-to-jekyll-exporter](https://github.com/benbalter/wordpress-to-jekyll-exporter) - One-click WordPress plugin that converts all posts, pages, taxonomies, metadata, and settings to Markdown and YAML which can be dropped into Jekyll (or Hugo or any other Markdown and YAML based site e
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [Laragear/TwoFactor](https://github.com/Laragear/TwoFactor) - Two-Factor Authentication for all your users out-of-the-box.
 - [Laragear/WebAuthn](https://github.com/Laragear/WebAuthn) - Authenticate users with fingerprints, patterns and biometric data.
@@ -3069,6 +3071,7 @@
 
 ## TypeScript 
 
+- [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [tauri-apps/create-tauri-app](https://github.com/tauri-apps/create-tauri-app) - A toolkit to rapidly scaffold out a new tauri-apps project using the framework of their choice.
 - [dailydotdev/apps](https://github.com/dailydotdev/apps) - daily.dev application suite
 - [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 2.0.

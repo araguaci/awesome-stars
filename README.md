@@ -406,6 +406,7 @@
 
 ## Go 
 
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
@@ -559,7 +560,6 @@
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [n457/Uncolored](https://github.com/n457/Uncolored) - (Un)colored — Next generation desktop rich content editor that saves documents with themes. HTML & Markdown compatible. For Windows, OS X & Linux. — http://n457.github.io/Uncolored/
-- [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
 - [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - Pure HTML5 Network Performance Estimation Tool. OpenSpeedTest use XMLHttpRequest (XHR), HTML, CSS, JS, & SVG For this network performance estimation tool. I started this project in 2011 and moved to O
 - [1milligram/html-dom](https://github.com/1milligram/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
 - [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
@@ -3047,7 +3047,7 @@
 
 ## Svelte 
 
-- [oslabs-beta/Svelvet](https://github.com/oslabs-beta/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams
+- [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams
 - [sveltejs/realworld](https://github.com/sveltejs/realworld) - SvelteKit implementation of the RealWorld app
 - [simeydotme/svelte-range-slider-pips](https://github.com/simeydotme/svelte-range-slider-pips) - Multi-Thumb, Accessible, Beautiful Range Slider with Pips
 - [iohzrd/identia](https://github.com/iohzrd/identia) - Decentralized, censorship resistant social media on IPFS.
@@ -3532,7 +3532,7 @@
 - [ShadyNagy/ngx-keypad](https://github.com/ShadyNagy/ngx-keypad) - Angular Keypad
 - [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers
 - [TerriaJS/terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data platforms.
-- [SebastianM/angular-google-maps](https://github.com/SebastianM/angular-google-maps) - Angular 2+ Google Maps Components
+- [sebholstein/angular-google-maps](https://github.com/sebholstein/angular-google-maps) - Angular 2+ Google Maps Components
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript.

@@ -406,6 +406,8 @@
 
 ## Go 
 
+- [achhabra2/riftshare](https://github.com/achhabra2/riftshare) - Easy, Secure, Free file sharing
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
@@ -2632,7 +2634,7 @@
 - [robsonvleite/optimizer](https://github.com/robsonvleite/optimizer) - Is a compact and easy-to-use tag creator to optimize your site (OnPage SEO de forma fácil e descomplicada, open graph, twitter card, facebook, google plus e outros)
 - [fragkp/laravel-route-breadcrumb](https://github.com/fragkp/laravel-route-breadcrumb) - Laravel: Add breadcrumbs to your routes
 - [saqueib/social-auth](https://github.com/saqueib/social-auth) - Starter kit for Socialite integration with Facebook, Google, Twitter and Github login
-- [wearedevtical/novassport](https://github.com/wearedevtical/novassport) - A Laravel Nova tool to manage API Authentication (Passport)
+- [devtical/novassport](https://github.com/devtical/novassport) - A Laravel Nova tool to manage API Authentication (Passport)
 - [mckenziearts/laravel-oauth](https://github.com/mckenziearts/laravel-oauth) - :octocat: Social OAuth authentication for Laravel 5 & 6. Drivers: Facebook, Twitter, Google, LinkedIn, Github, Bitbucket.
 - [SocialConnect/auth](https://github.com/SocialConnect/auth) - :atom: Social (OAuth1\OAuth2\OpenID\OpenIDConnect) sign with PHP :shipit:
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
@@ -3071,6 +3073,7 @@
 
 ## TypeScript 
 
+- [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js + Electron ⚡
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [tauri-apps/create-tauri-app](https://github.com/tauri-apps/create-tauri-app) - A toolkit to rapidly scaffold out a new tauri-apps project using the framework of their choice.
 - [dailydotdev/apps](https://github.com/dailydotdev/apps) - daily.dev application suite
@@ -3777,6 +3780,7 @@
 
 ## Vue 
 
+- [codydbentley/wails-vite-vue-the-works](https://github.com/codydbentley/wails-vite-vue-the-works) - A Wails template with Vite, Vue 3 TypeScript, Vuex, Vue Router, Sass, ESLint, and Prettier
 - [getumbrel/umbrel-dashboard](https://github.com/getumbrel/umbrel-dashboard) - Web-based dashboard to interact with your Umbrel
 - [jordihales/hypercolor](https://github.com/jordihales/hypercolor) - A curated collection of beautiful premade gradients using default colors from the Tailwind palette as well as a selection of custom color gradients.
 - [zernonia/madewithsupabase](https://github.com/zernonia/madewithsupabase) - A collection of projects made with Supabase – Websites, Mobile Apps, SaaS, Plugins and more!

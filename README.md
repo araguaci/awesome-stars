@@ -763,6 +763,10 @@
 
 ## JavaScript 
 
+- [sghall/react-move](https://github.com/sghall/react-move) - React Move | Beautiful, data-driven animations for React
+- [ant-design/ant-motion](https://github.com/ant-design/ant-motion) - :bicyclist: Animate specification and components of Ant Design
+- [jlmakes/rematrix](https://github.com/jlmakes/rematrix) - Matrix transformations made easy.
+- [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
 - [Cveinnt/bionify](https://github.com/Cveinnt/bionify) - Convert any webpage into bionified text!
 - [formspree/formspree-react](https://github.com/formspree/formspree-react) - The fastest way to hook up a React form
 - [mdyna/mdyna-app](https://github.com/mdyna/mdyna-app) - React+Redux+Electron Note taking application repository
@@ -3090,6 +3094,8 @@
 
 ## TypeScript 
 
+- [sghall/react-compound-slider](https://github.com/sghall/react-compound-slider) - :black_medium_small_square: React Compound Slider | A small React slider with no opinion on markup or styles
+- [vueuse/motion](https://github.com/vueuse/motion) - 🤹 Vue Composables putting your components in motion
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [TMTecnologia/turborepo-typescript-fullstack](https://github.com/TMTecnologia/turborepo-typescript-fullstack) - Turborepo boilerplate including TypeScript, ReactNative, Jest, ESLint and more
 - [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js + Electron ⚡

@@ -906,7 +906,7 @@
 - [madnight/githut](https://github.com/madnight/githut) - Github Language Statistics
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [spritejs/spritejs](https://github.com/spritejs/spritejs) - A cross platform high-performance graphics system.
-- [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Only 90's kids remember... well not really, but these beloved effects that would follow your mouse around will always be classic reminders of the old, beloved internet.
+- [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript
 - [tholman/generative-artistry](https://github.com/tholman/generative-artistry) - A website for self coding generative art tutorials.
 - [tholman/elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
 - [ujjwalguptaofficial/JsStore](https://github.com/ujjwalguptaofficial/JsStore) - A complete IndexedDB wrapper with SQL like syntax.
@@ -1003,7 +1003,6 @@
 - [gulpjs/gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
 - [auth0-samples/auth0-react-samples](https://github.com/auth0-samples/auth0-react-samples) - Auth0 Integration Samples for React Applications
 - [uberswe/triangulate](https://github.com/uberswe/triangulate) - This is the source code for https://www.triangulate.xyz which is used to create computer generated art. Written with Golang and ReactJS.
-- [conda-forge/conda-forge.github.io](https://github.com/conda-forge/conda-forge.github.io) - The conda-forge website.
 - [Azure-Samples/js-e2e-express-server-cognitive-services](https://github.com/Azure-Samples/js-e2e-express-server-cognitive-services) - Cognitive Services hosted from Express.js with at least 1 browser to Azure example
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
 - [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
@@ -2793,6 +2792,7 @@
 - [donnemartin/viz](https://github.com/donnemartin/viz) - Visualize GitHub's most popular repos.  http://www.donnemartin.com/viz
 - [KanegaeGabriel/telegram-export-converter](https://github.com/KanegaeGabriel/telegram-export-converter) - Script to convert Telegram .html chat export files to easier to process .csv.
 - [siddheshshankar/Send-Email-Using-SMTP](https://github.com/siddheshshankar/Send-Email-Using-SMTP) - 
+- [conda-forge/conda-forge.github.io](https://github.com/conda-forge/conda-forge.github.io) - The conda-forge website.
 - [ryanvolz/radioconda](https://github.com/ryanvolz/radioconda) - Software radio distribution and installer for conda
 - [jopohl/urh](https://github.com/jopohl/urh) - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
 - [sepandhaghighi/samila](https://github.com/sepandhaghighi/samila) - Generative Art Generator
@@ -3140,7 +3140,7 @@
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [antfu/vitesse-lite](https://github.com/antfu/vitesse-lite) - ⛺️ Lightweight version of Vitesse
 - [antfu/vitesse](https://github.com/antfu/vitesse) - 🏕 Opinionated Vite Starter Template
-- [electron-vite/electron-vite-boilerplate](https://github.com/electron-vite/electron-vite-boilerplate) - Electron + Vite + TypeScript. Support SerialPort, SQLite3 and node C/C++ addons.
+- [electron-vite/electron-vite-boilerplate](https://github.com/electron-vite/electron-vite-boilerplate) - A Electron + Vite boilerplate of the nature of learning(source-code of vite-plugin-electron)  / 学习性的 Electron + Vite 样板工程
 - [samuelmeuli/mini-diary](https://github.com/samuelmeuli/mini-diary) - 📘 Simple and secure journal app
 - [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) - 🥳 Really simple Electron + Vite + Vue boilerplate.
 - [CorentinTh/inert](https://github.com/CorentinTh/inert) - Minimalistic tower defense in the browser entirely in typescript (no deps).

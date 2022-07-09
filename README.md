@@ -531,7 +531,6 @@
 - [araguaci/earth-rainbow-bridge](https://github.com/araguaci/earth-rainbow-bridge) - Work In Progress. For meditation with Tzolkin Noosfera http://gaia.artesdosul.com/
 - [ribafs/jquery-autocomplete](https://github.com/ribafs/jquery-autocomplete) - Usando a API ViaCEP com jQuery para autocompletar dados do CEP em Form
 - [theus/instantgram](https://github.com/theus/instantgram) - :cloud: A bookmarklet for download photos in Instagram
-- [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
 - [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
@@ -3108,7 +3107,7 @@
 
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [unjs/unstorage](https://github.com/unjs/unstorage) - 🌍 💾 Universal Storage Layer
-- [MaximBuz/heazy-svg-creator](https://github.com/MaximBuz/heazy-svg-creator) - A design studio for vector illustrations
+- [MaximBuz/heazy-svg-creator](https://github.com/MaximBuz/heazy-svg-creator) - A design studio for vector illustrations. Built with React and GraphQL.
 - [sghall/react-compound-slider](https://github.com/sghall/react-compound-slider) - :black_medium_small_square: React Compound Slider | A small React slider with no opinion on markup or styles
 - [vueuse/motion](https://github.com/vueuse/motion) - 🤹 Vue Composables putting your components in motion
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
@@ -3147,7 +3146,7 @@
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [antfu/vitesse-lite](https://github.com/antfu/vitesse-lite) - ⛺️ Lightweight version of Vitesse
 - [antfu/vitesse](https://github.com/antfu/vitesse) - 🏕 Opinionated Vite Starter Template
-- [electron-vite/electron-vite-boilerplate](https://github.com/electron-vite/electron-vite-boilerplate) - A Electron + Vite boilerplate of the nature of learning(source-code of vite-plugin-electron)  / 学习性的样板工程(vite-plugin-electron源码)
+- [electron-vite/electron-vite-boilerplate](https://github.com/electron-vite/electron-vite-boilerplate) - 📚 A Electron + Vite boilerplate of the nature of learning(source-code of vite-plugin-electron)  / 学习性的样板工程(vite-plugin-electron源码)
 - [samuelmeuli/mini-diary](https://github.com/samuelmeuli/mini-diary) - 📘 Simple and secure journal app
 - [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) - 🥳 Really simple Electron + Vite + Vue boilerplate.
 - [CorentinTh/inert](https://github.com/CorentinTh/inert) - Minimalistic tower defense in the browser entirely in typescript (no deps).
@@ -3257,6 +3256,7 @@
 - [jahirfiquitiva/world-holidays](https://github.com/jahirfiquitiva/world-holidays) - Get to know the upcoming worldwide holidays
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Figma to HTML, CSS, React, Vue, and more!
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
+- [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
@@ -3266,7 +3266,7 @@
 - [googleapis/nodejs-text-to-speech](https://github.com/googleapis/nodejs-text-to-speech) - Node.js client for Google Cloud Text-to-Speech
 - [influxdata/ui](https://github.com/influxdata/ui) - UI for InfluxDB
 - [Camberi/firecms](https://github.com/Camberi/firecms) - Awesome Firebase/Firestore-based CMS. The missing admin panel for your Firebase project!
-- [ionic-team/ionic-react-conference-app](https://github.com/ionic-team/ionic-react-conference-app) - This is a very early version of the ionic react conference app.
+- [ionic-team/ionic-react-conference-app](https://github.com/ionic-team/ionic-react-conference-app) - The Ionic Conference Demo App - Now in React
 - [microsoft/maker.js](https://github.com/microsoft/maker.js) - 📐⚙ 2D vector line drawing and shape modeling for CNC and laser cutters.
 - [Anish-Agnihotri/tweetdrop](https://github.com/Anish-Agnihotri/tweetdrop) - Generate dispersable airdrops from Twitter threads.
 - [Kruemelkatze/vscode-dashboard](https://github.com/Kruemelkatze/vscode-dashboard) - A speed-dial like project dashboard for VSCode.

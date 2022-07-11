@@ -66,6 +66,7 @@
 - [VBScript](#vbscript)
 - [Vala](#vala)
 - [Vue](#vue)
+- [Zig](#zig)
 
 ## Astro 
 
@@ -489,6 +490,7 @@
 
 ## HTML 
 
+- [shadeed/headers-css](https://github.com/shadeed/headers-css) - The blueprint HTML and CSS for 17+ website headers
 - [bradtraversy/svg-css-generator-examples](https://github.com/bradtraversy/svg-css-generator-examples) - Tiny projects using generated code from different CSS & SVG generators
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [formspree/formspree-example-jekyll](https://github.com/formspree/formspree-example-jekyll) - An example of using Formspree with Jekyll
@@ -701,6 +703,7 @@
 
 ## Java 
 
+- [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp) - ☕️🚀🚨 This repository consists of solutions for the Community Classroom complete DSA Java Bootcamp assignment problems.
 - [eugenp/tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
 - [dbpedia/chatbot](https://github.com/dbpedia/chatbot) - DBpedia Chatbot
 - [joindesk/Joindesk](https://github.com/joindesk/Joindesk) - Open source Project Management application.
@@ -763,6 +766,7 @@
 
 ## JavaScript 
 
+- [Claradev32/attendance](https://github.com/Claradev32/attendance) - 
 - [expo/examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools
 - [levinunnink/html-form-to-google-sheet](https://github.com/levinunnink/html-form-to-google-sheet) - How to submit HTML forms to Google Sheets. (Updated for 2022 Script Editor)
 - [faahim/happy-birthday](https://github.com/faahim/happy-birthday) - Wish your friend/loved-ones happy birthday in a nerdy way.
@@ -1654,7 +1658,7 @@
 - [edumeet/edumeet](https://github.com/edumeet/edumeet) - edumeet - multiparty web-meetings using mediasoup and WebRTC
 - [ondras/wwwsqldesigner](https://github.com/ondras/wwwsqldesigner) - WWW SQL Designer, your online SQL diagramming tool
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
-- [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: GDevelop is an open-source, cross-platform game engine designed to be used by everyone.
+- [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
 - [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework
 - [fonoster/routr](https://github.com/fonoster/routr) - Routr: Next-generation SIP Server
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
@@ -1888,7 +1892,7 @@
 - [GoogleChromeLabs/preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin) - Please use https://github.com/vuejs/preload-webpack-plugin instead.
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core is a collection of React UI libraries for shipping new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready com
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1950 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2050 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [davidtheclark/react-aria-menubutton](https://github.com/davidtheclark/react-aria-menubutton) - A fully accessible, easily themeable, React-powered menu button
 - [geobde/react-triple-toggle](https://github.com/geobde/react-triple-toggle) - React multi toggle component
 - [zillow/react-slider](https://github.com/zillow/react-slider) - Accessible, CSS agnostic, slider component for React.
@@ -2758,6 +2762,7 @@
 
 ## Python 
 
+- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [ThatOneCalculator/Among-Us-Dumpy-Gif-Maker](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker) - A tool to make dumpy among us GIFS
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
 - [dunossauro/todo_list_flask_brython](https://github.com/dunossauro/todo_list_flask_brython) - um todo-list/kanban implementado com python fullstack
@@ -3387,7 +3392,7 @@
 - [Codecademy/docs](https://github.com/Codecademy/docs) - Codecademy Docs is a collection of information for all things code. 📕
 - [picturama/picturama](https://github.com/picturama/picturama) - Digital image organizer powered by the web
 - [uiwjs/react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
-- [devweslen/nlw-heat](https://github.com/devweslen/nlw-heat) - Application developed to practice learned technologies. Made at the NextLevel Week (NLW) event hosted by @Rocketseat.
+- [luweslen/nlw-heat](https://github.com/luweslen/nlw-heat) - Application developed to practice learned technologies. Made at the NextLevel Week (NLW) event hosted by @Rocketseat.
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [felixrieseberg/electron-wix-msi](https://github.com/felixrieseberg/electron-wix-msi) - :dvd: Create traditional MSI installers for your Electron app
@@ -3906,6 +3911,10 @@
 - [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 - [mtolhuys/laravel-schematics](https://github.com/mtolhuys/laravel-schematics) - A Laravel package making a diagram of your models, relations and the ability to build them with it
 - [nexmo-community/call-from-browser](https://github.com/nexmo-community/call-from-browser) - Make phone calls from a web browser with Nexmo In-App Voice and Vue.JS
+
+## Zig 
+
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 
 
 ## License

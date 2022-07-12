@@ -380,7 +380,7 @@
 - [muesli/code-server](https://github.com/muesli/code-server) - My code-server Docker image
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [lorisleiva/laravel-docker](https://github.com/lorisleiva/laravel-docker) - 🐳 Generic docker image for Laravel Applications
-- [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) on Docker, preconfigured Out of the Box. Enables Logging, Metrics, APM, Alerting, ML, and SIEM features. Up with a Single Command. Now Supports v8.0!
+- [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) v8+ on Docker with Compose. Pre-configured out of the box to enable Logging, Metrics, APM, Alerting, ML, and SIEM features. Up with a Single Command.
 - [tiredofit/docker-freepbx](https://github.com/tiredofit/docker-freepbx) - Dockerized FreePBX 15 w/Asterisk 17, Seperate MySQL Database support, and Data Persistence and UCP
 - [fam4r/docker-3cx](https://github.com/fam4r/docker-3cx) - Dockerfile (and compose) for 3CX https://www.3cx.com
 - [P3TERX/Aria2-Pro-Docker](https://github.com/P3TERX/Aria2-Pro-Docker) - Aria2 Pro | A perfect Aria2 Docker image | 更好用的 Aria2 Docker 容器镜像
@@ -2868,7 +2868,7 @@
 - [Netflix/flamescope](https://github.com/Netflix/flamescope) - FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [mrprompt/meteoros-floripa](https://github.com/mrprompt/meteoros-floripa) - Estações de capturas de meteoros em Florianópolis/SC
-- [gdcmarinho/links-uteis](https://github.com/gdcmarinho/links-uteis) - 📎 Lista de links úteis para o desenvolvimento de projetos
+- [gdcmarinho/awesome-project](https://github.com/gdcmarinho/awesome-project) - 📎A curated list of awesome project development links
 - [GeneralMills/pytrends](https://github.com/GeneralMills/pytrends) - Pseudo API for Google Trends
 - [mozilla/experimenter](https://github.com/mozilla/experimenter) - A web application for managing user experiments for Mozilla Firefox.
 - [CleverProgrammer/CP-Twilio-Python-Text-App](https://github.com/CleverProgrammer/CP-Twilio-Python-Text-App) - How to Text Using Twilio API with Python

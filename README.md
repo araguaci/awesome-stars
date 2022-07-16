@@ -769,6 +769,9 @@
 
 ## JavaScript 
 
+- [mrdoob/frame.js](https://github.com/mrdoob/frame.js) - JavaScript Sequence Editor
+- [zz85/space-radar](https://github.com/zz85/space-radar) - Disk And Memory Space Visualization App built with Electron & d3.js
+- [imgix/imgix.js](https://github.com/imgix/imgix.js) - Responsive images in the browser, simplified
 - [ruppysuppy/Pizza-Man](https://github.com/ruppysuppy/Pizza-Man) - 🍕🛒 An e-commerce website to order pizza online
 - [nextcloud/contacts](https://github.com/nextcloud/contacts) - 📇 Contacts app for Nextcloud
 - [zachgoll/express-jwt-authentication-starter](https://github.com/zachgoll/express-jwt-authentication-starter) - A simple JWT Authentication Implementation with Node, Express, Angular, and MongoDB
@@ -863,7 +866,7 @@
 - [rexxars/react-hexagon](https://github.com/rexxars/react-hexagon) - React component that renders a hexagon using SVG. Supports background images, links, SVG content, click handlers and more.
 - [tree-sitter/tree-sitter-php](https://github.com/tree-sitter/tree-sitter-php) - PHP grammar for tree-sitter
 - [sidorares/node-mysql2](https://github.com/sidorares/node-mysql2) - :zap: fast mysqljs/mysql compatible mysql driver for node.js
-- [readmeio/rdme](https://github.com/readmeio/rdme) - ReadMe's official CLI and GitHub Action wrapper
+- [readmeio/rdme](https://github.com/readmeio/rdme) - ReadMe's official CLI and GitHub Action
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [Astrobubu/stellaheroku](https://github.com/Astrobubu/stellaheroku) - 
 - [cobiwave/gatsby-simplefolio](https://github.com/cobiwave/gatsby-simplefolio) - ⚡️ A minimal Gatsby portfolio template for Developers
@@ -2139,7 +2142,6 @@
 
 - [okfn-brasil/perfil-politico](https://github.com/okfn-brasil/perfil-politico) - A platform for profiling public figures in Brazilian politics
 - [mozilla/TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
-- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
 - [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Free Data Engineering course!
 - [dadosgovbr/catalogos-dados-brasil](https://github.com/dadosgovbr/catalogos-dados-brasil) - Mapeamento de iniciativas (e catálogos) de dados abertos governamentais no Brasil.
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
@@ -2819,6 +2821,7 @@
 - [mdibaiee/flappy-es](https://github.com/mdibaiee/flappy-es) - Flappy Bird AI using Evolution Strategies
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
@@ -3121,6 +3124,7 @@
 
 ## TypeScript 
 
+- [astrodon/astrodon](https://github.com/astrodon/astrodon) - Make Desktop apps with Deno 🦕
 - [ruppysuppy/SmartsApp](https://github.com/ruppysuppy/SmartsApp) - 💬📱 An End to End Encrypted Cross Platform messenger app.
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [unjs/unstorage](https://github.com/unjs/unstorage) - 🌍 💾 Universal Storage Layer

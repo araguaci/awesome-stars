@@ -360,7 +360,7 @@
 - [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
 - [Datlyfe/flutter_tic_tac](https://github.com/Datlyfe/flutter_tic_tac) - Tic Tac Toe Game built with flutter
 - [steniooliv/payflow_nlw](https://github.com/steniooliv/payflow_nlw) - :iphone: Flutter project developed on NLW6, application to organize payment slips :dollar:
-- [dwyl/flutter-todo-list-tutorial](https://github.com/dwyl/flutter-todo-list-tutorial) - A detailed example/tutorial building a cross-platform Todo List App using Flutter
+- [dwyl/flutter-todo-list-tutorial](https://github.com/dwyl/flutter-todo-list-tutorial) - ✅ A detailed example/tutorial building a cross-platform Todo List App using Flutter 🦋
 - [burhanrashid52/WhatTodo](https://github.com/burhanrashid52/WhatTodo) - A Simple Todo app design in Flutter to keep track of your task on daily basis. Its build on BLoC Pattern. You can add a project, labels, and due-date to your task also you can sort your task on the ba
 - [mjohnsullivan/flutter-by-example](https://github.com/mjohnsullivan/flutter-by-example) - A collection of simple, bare-bones Flutter apps that each demonstrate a concept
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -398,6 +398,7 @@
 - [DinowSauron/Projeto-Next-Level-Week-7-Heat](https://github.com/DinowSauron/Projeto-Next-Level-Week-7-Heat) - Projeto para expressar suas expectativas para o DoWhile 2021
 - [Glimesh/glimesh.tv](https://github.com/Glimesh/glimesh.tv) - Glimesh is a next generation live streaming platform built by the community, for the community.
 - [rocketseat-education/nlw-06-elixir](https://github.com/rocketseat-education/nlw-06-elixir) - Projeto Wabanex
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [LauraBeatris/joy-of-elixir](https://github.com/LauraBeatris/joy-of-elixir) - elixir exercises with detailed answers
 
@@ -462,8 +463,8 @@
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [zorchenhimer/MovieNight](https://github.com/zorchenhimer/MovieNight) - Single instance video streaming server with integrated chat.
-- [pion/ion](https://github.com/pion/ion) - Real-Distributed  RTC System by pure Go and Flutter
-- [pion/ion-avp](https://github.com/pion/ion-avp) - Audio/Video Processing Service
+- [ionorg/ion](https://github.com/ionorg/ion) - Real-Distributed  RTC System by pure Go and Flutter
+- [ionorg/ion-avp](https://github.com/ionorg/ion-avp) - Audio/Video Processing Service
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
@@ -1287,7 +1288,6 @@
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
 - [jekuer/add-to-calendar-button](https://github.com/jekuer/add-to-calendar-button) - A convenient JavaScript snippet, which lets you create beautiful buttons, where people can add events to their calendars.
 - [javierbyte/img2css](https://github.com/javierbyte/img2css) - Convert any image to pure CSS. Recreates images using only box-shadows.
-- [javierbyte/pintr](https://github.com/javierbyte/pintr) - Create single line SVG illustrations from your pictures
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [adrianhajdin/portfolio_website](https://github.com/adrianhajdin/portfolio_website) - Tutorial created by Enyel Sequeira, taught by JavaScript Mastery
 - [adrianhajdin/project_news_alan_ai](https://github.com/adrianhajdin/project_news_alan_ai) - In this video, we're going to build a Conversational Voice Controlled React News Application using Alan AI. Alan AI is a revolutionary speech recognition software that allows you to add voice capabili
@@ -1518,7 +1518,7 @@
 - [wppconnect-team/wppconnect-server](https://github.com/wppconnect-team/wppconnect-server) - Wppconnect Server is a ready-to-use API, just download, install, and start using, simple as that.
 - [styled-components/styled-components-website](https://github.com/styled-components/styled-components-website) - The styled-components website and documentation
 - [cern-phone-apps/mobile-phone-app](https://github.com/cern-phone-apps/mobile-phone-app) - CERN Phone Mobile client. Multiplatform phone application compatible with Android and iOS.
-- [pion/ion-app-web](https://github.com/pion/ion-app-web) - ion web app
+- [ionorg/ion-app-web](https://github.com/ionorg/ion-app-web) - ion web app
 - [voximplant/react-native-demo](https://github.com/voximplant/react-native-demo) - React Native Voximplant Demo
 - [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys) - Lightweight full-featured WhatsApp Web + Multi-Device API
 - [parse-community/parse-server-example](https://github.com/parse-community/parse-server-example) - Example server using Express and the parse-server module.
@@ -1602,7 +1602,6 @@
 - [karlhadwen/netflix](https://github.com/karlhadwen/netflix) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Netflix Using React
 - [karlhadwen/todoist](https://github.com/karlhadwen/todoist) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Todoist Using React
 - [karlhadwen/instagram](https://github.com/karlhadwen/instagram) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Instagram Using React
-- [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
 - [frapontillo/angular-bootstrap-duallistbox](https://github.com/frapontillo/angular-bootstrap-duallistbox) - Angular directive to include Bootstrap Dual Listbox in your apps.
 - [frapontillo/angular-bootstrap-switch](https://github.com/frapontillo/angular-bootstrap-switch) - AngularJS directive for the bootstrap-switch jQuery plugin.
 - [maykinmedia/dual-listbox](https://github.com/maykinmedia/dual-listbox) - A simple dual listbox build in plain Javascript and some simple styling. (no other libraries of frameworks required)
@@ -2868,7 +2867,6 @@
 - [allenai/scholarphi](https://github.com/allenai/scholarphi) - An interactive PDF reader.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted free open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplic
 - [IBM/MAX-Audio-Embedding-Generator](https://github.com/IBM/MAX-Audio-Embedding-Generator) - Generate embedding vectors from audio files
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
 - [mateustoin/Bittoin-Telegram-Bot](https://github.com/mateustoin/Bittoin-Telegram-Bot) - Bot para Telegram com diversas funcionalidades, com o intuito de se divertir e aproveitar utilidades para o dia a dia.
 - [Kilian/Trimage](https://github.com/Kilian/Trimage) - A cross-platform tool for optimizing PNG and JPG files.
 - [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
@@ -3403,6 +3401,7 @@
 - [Vagr9K/gatsby-advanced-starter](https://github.com/Vagr9K/gatsby-advanced-starter) - A high performance skeleton starter for GatsbyJS with an advanced feature set.
 - [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization opti
 - [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.
+- [javierbyte/pintr](https://github.com/javierbyte/pintr) - Create single line SVG illustrations from your pictures
 - [geckosio/geckos.io](https://github.com/geckosio/geckos.io) - 🦎 Real-time client/server communication over UDP using WebRTC and Node.js http://geckos.io
 - [Codecademy/docs](https://github.com/Codecademy/docs) - Codecademy Docs is a collection of information for all things code. 📕
 - [picturama/picturama](https://github.com/picturama/picturama) - Digital image organizer powered by the web
@@ -3570,6 +3569,7 @@
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [grsoares21/dev-communities](https://github.com/grsoares21/dev-communities) - Data visualizations of different portuguese speaking Dev communities
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
 - [czeckd/angular-dual-listbox](https://github.com/czeckd/angular-dual-listbox) - Angular 10 component for a dual listbox control.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [benawad/fullstack-graphql-airbnb-clone](https://github.com/benawad/fullstack-graphql-airbnb-clone) - A Fullstack GraphQL Airbnb Clone with React and React Native

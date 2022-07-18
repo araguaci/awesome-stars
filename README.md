@@ -770,6 +770,7 @@
 
 ## JavaScript 
 
+- [ruppysuppy/UnHook](https://github.com/ruppysuppy/UnHook) - 💻👨‍💻 Cross Platform Desktop App to remind you to Unhook yourself from the Screen.
 - [mrdoob/frame.js](https://github.com/mrdoob/frame.js) - JavaScript Sequence Editor
 - [zz85/space-radar](https://github.com/zz85/space-radar) - Disk And Memory Space Visualization App built with Electron & d3.js
 - [imgix/imgix.js](https://github.com/imgix/imgix.js) - Responsive images in the browser, simplified
@@ -888,7 +889,7 @@
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio) - My self coded personal website build with React.js
-- [PaulieScanlon/paulie-dev-2019](https://github.com/PaulieScanlon/paulie-dev-2019) - My blog is built using @pauliescanlon/gatsby-theme-terminal 🕺
+- [PaulieScanlon/paulie-dev-2019](https://github.com/PaulieScanlon/paulie-dev-2019) - A Content Rich SSG Gatsby Website with Serverless Functions and SSR
 - [gbraadnl/gauth](https://github.com/gbraadnl/gauth) - A simple application for multi-factor authentication, written in HTML using jQuery Mobile, jsSHA and LocalStorage.
 - [AykutSarac/react-quiz](https://github.com/AykutSarac/react-quiz) - 💡 Quiz app made using React & Open Trivia DB.
 - [collab-project/videojs-record](https://github.com/collab-project/videojs-record) - video.js plugin for recording audio/video/image files
@@ -1024,7 +1025,7 @@
 - [PortalNetwork/nifty-game](https://github.com/PortalNetwork/nifty-game) - 🃏🎮A NFT(ERC721) card game build on Ethereum, Truffle, Ganache and hosting on IPFS.
 - [smollweide/react-speed-dial](https://github.com/smollweide/react-speed-dial) - React Component that implements a speed dial using Material-UI.
 - [nodegit/nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
-- [VitorValandro/gravitational](https://github.com/VitorValandro/gravitational) - Um jogo simples desenvolvido em Javascript e HTML5, com um ranking PHP usando banco de dados MySQL.
+- [VitorValandro/gravitational](https://github.com/VitorValandro/gravitational) - A simple original game designed by me using javascript and a score ranking with PHP
 - [stereobooster/react-ideal-image](https://github.com/stereobooster/react-ideal-image) - 🖼️ An Almost Ideal React Image Component
 - [dannyconnell/quasalang](https://github.com/dannyconnell/quasalang) - Generate Quasar i18n language files from a CSV file
 - [supermedium/aframe-environment-component](https://github.com/supermedium/aframe-environment-component) - :sunrise_over_mountains: Infinite background environments for A-Frame in a line of HTML.
@@ -2857,7 +2858,7 @@
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
-- [tzutalin/labelImg](https://github.com/tzutalin/labelImg) - 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images
+- [heartexlabs/labelImg](https://github.com/heartexlabs/labelImg) - 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images
 - [nvaccess/nvda](https://github.com/nvaccess/nvda) - NVDA, the free and open source Screen Reader for Microsoft Windows
 - [swimlane/elk-tls-docker](https://github.com/swimlane/elk-tls-docker) - This repository contains code to create a ELK stack with certificates & security enabled using docker-compose
 - [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants

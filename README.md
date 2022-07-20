@@ -493,6 +493,7 @@
 
 ## HTML 
 
+- [bxt/Nazareth-Knot](https://github.com/bxt/Nazareth-Knot) - A neat SVG drawing of a byzantine knot, generated with ERB
 - [eleith/emailjs](https://github.com/eleith/emailjs) - html emails and attachments to any smtp server with nodejs
 - [shadeed/headers-css](https://github.com/shadeed/headers-css) - The blueprint HTML and CSS for 17+ website headers
 - [bradtraversy/svg-css-generator-examples](https://github.com/bradtraversy/svg-css-generator-examples) - Tiny projects using generated code from different CSS & SVG generators

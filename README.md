@@ -493,6 +493,7 @@
 
 ## HTML 
 
+- [Evavic44/Periodic-Table](https://github.com/Evavic44/Periodic-Table) - Periodic table with CSS grid and glassmorphisim UI
 - [bxt/Nazareth-Knot](https://github.com/bxt/Nazareth-Knot) - A neat SVG drawing of a byzantine knot, generated with ERB
 - [eleith/emailjs](https://github.com/eleith/emailjs) - html emails and attachments to any smtp server with nodejs
 - [shadeed/headers-css](https://github.com/shadeed/headers-css) - The blueprint HTML and CSS for 17+ website headers
@@ -770,6 +771,9 @@
 
 ## JavaScript 
 
+- [taniarascia/webpack-boilerplate](https://github.com/taniarascia/webpack-boilerplate) - 📦 ‎ A sensible webpack 5 boilerplate.
+- [taniarascia/taniarascia.com](https://github.com/taniarascia/taniarascia.com) - 💾 ‎  Personal website running on Gatsby, React, and Node.js.
+- [Evavic44/nextjs-custom-404](https://github.com/Evavic44/nextjs-custom-404) - Custom animated 404 page in NextJS
 - [ruppysuppy/UnHook](https://github.com/ruppysuppy/UnHook) - 💻👨‍💻 Cross Platform Desktop App to remind you to Unhook yourself from the Screen.
 - [mrdoob/frame.js](https://github.com/mrdoob/frame.js) - JavaScript Sequence Editor
 - [zz85/space-radar](https://github.com/zz85/space-radar) - Disk And Memory Space Visualization App built with Electron & d3.js
@@ -2423,6 +2427,7 @@
 
 ## PHP 
 
+- [taniarascia/laconia](https://github.com/taniarascia/laconia) - 🏺 ‎ A minimalist MVC framework.
 - [spatie/simple-excel](https://github.com/spatie/simple-excel) - Read and write simple Excel and CSV files
 - [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie's Laravel Packages
 - [Machy8/webloader](https://github.com/Machy8/webloader) - 📦  Simple, easy to use, php bundler for javascript and css.
@@ -3126,6 +3131,7 @@
 
 ## TypeScript 
 
+- [reduxjs/redux-toolkit](https://github.com/reduxjs/redux-toolkit) - The official, opinionated, batteries-included toolset for efficient Redux development
 - [astrodon/astrodon](https://github.com/astrodon/astrodon) - Make Desktop apps with Deno 🦕
 - [ruppysuppy/SmartsApp](https://github.com/ruppysuppy/SmartsApp) - 💬📱 An End to End Encrypted Cross Platform messenger app.
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups

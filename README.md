@@ -503,7 +503,7 @@
 - [jerosoler/css-svg-generator-waves](https://github.com/jerosoler/css-svg-generator-waves) - 🎨 CSS / SVG Generator Waves
 - [akashgiricse/templates-using-bootstrap4](https://github.com/akashgiricse/templates-using-bootstrap4) - 🌆 Here I've aggregated some of the most commonly used web-page templates made using Bootstrap4 🛒
 - [jh3y/driveway](https://github.com/jh3y/driveway) - pure CSS masonry layouts
-- [markmead/hyperui](https://github.com/markmead/hyperui) - Free open source Tailwind CSS components 🐳
+- [markmead/hyperui](https://github.com/markmead/hyperui) - 🐳 Free open source Tailwind CSS components for marketing and ecommece websites, as well as application UI
 - [js13kGames/resources](https://github.com/js13kGames/resources) - js13kGames Resources
 - [OmniSharp/generator-aspnet](https://github.com/OmniSharp/generator-aspnet) - yo generator for ASP.NET Core
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
@@ -2264,7 +2264,7 @@
 - [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺  A place to discover the latest machine learning courses on YouTube.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [chentsulin/awesome-react-renderer](https://github.com/chentsulin/awesome-react-renderer) - Awesome list of React Renderer
-- [ribafs/all-awesomes](https://github.com/ribafs/all-awesomes) - Todas as listas awesomes que encontrei mais outros similares Lnks de projetos, ideias sobre projetos, livros de programação grátis, linguagens de programação, PHP, Laravel, etc
+- [ribafs/all-awesomes](https://github.com/ribafs/all-awesomes) - Todas as listas awesomes que encontrei mais outros similares Links de projetos, ideias sobre projetos, livros de programação grátis, linguagens de programação, PHP, Laravel, etc
 - [svpino/twitter](https://github.com/svpino/twitter) - A collection of the most relevant content I've posted on Twitter
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
@@ -2380,6 +2380,7 @@
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - :symbols: A collection of GitHub issue and pull request templates
 - [CollabCodeTech/backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - A public list of open-source challenges from jobs around the world
+- [gdcmarinho/awesome-project](https://github.com/gdcmarinho/awesome-project) - 📎A curated list of awesome project development links
 - [anabastos/awesome-pesquisa](https://github.com/anabastos/awesome-pesquisa) - Curated list of research content in portuguese
 - [frontendbr/forum](https://github.com/frontendbr/forum) - :beer: Portando discussões feitas em grupos (Facebook, Google Groups, Slack, Disqus) para o GitHub Discussions
 - [afonsopacifer/awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox) - :eyeglasses: A curated list of CSS Flexible Box Layout Module or only Flexbox.
@@ -2887,7 +2888,6 @@
 - [Netflix/flamescope](https://github.com/Netflix/flamescope) - FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [mrprompt/meteoros-floripa](https://github.com/mrprompt/meteoros-floripa) - Estações de capturas de meteoros em Florianópolis/SC
-- [gdcmarinho/awesome-project](https://github.com/gdcmarinho/awesome-project) - 📎A curated list of awesome project development links
 - [GeneralMills/pytrends](https://github.com/GeneralMills/pytrends) - Pseudo API for Google Trends
 - [mozilla/experimenter](https://github.com/mozilla/experimenter) - A web application for managing user experiments for Mozilla Firefox.
 - [CleverProgrammer/CP-Twilio-Python-Text-App](https://github.com/CleverProgrammer/CP-Twilio-Python-Text-App) - How to Text Using Twilio API with Python
@@ -3860,7 +3860,7 @@
 - [karrot-dev/karrot-frontend](https://github.com/karrot-dev/karrot-frontend) - Karrot is a free and open-source tool for grassroots initiatives and groups of people that want to coordinate face-to-face activities on a local, autonomous and voluntary basis.
 - [nuxt/codesandbox-nuxt](https://github.com/nuxt/codesandbox-nuxt) - Starter template for CodeSandBox.io
 - [antfu/vitesse-nuxt3](https://github.com/antfu/vitesse-nuxt3) - Vitesse for Nuxt 3 🏔💚⚡️
-- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Aggregated set of useful tools that every developer may need once in a while.
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [metalsadman/quasar-laravel](https://github.com/metalsadman/quasar-laravel) - Cloned from https://github.com/impxd/laravel-quasar-pwa-template
 - [bagisto/laravel-pwa](https://github.com/bagisto/laravel-pwa) - Transform your website like Mobile Application while having full functionality of the website using Laravel PWA
 - [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX.
@@ -3888,7 +3888,7 @@
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [danielroe/n3rdle](https://github.com/danielroe/n3rdle) - 
 - [LeCoupa/vuedarkmode](https://github.com/LeCoupa/vuedarkmode) - 👩‍🎨👨‍🎨 A minimalist dark design system for Vue.js. Based components designed for the insomniacs who enjoy dark interfaces as much as we do.
-- [hawkeye64/iconexplorer.app](https://github.com/hawkeye64/iconexplorer.app) - :zap: Icon Explorer application for Quasar Framework SVG icons. Over 60,000 searchable icons and growing.
+- [hawkeye64/iconexplorer.app](https://github.com/hawkeye64/iconexplorer.app) - :zap: Icon Explorer application for Quasar Framework SVG icons. Over 120,000 searchable icons and growing.
 - [hujiulong/vue-3d-model](https://github.com/hujiulong/vue-3d-model) - 📷 vue.js 3D model viewer component
 - [arnonrdp/Livrero](https://github.com/arnonrdp/Livrero) - A place for you to collect everything you've read.
 - [sumitkolhe/krates](https://github.com/sumitkolhe/krates) - :package: A free HTTP based JSON storage service

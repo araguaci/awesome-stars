@@ -242,6 +242,8 @@
 
 ## CSS 
 
+- [ui-buttons/core](https://github.com/ui-buttons/core) - 100 Modern CSS Buttons. Every style that you can imagine.
+- [lonekorean/gist-syntax-themes](https://github.com/lonekorean/gist-syntax-themes) - Collection of syntax theme stylesheets for GitHub Gists.
 - [petargyurov/virtual-bookshelf](https://github.com/petargyurov/virtual-bookshelf) - A simple bookshelf made in CSS, HTML and vanilla JS.
 - [tandpfun/nft-avatar](https://github.com/tandpfun/nft-avatar) - Create fake Twitter NFT avatars by giving your profile picture a hexagonal shape.
 - [ayusharma/birthday](https://github.com/ayusharma/birthday) - A Happy Birthday animation design in CSS3, HTML5
@@ -414,6 +416,7 @@
 
 ## Go 
 
+- [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
 - [cassiobotaro/60-days-of-go](https://github.com/cassiobotaro/60-days-of-go) - :card_index_dividers: 60 days discovering go
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [pojntfx/weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
@@ -494,6 +497,7 @@
 
 ## HTML 
 
+- [getumbrel/umbrel-apps](https://github.com/getumbrel/umbrel-apps) - The new, official app repository of the Umbrel App Store. Submit apps and updates here.
 - [Evavic44/Periodic-Table](https://github.com/Evavic44/Periodic-Table) - Periodic table with CSS grid and glassmorphisim UI
 - [bxt/Nazareth-Knot](https://github.com/bxt/Nazareth-Knot) - A neat SVG drawing of a byzantine knot, generated with ERB
 - [eleith/emailjs](https://github.com/eleith/emailjs) - html emails and attachments to any smtp server with nodejs
@@ -528,7 +532,7 @@
 - [chocolatey/docs](https://github.com/chocolatey/docs) - https://docs.chocolatey.org - new docs website
 - [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
-- [hexagrahamaton/hexular](https://github.com/hexagrahamaton/hexular) - Hexagonal cellular automata platform
+- [hexagontruth/hexular](https://github.com/hexagontruth/hexular) - Hexagonal cellular automata platform
 - [prabhuignoto/react-creme](https://github.com/prabhuignoto/react-creme) - Comprehensive UI Tool Kit for React
 - [exercism/website-copy](https://github.com/exercism/website-copy) - A repository for exercism's website's copy
 - [araguaci/stop-war-for-ever](https://github.com/araguaci/stop-war-for-ever) - STOP WAR FOR EVER BE DONE GOD'S WILL
@@ -772,6 +776,16 @@
 
 ## JavaScript 
 
+- [madzadev/kanboard](https://github.com/madzadev/kanboard) - 📃 KanBoard - Your personal project management tool
+- [danba340/react-three-fiber-example](https://github.com/danba340/react-three-fiber-example) - 
+- [danba340/periodic-table](https://github.com/danba340/periodic-table) - Periodic table build in react
+- [danba340/todos-recoil](https://github.com/danba340/todos-recoil) - 
+- [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
+- [DaggieBlanqx/whatsappcloudapi_wrapper](https://github.com/DaggieBlanqx/whatsappcloudapi_wrapper) - An easy way to build Whatsapp Chatbots on top of the new Whatsapp Cloud API
+- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
+- [unicef/material-slate](https://github.com/unicef/material-slate) - Rich text editor based on Slate for Material UI (React)
+- [unicef/react-org-chart](https://github.com/unicef/react-org-chart) - Component for displaying an org chart for a large organization. Supports lazy load and export.
+- [adisreyaj/portfolio](https://github.com/adisreyaj/portfolio) - My personal website and portfolio. Made with NextJs
 - [hasinhayder/windicss-boilerplate](https://github.com/hasinhayder/windicss-boilerplate) - WindiCSS + Vite boilerplate to quickly start developing your windicss/tailwindcss projects
 - [taniarascia/webpack-boilerplate](https://github.com/taniarascia/webpack-boilerplate) - 📦 ‎ A sensible webpack 5 boilerplate.
 - [taniarascia/taniarascia.com](https://github.com/taniarascia/taniarascia.com) - 💾 ‎  Personal website running on Gatsby, React, and Node.js.
@@ -996,7 +1010,6 @@
 - [hzoo/hopeinsource.com](https://github.com/hzoo/hopeinsource.com) - 🙏 Hope In Source podcast site (+ transcripts)
 - [magenta/lofi-player](https://github.com/magenta/lofi-player) - 🔥 Virtual room in your browser that lets you play with the Lo-Fi VIBE and relax
 - [as-ideas/add-to-homescreen-react](https://github.com/as-ideas/add-to-homescreen-react) - A React component providing add-to-home-screen functionality for different platforms
-- [typesense/docusaurus-theme-search-typesense](https://github.com/typesense/docusaurus-theme-search-typesense) - A fork of the awesome @docusaurus/theme-search-algolia library customized to work with Typesense
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
@@ -1103,6 +1116,7 @@
 - [patrickmonteiro/quasar-epub-reader](https://github.com/patrickmonteiro/quasar-epub-reader) - 📚 👓  An epub reader made with quasar framework and epubjs
 - [PDFTron/pdftron-document-search](https://github.com/PDFTron/pdftron-document-search) - Build search across multiple documents client-side in your file storage
 - [stephanrauh/ngx-extended-pdf-viewer](https://github.com/stephanrauh/ngx-extended-pdf-viewer) - A full-blown PDF viewer for Angular 9, 10, 11, 12, and beyond
+- [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
 - [ether/ep_webrtc](https://github.com/ether/ep_webrtc) - Audio & Video chat for Etherpad - Video Conferencing with a focus on collaboration
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
@@ -1294,7 +1308,7 @@
 - [parmsang/gatsby-starter-ecommerce](https://github.com/parmsang/gatsby-starter-ecommerce) - Gatsby starter for creating an eCommerce site using the Moltin eCommerce Api
 - [rcaferati/react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) - React content transition slider. Awesome Slider is a 60fps, light weight, performant component that renders an animated set of production ready UI general purpose sliders with fullpage transition supp
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
-- [jekuer/add-to-calendar-button](https://github.com/jekuer/add-to-calendar-button) - A convenient JavaScript snippet, which lets you create beautiful buttons, where people can add events to their calendars.
+- [add2cal/add-to-calendar-button](https://github.com/add2cal/add-to-calendar-button) - The convenient JavaScript snippet, which lets you reliably create beautiful buttons, where people can add events to their calendars.
 - [javierbyte/img2css](https://github.com/javierbyte/img2css) - Convert any image to pure CSS. Recreates images using only box-shadows.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [adrianhajdin/portfolio_website](https://github.com/adrianhajdin/portfolio_website) - Tutorial created by Enyel Sequeira, taught by JavaScript Mastery
@@ -1375,7 +1389,7 @@
 - [MattMcFarland/react-darkroom](https://github.com/MattMcFarland/react-darkroom) - An HTML5 Image Editing Component built with ReactJS
 - [kylewetton/image-compare-viewer](https://github.com/kylewetton/image-compare-viewer) - Compare before and after images, for grading and other retouching for instance. Vanilla JS, zero dependencies.
 - [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [yangshun/tree-node-cli](https://github.com/yangshun/tree-node-cli) - 🌲 Node.js library to list the contents of directories in a tree-like format, similar to the Linux tree command
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 - [grab/front-end-guide](https://github.com/grab/front-end-guide) - 📚 Study guide and introduction to the modern front end stack.
@@ -1908,7 +1922,7 @@
 - [GoogleChromeLabs/preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin) - Please use https://github.com/vuejs/preload-webpack-plugin instead.
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core is a collection of React UI libraries for shipping new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready com
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2050 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2150 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [davidtheclark/react-aria-menubutton](https://github.com/davidtheclark/react-aria-menubutton) - A fully accessible, easily themeable, React-powered menu button
 - [geobde/react-triple-toggle](https://github.com/geobde/react-triple-toggle) - React multi toggle component
 - [zillow/react-slider](https://github.com/zillow/react-slider) - Accessible, CSS agnostic, slider component for React.
@@ -2210,6 +2224,8 @@
 
 ## Others 
 
+- [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more
+- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [cassiobotaro/vimbook](https://github.com/cassiobotaro/vimbook) - :book: Um livro escrito em português sobre o editor de texto Vim
 - [matthiasjost/dotnet-content-creators](https://github.com/matthiasjost/dotnet-content-creators) - ⚡A list of .NET content creators
 - [curated-intel/CTI-fundamentals](https://github.com/curated-intel/CTI-fundamentals) - A collection of papers, blogs, and resources that make up the quintessential aspects of cyber threat intelligence
@@ -2312,7 +2328,7 @@
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [prayash/awesome-gatsby](https://github.com/prayash/awesome-gatsby) - ⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.
 - [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [wcota/covid19br](https://github.com/wcota/covid19br) - COVID-19 data in Brazil: cases, deaths, and vaccination at municipal (city) level. Description of the data: https://github.com/wcota/covid19br/blob/master/DESCRIPTION.en.md and https://doi.org/10.1590
+- [wcota/covid19br-original](https://github.com/wcota/covid19br-original) - COVID-19 data in Brazil: cases, deaths, and vaccination at municipal (city) level. Description of the data: https://github.com/wcota/covid19br/blob/master/DESCRIPTION.en.md and https://doi.org/10.1590
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [OtacilioN/awesome-conteudo-brasil](https://github.com/OtacilioN/awesome-conteudo-brasil) - Uma lista de conteúdos incríveis de tecnologia feito por pessoas brasileiras em PT-BR
@@ -2385,7 +2401,7 @@
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - :symbols: A collection of GitHub issue and pull request templates
 - [CollabCodeTech/backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - A public list of open-source challenges from jobs around the world
-- [gdcmarinho/awesome-project](https://github.com/gdcmarinho/awesome-project) - 📎A curated list of awesome project development links
+- [gdcmarinho/awesome-project](https://github.com/gdcmarinho/awesome-project) - 📎 A curated list of awesome project development links
 - [anabastos/awesome-pesquisa](https://github.com/anabastos/awesome-pesquisa) - Curated list of research content in portuguese
 - [frontendbr/forum](https://github.com/frontendbr/forum) - :beer: Portando discussões feitas em grupos (Facebook, Google Groups, Slack, Disqus) para o GitHub Discussions
 - [afonsopacifer/awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox) - :eyeglasses: A curated list of CSS Flexible Box Layout Module or only Flexbox.
@@ -2433,6 +2449,7 @@
 
 ## PHP 
 
+- [shgysk8zer0/logos](https://github.com/shgysk8zer0/logos) - A collection of SVG logos
 - [hasinhayder/hydra](https://github.com/hasinhayder/hydra) - Hydra is a zero-config API boilerplate with Laravel 9x + Laravel Sanctum that comes with an excellent user and role management API out of the box
 - [taniarascia/laconia](https://github.com/taniarascia/laconia) - 🏺 ‎ A minimalist MVC framework.
 - [spatie/simple-excel](https://github.com/spatie/simple-excel) - Read and write simple Excel and CSV files
@@ -2786,6 +2803,7 @@
 
 ## Python 
 
+- [shrutikapoor08/devjoke](https://github.com/shrutikapoor08/devjoke) - #DevJoke. Submit a PR if you know a good dev joke.
 - [ruppysuppy/Daily-Coding-Problem-Solutions](https://github.com/ruppysuppy/Daily-Coding-Problem-Solutions) - 🎓🖥️ Solutions for 350+ Interview Questions asked at FAANG and other top tech companies
 - [pyscaffold/pyscaffold](https://github.com/pyscaffold/pyscaffold) - 🛠 Python project template generator with batteries included
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
@@ -3050,7 +3068,7 @@
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [teddysun/lamp](https://github.com/teddysun/lamp) - Install LAMP(Linux + Apache + MySQL/MariaDB + PHP ) for CentOS/Debian/Ubuntu
 - [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
-- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an 
 - [capyvara/brazil-civil-registry-data](https://github.com/capyvara/brazil-civil-registry-data) - Raw scrapings of ARPEN https://transparencia.registrocivil.org.br/
 - [nextcloud/vm](https://github.com/nextcloud/vm) - 💻☁📦 The Nextcloud VM (virtual machine appliance), Home/SME Server and scripts for RPi (4). Community developed and maintained.
@@ -3114,6 +3132,7 @@
 
 ## Svelte 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams
 - [sveltejs/realworld](https://github.com/sveltejs/realworld) - SvelteKit implementation of the RealWorld app
 - [simeydotme/svelte-range-slider-pips](https://github.com/simeydotme/svelte-range-slider-pips) - Multi-Thumb, Accessible, Beautiful Range Slider with Pips
@@ -3138,6 +3157,10 @@
 
 ## TypeScript 
 
+- [adisreyaj/vscode-sonarqube-status](https://github.com/adisreyaj/vscode-sonarqube-status) - Get the result of the Sonar Qube analysis from your CICD pipeline right inside VSCode.
+- [adisreyaj/cartella-web](https://github.com/adisreyaj/cartella-web) - Cartella - The all in one bookmarking tool!
+- [adisreyaj/flare](https://github.com/adisreyaj/flare) - Social network for developers.
+- [adisreyaj/compito](https://github.com/adisreyaj/compito) - Compito is a simple and easy to use project management application with support for Multiple orgs.
 - [reduxjs/redux-toolkit](https://github.com/reduxjs/redux-toolkit) - The official, opinionated, batteries-included toolset for efficient Redux development
 - [astrodon/astrodon](https://github.com/astrodon/astrodon) - Make Desktop apps with Deno 🦕
 - [ruppysuppy/SmartsApp](https://github.com/ruppysuppy/SmartsApp) - 💬📱 An End to End Encrypted Cross Platform messenger app.
@@ -3150,7 +3173,7 @@
 - [TMTecnologia/turborepo-typescript-fullstack](https://github.com/TMTecnologia/turborepo-typescript-fullstack) - Turborepo boilerplate including TypeScript, ReactNative, Jest, ESLint and more
 - [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js + Electron ⚡
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
-- [tauri-apps/create-tauri-app](https://github.com/tauri-apps/create-tauri-app) - A toolkit to rapidly scaffold out a new tauri-apps project using the framework of their choice.
+- [tauri-apps/create-tauri-app](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold out a new tauri app project.
 - [dailydotdev/apps](https://github.com/dailydotdev/apps) - daily.dev application suite
 - [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 2.0.
 - [pbeshai/tidy](https://github.com/pbeshai/tidy) - Tidy up your data with JavaScript, inspired by dplyr and the tidyverse
@@ -3181,7 +3204,7 @@
 - [redxzeta/Awesome-Adoption](https://github.com/redxzeta/Awesome-Adoption) - pet adoption near your area
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [antfu/vitesse-lite](https://github.com/antfu/vitesse-lite) - ⛺️ Lightweight version of Vitesse
-- [antfu/vitesse](https://github.com/antfu/vitesse) - 🏕 Opinionated Vite Starter Template
+- [antfu/vitesse](https://github.com/antfu/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
 - [electron-vite/electron-vite-boilerplate](https://github.com/electron-vite/electron-vite-boilerplate) - 📚 A Electron + Vite boilerplate of the nature of learning(source-code of vite-plugin-electron)  / 学习性的样板工程(vite-plugin-electron源码)
 - [samuelmeuli/mini-diary](https://github.com/samuelmeuli/mini-diary) - 📘 Simple and secure journal app
 - [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) - 🥳 Really simple Electron + Vite + Vue boilerplate.
@@ -3265,7 +3288,7 @@
 - [williamngan/pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
 - [DadJokes-io/Dad_Jokes_API](https://github.com/DadJokes-io/Dad_Jokes_API) - Dad Jokes API contains unlimited dad jokes. If you would like an API Key head over to https://rapidapi.com/KegenGuyll/api/dad-jokes/details
 - [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
-- [open-source-labs/Chronos](https://github.com/open-source-labs/Chronos) - 📊 📊 📊 Monitors the health and web traffic of servers, microservices, and containers with real-time data monitoring and receive automated notifications over Slack or email.
+- [open-source-labs/Chronos](https://github.com/open-source-labs/Chronos) - 📊 📊 📊 Monitors the health and web traffic of servers, microservices, Kafka clusters, and containers with real-time data monitoring and receive automated notifications over Slack or email.
 - [GetStream/stream-chat-react](https://github.com/GetStream/stream-chat-react) - React Chat SDK ➜ Stream Chat 💬
 - [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark.
 - [xmlking/ngx-starter-kit](https://github.com/xmlking/ngx-starter-kit) - :a: Angular :rocket: NestJS :monkey: Starter Kit
@@ -3283,9 +3306,10 @@
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
+- [typesense/docusaurus-theme-search-typesense](https://github.com/typesense/docusaurus-theme-search-typesense) - A fork of the awesome @docusaurus/theme-search-algolia library customized to work with Typesense
 - [iota-community/iota-wiki](https://github.com/iota-community/iota-wiki) - IOTA Wiki
 - [jakejarvis/jarv.is](https://github.com/jakejarvis/jarv.is) - 🏡 My humble abode on the World Wide Web
-- [jahirfiquitiva/jahir.dev](https://github.com/jahirfiquitiva/jahir.dev) - My personal website 💎 – Built using Next.js, TypeScript, MDX, contentlayer, Notion and emotion styled components
+- [jahirfiquitiva/jahir.dev](https://github.com/jahirfiquitiva/jahir.dev) - My personal website 💎 – Built using Next.js, TypeScript, MDX, contentlayer, Notion and Stitches styled components
 - [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev) - My portfolio powered by Next.js, content sourced from Notion, styled with Tailwind CSS and deployed on Vercel. 🙌
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 - [jahirfiquitiva/world-holidays](https://github.com/jahirfiquitiva/world-holidays) - Get to know the upcoming worldwide holidays
@@ -3327,7 +3351,6 @@
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) - OpenTelemetry JavaScript Client
 - [react-pdf-viewer/react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer) - A React component to view a PDF document
-- [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [lume/lume](https://github.com/lume/lume) - Create 3D web applications with HTML. Bring a new depth to your DOM!
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
@@ -3351,7 +3374,7 @@
 - [onderceylan/pwa-workshop-angular-firebase](https://github.com/onderceylan/pwa-workshop-angular-firebase) - Build a production ready PWA with Angular and Firebase! This workshop consists of multiple steps for producing a PWA by transforming a regular web app - Ionic Conference App into a PWA, finally deploy
 - [onderceylan/pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator) - Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated i
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
-- [youzan/vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
+- [vant-ui/vant](https://github.com/vant-ui/vant) - Lightweight Mobile UI Components built on Vue
 - [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
 - [Dhaiwat10/react-link-preview](https://github.com/Dhaiwat10/react-link-preview) - A React library that generates beautiful previews for your links.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
@@ -3616,7 +3639,7 @@
 - [sebholstein/angular-google-maps](https://github.com/sebholstein/angular-google-maps) - Angular 2+ Google Maps Components
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
-- [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript.
+- [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript.
 - [dancancro/great-big-example-application](https://github.com/dancancro/great-big-example-application) - A full-stack example app built with JHipster, Spring Boot, Kotlin, Angular 4, ngrx, and Webpack
 - [reach/reach-ui](https://github.com/reach/reach-ui) - The Accessible Foundation for React Apps and Design Systems
 - [hirosystems/stacks-wallet](https://github.com/hirosystems/stacks-wallet) - Stacks Wallet—Send and receive STX tokens on the Stacks Blockchain.

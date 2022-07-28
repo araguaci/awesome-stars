@@ -767,7 +767,6 @@
 - [googlesamples/google-services](https://github.com/googlesamples/google-services) - A collection of quickstart samples demonstrating the Google APIs for Android and iOS
 - [datso/react-native-pjsip](https://github.com/datso/react-native-pjsip) - A PJSIP module for React Native.
 - [readrops/Readrops](https://github.com/readrops/Readrops) - Android multi-services RSS client
-- [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [toedter/chatty](https://github.com/toedter/chatty) - A chat app demo with RESTful hypermedia API and server push.
 - [phonegap/phonegap-plugin-push](https://github.com/phonegap/phonegap-plugin-push) - Register and receive push notifications
 - [google/google-authenticator-android](https://github.com/google/google-authenticator-android) - Open source fork of the Google Authenticator Android app
@@ -2328,7 +2327,7 @@
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [prayash/awesome-gatsby](https://github.com/prayash/awesome-gatsby) - ⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.
 - [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-- [wcota/covid19br-original](https://github.com/wcota/covid19br-original) - COVID-19 data in Brazil: cases, deaths, and vaccination at municipal (city) level. Description of the data: https://github.com/wcota/covid19br/blob/master/DESCRIPTION.en.md and https://doi.org/10.1590
+- [wcota/covid19br](https://github.com/wcota/covid19br) - COVID-19 data in Brazil: cases, deaths, and vaccination at municipal (city) level. Description of the data: https://github.com/wcota/covid19br/blob/master/DESCRIPTION.en.md and https://doi.org/10.1590
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [OtacilioN/awesome-conteudo-brasil](https://github.com/OtacilioN/awesome-conteudo-brasil) - Uma lista de conteúdos incríveis de tecnologia feito por pessoas brasileiras em PT-BR
@@ -2559,7 +2558,7 @@
 - [swoft-cloud/swoft](https://github.com/swoft-cloud/swoft) - 🚀 PHP Microservice Full Coroutine Framework
 - [gladchinda/keygen-php](https://github.com/gladchinda/keygen-php) - A fluent PHP random key generator.
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
-- [realodix/urlhub](https://github.com/realodix/urlhub) - URL shortener web application based on the Laravel PHP Framework.
+- [realodix/urlhub](https://github.com/realodix/urlhub) - ✂️ URL shortener web application based on the Laravel PHP Framework.
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (writ
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Free and Online Accounting Software
 - [nfe/client-php](https://github.com/nfe/client-php) - Official NFe.io API Client for PHP
@@ -3157,6 +3156,8 @@
 
 ## TypeScript 
 
+- [naver/egjs-flicking](https://github.com/naver/egjs-flicking) - 🎠 ♻️ Everyday 30 million people experience. It's reliable, flexible and extendable carousel.
+- [naver/billboard.js](https://github.com/naver/billboard.js) - :bar_chart: Re-usable, easy interface JavaScript chart library based on D3.js
 - [adisreyaj/vscode-sonarqube-status](https://github.com/adisreyaj/vscode-sonarqube-status) - Get the result of the Sonar Qube analysis from your CICD pipeline right inside VSCode.
 - [adisreyaj/cartella-web](https://github.com/adisreyaj/cartella-web) - Cartella - The all in one bookmarking tool!
 - [adisreyaj/flare](https://github.com/adisreyaj/flare) - Social network for developers.
@@ -3834,6 +3835,7 @@
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
+- [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [rocketseat-content/youtube-clone-twitter](https://github.com/rocketseat-content/youtube-clone-twitter) - Responsive Twitter UI clone for study purposes.
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js

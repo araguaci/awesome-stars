@@ -497,6 +497,7 @@
 
 ## HTML 
 
+- [livebook-dev/livebook.dev](https://github.com/livebook-dev/livebook.dev) - Landing page for Livebook
 - [getumbrel/umbrel-apps](https://github.com/getumbrel/umbrel-apps) - The new, official app repository of the Umbrel App Store. Submit apps and updates here.
 - [Evavic44/Periodic-Table](https://github.com/Evavic44/Periodic-Table) - Periodic table with CSS grid and glassmorphisim UI
 - [bxt/Nazareth-Knot](https://github.com/bxt/Nazareth-Knot) - A neat SVG drawing of a byzantine knot, generated with ERB
@@ -717,7 +718,7 @@
 - [eugenp/tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
 - [dbpedia/chatbot](https://github.com/dbpedia/chatbot) - DBpedia Chatbot
 - [joindesk/Joindesk](https://github.com/joindesk/Joindesk) - Open source Project Management application.
-- [learning-zone/java-interview-questions](https://github.com/learning-zone/java-interview-questions) - Java Interview Questions ( JDK 18 )
+- [learning-zone/java-interview-questions](https://github.com/learning-zone/java-interview-questions) - Java Interview Questions
 - [spring-io/start.spring.io](https://github.com/spring-io/start.spring.io) - https://start.spring.io
 - [flutter-webrtc/flutter-webrtc](https://github.com/flutter-webrtc/flutter-webrtc) - WebRTC plugin for Flutter Mobile/Desktop/Web
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
@@ -775,6 +776,7 @@
 
 ## JavaScript 
 
+- [JetBrains/kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin programming language website
 - [madzadev/kanboard](https://github.com/madzadev/kanboard) - 📃 KanBoard - Your personal project management tool
 - [danba340/react-three-fiber-example](https://github.com/danba340/react-three-fiber-example) - 
 - [danba340/periodic-table](https://github.com/danba340/periodic-table) - Periodic table build in react
@@ -1728,7 +1730,7 @@
 - [h5bp/create-html5-boilerplate](https://github.com/h5bp/create-html5-boilerplate) - npx quick start for html5-boilerplate
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [edankwan/quick-loader](https://github.com/edankwan/quick-loader) - quick-loader is an asset loader that loads everything
 - [aws-amplify/community](https://github.com/aws-amplify/community) - AWS Amplify Community
 - [loiane/ext4-crud-mvc](https://github.com/loiane/ext4-crud-mvc) - BrazilJS Sample Project - Ext JS 4 CRUD MVC Example
@@ -2169,6 +2171,7 @@
 
 ## Kotlin 
 
+- [JetBrains/lets-plot](https://github.com/JetBrains/lets-plot) - An open-source plotting library for statistical data.
 - [VirgilSecurity/chat-back4app-android](https://github.com/VirgilSecurity/chat-back4app-android) - (Works!) A simple Back4App Android application based on Virgil E3Kit that demonstrates how the end-to-end encryption works.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.                                                                                          NOT
 - [AdevintaSpain/Leku](https://github.com/AdevintaSpain/Leku) - :earth_africa: Map location picker component for Android. Based on Google Maps. An alternative to Google Place Picker.
@@ -2448,6 +2451,10 @@
 
 ## PHP 
 
+- [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a lean project management system for innovators. Designed to help you manage your projects from ideation to delivery.
+- [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
+- [leafsphp/skeleton](https://github.com/leafsphp/skeleton) - A boiler-plate application for rapid development.
+- [leafsphp/leaf](https://github.com/leafsphp/leaf) - 🍁 The easiest way to create clean, simple but powerful web apps and APIs quickly
 - [shgysk8zer0/logos](https://github.com/shgysk8zer0/logos) - A collection of SVG logos
 - [hasinhayder/hydra](https://github.com/hasinhayder/hydra) - Hydra is a zero-config API boilerplate with Laravel 9x + Laravel Sanctum that comes with an excellent user and role management API out of the box
 - [taniarascia/laconia](https://github.com/taniarascia/laconia) - 🏺 ‎ A minimalist MVC framework.
@@ -2775,6 +2782,7 @@
 
 ## PowerShell 
 
+- [codaamok/PSShlink](https://github.com/codaamok/PSShlink) - An unofficial PowerShell module for Shlink (https://shlink.io), an open-source self-hosted and PHP-based URL shortener application
 - [MicrosoftDocs/windows-itpro-docs](https://github.com/MicrosoftDocs/windows-itpro-docs) - This is used for contributions to the Windows 10 content for IT professionals on docs.microsoft.com.
 - [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10+.
@@ -3156,6 +3164,9 @@
 
 ## TypeScript 
 
+- [shlinkio/shlink-web-client](https://github.com/shlinkio/shlink-web-client) - A React-based client application for Shlink
+- [shlinkio/shlink.io](https://github.com/shlinkio/shlink.io) - Shlink project website
+- [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components
 - [naver/egjs-flicking](https://github.com/naver/egjs-flicking) - 🎠 ♻️ Everyday 30 million people experience. It's reliable, flexible and extendable carousel.
 - [naver/billboard.js](https://github.com/naver/billboard.js) - :bar_chart: Re-usable, easy interface JavaScript chart library based on D3.js
 - [adisreyaj/vscode-sonarqube-status](https://github.com/adisreyaj/vscode-sonarqube-status) - Get the result of the Sonar Qube analysis from your CICD pipeline right inside VSCode.

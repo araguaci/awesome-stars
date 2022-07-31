@@ -497,6 +497,7 @@
 
 ## HTML 
 
+- [wenzhixin/bootstrap-table-examples](https://github.com/wenzhixin/bootstrap-table-examples) - Bootstrap table examples
 - [livebook-dev/livebook.dev](https://github.com/livebook-dev/livebook.dev) - Landing page for Livebook
 - [getumbrel/umbrel-apps](https://github.com/getumbrel/umbrel-apps) - The new, official app repository of the Umbrel App Store. Submit apps and updates here.
 - [Evavic44/Periodic-Table](https://github.com/Evavic44/Periodic-Table) - Periodic table with CSS grid and glassmorphisim UI
@@ -546,6 +547,7 @@
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
 - [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
+- [peterpeterparker/web-social-share](https://github.com/peterpeterparker/web-social-share) - A Web Component to share url and text on social networks
 - [jaegertracing/documentation](https://github.com/jaegertracing/documentation) - Documentation/website for the Jaeger Distributed Tracing project.
 - [araguaci/javascript-slider-reviews](https://github.com/araguaci/javascript-slider-reviews) - AVALIAÇÕES - FLORIPA SURF CLUB SURF SCHOOL 🌊 A ESCOLA QUE ENSINA EM ONDAS PERFEITAS PARA INICIANTES 🌊 www.floripasurfclub.com.br - @floripasurfcluboficial
 - [araguaci/araguaci.github.io](https://github.com/araguaci/araguaci.github.io) - Since 1994, creation and development of systems, portals, personal pages, websites, and specialized systems for internet and websites ...
@@ -776,6 +778,7 @@
 
 ## JavaScript 
 
+- [firstcontributions/firstcontributions.github.io](https://github.com/firstcontributions/firstcontributions.github.io) - Web app for First Contributions
 - [JetBrains/kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin programming language website
 - [madzadev/kanboard](https://github.com/madzadev/kanboard) - 📃 KanBoard - Your personal project management tool
 - [danba340/react-three-fiber-example](https://github.com/danba340/react-three-fiber-example) - 
@@ -2196,6 +2199,7 @@
 
 ## Makefile 
 
+- [matyo91/matyo91](https://github.com/matyo91/matyo91) - :octocat: Matyo91 Github Profil
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [thumbor/awesome-thumbor](https://github.com/thumbor/awesome-thumbor) - Everything thumbor, awesomely curated & updated weekly.
 - [Helsinki-NLP/Tatoeba-Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge) - 
@@ -2226,6 +2230,7 @@
 
 ## Others 
 
+- [PamelaRondina/step-by-step](https://github.com/PamelaRondina/step-by-step) - Projeto com o objetivo de auxiliar a comunidade de Tecnologia à aprender a utilizar o GitHub. Consiste em um passo a passo de inclusão de cabeçalho, ícones de linguagens, softwares, imagens e emojis. 
 - [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [cassiobotaro/vimbook](https://github.com/cassiobotaro/vimbook) - :book: Um livro escrito em português sobre o editor de texto Vim
@@ -2810,6 +2815,8 @@
 
 ## Python 
 
+- [PenseAllen/PensePython2e](https://github.com/PenseAllen/PensePython2e) - Tradução do livro Pense em Python (2ª ed.), de Allen B. Downey
+- [ChrisKnott/Eel](https://github.com/ChrisKnott/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
 - [shrutikapoor08/devjoke](https://github.com/shrutikapoor08/devjoke) - #DevJoke. Submit a PR if you know a good dev joke.
 - [ruppysuppy/Daily-Coding-Problem-Solutions](https://github.com/ruppysuppy/Daily-Coding-Problem-Solutions) - 🎓🖥️ Solutions for 350+ Interview Questions asked at FAANG and other top tech companies
 - [pyscaffold/pyscaffold](https://github.com/pyscaffold/pyscaffold) - 🛠 Python project template generator with batteries included
@@ -3061,6 +3068,7 @@
 
 ## Shell 
 
+- [fdaciuk/install-linux](https://github.com/fdaciuk/install-linux) - Softwares to install on Linux
 - [heroku/heroku-buildpack-php](https://github.com/heroku/heroku-buildpack-php) - The official PHP buildpack for Heroku.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian.
 - [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - DreamFactory API Management Platform
@@ -3333,7 +3341,6 @@
 - [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [tanhakabir/rest-book](https://github.com/tanhakabir/rest-book) - REST Book is a Visual Studio Code extension that allows you to perform REST calls in a Notebook interface.
-- [peterpeterparker/web-social-share](https://github.com/peterpeterparker/web-social-share) - A Web Component to share url and text on social networks
 - [peterpeterparker/tietracker](https://github.com/peterpeterparker/tietracker) - A simple, open source and free time tracking app ⏱️
 - [googleapis/nodejs-text-to-speech](https://github.com/googleapis/nodejs-text-to-speech) - Node.js client for Google Cloud Text-to-Speech
 - [influxdata/ui](https://github.com/influxdata/ui) - UI for InfluxDB
@@ -3426,7 +3433,7 @@
 - [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora - Open-Source Translation Management Platform
 - [huytd/pomoday-v2](https://github.com/huytd/pomoday-v2) - A keyboard only task management web app
 - [ibitcy/eo-locale](https://github.com/ibitcy/eo-locale) - 🌏Internationalize React apps 👔Elegant lightweight library based on Internationalization API
-- [prc5/react-zoom-pan-pinch](https://github.com/prc5/react-zoom-pan-pinch) - React library to support easy zoom, pan, pinch on various html dom elements like images and divs
+- [prc5/react-zoom-pan-pinch](https://github.com/prc5/react-zoom-pan-pinch) - 🖼 React library to support easy zoom, pan, pinch on various html dom elements like images and divs
 - [pancakeswap/pancake-toolkit](https://github.com/pancakeswap/pancake-toolkit) - :hammer_and_pick: Pancake frontend packages
 - [Splidejs/react-splide](https://github.com/Splidejs/react-splide) - The React component for the Splide slider/carousel.
 - [Splidejs/splide](https://github.com/Splidejs/splide) - Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.
@@ -3897,6 +3904,7 @@
 
 ## Vue 
 
+- [wenzhixin/multiple-select](https://github.com/wenzhixin/multiple-select) - A jQuery plugin to select multiple elements with checkboxes :)
 - [codydbentley/wails-vite-vue-the-works](https://github.com/codydbentley/wails-vite-vue-the-works) - A Wails template with Vite, Vue 3 TypeScript, Vuex, Vue Router, Sass, ESLint, and Prettier
 - [getumbrel/umbrel-dashboard](https://github.com/getumbrel/umbrel-dashboard) - Web-based dashboard to interact with your Umbrel
 - [jordihales/hypercolor](https://github.com/jordihales/hypercolor) - A curated collection of beautiful premade gradients using default colors from the Tailwind palette as well as a selection of custom color gradients.

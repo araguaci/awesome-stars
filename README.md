@@ -3116,7 +3116,7 @@
 - [seebi/zshrc](https://github.com/seebi/zshrc) - Due to many requests I share my zsh configuration compilation.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [wfxr/tmux-power](https://github.com/wfxr/tmux-power) - 🎨 Tmux powerline theme
-- [sipcapture/homer](https://github.com/sipcapture/homer) - HOMER - 100% Open-Source SIP / VoIP / RTC Packet Capture & Monitoring
+- [sipcapture/homer](https://github.com/sipcapture/homer) - HOMER - 100% Open-Source SIP, VoIP, RTC Packet Capture & Monitoring
 - [x2on/OpenSSL-for-iPhone](https://github.com/x2on/OpenSSL-for-iPhone) - A script for compiling OpenSSL for iOS Devices (iPhone, iPad, iPod Touch, AppleTV, MacCatalyst)
 - [VoiSmart/pjsip-android-builder](https://github.com/VoiSmart/pjsip-android-builder) - Complete Android build environment for PJSIP with OpenSSL, OpenH264, Opus and G.729
 - [makenew/serverless-nodejs](https://github.com/makenew/serverless-nodejs) - Bootstrap a new Node.js Serverless project in five minutes or less.

@@ -917,7 +917,6 @@
 - [VPNht/desktop-legacy](https://github.com/VPNht/desktop-legacy) - VPN.ht Desktop Application for Windows and Mac OS X built on top of Electron
 - [omariosouto/flappy-bird-devsoutinho](https://github.com/omariosouto/flappy-bird-devsoutinho) - 🐦 Projeto da Playlist de vídeos ensinando a fazer um jogo com JavaScript do ZERO!
 - [heroku/react-refetch](https://github.com/heroku/react-refetch) - A simple, declarative, and composable way to fetch data for React components
-- [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio) - My self coded personal website build with React.js
 - [PaulieScanlon/paulie-dev-2019](https://github.com/PaulieScanlon/paulie-dev-2019) - A Content Rich SSG Gatsby Website with Serverless Functions and SSR
@@ -961,6 +960,7 @@
 - [jamesqquick/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript](https://github.com/jamesqquick/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript) - Build a Quiz App with HTML, CSS, and JavaScript
 - [visjs/vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
 - [btholt/next-course-starter](https://github.com/btholt/next-course-starter) - Starter kit for making courses for Frontend Masters
+- [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [ahmadawais/WPGulp](https://github.com/ahmadawais/WPGulp) - An advanced Gulp workflow for WordPress development with extensive documentation. Used by 40,000+ themes and plugins.
 - [amilajack/js-algorithms](https://github.com/amilajack/js-algorithms) - A collection of algorithms written in javascript
 - [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
@@ -1475,7 +1475,6 @@
 - [Sandermoen/instaclone](https://github.com/Sandermoen/instaclone) - An instagram clone created with the MERN stack
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [opentargets/platform-app](https://github.com/opentargets/platform-app) - Open Targets Platform web app
-- [altanai/webrtcdevelopment](https://github.com/altanai/webrtcdevelopment) - web real time communication platform
 - [twilio/twilio-node](https://github.com/twilio/twilio-node) - Node.js helper library
 - [maykbrito/trim-video](https://github.com/maykbrito/trim-video) - 
 - [rocketseat-content/masterclass-nodejs-sql](https://github.com/rocketseat-content/masterclass-nodejs-sql) - Código produzido durante o vídeo "Masterclass #01 - SQL no Node.js com Sequelize" no Youtube 🔥
@@ -2130,7 +2129,7 @@
 - [nosir/obelisk.js](https://github.com/nosir/obelisk.js) - Build pixel isometric graphics with HTML5 canvas
 - [esteinborn/jquery-listnav](https://github.com/esteinborn/jquery-listnav) - Add a slick "letter-based" navigation bar to all of your lists. Click a letter to quickly filter the list to items that match that letter. Compatible with jQuery 3.0+ For previous versions of jQuery, 
 - [wagerfield/parallax](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device
-- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
+- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [nadbm/react-datasheet](https://github.com/nadbm/react-datasheet) - Excel-like data grid (table) component for React
 - [dollarshaveclub/shave](https://github.com/dollarshaveclub/shave) - 💈 Shave is a 0 dep JS plugin that truncates text to fit within an element based on a set max-height  ✁
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
@@ -2218,7 +2217,6 @@
 
 ## Nunjucks 
 
-- [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [jamstack/jamstack.org](https://github.com/jamstack/jamstack.org) - The official Jamstack site
 - [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev) - The frontend, backend, and content source code for web.dev
 
@@ -3288,6 +3286,7 @@
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [gobeam/truthy](https://github.com/gobeam/truthy) - Open source headless CMS API written using NestJS, that has pre built modules like User Management, Role Management, Permission Management, Email Module, Account Settings, OTP, Throttling, RBAC suppor
 - [ninest/husker](https://github.com/ninest/husker) - Useful Northeastern resources and links; a Student Hub alternative
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [Aashishkushwaha/The-Millionaires-Quiz](https://github.com/Aashishkushwaha/The-Millionaires-Quiz) - This is a simple quiz game where you'll earn pseudo money if you answer correctly.
 - [zThiago15/nlwValoriza](https://github.com/zThiago15/nlwValoriza) - Projeto desenvolvido durante a NLW 6! Se trata de um sistema de elogio entre usuários por meio de tags. 🚀

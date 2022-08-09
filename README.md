@@ -781,6 +781,7 @@
 
 ## JavaScript 
 
+- [snipsnapdev/snipsnap](https://github.com/snipsnapdev/snipsnap) - Speed up your development with a powerful set of tools
 - [atapas/shoes](https://github.com/atapas/shoes) - Shoes is an online shoe store built using Gatsby and Strapi
 - [atapas/imaginary](https://github.com/atapas/imaginary) - imaginary is an image gallery built using Gatsby and Cloudinary. Follow this project to know more.
 - [ishantchauhan710/SpaceChat](https://github.com/ishantchauhan710/SpaceChat) - A socket.io based real time chat app where you can perform one-to-one chats as well as group chats! Built using MERN stack, this project implements all core functionalities like User Authentication, W
@@ -1015,7 +1016,7 @@
 - [LLK/scratch-gui](https://github.com/LLK/scratch-gui) - Graphical User Interface for creating and running Scratch 3.0 projects.
 - [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js
 - [WordPress/dashicons](https://github.com/WordPress/dashicons) - Dashicons, the WordPress admin icon font. For the official resource, please see the WordPress Developer Hub.
-- [BrunoS3D/Calculator-React](https://github.com/BrunoS3D/Calculator-React) - 🖥 REACT.JS - Uma simples calculadora amigável feita em React.
+- [brunos3d/Calculator-React](https://github.com/brunos3d/Calculator-React) - 🖥 REACT.JS - Uma simples calculadora amigável feita em React.
 - [BlinkTagInc/gtfs-to-html](https://github.com/BlinkTagInc/gtfs-to-html) - Build human readable transit timetables as HTML or PDF from GTFS.
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [babel/website](https://github.com/babel/website) - :globe_with_meridians: The Babel documentation website
@@ -1609,7 +1610,7 @@
 - [reactide/reactide](https://github.com/reactide/reactide) - Reactide is the first dedicated IDE for React web application development.
 - [patrikx3/onenote](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
-- [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
+- [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 - [johnkorzhuk/grabient](https://github.com/johnkorzhuk/grabient) - UI to generate linear-gradients
 - [aladinyo/WhatsappyApp](https://github.com/aladinyo/WhatsappyApp) - A whatsapp clone progressive web application built with react nodejs and firebase
 - [xTecna/sete-cliques](https://github.com/xTecna/sete-cliques) - 
@@ -2213,6 +2214,7 @@
 
 ## Markdown 
 
+- [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
 
 ## Nunjucks 
@@ -2234,6 +2236,7 @@
 
 ## Others 
 
+- [Olanetsoft/awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) - This is a curated list of amazing hackathon projects
 - [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development.
 - [PamelaRondina/step-by-step](https://github.com/PamelaRondina/step-by-step) - Projeto com o objetivo de auxiliar a comunidade de Tecnologia a aprender a utilizar o GitHub. Consiste em um passo a passo de inclusão de cabeçalho, ícones de linguagens, softwares, imagens e emojis. 
 - [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more
@@ -2803,7 +2806,7 @@
 - [renatogroffe/Kubernetes-KEDA-Helm-Kafka_WorkerContagem](https://github.com/renatogroffe/Kubernetes-KEDA-Helm-Kafka_WorkerContagem) - Objetos para Deployment de um Worker Service (contagem de acessos) no Kubernetes utilizando KEDA, Helm e Apache Kafka
 - [adbertram/PowerTrello](https://github.com/adbertram/PowerTrello) - PowerTrello is a PowerShell module for interacting with the Trello web service.
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
+- [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [adbertram/Random-PowerShell-Work](https://github.com/adbertram/Random-PowerShell-Work) - Random PowerShell Work
 - [mlocati/powershell-phpmanager](https://github.com/mlocati/powershell-phpmanager) - A PowerShell module to install/update PHP, PHP extensions and Composer on Windows
 
@@ -3178,6 +3181,7 @@
 
 ## TypeScript 
 
+- [sanvishal/wrighter](https://github.com/sanvishal/wrighter) - write the (w)right way!
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign
 - [shlinkio/shlink-web-client](https://github.com/shlinkio/shlink-web-client) - A React-based client application for Shlink
 - [shlinkio/shlink.io](https://github.com/shlinkio/shlink.io) - Shlink project website

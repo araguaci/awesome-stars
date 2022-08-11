@@ -429,7 +429,7 @@
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [miconda/sipexer](https://github.com/miconda/sipexer) - Modern and flexible SIP cli tool
-- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Excel (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [GoogleCloudPlatform/golang-samples](https://github.com/GoogleCloudPlatform/golang-samples) - Sample apps and code written for Google Cloud in the Go programming language.
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
@@ -1789,7 +1789,7 @@
 - [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
 - [docker/getting-started](https://github.com/docker/getting-started) - Getting started with Docker
 - [dart-lang/site-www](https://github.com/dart-lang/site-www) - Source for Dart website
-- [google/WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
+- [google/WebFundamentals](https://github.com/google/WebFundamentals) - Former git repo for WebFundamentals on developers.google.com
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [jakkra/SmartMirror](https://github.com/jakkra/SmartMirror) - My MagicMirror running on a Raspberry Pi
 - [pascalopitz/unoffical-sonos-controller-for-linux](https://github.com/pascalopitz/unoffical-sonos-controller-for-linux) - An Electron based linux app for controlling your sonos system.
@@ -2822,6 +2822,7 @@
 
 ## Python 
 
+- [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode) - Run VSCode (codeserver) on Google Colab or Kaggle Notebooks
 - [PenseAllen/PensePython2e](https://github.com/PenseAllen/PensePython2e) - Tradução do livro Pense em Python (2ª ed.), de Allen B. Downey
 - [ChrisKnott/Eel](https://github.com/ChrisKnott/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
 - [shrutikapoor08/devjoke](https://github.com/shrutikapoor08/devjoke) - #DevJoke. Submit a PR if you know a good dev joke.
@@ -2842,7 +2843,7 @@
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [rochacbruno/python-week-2022](https://github.com/rochacbruno/python-week-2022) - Template Para a Python Week 2002 - 25 a 29 de Abril na LINUXTips
-- [Zi-hao-Wei/A-ESRGAN](https://github.com/Zi-hao-Wei/A-ESRGAN) - A-ESRGAN aims to provide better super-resolution images by using multi-scale attention U-net discriminators.
+- [stroking-fishes-ml-corp/A-ESRGAN](https://github.com/stroking-fishes-ml-corp/A-ESRGAN) - A-ESRGAN aims to provide better super-resolution images by using multi-scale attention U-net discriminators.
 - [Image-Py/imagepy](https://github.com/Image-Py/imagepy) - Image process framework based on plugin like imagej, it is esay to glue with scipy.ndimage, scikit-image, opencv, simpleitk, mayavi...and any libraries based on numpy
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
@@ -3164,7 +3165,7 @@
 - [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
 - [bradtraversy/svelte-feedback-app](https://github.com/bradtraversy/svelte-feedback-app) - Feedback app built with Svelte
 - [Aveek-Saha/DuskPlayer](https://github.com/Aveek-Saha/DuskPlayer) - A minimal music player built on electron.
-- [open-source-labs/SvelteStorm](https://github.com/open-source-labs/SvelteStorm) - SvelteStorm is an open-source IDE with a built-in State Manager window for viewing your svelte project in real-time
+- [open-source-labs/SvelteStorm](https://github.com/open-source-labs/SvelteStorm) - SvelteStorm is an open-source IDE with a built-in Debugging window for viewing and debugging your svelte project in real-time
 - [Tommertom/svelte-ionic-app](https://github.com/Tommertom/svelte-ionic-app) - Ionic UI showcase app - try Ionic UI and directly go to API or source code
 
 ## Swift 

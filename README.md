@@ -242,6 +242,7 @@
 
 ## CSS 
 
+- [mafairnet/aloha](https://github.com/mafairnet/aloha) - aloha
 - [ui-buttons/core](https://github.com/ui-buttons/core) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [lonekorean/gist-syntax-themes](https://github.com/lonekorean/gist-syntax-themes) - Collection of syntax theme stylesheets for GitHub Gists.
 - [petargyurov/virtual-bookshelf](https://github.com/petargyurov/virtual-bookshelf) - A simple bookshelf made in CSS, HTML and vanilla JS.
@@ -781,6 +782,11 @@
 
 ## JavaScript 
 
+- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 4k and 60fps, compatible with all browsers and platforms.
+- [miroslavpejic85/mirotalksfu](https://github.com/miroslavpejic85/mirotalksfu) - 🏆 WebRTC - SFU - Simple, Secure, Scalable Real-Time Video Conferences Up to 4k, compatible with all browsers and platforms.
+- [InnovateAsterisk/Browser-Phone](https://github.com/InnovateAsterisk/Browser-Phone) - A fully featured browser based WebRTC SIP phone for Asterisk
+- [meetecho/janode](https://github.com/meetecho/janode) - A Node.js adapter for the Janus WebRTC server
+- [meetecho/simple-whip-server](https://github.com/meetecho/simple-whip-server) - Simple WHIP Server (based on the Janus WebRTC Server)
 - [snipsnapdev/snipsnap](https://github.com/snipsnapdev/snipsnap) - Speed up your development with a powerful set of tools
 - [atapas/shoes](https://github.com/atapas/shoes) - Shoes is an online shoe store built using Gatsby and Strapi
 - [atapas/imaginary](https://github.com/atapas/imaginary) - imaginary is an image gallery built using Gatsby and Cloudinary. Follow this project to know more.
@@ -1290,7 +1296,7 @@
 - [ondras/rubik](https://github.com/ondras/rubik) - CSS Rubik's Cube
 - [hainproject/hain](https://github.com/hainproject/hain) - An 'alt+space' launcher for Windows, built with Electron
 - [moul/depviz](https://github.com/moul/depviz) - 👓 dependency visualizer for GitHub & GitLab (a.k.a., "auto-roadmap")
-- [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A curated list of leetcode questions grouped by their common patterns
+- [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach to solving Leetcode questions
 - [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
@@ -1382,7 +1388,6 @@
 - [zonayedpca/electron-gatsby-boilerplate](https://github.com/zonayedpca/electron-gatsby-boilerplate) - Simple Minimal Electron Gatsby Boilerplate. Create new BrowserWindow easily and speed up your development experience. Also included Automatic Linting, Redux, TravisCI Configuration and GitHub Release.
 - [zonayedpca/DevTop](https://github.com/zonayedpca/DevTop) - An essential desktop 🖥️ tool for the developers  👨‍💻. Easy access to the necessary tools 🛠️ like copy-paste 📋 history, gist 👨 💻 manager , short-link 🔗 manager, todos 📝, bookmarks 🔖 and many more to co
 - [matheusrocha89/graphql-camara-deputados](https://github.com/matheusrocha89/graphql-camara-deputados) - API GraphQL com os dados da câmara de deputados do Brasil
-- [planetscale/vercel-integration-example](https://github.com/planetscale/vercel-integration-example) - 
 - [leerob/fastfeedback](https://github.com/leerob/fastfeedback) - Easily add user reviews, feedback, and comments to your website in one line of code.
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
@@ -3418,7 +3423,7 @@
 - [johnpapa/hello-worlds](https://github.com/johnpapa/hello-worlds) - Hello world apps for angular, react, svelte, and vue
 - [netless-io/netless-app](https://github.com/netless-io/netless-app) - Official Apps for the Agora Interactive Whiteboard.
 - [joshuamorony/phaser3-typescript-webpack-capacitor](https://github.com/joshuamorony/phaser3-typescript-webpack-capacitor) - A starter project for Phaser 3 with TypeScript, Webpack, and Capacitor support
-- [novuhq/novu](https://github.com/novuhq/novu) - 🚀 Open-source notification infrastructure for products
+- [novuhq/novu](https://github.com/novuhq/novu) - 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, conten
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [AfterShip/phone](https://github.com/AfterShip/phone) - With a given country and phone number, validate and reformat the mobile phone number to the E.164 standard. The purpose of this is to allow us to send SMS to mobile phones only.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.

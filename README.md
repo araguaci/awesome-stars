@@ -65,6 +65,7 @@
 - [TypeScript](#typescript)
 - [VBScript](#vbscript)
 - [Vala](#vala)
+- [Vim script](#vim-script)
 - [Vue](#vue)
 - [Zig](#zig)
 
@@ -244,6 +245,7 @@
 
 ## CSS 
 
+- [overwolf/demo-app](https://github.com/overwolf/demo-app) - 
 - [mafairnet/aloha](https://github.com/mafairnet/aloha) - aloha
 - [ui-buttons/core](https://github.com/ui-buttons/core) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [lonekorean/gist-syntax-themes](https://github.com/lonekorean/gist-syntax-themes) - Collection of syntax theme stylesheets for GitHub Gists.
@@ -784,6 +786,7 @@
 
 ## JavaScript 
 
+- [overwolf/sample-app](https://github.com/overwolf/sample-app) - The Official Overwolf Sample App
 - [DoubangoTelecom/sipml5](https://github.com/DoubangoTelecom/sipml5) - The world's first HTML5 SIP client (WebRTC)
 - [paneru-rajan/asterisk-jssip](https://github.com/paneru-rajan/asterisk-jssip) - This is the complete guide to install Sipml5 and Asterisk. I have used Vagrant, however, I will describe how to install on Ubuntu alone.
 - [craftzdog/p5-wave-visualization](https://github.com/craftzdog/p5-wave-visualization) - p5 sketch visualizing the sound of waves of the sea recorded at Yuigahama in Kamakura, which is processed with FFT.
@@ -3100,7 +3103,7 @@
 - [cipher387/grep_for_osint](https://github.com/cipher387/grep_for_osint) - GREP FOR OSINT is a set of very simple shell scripts that will help you quickly analyze a text or a folder with files for data useful for investigation (phone numbers, bank card numbers, URLs, emails 
 - [envygeeks/jekyll-docker](https://github.com/envygeeks/jekyll-docker) - ⛴ Docker images, and CI builders for Jekyll.
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
-- [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystems
+- [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
 - [armbian/build](https://github.com/armbian/build) - Armbian Linux Build Framework
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [teddysun/lamp](https://github.com/teddysun/lamp) - Install LAMP(Linux + Apache + MySQL/MariaDB + PHP ) for CentOS/Debian/Ubuntu
@@ -3169,6 +3172,7 @@
 
 ## Svelte 
 
+- [Brain-Bones/skeleton](https://github.com/Brain-Bones/skeleton) - A fully featured Svelte UI component library. Skeleton allows you to build fast and responsive web interfaces using Svelte + Tailwind.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams
 - [sveltejs/realworld](https://github.com/sveltejs/realworld) - SvelteKit implementation of the RealWorld app
@@ -3179,7 +3183,7 @@
 - [bradtraversy/svelte-feedback-app](https://github.com/bradtraversy/svelte-feedback-app) - Feedback app built with Svelte
 - [Aveek-Saha/DuskPlayer](https://github.com/Aveek-Saha/DuskPlayer) - A minimal music player built on electron.
 - [open-source-labs/SvelteStorm](https://github.com/open-source-labs/SvelteStorm) - SvelteStorm is an open-source IDE with a built-in Debugging window for viewing and debugging your Svelte project in real-time
-- [Tommertom/svelte-ionic-app](https://github.com/Tommertom/svelte-ionic-app) - Ionic UI showcase app - try Ionic UI and directly go to API or source code
+- [Tommertom/svelte-ionic-app](https://github.com/Tommertom/svelte-ionic-app) - Ionic  UI showcase app - try Ionic UI  and directly go to API or source code (Svelte, Angular, Vue, Vanilla and React)
 
 ## Swift 
 
@@ -3602,7 +3606,7 @@
 - [alexandrecorazza/podcastr](https://github.com/alexandrecorazza/podcastr) - :headphones: Plataforma de podcast
 - [marcusmaialima/nlw-letmeask](https://github.com/marcusmaialima/nlw-letmeask) - Projeto desenvolvido na NLW da Rocketseat
 - [eduardorerick/letmeask](https://github.com/eduardorerick/letmeask) - Aplicação que me garantiu uma bolsa de estudos no Ignite! Desenvolvida durante a NLW com outras funcionalidades adicionadas por mim.
-- [moaijs/moai](https://github.com/moaijs/moai) - A React component library, where buttons look like buttons🗿
+- [thien-do/moai](https://github.com/thien-do/moai) - A React component library, where buttons look like buttons🗿
 - [Atom-Learning/components](https://github.com/Atom-Learning/components) - A collection of generic React components built using stitches, including components that cover layout, content, data collection, media and a host of other UI concerns.
 - [rodrigorgtic/minha-carteira-dashboard](https://github.com/rodrigorgtic/minha-carteira-dashboard) - :bar_chart: :chart_with_upwards_trend: Dashboard desenvolvido com ReactJs, TypeScript com boas práticas de desenvolvimento e performance.
 - [MarconWillian-Study/letmeask](https://github.com/MarconWillian-Study/letmeask) - Projeto desenvolvido na NextLevelWeek #Together.
@@ -3929,6 +3933,10 @@
 ## Vala 
 
 - [pdfpc/pdfpc](https://github.com/pdfpc/pdfpc) - A presenter console with multi-monitor support for PDF files.
+
+## Vim script 
+
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## Vue 
 

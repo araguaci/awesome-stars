@@ -421,6 +421,8 @@
 
 ## Go 
 
+- [CyCoreSystems/asterisk-config](https://github.com/CyCoreSystems/asterisk-config) - Kubernetes dynamic configuration engine for Asterisk
+- [CyCoreSystems/asterisk-k8s-demo](https://github.com/CyCoreSystems/asterisk-k8s-demo) - Demo of scalable Asterisk on Kubernetes
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
@@ -786,6 +788,7 @@
 
 ## JavaScript 
 
+- [pipobscure/NodeJS-AsteriskManager](https://github.com/pipobscure/NodeJS-AsteriskManager) - NodeJS Asterisk Manager API
 - [overwolf/sample-app](https://github.com/overwolf/sample-app) - The Official Overwolf Sample App
 - [DoubangoTelecom/sipml5](https://github.com/DoubangoTelecom/sipml5) - The world's first HTML5 SIP client (WebRTC)
 - [paneru-rajan/asterisk-jssip](https://github.com/paneru-rajan/asterisk-jssip) - This is the complete guide to install Sipml5 and Asterisk. I have used Vagrant, however, I will describe how to install on Ubuntu alone.
@@ -2249,6 +2252,7 @@
 
 ## Others 
 
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [Olanetsoft/awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) - This is a curated list of amazing hackathon projects
 - [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development.
 - [PamelaRondina/step-by-step](https://github.com/PamelaRondina/step-by-step) - Projeto com o objetivo de auxiliar a comunidade de Tecnologia a aprender a utilizar o GitHub. Consiste em um passo a passo de inclusão de cabeçalho, ícones de linguagens, softwares, imagens e emojis. 
@@ -3442,7 +3446,7 @@
 - [AfterShip/phone](https://github.com/AfterShip/phone) - With a given country and phone number, validate and reformat the mobile phone number to the E.164 standard. The purpose of this is to allow us to send SMS to mobile phones only.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [twilio/flex-plugin-builder](https://github.com/twilio/flex-plugin-builder) - Packages related to building a Twilio Flex Plugin
-- [netlify/netlify-plugin-nextjs](https://github.com/netlify/netlify-plugin-nextjs) - A build plugin to integrate Next.js seamlessly with Netlify
+- [netlify/next-runtime](https://github.com/netlify/next-runtime) - A build plugin to integrate Next.js seamlessly with Netlify
 - [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [maximegris/typescript-express-sequelize](https://github.com/maximegris/typescript-express-sequelize) - Easily bootstrap your NodeJS project with Express, Sequelize and Typescript :+1:
@@ -3644,7 +3648,7 @@
 - [bicarbon8/todoTxtWebUi](https://github.com/bicarbon8/todoTxtWebUi) - A web UI to use with a todo.txt file
 - [liximomo/vscode-sftp](https://github.com/liximomo/vscode-sftp) - Super fast sftp/ftp extension for VS Code
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
-- [karanpratapsingh/Proximity](https://github.com/karanpratapsingh/Proximity) - An Open Source social media that does not use your data against you :iphone:
+- [karanpratapsingh/Proximity](https://github.com/karanpratapsingh/Proximity) - An Open Source social media that does not use your data against you
 - [gorhom/react-native-sticky-item](https://github.com/gorhom/react-native-sticky-item) - An interactive sticky item inspired by Facebook Stories.
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total cov
 - [gera2ld/markmap](https://github.com/gera2ld/markmap) - Visualize your Markdown as mindmaps with Markmap.

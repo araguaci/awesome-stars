@@ -81,6 +81,7 @@
 
 ## C 
 
+- [CoSMoSoftware/OBS-studio-webrtc](https://github.com/CoSMoSoftware/OBS-studio-webrtc) - This is a fork of OBS-studio with generic support for webrtc. It leverages the same webrtc implementation most browsers use.
 - [DoubangoTelecom/webrtc2sip](https://github.com/DoubangoTelecom/webrtc2sip) - Smart SIP and Media Gateway to connect WebRTC endpoints to any SIP-legacy network
 - [irontec/sngrep](https://github.com/irontec/sngrep) - Ncurses SIP Messages flow viewer
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform
@@ -506,6 +507,7 @@
 
 ## HTML 
 
+- [webrtcwork/webrtcwork](https://github.com/webrtcwork/webrtcwork) - webrtcwork.com - Resources for those working with WebRTC (Jobs, Contractors and Tool)
 - [atapas/html-tips-tricks](https://github.com/atapas/html-tips-tricks) - My Favorite HTML5 Tips and Tricks
 - [codamos/codamos.github.io](https://github.com/codamos/codamos.github.io) - 
 - [wenzhixin/bootstrap-table-examples](https://github.com/wenzhixin/bootstrap-table-examples) - Bootstrap table examples
@@ -2252,6 +2254,7 @@
 
 ## Others 
 
+- [obache/neatsrc](https://github.com/obache/neatsrc) - Just for me, not for you.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [Olanetsoft/awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) - This is a curated list of amazing hackathon projects
 - [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development.
@@ -2481,6 +2484,9 @@
 
 ## PHP 
 
+- [IssabelFoundation/pbx](https://github.com/IssabelFoundation/pbx) - PBX Module for Issabel, where you can configure all PBX related settings and features.
+- [marcelog/PAGI](https://github.com/marcelog/PAGI) - PHP AGI ( Asterisk Gateway Interface ) facade, with CDR ( Call Detail Record ), Call spool and schedule auto dial, Send and Receive Fax, Channel Variables,  and Caller ID management
+- [marcelog/PAMI](https://github.com/marcelog/PAMI) - PHP Asterisk Manager Interface ( AMI ) supports synchronous command ( action )/ responses and asynchronous events using the pattern observer-listener. Supports commands with responses with multiple ev
 - [giannicodemus/clicktocall](https://github.com/giannicodemus/clicktocall) - 
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a lean project management system for innovators. Designed to help you manage your projects from ideation to delivery.
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
@@ -2574,7 +2580,7 @@
 - [intuit/QuickBooks-V3-PHP-SDK](https://github.com/intuit/QuickBooks-V3-PHP-SDK) - Official PHP SDK for QuickBooks REST API v3.0: https://developer.intuit.com/
 - [silverstripe/silverstripe-framework](https://github.com/silverstripe/silverstripe-framework) - SilverStripe Framework, the MVC framework that powers SilverStripe CMS
 - [CViniciusSDias/php-text-to-speech](https://github.com/CViniciusSDias/php-text-to-speech) - A simple PHP tool that uses each OS text-to-speech CLI
-- [spekulatius/PHPScraper](https://github.com/spekulatius/PHPScraper) - PHP Scraper - an highly opinionated web-interface for PHP
+- [spekulatius/PHPScraper](https://github.com/spekulatius/PHPScraper) - PHP Scraper - a simple way to access the web from PHP
 - [slimphp/Slim](https://github.com/slimphp/Slim) - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
 - [tailflow/laravel-orion](https://github.com/tailflow/laravel-orion) - The simplest way to create REST API with Laravel
 - [familytree365/genealogy](https://github.com/familytree365/genealogy) - Laravel 9.x backend using PHP 8.1. Family tree and genealogy data processing website software.

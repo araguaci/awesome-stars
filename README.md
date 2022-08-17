@@ -422,6 +422,7 @@
 
 ## Go 
 
+- [microsoft/CBL-Mariner](https://github.com/microsoft/CBL-Mariner) - Linux OS for Azure 1P services and edge appliances
 - [CyCoreSystems/asterisk-config](https://github.com/CyCoreSystems/asterisk-config) - Kubernetes dynamic configuration engine for Asterisk
 - [CyCoreSystems/asterisk-k8s-demo](https://github.com/CyCoreSystems/asterisk-k8s-demo) - Demo of scalable Asterisk on Kubernetes
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
@@ -523,7 +524,7 @@
 - [jerosoler/css-svg-generator-waves](https://github.com/jerosoler/css-svg-generator-waves) - 🎨 CSS / SVG Generator Waves
 - [akashgiricse/templates-using-bootstrap4](https://github.com/akashgiricse/templates-using-bootstrap4) - 🌆 Here I've aggregated some of the most commonly used web-page templates made using Bootstrap4 🛒
 - [jh3y/driveway](https://github.com/jh3y/driveway) - pure CSS masonry layouts
-- [markmead/hyperui](https://github.com/markmead/hyperui) - 🐳 Free open source Tailwind CSS components for marketing and ecommece websites, as well as application UI
+- [markmead/hyperui](https://github.com/markmead/hyperui) - HyperUI is a large collection of free Tailwind CSS components for marketing, ecommerce and application UI 🐳
 - [js13kGames/resources](https://github.com/js13kGames/resources) - js13kGames Resources
 - [OmniSharp/generator-aspnet](https://github.com/OmniSharp/generator-aspnet) - yo generator for ASP.NET Core
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
@@ -790,6 +791,11 @@
 
 ## JavaScript 
 
+- [hr21don/Zoom-VideoCall-App](https://github.com/hr21don/Zoom-VideoCall-App) - Video-Call App with WebRTC and Socket.Io
+- [araguaci/mermaid](https://github.com/araguaci/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
+- [collecttix/ctxSip](https://github.com/collecttix/ctxSip) - ctxSip is a Javascript based SIP client that uses WebRTC and WebSockets to connect to your SIP server. The UI is designed to be launched as a popup from within your application. Works well with Kazoo 
+- [jitsi/lib-jitsi-meet](https://github.com/jitsi/lib-jitsi-meet) - A low-level JS video API that allows adding a completely custom video experience to web apps.
+- [jitsi/jitsi-meet-electron](https://github.com/jitsi/jitsi-meet-electron) - Jitsi Meet desktop application powered by :electron:
 - [pipobscure/NodeJS-AsteriskManager](https://github.com/pipobscure/NodeJS-AsteriskManager) - NodeJS Asterisk Manager API
 - [overwolf/sample-app](https://github.com/overwolf/sample-app) - The Official Overwolf Sample App
 - [DoubangoTelecom/sipml5](https://github.com/DoubangoTelecom/sipml5) - The world's first HTML5 SIP client (WebRTC)
@@ -1381,8 +1387,8 @@
 - [google-map-react/google-map-react-examples](https://github.com/google-map-react/google-map-react-examples) - Examples for google-map-react library.
 - [google-map-react/google-map-react](https://github.com/google-map-react/google-map-react) - Google map library for react that allows rendering components as markers :tada:
 - [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript
-- [uxie-io/tinter](https://github.com/uxie-io/tinter) - Tinter is tiny web tool to generate color variation of images. This tool also generate monochrome colors of images with multiple variants, without hampering the quality of image.
-- [anup-a/svgwave](https://github.com/anup-a/svgwave) - 🌊 SVG Wave is a tiny, free and beautiful SVG gradient waves generator for your UI or website desgin. It offers dead simple UI to customize, and style your waves based on your theme specifications.
+- [uxie-io/tinter](https://github.com/uxie-io/tinter) - Tinter is tiny web tool to generate color variation of images.
+- [anup-a/svgwave](https://github.com/anup-a/svgwave) - SVG Wave is a tiny, free and beautiful SVG gradient waves generator for your next design.
 - [muan/emojilib](https://github.com/muan/emojilib) - Emoji keyword library.
 - [web-animations/web-animations-js](https://github.com/web-animations/web-animations-js) - JavaScript implementation of the Web Animations API
 - [feimosi/baguetteBox.js](https://github.com/feimosi/baguetteBox.js) - :zap: Simple and easy to use lightbox script written in pure JavaScript
@@ -2484,6 +2490,7 @@
 
 ## PHP 
 
+- [totalvoice/totalvoice-php](https://github.com/totalvoice/totalvoice-php) - Client em PHP para API da Totalvoice
 - [IssabelFoundation/pbx](https://github.com/IssabelFoundation/pbx) - PBX Module for Issabel, where you can configure all PBX related settings and features.
 - [marcelog/PAGI](https://github.com/marcelog/PAGI) - PHP AGI ( Asterisk Gateway Interface ) facade, with CDR ( Call Detail Record ), Call spool and schedule auto dial, Send and Receive Fax, Channel Variables,  and Caller ID management
 - [marcelog/PAMI](https://github.com/marcelog/PAMI) - PHP Asterisk Manager Interface ( AMI ) supports synchronous command ( action )/ responses and asynchronous events using the pattern observer-listener. Supports commands with responses with multiple ev
@@ -3565,7 +3572,7 @@
 - [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - The simplest way to create progressive web apps across platforms and devices.  Start here. This repo is home to several projects in the PWABuilder family of tools.
 - [wireapp/wire-webapp](https://github.com/wireapp/wire-webapp) - 👽 Wire for web
 - [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
-- [expo/eas-cli](https://github.com/expo/eas-cli) - The command-line tool for Expo Application Services
+- [expo/eas-cli](https://github.com/expo/eas-cli) - Fastest way to build, submit, and update iOS and Android apps
 - [expo/expo-cli](https://github.com/expo/expo-cli) - Tools for creating, running, and deploying universal Expo and React Native apps
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [vercel/virtual-event-starter-kit](https://github.com/vercel/virtual-event-starter-kit) - Open source demo that Next.js developers can clone, deploy, and fully customize for events.

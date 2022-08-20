@@ -81,6 +81,7 @@
 
 ## C 
 
+- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [CoSMoSoftware/OBS-studio-webrtc](https://github.com/CoSMoSoftware/OBS-studio-webrtc) - This is a fork of OBS-studio with generic support for webrtc. It leverages the same webrtc implementation most browsers use.
 - [DoubangoTelecom/webrtc2sip](https://github.com/DoubangoTelecom/webrtc2sip) - Smart SIP and Media Gateway to connect WebRTC endpoints to any SIP-legacy network
 - [irontec/sngrep](https://github.com/irontec/sngrep) - Ncurses SIP Messages flow viewer
@@ -180,6 +181,8 @@
 
 ## C++ 
 
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [robotastic/trunk-recorder](https://github.com/robotastic/trunk-recorder) - Records calls from a Trunked Radio System (P25 & SmartNet)
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -246,6 +249,8 @@
 
 ## CSS 
 
+- [adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3) - Master the creation of Modern UX/UI Websites
+- [ethanhs/WSL-Programs](https://github.com/ethanhs/WSL-Programs) - A community powered list of programs that work (and those that don't) on the Windows subsystem for Linux
 - [overwolf/demo-app](https://github.com/overwolf/demo-app) - 
 - [mafairnet/aloha](https://github.com/mafairnet/aloha) - aloha
 - [ui-buttons/core](https://github.com/ui-buttons/core) - 100 Modern CSS Buttons. Every style that you can imagine.
@@ -508,6 +513,8 @@
 
 ## HTML 
 
+- [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
+- [BaseMax/GitHub-Repository-Export-List](https://github.com/BaseMax/GitHub-Repository-Export-List) - Python: A tiny script to get list of all repository of a GitHub user and generate HTML output with style.
 - [webrtcwork/webrtcwork](https://github.com/webrtcwork/webrtcwork) - webrtcwork.com - Resources for those working with WebRTC (Jobs, Contractors and Tool)
 - [atapas/html-tips-tricks](https://github.com/atapas/html-tips-tricks) - My Favorite HTML5 Tips and Tricks
 - [codamos/codamos.github.io](https://github.com/codamos/codamos.github.io) - 
@@ -721,7 +728,6 @@
 ## Haskell 
 
 - [aviaviavi/toodles](https://github.com/aviaviavi/toodles) - Project management directly from the TODOs in your codebase
-- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 
 ## JSON 
 
@@ -791,6 +797,12 @@
 
 ## JavaScript 
 
+- [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [adrianhajdin/project_hoobank](https://github.com/adrianhajdin/project_hoobank) - Modern UI/UX website using React.js & Tailwind CSS
+- [gjovanov/roomler](https://github.com/gjovanov/roomler) - Roomler - Multi-party Video Conferencing & Team Collaboration Tool using WebRTC (Janus Gateway)
+- [SalesforceCommerceCloud/pwa-kit](https://github.com/SalesforceCommerceCloud/pwa-kit) - React-based JavaScript frontend framework to create a progressive web app (PWA) storefront for Salesforce B2C Commerce.
+- [asterisk/node-ari-client](https://github.com/asterisk/node-ari-client) - Node.js client for ARI. This library is best effort with limited support.
+- [directus/examples](https://github.com/directus/examples) - Integration Examples with Directus
 - [hr21don/Zoom-VideoCall-App](https://github.com/hr21don/Zoom-VideoCall-App) - Video-Call App with WebRTC and Socket.Io
 - [araguaci/mermaid](https://github.com/araguaci/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [collecttix/ctxSip](https://github.com/collecttix/ctxSip) - ctxSip is a Javascript based SIP client that uses WebRTC and WebSockets to connect to your SIP server. The UI is designed to be launched as a popup from within your application. Works well with Kazoo 
@@ -1241,7 +1253,7 @@
 - [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
 - [red5pro/streaming-html5](https://github.com/red5pro/streaming-html5) - Testbed examples for Red5 Pro HTML SDK usage
-- [Streamedian/html5_rtsp_player](https://github.com/Streamedian/html5_rtsp_player) - html5 player for rtsp stream
+- [Streamedian/html5_rtsp_player](https://github.com/Streamedian/html5_rtsp_player) - Play RTSP stream from IP camera in browser in this HTML5 player without plugins
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [VirgilSecurity/demo-twilio-backend-nodejs](https://github.com/VirgilSecurity/demo-twilio-backend-nodejs) - A sample backend that demonstrates how to generate a Virgil JWT and Twilio token used for authentication with the Virgil and Twilio services
 - [apache/cordova-plugman](https://github.com/apache/cordova-plugman) - Apache Cordova Plugman
@@ -1316,7 +1328,7 @@
 - [ondras/rubik](https://github.com/ondras/rubik) - CSS Rubik's Cube
 - [hainproject/hain](https://github.com/hainproject/hain) - An 'alt+space' launcher for Windows, built with Electron
 - [moul/depviz](https://github.com/moul/depviz) - 👓 dependency visualizer for GitHub & GitLab (a.k.a., "auto-roadmap")
-- [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach to solving Leetcode questions
+- [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for studying technical interview questions
 - [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
@@ -1947,7 +1959,7 @@
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
 - [HelioSilva/Whatsapp-bot-NodeJS](https://github.com/HelioSilva/Whatsapp-bot-NodeJS) - Whatsapp bot para delivery de uma lanchonete usando NodeJS.
 - [nhn/toast-ui.doc](https://github.com/nhn/toast-ui.doc) - 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2022)
 - [CodAffection/Angular-7-Master-Detail-CRUD-with-Web-API](https://github.com/CodAffection/Angular-7-Master-Detail-CRUD-with-Web-API) - Angular 7 Master Detail CRUD with Web API
 - [phonegap/phonegap-mobile-accessibility](https://github.com/phonegap/phonegap-mobile-accessibility) - PhoneGap plugin to expose mobile accessibility APIs.
 - [techiediaries/fake-api-jwt-json-server](https://github.com/techiediaries/fake-api-jwt-json-server) - A Fake API with JWT Authentication using json-server and jsonwebtoken
@@ -2490,6 +2502,11 @@
 
 ## PHP 
 
+- [InterLinked1/astdocgen](https://github.com/InterLinked1/astdocgen) - Asterisk HTML documentation generator
+- [Insolita/InteractiveJobs](https://github.com/Insolita/InteractiveJobs) - Laravel - vue interactive jobs demo
+- [Insolita/unused-scanner](https://github.com/Insolita/unused-scanner) - Detect unused composer dependencies
+- [BaseMax/TopPHPFunctions](https://github.com/BaseMax/TopPHPFunctions) - Here is the top 100 PHP functions: it is the list of the most often used PHP native functions. If you are a PHP developer, you must know the Top 100 PHP Functions deeply.
+- [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system
 - [totalvoice/totalvoice-php](https://github.com/totalvoice/totalvoice-php) - Client em PHP para API da Totalvoice
 - [IssabelFoundation/pbx](https://github.com/IssabelFoundation/pbx) - PBX Module for Issabel, where you can configure all PBX related settings and features.
 - [marcelog/PAGI](https://github.com/marcelog/PAGI) - PHP AGI ( Asterisk Gateway Interface ) facade, with CDR ( Call Detail Record ), Call spool and schedule auto dial, Send and Receive Fax, Channel Variables,  and Caller ID management
@@ -2854,6 +2871,7 @@
 
 ## Python 
 
+- [fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users) - Ready-to-use and customizable users management for FastAPI
 - [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode) - Run VSCode (codeserver) on Google Colab or Kaggle Notebooks
 - [PenseAllen/PensePython2e](https://github.com/PenseAllen/PensePython2e) - Tradução do livro Pense em Python (2ª ed.), de Allen B. Downey
 - [ChrisKnott/Eel](https://github.com/ChrisKnott/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
@@ -3032,6 +3050,7 @@
 
 ## Rust 
 
+- [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
@@ -3108,6 +3127,8 @@
 
 ## Shell 
 
+- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
+- [DamionGans/ubuntu-wsl2-systemd-script](https://github.com/DamionGans/ubuntu-wsl2-systemd-script) - Script to enable systemd support on current Ubuntu WSL2 images [Unsupported, no longer updated]
 - [VitalPBX/vitalpbx_ha_call_center](https://github.com/VitalPBX/vitalpbx_ha_call_center) - VitalPBX High Availability for Call Centers
 - [fdaciuk/install-linux](https://github.com/fdaciuk/install-linux) - Softwares to install on Linux
 - [heroku/heroku-buildpack-php](https://github.com/heroku/heroku-buildpack-php) - The official PHP buildpack for Heroku.
@@ -3189,7 +3210,7 @@
 
 ## Svelte 
 
-- [Brain-Bones/skeleton](https://github.com/Brain-Bones/skeleton) - A fully featured Svelte UI component library. Skeleton allows you to build fast and responsive web interfaces using Svelte + Tailwind.
+- [Brain-Bones/skeleton](https://github.com/Brain-Bones/skeleton) - A fully featured Svelte UI component library. Skeleton allows you to build fast and reactive web interfaces using Svelte + Tailwind.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams
 - [sveltejs/realworld](https://github.com/sveltejs/realworld) - SvelteKit implementation of the RealWorld app
@@ -3215,6 +3236,8 @@
 
 ## TypeScript 
 
+- [dblens/app](https://github.com/dblens/app) - Database explorer for Mac, Windows & Linux
+- [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [craftzdog/react-native-animated-todo](https://github.com/craftzdog/react-native-animated-todo) - Animated ToDo app built with React Native and Reanimated v2
 - [fonoster/webui](https://github.com/fonoster/webui) - Web UI to create powerful voice applications with Fonoster's API.
 - [sanvishal/wrighter](https://github.com/sanvishal/wrighter) - write the (w)right way!
@@ -3896,6 +3919,7 @@
 - [cornflourblue/angular2-registration-login-example](https://github.com/cornflourblue/angular2-registration-login-example) - Angular 2/5 User Registration and Login Example
 - [melcor76/reactangular](https://github.com/melcor76/reactangular) - How to use Angular Elements in React
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
+- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A fast, offline-first, reactive database for JavaScript Applications

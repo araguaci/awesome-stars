@@ -601,3 +601,11 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 [⬆ back to top](#table-of-contents)
 
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+
+### code-snippets
+code-snippets for inidevs from livedevs, eating, praying and coding...
+
+[x] Content concatenate for those who want to start with JavaScript
+[guia-de-estudos-devsoutinho](https://github.com/omariosouto/guia-de-estudos-devsoutinho)
+
+[x] DEV [@marcobrunodev](https://github.com/marcobrunodev?tab=repositories) - [curso-javascript-para-react](https://github.com/marcobrunodev/curso-javascript-para-react)

@@ -513,6 +513,7 @@
 
 ## HTML 
 
+- [calixtocarolina/iBeauty-login](https://github.com/calixtocarolina/iBeauty-login) - 
 - [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
 - [BaseMax/GitHub-Repository-Export-List](https://github.com/BaseMax/GitHub-Repository-Export-List) - Python: A tiny script to get list of all repository of a GitHub user and generate HTML output with style.
 - [webrtcwork/webrtcwork](https://github.com/webrtcwork/webrtcwork) - webrtcwork.com - Resources for those working with WebRTC (Jobs, Contractors and Tool)
@@ -797,6 +798,10 @@
 
 ## JavaScript 
 
+- [yustarandomname/svelte-supabase-quickstart](https://github.com/yustarandomname/svelte-supabase-quickstart) - This is a project to quickstart your development with supabase combined with the svelte framework
+- [davidpiegza/Graph-Visualization](https://github.com/davidpiegza/Graph-Visualization) - 3D graph visualization with WebGL / Three.js
+- [neutralinojs/neutralinojs.github.io](https://github.com/neutralinojs/neutralinojs.github.io) - The official website and documentation of Neutralinojs
+- [neutralinojs/neutralinojs-cli](https://github.com/neutralinojs/neutralinojs-cli) - neu cli for Neutralinojs
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [adrianhajdin/project_hoobank](https://github.com/adrianhajdin/project_hoobank) - Modern UI/UX website using React.js & Tailwind CSS
 - [gjovanov/roomler](https://github.com/gjovanov/roomler) - Roomler - Multi-party Video Conferencing & Team Collaboration Tool using WebRTC (Janus Gateway)
@@ -2272,6 +2277,8 @@
 
 ## Others 
 
+- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+- [binlist/data](https://github.com/binlist/data) - binlist.net data repo
 - [obache/neatsrc](https://github.com/obache/neatsrc) - Just for me, not for you.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [Olanetsoft/awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) - This is a curated list of amazing hackathon projects
@@ -2502,6 +2509,7 @@
 
 ## PHP 
 
+- [codezri/laravel-sanctum-nuxt-spa](https://github.com/codezri/laravel-sanctum-nuxt-spa) - SPA authentication demo with Laravel Sanctum and Nuxt.js (Buefy components)
 - [InterLinked1/astdocgen](https://github.com/InterLinked1/astdocgen) - Asterisk HTML documentation generator
 - [Insolita/InteractiveJobs](https://github.com/Insolita/InteractiveJobs) - Laravel - vue interactive jobs demo
 - [Insolita/unused-scanner](https://github.com/Insolita/unused-scanner) - Detect unused composer dependencies
@@ -2871,6 +2879,7 @@
 
 ## Python 
 
+- [jlevy/repren](https://github.com/jlevy/repren) - Rename anything
 - [fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users) - Ready-to-use and customizable users management for FastAPI
 - [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode) - Run VSCode (codeserver) on Google Colab or Kaggle Notebooks
 - [PenseAllen/PensePython2e](https://github.com/PenseAllen/PensePython2e) - Tradução do livro Pense em Python (2ª ed.), de Allen B. Downey
@@ -3017,6 +3026,8 @@
 
 ## Ruby 
 
+- [davidpiegza/graphit](https://github.com/davidpiegza/graphit) - 3D Graph Visualization with WebGL (Rail Web-Application)
+- [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [avo-hq/avodemo](https://github.com/avo-hq/avodemo) - Avo demo app
 - [avo-hq/avo](https://github.com/avo-hq/avo) - Configuration-based, no-maintenance, extendable Ruby on Rails admin
 - [natalie-lang/natalie](https://github.com/natalie-lang/natalie) - a unique Ruby implementation, compiled to C++ (WIP)
@@ -3127,6 +3138,7 @@
 
 ## Shell 
 
+- [plone/plone-backend](https://github.com/plone/plone-backend) - Plone backend Docker images using Python 3 and pip.
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [DamionGans/ubuntu-wsl2-systemd-script](https://github.com/DamionGans/ubuntu-wsl2-systemd-script) - Script to enable systemd support on current Ubuntu WSL2 images [Unsupported, no longer updated]
 - [VitalPBX/vitalpbx_ha_call_center](https://github.com/VitalPBX/vitalpbx_ha_call_center) - VitalPBX High Availability for Call Centers
@@ -3236,6 +3248,8 @@
 
 ## TypeScript 
 
+- [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
+- [enzomanuelmangano/skia-grid-magnification](https://github.com/enzomanuelmangano/skia-grid-magnification) - 
 - [dblens/app](https://github.com/dblens/app) - Database explorer for Mac, Windows & Linux
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [craftzdog/react-native-animated-todo](https://github.com/craftzdog/react-native-animated-todo) - Animated ToDo app built with React Native and Reanimated v2

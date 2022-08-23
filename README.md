@@ -6,6 +6,7 @@
 ## Contents
 
 - [Astro](#astro)
+- [Batchfile](#batchfile)
 - [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
@@ -73,14 +74,18 @@
 
 - [CSS-Tricks/serverless](https://github.com/CSS-Tricks/serverless) - The Power of Serverless for Front-End Developers
 
+## Batchfile 
+
+- [troytse/wsl-autostart](https://github.com/troytse/wsl-autostart) - Support for starting the Linux services in Windows Subsystem for Linux (WSL) on Windows startup
+
 ## Blade 
 
 - [lorisleiva/artisan-ui](https://github.com/lorisleiva/artisan-ui) - 🧰 Run your artisan commands by pressing buttons
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
-- [mckenziearts/laravel-notify](https://github.com/mckenziearts/laravel-notify) - Flexible Flash notifications for Laravel
 
 ## C 
 
+- [WireGuard/wireguard-linux](https://github.com/WireGuard/wireguard-linux) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-linux
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [CoSMoSoftware/OBS-studio-webrtc](https://github.com/CoSMoSoftware/OBS-studio-webrtc) - This is a fork of OBS-studio with generic support for webrtc. It leverages the same webrtc implementation most browsers use.
 - [DoubangoTelecom/webrtc2sip](https://github.com/DoubangoTelecom/webrtc2sip) - Smart SIP and Media Gateway to connect WebRTC endpoints to any SIP-legacy network
@@ -181,6 +186,8 @@
 
 ## C++ 
 
+- [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
+- [romkatv/gitstatus](https://github.com/romkatv/gitstatus) - Git status for Bash and Zsh prompt
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [robotastic/trunk-recorder](https://github.com/robotastic/trunk-recorder) - Records calls from a Trunked Radio System (P25 & SmartNet)
@@ -249,6 +256,7 @@
 
 ## CSS 
 
+- [johnpapa/vscode-winteriscoming](https://github.com/johnpapa/vscode-winteriscoming) - Dark theme with fun and bright foreground colors
 - [adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3) - Master the creation of Modern UX/UI Websites
 - [ethanhs/WSL-Programs](https://github.com/ethanhs/WSL-Programs) - A community powered list of programs that work (and those that don't) on the Windows subsystem for Linux
 - [overwolf/demo-app](https://github.com/overwolf/demo-app) - 
@@ -427,6 +435,11 @@
 
 ## Go 
 
+- [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
+- [mattermost/mattermost-plugin-starter-template](https://github.com/mattermost/mattermost-plugin-starter-template) - Build scripts and templates for writing Mattermost plugins.
+- [WireGuard/wireguard-windows](https://github.com/WireGuard/wireguard-windows) - Download WireGuard for Windows at https://www.wireguard.com/install . This repo is a mirror only. Official repository is at https://git.zx2c4.com/wireguard-windows
+- [WireGuard/wgctrl-go](https://github.com/WireGuard/wgctrl-go) - Package wgctrl enables control of WireGuard interfaces on multiple platforms.
+- [complexorganizations/code-snippets](https://github.com/complexorganizations/code-snippets) - ❤️ Code snippets from the open source community.
 - [microsoft/CBL-Mariner](https://github.com/microsoft/CBL-Mariner) - Linux OS for Azure 1P services and edge appliances
 - [CyCoreSystems/asterisk-config](https://github.com/CyCoreSystems/asterisk-config) - Kubernetes dynamic configuration engine for Asterisk
 - [CyCoreSystems/asterisk-k8s-demo](https://github.com/CyCoreSystems/asterisk-k8s-demo) - Demo of scalable Asterisk on Kubernetes
@@ -736,6 +749,7 @@
 
 ## Java 
 
+- [chuross/asciiartview](https://github.com/chuross/asciiartview) - Drawing for AsciiArt
 - [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp) - ☕️🚀🚨 This repository consists of solutions for the Community Classroom complete DSA Java Bootcamp assignment problems.
 - [eugenp/tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
 - [dbpedia/chatbot](https://github.com/dbpedia/chatbot) - DBpedia Chatbot
@@ -798,6 +812,13 @@
 
 ## JavaScript 
 
+- [canove/whaticket](https://github.com/canove/whaticket) - A very simple Ticket System based on WhatsApp messages, that allow multi-users in same WhatsApp account.
+- [devpleno/junta-vagas](https://github.com/devpleno/junta-vagas) - 
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
+- [Alexoid1/Super-heroes](https://github.com/Alexoid1/Super-heroes) - SuperHeroes is a web application that shows stats about All SuperHeroes and Villains from all universes. Built with React and Redux and fetches data from a standard API and FirebaseStore also authenti
+- [utsavbhattarai007/Toolkit](https://github.com/utsavbhattarai007/Toolkit) - 
+- [prismicio-community/nextjs-starter-prismic-multi-language](https://github.com/prismicio-community/nextjs-starter-prismic-multi-language) - Multi-language project with Next.js & Prismic
+- [asciimath/asciimathml](https://github.com/asciimath/asciimathml) - A new home for asciimathml
 - [yustarandomname/svelte-supabase-quickstart](https://github.com/yustarandomname/svelte-supabase-quickstart) - This is a project to quickstart your development with supabase combined with the svelte framework
 - [davidpiegza/Graph-Visualization](https://github.com/davidpiegza/Graph-Visualization) - 3D graph visualization with WebGL / Three.js
 - [neutralinojs/neutralinojs.github.io](https://github.com/neutralinojs/neutralinojs.github.io) - The official website and documentation of Neutralinojs
@@ -1333,7 +1354,7 @@
 - [ondras/rubik](https://github.com/ondras/rubik) - CSS Rubik's Cube
 - [hainproject/hain](https://github.com/hainproject/hain) - An 'alt+space' launcher for Windows, built with Electron
 - [moul/depviz](https://github.com/moul/depviz) - 👓 dependency visualizer for GitHub & GitLab (a.k.a., "auto-roadmap")
-- [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for studying technical interview questions
+- [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for learning technical interview questions
 - [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
@@ -2100,6 +2121,7 @@
 - [versatica/mediasoup-client](https://github.com/versatica/mediasoup-client) - mediasoup client side JavaScript library
 - [wayou/HiChat](https://github.com/wayou/HiChat) - A chat application built with Node.js and Websocket
 - [rodrilima/corona-analytic-api](https://github.com/rodrilima/corona-analytic-api) - API that generates information about coronavirus (COVID19) cases in the states of Brazil and other parts of the world
+- [mckenziearts/laravel-notify](https://github.com/mckenziearts/laravel-notify) - Flexible Flash notifications for Laravel
 - [bradtraversy/electronshoppinglist](https://github.com/bradtraversy/electronshoppinglist) - Shopping list desktop app built on electron
 - [mongodb-js/compass-import-export](https://github.com/mongodb-js/compass-import-export) - Compass Import/Export Plugin
 - [rocketseat-content/youtube-challenge-grpc](https://github.com/rocketseat-content/youtube-challenge-grpc) - Micro-services communicating with gRPC.
@@ -2247,6 +2269,7 @@
 
 ## Makefile 
 
+- [darwin-morocho/flutter-facebook-auth](https://github.com/darwin-morocho/flutter-facebook-auth) - A flutter plugin to add login with facebook in your flutter app
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [thumbor/awesome-thumbor](https://github.com/thumbor/awesome-thumbor) - Everything thumbor, awesomely curated & updated weekly.
 - [Helsinki-NLP/Tatoeba-Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge) - 
@@ -2277,6 +2300,7 @@
 
 ## Others 
 
+- [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [binlist/data](https://github.com/binlist/data) - binlist.net data repo
 - [obache/neatsrc](https://github.com/obache/neatsrc) - Just for me, not for you.
@@ -2509,6 +2533,13 @@
 
 ## PHP 
 
+- [icanhazstring/systemctl-php](https://github.com/icanhazstring/systemctl-php) - PHP wrapper for systemctl
+- [Roboroads/lighthouse](https://github.com/Roboroads/lighthouse) - A framework for serving GraphQL from Laravel
+- [greenlion/PHP-SQL-Parser](https://github.com/greenlion/PHP-SQL-Parser) - A pure PHP SQL (non validating) parser w/ focus on MySQL dialect of SQL
+- [michabbb/markdown-table](https://github.com/michabbb/markdown-table) - Create a markdown table containing your data.
+- [michabbb/laravel-json-settings](https://github.com/michabbb/laravel-json-settings) - Store your Laravel application settings in one or multiple JSON files ⚙️
+- [michabbb/laravel-scheduler-watcher](https://github.com/michabbb/laravel-scheduler-watcher) - Easy logging & monitoring of your Laravel cronjobs
+- [michabbb/eloquent-model-generator](https://github.com/michabbb/eloquent-model-generator) - Eloquent Model Generator
 - [codezri/laravel-sanctum-nuxt-spa](https://github.com/codezri/laravel-sanctum-nuxt-spa) - SPA authentication demo with Laravel Sanctum and Nuxt.js (Buefy components)
 - [InterLinked1/astdocgen](https://github.com/InterLinked1/astdocgen) - Asterisk HTML documentation generator
 - [Insolita/InteractiveJobs](https://github.com/Insolita/InteractiveJobs) - Laravel - vue interactive jobs demo
@@ -2642,7 +2673,7 @@
 - [nfe/whmcs-addon](https://github.com/nfe/whmcs-addon) - Módulo Nota Fiscal para WHMCS via NFE.io. Automatiza a emissão de notas fiscais.
 - [arthurkushman/php-wss](https://github.com/arthurkushman/php-wss) - Web-socket server/client with multi-process and parse templates support  on server and send/receive options on client
 - [parse-community/parse-php-sdk](https://github.com/parse-community/parse-php-sdk) - The Parse PHP SDK.
-- [TheAlgorithms/PHP](https://github.com/TheAlgorithms/PHP) - All Algorithms implemented in Php
+- [TheAlgorithms/PHP](https://github.com/TheAlgorithms/PHP) - All Algorithms implemented in PHP
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
 - [awes-io/awes-io](https://github.com/awes-io/awes-io) - Awes.io // boilerplate based on Vue, Nuxt, TailwindCSS plus Laravel as a backend. 🤟
@@ -2680,7 +2711,6 @@
 - [robmachado/sped-nfse](https://github.com/robmachado/sped-nfse) - API para geração e comunicação das NFSe com as Prefeituras Municipais
 - [nfephp-org/sped-common](https://github.com/nfephp-org/sped-common) - Classes comuns usadas nas atividades e classes das API's de NFe, CTe e MDFe
 - [robmachado/sped-cte](https://github.com/robmachado/sped-cte) - API para geração e comunicação das CTe com as SEFAZ autorizadoras
-- [robmachado/sped-common](https://github.com/robmachado/sped-common) - Classes comuns usadas nas atividades e classes das API's de NFe, CTe e MDFe
 - [robmachado/sped-nfe](https://github.com/robmachado/sped-nfe) - API para geração e comunicação das NFe com as SEFAZ autorizadoras
 - [brazanation/php-states](https://github.com/brazanation/php-states) - Library to provides Brazilian States as Value Objects in PHP
 - [brazanation/php-documents](https://github.com/brazanation/php-documents) - Library to provide Brazilian Documents as Value Objects in PHP
@@ -2851,6 +2881,8 @@
 
 ## PowerShell 
 
+- [eizedev/PSItems](https://github.com/eizedev/PSItems) - A PowerShell module that finds files, folders and their information in a really fast and easy way!
+- [adbertram/PowerShell-A-Getting-Started-Guide-For-IT-Admins](https://github.com/adbertram/PowerShell-A-Getting-Started-Guide-For-IT-Admins) - 
 - [codaamok/PSShlink](https://github.com/codaamok/PSShlink) - An unofficial PowerShell module for Shlink (https://shlink.io), an open-source self-hosted and PHP-based URL shortener application
 - [MicrosoftDocs/windows-itpro-docs](https://github.com/MicrosoftDocs/windows-itpro-docs) - This is used for contributions to the Windows 10 content for IT professionals on docs.microsoft.com.
 - [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
@@ -3026,6 +3058,7 @@
 
 ## Ruby 
 
+- [Alexoid1/Biologist-app](https://github.com/Alexoid1/Biologist-app) - This is a social-media where the user can share the species sightings with other users, follow other users, and track his activity daily and weekly.
 - [davidpiegza/graphit](https://github.com/davidpiegza/graphit) - 3D Graph Visualization with WebGL (Rail Web-Application)
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [avo-hq/avodemo](https://github.com/avo-hq/avodemo) - Avo demo app
@@ -3138,12 +3171,19 @@
 
 ## Shell 
 
+- [serverok/server-setup](https://github.com/serverok/server-setup) - Scripts for Debian/Ubuntu/CentOS server setup.
+- [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
+- [ryanoasis/public-bash-scripts](https://github.com/ryanoasis/public-bash-scripts) - Bash Scripts that I can share publicly
+- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
+- [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ wireguard-manager enables you to create and manage your own vpn under a minute.
 - [plone/plone-backend](https://github.com/plone/plone-backend) - Plone backend Docker images using Python 3 and pip.
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [DamionGans/ubuntu-wsl2-systemd-script](https://github.com/DamionGans/ubuntu-wsl2-systemd-script) - Script to enable systemd support on current Ubuntu WSL2 images [Unsupported, no longer updated]
 - [VitalPBX/vitalpbx_ha_call_center](https://github.com/VitalPBX/vitalpbx_ha_call_center) - VitalPBX High Availability for Call Centers
 - [fdaciuk/install-linux](https://github.com/fdaciuk/install-linux) - Softwares to install on Linux
 - [heroku/heroku-buildpack-php](https://github.com/heroku/heroku-buildpack-php) - The official PHP buildpack for Heroku.
+- [tauri-apps/create-tauri-app](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold out a new tauri app project.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian.
 - [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - DreamFactory API Management Platform
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
@@ -3248,6 +3288,8 @@
 
 ## TypeScript 
 
+- [initml/cleanup.pictures](https://github.com/initml/cleanup.pictures) - Code for https://cleanup.pictures
+- [initml/clipdrop-api-samples](https://github.com/initml/clipdrop-api-samples) - Public samples using the ClipDrop API
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 - [enzomanuelmangano/skia-grid-magnification](https://github.com/enzomanuelmangano/skia-grid-magnification) - 
 - [dblens/app](https://github.com/dblens/app) - Database explorer for Mac, Windows & Linux
@@ -3277,7 +3319,6 @@
 - [TMTecnologia/turborepo-typescript-fullstack](https://github.com/TMTecnologia/turborepo-typescript-fullstack) - Turborepo boilerplate including TypeScript, ReactNative, Jest, ESLint and more
 - [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js + Electron ⚡
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
-- [tauri-apps/create-tauri-app](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold out a new tauri app project.
 - [dailydotdev/apps](https://github.com/dailydotdev/apps) - daily.dev application suite
 - [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 2.0.
 - [pbeshai/tidy](https://github.com/pbeshai/tidy) - Tidy up your data with JavaScript, inspired by dplyr and the tidyverse
@@ -3326,7 +3367,7 @@
 - [YeonV/Vitron](https://github.com/YeonV/Vitron) - ⚡Vite + :electron: Electron
 - [ngxs/store](https://github.com/ngxs/store) - 🚀 NGXS - State Management for Angular
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
-- [nuxt-community/html-validator-module](https://github.com/nuxt-community/html-validator-module) - HTML validation for Nuxt
+- [nuxt-modules/html-validator](https://github.com/nuxt-modules/html-validator) - HTML validation for Nuxt
 - [atulmy/gql-query-builder](https://github.com/atulmy/gql-query-builder) - 🔧 Simple GraphQL Query Builder
 - [useAnimations/react-useanimations](https://github.com/useAnimations/react-useanimations) - React-useanimations is a collection of free animated open source icons for React.js.
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
@@ -3535,10 +3576,10 @@
 - [crisbeto/angular-svg-round-progressbar](https://github.com/crisbeto/angular-svg-round-progressbar) - Angular module that uses SVG to create a circular progressbar
 - [Saber2pr/editor](https://github.com/Saber2pr/editor) - :ocean: Web Editor for React/Tsx Ant-Design App Develop、Build !
 - [stream-labs/desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron.
-- [musehq/spacesvr](https://github.com/musehq/spacesvr) - A standardized reality for future of the 3D Web.
+- [musehq/spacesvr](https://github.com/musehq/spacesvr) - A standardized reality for the future of the 3D Web.
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
-- [1milligram/1loc](https://github.com/1milligram/1loc) - What's your favorite JavaScript single LOC (line of code)?
-- [1milligram/csslayout](https://github.com/1milligram/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
+- [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
+- [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
@@ -3995,6 +4036,7 @@
 
 ## Vue 
 
+- [prismicio-community/nuxt-starter-prismic-multi-language](https://github.com/prismicio-community/nuxt-starter-prismic-multi-language) - Multi-language project with Nuxt & Prismic
 - [wenzhixin/multiple-select](https://github.com/wenzhixin/multiple-select) - A jQuery plugin to select multiple elements with checkboxes :)
 - [codydbentley/wails-vite-vue-the-works](https://github.com/codydbentley/wails-vite-vue-the-works) - A Wails template with Vite, Vue 3 TypeScript, Vuex, Vue Router, Sass, ESLint, and Prettier
 - [getumbrel/umbrel-dashboard](https://github.com/getumbrel/umbrel-dashboard) - Web-based dashboard to interact with your Umbrel

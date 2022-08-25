@@ -66,7 +66,7 @@
 - [TypeScript](#typescript)
 - [VBScript](#vbscript)
 - [Vala](#vala)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 - [Zig](#zig)
 
@@ -241,6 +241,7 @@
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
 - [pichi-router/pichi](https://github.com/pichi-router/pichi) - Flexible Rule-Based Proxy
+- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 - [mscdex/sipster](https://github.com/mscdex/sipster) - A pjsip/pjsua2 binding for node.js
 - [Squirrel/Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) - An installation and update framework for Windows desktop apps
@@ -395,6 +396,7 @@
 
 ## Dockerfile 
 
+- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes 🇺🇦
 - [Urigo/angular-meteor](https://github.com/Urigo/angular-meteor) - Angular and Meteor - The perfect stack
 - [RocketChat/Docker.Official.Image](https://github.com/RocketChat/Docker.Official.Image) - OFFICIAL REPOSITORY rocket.chat
 - [geerlingguy/docker-centos7-ansible](https://github.com/geerlingguy/docker-centos7-ansible) - CentOS 7 Docker container for Ansible playbook and role testing.
@@ -912,7 +914,7 @@
 - [jh3y/tyto](https://github.com/jh3y/tyto) - manage and organise things
 - [senchalabs/connect](https://github.com/senchalabs/connect) - Connect is a middleware layer for Node.js
 - [belapferreira/gobarber](https://github.com/belapferreira/gobarber) - Code clone da aplicação desenvolvida nas aulas do Bootcamp GoStack Rocketseat
-- [appbaseio/reactivesearch](https://github.com/appbaseio/reactivesearch) - Search UI components for React and Vue: powered by appbase.io / Elasticsearch
+- [appbaseio/reactivesearch](https://github.com/appbaseio/reactivesearch) - Search UI components for React and Vue
 - [algolia/places](https://github.com/algolia/places) - :globe_with_meridians: Turn any &lt;input&gt; into an address autocomplete
 - [YosephKS/solana-defi-dashboard](https://github.com/YosephKS/solana-defi-dashboard) - This repository contains tutorial for building simple Solana DeFi Dashboard dApp with Moralis.
 - [victoria-lo/TAPI](https://github.com/victoria-lo/TAPI) - Full Node.js demo REST API for tea built for the Node.js MongoDB Beginner Series at lo-victoria.com/series/lets-build-a-nodejs-rest-api
@@ -2294,7 +2296,6 @@
 - [react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps) - React Native Mapview component for iOS + Android
 - [RossAnderson/EarthView](https://github.com/RossAnderson/EarthView) - 3D Visualization of Earth using Map Tiles for iOS
 - [wymsee/cordova-HTTP](https://github.com/wymsee/cordova-HTTP) - Cordova / Phonegap plugin for communicating with HTTP servers.  Allows for SSL pinning!
-- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [cooperka/react-native-snackbar](https://github.com/cooperka/react-native-snackbar) - :bento: Material Design "Snackbar" component for Android and iOS.
 - [GRMrGecko/VoiceMac](https://github.com/GRMrGecko/VoiceMac) - Google Voice and SIP Client
 
@@ -2640,7 +2641,7 @@
 - [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.
 - [iolevel/peachpie-samples](https://github.com/iolevel/peachpie-samples) - Sample projects demonstrating use of Peachpie - the PHP compiler and runtime for .NET
 - [intuit/QuickBooks-V3-PHP-SDK](https://github.com/intuit/QuickBooks-V3-PHP-SDK) - Official PHP SDK for QuickBooks REST API v3.0: https://developer.intuit.com/
-- [silverstripe/silverstripe-framework](https://github.com/silverstripe/silverstripe-framework) - SilverStripe Framework, the MVC framework that powers SilverStripe CMS
+- [silverstripe/silverstripe-framework](https://github.com/silverstripe/silverstripe-framework) - Silverstripe Framework, the MVC framework that powers Silverstripe CMS
 - [CViniciusSDias/php-text-to-speech](https://github.com/CViniciusSDias/php-text-to-speech) - A simple PHP tool that uses each OS text-to-speech CLI
 - [spekulatius/PHPScraper](https://github.com/spekulatius/PHPScraper) - PHP Scraper - a simple way to access the web from PHP
 - [slimphp/Slim](https://github.com/slimphp/Slim) - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
@@ -2910,6 +2911,7 @@
 
 ## Python 
 
+- [Jfaler/soup](https://github.com/Jfaler/soup) - ☎️ Original open source call flooder using Twilio's API.
 - [jlevy/repren](https://github.com/jlevy/repren) - Rename anything
 - [fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users) - Ready-to-use and customizable users management for FastAPI
 - [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode) - Run VSCode (codeserver) on Google Colab or Kaggle Notebooks
@@ -2924,7 +2926,7 @@
 - [dunossauro/todo_list_flask_brython](https://github.com/dunossauro/todo_list_flask_brython) - um todo-list/kanban implementado com python fullstack
 - [dunossauro/live-de-python](https://github.com/dunossauro/live-de-python) - Repositório das lives semanais
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [dogsheep/github-to-sqlite](https://github.com/dogsheep/github-to-sqlite) - Save data from GitHub to a SQLite database
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
@@ -3741,7 +3743,7 @@
 - [karanpratapsingh/Proximity](https://github.com/karanpratapsingh/Proximity) - An Open Source social media that does not use your data against you
 - [gorhom/react-native-sticky-item](https://github.com/gorhom/react-native-sticky-item) - An interactive sticky item inspired by Facebook Stories.
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total cov
-- [gera2ld/markmap](https://github.com/gera2ld/markmap) - Visualize your Markdown as mindmaps with Markmap.
+- [markmap/markmap](https://github.com/markmap/markmap) - Visualize your Markdown as mindmaps with Markmap.
 - [NaoTu/DesktopNaotu](https://github.com/NaoTu/DesktopNaotu) - 桌面版脑图 (百度脑图离线版，思维导图) 跨平台支持 Windows/Linux/Mac OS. (A cross-platform multilingual Mind Map Tool)
 - [diego3g/rocketredis](https://github.com/diego3g/rocketredis) - A beautiful Redis GUI :fire: (under development)
 - [josepholiveira/podcastr](https://github.com/josepholiveira/podcastr) - A platform built for podcast broadcasting. Developed during @rocketseat NLW#05 free training.
@@ -4029,7 +4031,7 @@
 
 - [pdfpc/pdfpc](https://github.com/pdfpc/pdfpc) - A presenter console with multi-monitor support for PDF files.
 
-## Vim script 
+## Vim Script 
 
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 

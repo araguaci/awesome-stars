@@ -123,6 +123,8 @@
 
 ## C# # 
 
+- [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / W
+- [petrroll/PowerSwitcher](https://github.com/petrroll/PowerSwitcher) - Power plan switcher for Windows 10. Heavily inspired by EarTrumpet.
 - [meysamhadeli/awesome-dotnet-tips](https://github.com/meysamhadeli/awesome-dotnet-tips) - List of awesome tips and tricks, resources, videos and articles in .net, software architecture, microservice and cloud-native
 - [telerik/UI-For-UWP](https://github.com/telerik/UI-For-UWP) - This repo contains the source code for Telerik UI for Universal Windows Platform (UWP), which includes 20+ UI controls for developers building UWP applications.
 - [renatogroffe/ASPNETCore6-REST_API-JWT-Postman_ContagemAcessos](https://github.com/renatogroffe/ASPNETCore6-REST_API-JWT-Postman_ContagemAcessos) - Exemplo de implementação de testes de uma API REST criada com .NET 6 (e protegida com autenticação via JWT) para contagem de acessos utilizando Postman + Newman. Inclui Dockerfile com build desta apli
@@ -186,6 +188,8 @@
 
 ## C++ 
 
+- [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
+- [microsoft/WSL-DistroLauncher](https://github.com/microsoft/WSL-DistroLauncher) - Sample/reference launcher app for WSL distro Microsoft Store packages.
 - [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
 - [romkatv/gitstatus](https://github.com/romkatv/gitstatus) - Git status for Bash and Zsh prompt
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -256,6 +260,7 @@
 
 ## CSS 
 
+- [roramirez/qpanel](https://github.com/roramirez/qpanel) - Dashboard for Queues in Asterisk and FreeSWITCH. app_queue panel for Asterisk and mod_callcenter in FreeSWITCH.   Get news -&gt; http://eepurl.com/dxKt7X
 - [johnpapa/vscode-winteriscoming](https://github.com/johnpapa/vscode-winteriscoming) - Dark theme with fun and bright foreground colors
 - [adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3) - Master the creation of Modern UX/UI Websites
 - [ethanhs/WSL-Programs](https://github.com/ethanhs/WSL-Programs) - A community powered list of programs that work (and those that don't) on the Windows subsystem for Linux
@@ -814,6 +819,8 @@
 
 ## JavaScript 
 
+- [taw/electron-adventures](https://github.com/taw/electron-adventures) - Electron Adventures
+- [rogeriogomes2009/ebux](https://github.com/rogeriogomes2009/ebux) - Biblioteca Virtual Free
 - [canove/whaticket](https://github.com/canove/whaticket) - A very simple Ticket System based on WhatsApp messages, that allow multi-users in same WhatsApp account.
 - [devpleno/junta-vagas](https://github.com/devpleno/junta-vagas) - 
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
@@ -1524,7 +1531,6 @@
 - [tomzaku/react-native-shimmer-placeholder](https://github.com/tomzaku/react-native-shimmer-placeholder) - Placeholder/ Skeleton of React Native
 - [marcobrunodev/curso-javascript-para-react](https://github.com/marcobrunodev/curso-javascript-para-react) - 
 - [withspectrum/spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
-- [expo/fyi](https://github.com/expo/fyi) - Little bits of information that you may find useful when interacting with Expo tools and service. Append the markdown filename to https://expo.fyi/ to get a quick link to it.
 - [aautio/react-modal-image](https://github.com/aautio/react-modal-image) - A tiny React component providing modal image Lightbox.
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [indexzero/populist-style](https://github.com/indexzero/populist-style) - A (one day) auto-updating style at the mercy of the people, and only the people.
@@ -2301,6 +2307,7 @@
 
 ## Others 
 
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [binlist/data](https://github.com/binlist/data) - binlist.net data repo
@@ -2443,6 +2450,7 @@
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [wfxr/awesome-stars](https://github.com/wfxr/awesome-stars) - A curated list of my GitHub stars!
 - [omariosouto/awesome-dev-guide-devsoutinho](https://github.com/omariosouto/awesome-dev-guide-devsoutinho) - Ter um concatenado de conteúdos pra quem quer começar com JavaScript
+- [expo/fyi](https://github.com/expo/fyi) - Little bits of information that you may find useful when interacting with Expo tools and service. Append the markdown filename to https://expo.fyi/ to get a quick link to it.
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [perifacode/conteudo-gratuito](https://github.com/perifacode/conteudo-gratuito) - 📌 Conteúdos gratuitos compartilhados pela comunidade.
 - [Ballerini-Server/git-tutorial](https://github.com/Ballerini-Server/git-tutorial) - This repository is meant to help you learn Git.
@@ -2534,6 +2542,7 @@
 
 ## PHP 
 
+- [opensourcepos/opensourcepos](https://github.com/opensourcepos/opensourcepos) - Open Source Point of Sale is a web based point of sale application written in PHP using CodeIgniter framework. It uses MySQL as the data back end and has a Bootstrap 3 based user interface.
 - [icanhazstring/systemctl-php](https://github.com/icanhazstring/systemctl-php) - PHP wrapper for systemctl
 - [greenlion/PHP-SQL-Parser](https://github.com/greenlion/PHP-SQL-Parser) - A pure PHP SQL (non validating) parser w/ focus on MySQL dialect of SQL
 - [michabbb/markdown-table](https://github.com/michabbb/markdown-table) - Create a markdown table containing your data.
@@ -2911,6 +2920,10 @@
 
 ## Python 
 
+- [leonardodiegues/lidebot](https://github.com/leonardodiegues/lidebot) - 🤖 que compara manchetes dos principais jornais do Brasil de hora em hora
+- [101t/jasmin-web-panel](https://github.com/101t/jasmin-web-panel) - 📨 Jasmin Web Panel for Jasmin SMS Gateway
+- [jookies/jasmin](https://github.com/jookies/jasmin) - Jasmin - Open source SMS gateway
+- [maxcountryman/flask-login](https://github.com/maxcountryman/flask-login) - Flask user session management.
 - [Jfaler/soup](https://github.com/Jfaler/soup) - ☎️ Original open source call flooder using Twilio's API.
 - [jlevy/repren](https://github.com/jlevy/repren) - Rename anything
 - [fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users) - Ready-to-use and customizable users management for FastAPI
@@ -3055,6 +3068,7 @@
 
 ## Roff 
 
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [laradock/php-fpm](https://github.com/laradock/php-fpm) - Laradock Base Image.
 
 ## Ruby 
@@ -3328,11 +3342,11 @@
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
 - [primer/primitives](https://github.com/primer/primitives) - Color, typography, and spacing primitives in json.
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
-- [dastasoft/memory-game](https://github.com/dastasoft/memory-game) - 
+- [dastasoft/memory-game](https://github.com/dastasoft/memory-game) - Demo project to teach about Framer Motion animations on React projects.
 - [marakoss/sos-moto-app](https://github.com/marakoss/sos-moto-app) - SOS MOTO is a mobile application written in React Native that allows you to call a nearest contact from your GPS location to get a quick help. We have over 10k active users in Europe and steadily grow
 - [DoableDanny/NextJS-HarperDB-Task-Timer](https://github.com/DoableDanny/NextJS-HarperDB-Task-Timer) - Fullstack productivity timer app built with NextJS and HarperDB
 - [sunface/datav](https://github.com/sunface/datav) - 📊https://datav.io is a modern APM, provide observability for your business, application and infrastructure. It's also a lightweight alternative to Grafana.
-- [jsonhero-io/jsonhero-web](https://github.com/jsonhero-io/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
+- [apihero-run/jsonhero-web](https://github.com/apihero-run/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [danileao/permissions_users](https://github.com/danileao/permissions_users) - 
 - [lklima/rive-animated-app](https://github.com/lklima/rive-animated-app) - 
@@ -3425,7 +3439,7 @@
 - [XRFoundation/XREngine](https://github.com/XRFoundation/XREngine) - Ethereal Engine - Bringing us together on the open social spatial web. 🤖 🚀 👓 🕹️ 🧑🏿‍🚀
 - [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app) - 💅 A ready-to-go with a well-thought-out structure Electron app boilerplate with ReactJS, TypeScript, CSS / SASS modules, SWC, Eslint, Prettier, GitHub Action releases and more.
 - [zowe/vscode-extension-for-zowe](https://github.com/zowe/vscode-extension-for-zowe) - Visual Studio Code Plug-in for Zowe, which lets users interact with z/OS data sets on a remote mainframe instance. Powered by Zowe CLI.
-- [ngx-rocket/generator-ngx-rocket](https://github.com/ngx-rocket/generator-ngx-rocket) - :rocket: Extensible Angular 13+ enterprise-grade project generator
+- [ngx-rocket/generator-ngx-rocket](https://github.com/ngx-rocket/generator-ngx-rocket) - :rocket: Extensible Angular 14+ enterprise-grade project generator
 - [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk) - Matrix SDK for React Javascript
 - [vector-im/element-desktop](https://github.com/vector-im/element-desktop) - A glossy Matrix collaboration client for desktop.
 - [aeksco/aws-pdf-textract-pipeline](https://github.com/aeksco/aws-pdf-textract-pipeline) - :mag: Data pipeline for crawling PDFs from the Web and transforming their contents into structured data using AWS textract. Built with AWS CDK + TypeScript
@@ -3503,7 +3517,7 @@
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [Atyantik/react-pwa](https://github.com/Atyantik/react-pwa) - An upgradable boilerplate for Progressive web applications (PWA) with server side rendering, build with SEO in mind and achieving max page speed and optimized user experience.
-- [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Node.js stateless session utility using signed and encrypted cookies to store data. Works with Next.js, Express, NestJs, Fastify, and any Node.js HTTP framework.
+- [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Next.js stateless session utility using signed and encrypted cookies to store data. Also works with Express, NestJs, Fastify, and any Node.js HTTP framework.
 - [ritwickdey/vscode-live-server](https://github.com/ritwickdey/vscode-live-server) - Launch a development local Server with live reload feature for static & dynamic pages.
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
 - [xlayers/xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design

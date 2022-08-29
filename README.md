@@ -260,6 +260,7 @@
 
 ## CSS 
 
+- [mgilangjanuar/teledrive](https://github.com/mgilangjanuar/teledrive) - The Google Drive/OneDrive/etc alternative using Telegram API
 - [The-Shivam-garg/BigB-E-learn-Websit-e](https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e) - BigB is a E-learning website . This project is accepted in GSSoC 2022 , JWOC 22
 - [roramirez/qpanel](https://github.com/roramirez/qpanel) - Dashboard for Queues in Asterisk and FreeSWITCH. app_queue panel for Asterisk and mod_callcenter in FreeSWITCH.   Get news -&gt; http://eepurl.com/dxKt7X
 - [johnpapa/vscode-winteriscoming](https://github.com/johnpapa/vscode-winteriscoming) - Dark theme with fun and bright foreground colors
@@ -2297,6 +2298,7 @@
 ## Nunjucks 
 
 - [jamstack/jamstack.org](https://github.com/jamstack/jamstack.org) - The official Jamstack site
+- [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers
 - [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev) - The frontend, backend, and content source code for web.dev
 
 ## Objective-C 
@@ -2418,7 +2420,6 @@
 - [clarketm/proxy-list](https://github.com/clarketm/proxy-list) - A list of free, public, forward proxy servers. UPDATED DAILY!
 - [cassidoo/scrapers](https://github.com/cassidoo/scrapers) - A list of scrapers from around the web.
 - [secretGeek/AwesomeCSV](https://github.com/secretGeek/AwesomeCSV) - 🕶️A curated list of awesome tools for dealing with CSV.
-- [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers
 - [AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [marcodiiga/amazon-s3-userguide](https://github.com/marcodiiga/amazon-s3-userguide) - The open source version of the Amazon S3 User Guide. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request. This gu
@@ -2548,6 +2549,7 @@
 
 ## PHP 
 
+- [IPGeolocation/ip-geolocation-api-php](https://github.com/IPGeolocation/ip-geolocation-api-php) - IP Geolocation API PHP SDK
 - [opensourcepos/opensourcepos](https://github.com/opensourcepos/opensourcepos) - Open Source Point of Sale is a web based point of sale application written in PHP using CodeIgniter framework. It uses MySQL as the data back end and has a Bootstrap 3 based user interface.
 - [icanhazstring/systemctl-php](https://github.com/icanhazstring/systemctl-php) - PHP wrapper for systemctl
 - [greenlion/PHP-SQL-Parser](https://github.com/greenlion/PHP-SQL-Parser) - A pure PHP SQL (non validating) parser w/ focus on MySQL dialect of SQL
@@ -2926,6 +2928,7 @@
 
 ## Python 
 
+- [eternnoir/pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - Python Telegram bot api.
 - [geekan/scrapy-examples](https://github.com/geekan/scrapy-examples) - Multifarious Scrapy examples. Spiders for alexa / amazon / douban / douyu / github / linkedin etc.
 - [leonardodiegues/lidebot](https://github.com/leonardodiegues/lidebot) - 🤖 que compara manchetes dos principais jornais do Brasil de hora em hora
 - [101t/jasmin-web-panel](https://github.com/101t/jasmin-web-panel) - 📨 Jasmin Web Panel for Jasmin SMS Gateway
@@ -3310,6 +3313,7 @@
 
 ## TypeScript 
 
+- [staltz/manyverse](https://github.com/staltz/manyverse) - A social network off the grid (real repo at https://gitlab.com/staltz/manyverse)
 - [initml/cleanup.pictures](https://github.com/initml/cleanup.pictures) - Code for https://cleanup.pictures
 - [initml/clipdrop-api-samples](https://github.com/initml/clipdrop-api-samples) - Public samples using the ClipDrop API
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
@@ -3539,8 +3543,8 @@
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source low-code platform for Firebase and Firestore. Airtable-like UI with cloud functions workflows in JS/TS, all in your browser.
-- [onderceylan/pwa-workshop-angular-firebase](https://github.com/onderceylan/pwa-workshop-angular-firebase) - Build a production ready PWA with Angular and Firebase! This workshop consists of multiple steps for producing a PWA by transforming a regular web app - Ionic Conference App into a PWA, finally deploy
-- [onderceylan/pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator) - Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated i
+- [elegantapp/pwa-workshop-angular-firebase](https://github.com/elegantapp/pwa-workshop-angular-firebase) - Build a production ready PWA with Angular and Firebase! This workshop consists of multiple steps for producing a PWA by transforming a regular web app - Ionic Conference App into a PWA, finally deploy
+- [elegantapp/pwa-asset-generator](https://github.com/elegantapp/pwa-asset-generator) - Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated i
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
 - [vant-ui/vant](https://github.com/vant-ui/vant) - Lightweight Mobile UI Components built on Vue
 - [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK

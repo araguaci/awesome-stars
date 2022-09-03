@@ -86,6 +86,7 @@
 
 ## C 
 
+- [nadirhamid/asterisk-audiofork](https://github.com/nadirhamid/asterisk-audiofork) - Forks a raw audio stream to a WS server
 - [WireGuard/wireguard-linux](https://github.com/WireGuard/wireguard-linux) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-linux
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [CoSMoSoftware/OBS-studio-webrtc](https://github.com/CoSMoSoftware/OBS-studio-webrtc) - This is a fork of OBS-studio with generic support for webrtc. It leverages the same webrtc implementation most browsers use.
@@ -191,6 +192,7 @@
 
 ## C++ 
 
+- [BelledonneCommunications/liblinphone](https://github.com/BelledonneCommunications/liblinphone) - Linphone.org mirror for liblinphone (git://git.linphone.org/liblinphone.git)
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [microsoft/WSL-DistroLauncher](https://github.com/microsoft/WSL-DistroLauncher) - Sample/reference launcher app for WSL distro Microsoft Store packages.
 - [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
@@ -449,6 +451,8 @@
 
 ## Go 
 
+- [rdegges/ipify-api](https://github.com/rdegges/ipify-api) - A public IP API service.
+- [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [mattermost/mattermost-plugin-starter-template](https://github.com/mattermost/mattermost-plugin-starter-template) - Build scripts and templates for writing Mattermost plugins.
@@ -829,6 +833,19 @@
 
 ## JavaScript 
 
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
+- [danjenkins/node-asterisk-ami](https://github.com/danjenkins/node-asterisk-ami) - Send and receive messages from the Asterisk Manager Interface via node.js
+- [vakila/functional-workshop](https://github.com/vakila/functional-workshop) - Intro to Functional Programming Workshop
+- [netlify-templates/nextjs-blog-theme](https://github.com/netlify-templates/nextjs-blog-theme) - A customizable Next.js and Tailwind blog starter. Designed by the Bejamas agency.
+- [itswadesh/svelte-commerce](https://github.com/itswadesh/svelte-commerce) - Svelte ecommerce - Headless, Authentication, Cart & Checkout, TailwindCSS, Server Rendered, Proxy + API Integrated, Animations, Stores, Lazy Loading, Loading Indicators, Carousel, Instant Search, Face
+- [juliomrqz/nuxt-optimized-images](https://github.com/juliomrqz/nuxt-optimized-images) - 🌅🚀 Automatically optimizes images used in Nuxt.js projects (JPEG, PNG, SVG, WebP and GIF).
+- [arifszn/awesome-shortcuts](https://github.com/arifszn/awesome-shortcuts) - Navigate to your favorite actions on the websites you love with just one click.
+- [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create an automatic portfolio based on GitHub profile.
+- [roots/acorn](https://github.com/roots/acorn) - Laravel components for WordPress plugins and themes
+- [ncase/anxiety](https://github.com/ncase/anxiety) - 
+- [ncase/loopy](https://github.com/ncase/loopy) - A tool for thinking in systems
+- [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
+- [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [sindresorhus/pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots
 - [samuelmeuli/action-electron-builder](https://github.com/samuelmeuli/action-electron-builder) - :electron: GitHub Action for building and releasing Electron apps
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
@@ -1267,7 +1284,7 @@
 - [jberg/butterchurn](https://github.com/jberg/butterchurn) - Butterchurn is a WebGL implementation of the Milkdrop Visualizer
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser.
 - [kousun12/eternal](https://github.com/kousun12/eternal) - 👾~ music, eternal ~ 👾
-- [lucafalasco/SON](https://github.com/lucafalasco/SON) - ♫ Web-based music visualizer
+- [ocsal/SON](https://github.com/ocsal/SON) - ♫ Web-based music visualizer
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~1.5KB routing for React and Preact. Nothing else but HOOKS.
 - [codex-team/codex.notes](https://github.com/codex-team/codex.notes) - WIP: crossplatform desktop notes application based on Electron and Editor.js
 - [kremalicious/portfolio](https://github.com/kremalicious/portfolio) - 👔 Portfolio thingy, built with Gatsby
@@ -1386,7 +1403,7 @@
 - [dotenorio/clipboard-manager-electron](https://github.com/dotenorio/clipboard-manager-electron) - A clipboard manager built with Electron
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a brain
 - [advanced-rest-client/arc-electron](https://github.com/advanced-rest-client/arc-electron) - Advanced REST Client - Desktop application
-- [rodrigokamada/chatbot-whatsapp](https://github.com/rodrigokamada/chatbot-whatsapp) - Example application using JavaScript and Node.js where a simple chatbot will be implemented using the Zenvia platform to integrate with WhatsApp and the AudD platform to integrate with music recognize
+- [rodrigokamada/chatbot-whatsapp-music](https://github.com/rodrigokamada/chatbot-whatsapp-music) - Example application using JavaScript and Node.js where a simple chatbot will be implemented using the Zenvia platform to integrate with WhatsApp and the AudD platform to integrate with music recognize
 - [oguzhaninan/Buka](https://github.com/oguzhaninan/Buka) - Buka is a modern software that helps you manage your ebook at ease.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
@@ -2258,6 +2275,7 @@
 
 ## Jupyter Notebook 
 
+- [materialsvirtuallab/matgenb](https://github.com/materialsvirtuallab/matgenb) - Jupyter notebooks demonstrating the utilization of open-source codes for the study of materials science.
 - [okfn-brasil/perfil-politico](https://github.com/okfn-brasil/perfil-politico) - A platform for profiling public figures in Brazilian politics
 - [mozilla/TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
 - [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Free Data Engineering course!
@@ -2324,6 +2342,10 @@
 
 ## Others 
 
+- [araguaci/You-Dont-Know-JS](https://github.com/araguaci/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [aneagoie/ztm-python-cheat-sheet](https://github.com/aneagoie/ztm-python-cheat-sheet) - 
+- [miconda/sip-resources](https://github.com/miconda/sip-resources) - Various SIP resources.
+- [rtckit/awesome-rtc](https://github.com/rtckit/awesome-rtc) - :satellite: A curated list of awesome Real Time Communications resources
 - [JStumpp/awesome-chatbots](https://github.com/JStumpp/awesome-chatbots) - A curated list of awesome Chatbot services and resources.
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
@@ -2559,6 +2581,10 @@
 
 ## PHP 
 
+- [Hasnayeen/goodwork](https://github.com/Hasnayeen/goodwork) - Self hosted project management and collaboration tool powered by TALL stack
+- [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 9.0 blog application with Vue.js, Homestead, Horizon, Telescope and Pusher
+- [arifszn/ezfolio](https://github.com/arifszn/ezfolio) - Open Source Portfolio/Resume CMS built using Laravel, React and Ant Design.
+- [reactphp/http](https://github.com/reactphp/http) - Event-driven, streaming HTTP client and server implementation for ReactPHP.
 - [Licoy/wordpress-theme-puock](https://github.com/Licoy/wordpress-theme-puock) - :art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式、无刷新加载等 | A high-value adaptive theme based on WordPress, supports day and night modes, no refresh loading, etc.
 - [Intervention/image](https://github.com/Intervention/image) - PHP Image Manipulation
 - [solstice23/argon-theme](https://github.com/solstice23/argon-theme) - 📖 Argon - 一个轻盈、简洁的 WordPress 主题
@@ -2941,6 +2967,9 @@
 
 ## Python 
 
+- [rdegges/django-twilio](https://github.com/rdegges/django-twilio) - A simple library for building twilio-powered Django webapps.
+- [tomitokko/20-python-projects](https://github.com/tomitokko/20-python-projects) - 
+- [alessandrolamberti/ocr_demo](https://github.com/alessandrolamberti/ocr_demo) - 
 - [aiogram/aiogram](https://github.com/aiogram/aiogram) - Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp.
 - [eternnoir/pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - Python Telegram bot api.
 - [geekan/scrapy-examples](https://github.com/geekan/scrapy-examples) - Multifarious Scrapy examples. Spiders for alexa / amazon / douban / douyu / github / linkedin etc.
@@ -3302,6 +3331,7 @@
 
 ## Svelte 
 
+- [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
 - [Brain-Bones/skeleton](https://github.com/Brain-Bones/skeleton) - A fully featured Svelte component library. Skeleton allows you to build fast and reactive web UI using Svelte + Tailwind.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams
@@ -3328,6 +3358,9 @@
 
 ## TypeScript 
 
+- [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
+- [flexbox/react-native-bootcamp](https://github.com/flexbox/react-native-bootcamp) - 1 week, 20 lessons, opinionated React Native Bootcamp for busy developers
+- [janosh/periodic-table](https://github.com/janosh/periodic-table) - Periodic table of elements written in Svelte
 - [samuelmeuli/react-magnifier](https://github.com/samuelmeuli/react-magnifier) - 🔍 React image zoom component
 - [staltz/manyverse](https://github.com/staltz/manyverse) - A social network off the grid (real repo at https://gitlab.com/staltz/manyverse)
 - [initml/cleanup.pictures](https://github.com/initml/cleanup.pictures) - Code for https://cleanup.pictures
@@ -3338,7 +3371,7 @@
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [craftzdog/react-native-animated-todo](https://github.com/craftzdog/react-native-animated-todo) - Animated ToDo app built with React Native and Reanimated v2
 - [fonoster/webui](https://github.com/fonoster/webui) - Web UI to create powerful voice applications with Fonoster's API.
-- [sanvishal/wrighter](https://github.com/sanvishal/wrighter) - write the (w)right way!
+- [sanvishal/wrighter](https://github.com/sanvishal/wrighter) - Wrighter - A Powerful Markdown Blogger & A Writing Companion | write the (w)right way
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign
 - [shlinkio/shlink-web-client](https://github.com/shlinkio/shlink-web-client) - A React-based client application for Shlink
 - [shlinkio/shlink.io](https://github.com/shlinkio/shlink.io) - Shlink project website
@@ -3544,7 +3577,7 @@
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [Atyantik/react-pwa](https://github.com/Atyantik/react-pwa) - An upgradable boilerplate for Progressive web applications (PWA) with server side rendering, build with SEO in mind and achieving max page speed and optimized user experience.
-- [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Next.js stateless session utility using signed and encrypted cookies to store data. Also works with Express, NestJs, Fastify, and any Node.js HTTP framework.
+- [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Next.js stateless session utility using signed and encrypted cookies to store data. Also works with Express, and Node.js HTTP servers
 - [ritwickdey/vscode-live-server](https://github.com/ritwickdey/vscode-live-server) - Launch a development local Server with live reload feature for static & dynamic pages.
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
 - [xlayers/xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design
@@ -3666,7 +3699,7 @@
 - [TowhidKashem/snapchat-clone](https://github.com/TowhidKashem/snapchat-clone) - 👻 A Snapchat clone built with React and Redux. Written in Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!
 - [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) - 🔎 🏞 The original medium.com-inspired image zooming library for React
 - [infinitered/reactotron-core-ui](https://github.com/infinitered/reactotron-core-ui) - 
-- [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's cutting edge React Native project boilerplate, along with a CLI, component/model generators, and more!
+- [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!
 - [livekit/client-sdk-js](https://github.com/livekit/client-sdk-js) - LiveKit browser client SDK (javascript)
 - [livekit/livekit-react](https://github.com/livekit/livekit-react) - React component and library for LiveKit
 - [codeedu/maratona2-plataforma-lives](https://github.com/codeedu/maratona2-plataforma-lives) - Maratona Full Cycle 2.0 - Plataforma de transmissão de lives
@@ -4078,6 +4111,7 @@
 
 ## Vue 
 
+- [vkaelin/LeagueStats](https://github.com/vkaelin/LeagueStats) - 📈 League of Legends Stats Web App
 - [Flowko/website-shot](https://github.com/Flowko/website-shot) - 📸 Generate a full web-page screenshot, Website-shot provides rich interface to make any kind of web screenshots online for free with no limits.
 - [prismicio-community/nuxt-starter-prismic-multi-language](https://github.com/prismicio-community/nuxt-starter-prismic-multi-language) - Multi-language project with Nuxt & Prismic
 - [wenzhixin/multiple-select](https://github.com/wenzhixin/multiple-select) - A jQuery plugin to select multiple elements with checkboxes :)

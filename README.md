@@ -545,6 +545,8 @@
 
 ## HTML 
 
+- [Mekylei-Belchior/lotofacil](https://github.com/Mekylei-Belchior/lotofacil) - Jogando na Lotofácil utilizando rede neural.
+- [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - A badge generator service to count visitors of your markdown file.
 - [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website) - This is an Open-Source Library Website in which you get Resources to learn different topics, Donate book section to donate your old books, and a Book issue section to keep a record of all the books is
 - [calixtocarolina/iBeauty-login](https://github.com/calixtocarolina/iBeauty-login) - 
 - [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
@@ -833,6 +835,8 @@
 
 ## JavaScript 
 
+- [Phlow/feeling-responsive](https://github.com/Phlow/feeling-responsive) - »Feeling Responsive« is a free flexible theme for Jekyll built on Foundation framework. You can use it for your company site, as a portfolio or as a blog.
+- [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [danjenkins/node-asterisk-ami](https://github.com/danjenkins/node-asterisk-ami) - Send and receive messages from the Asterisk Manager Interface via node.js
 - [vakila/functional-workshop](https://github.com/vakila/functional-workshop) - Intro to Functional Programming Workshop
@@ -1176,7 +1180,7 @@
 - [videogular/videogular](https://github.com/videogular/videogular) - The HTML5 video player for AngularJS
 - [mediaelement/mediaelement](https://github.com/mediaelement/mediaelement) - HTML5 &lt;audio&gt; or &lt;video&gt; player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consiste
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
-- [ntkme/github-buttons](https://github.com/ntkme/github-buttons) - :octocat: Unofficial github:buttons.
+- [buttons/github-buttons](https://github.com/buttons/github-buttons) - :octocat: github:buttons (unofficial)
 - [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 - [araguaci/a-oracao-de-sao-miguel](https://github.com/araguaci/a-oracao-de-sao-miguel) - “São Miguel Arcanjo, defendei-nos no combate”: conheça a história e a teologia por trás desta prece, escrita pelo Papa Leão XIII depois de uma suposta visão de espíritos malignos sobrevoando a cidade 
 - [araguaci/matrix](https://github.com/araguaci/matrix) - Matrix Unicode init with Canadian Aboriginal =&gt; 0x1400 - 0x167F https://matrix-five.vercel.app/
@@ -2035,7 +2039,7 @@
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [GoogleChromeLabs/preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin) - Please use https://github.com/vuejs/preload-webpack-plugin instead.
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core is a collection of React UI libraries for shipping new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready com
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [davidtheclark/react-aria-menubutton](https://github.com/davidtheclark/react-aria-menubutton) - A fully accessible, easily themeable, React-powered menu button
 - [geobde/react-triple-toggle](https://github.com/geobde/react-triple-toggle) - React multi toggle component
@@ -2581,6 +2585,7 @@
 
 ## PHP 
 
+- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
 - [Hasnayeen/goodwork](https://github.com/Hasnayeen/goodwork) - Self hosted project management and collaboration tool powered by TALL stack
 - [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 9.0 blog application with Vue.js, Homestead, Horizon, Telescope and Pusher
 - [arifszn/ezfolio](https://github.com/arifszn/ezfolio) - Open Source Portfolio/Resume CMS built using Laravel, React and Ant Design.
@@ -2967,6 +2972,8 @@
 
 ## Python 
 
+- [openai/DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E.
+- [geduldig/TwitterAPI](https://github.com/geduldig/TwitterAPI) - Minimal python wrapper for Twitter's REST and Streaming APIs
 - [rdegges/django-twilio](https://github.com/rdegges/django-twilio) - A simple library for building twilio-powered Django webapps.
 - [tomitokko/20-python-projects](https://github.com/tomitokko/20-python-projects) - 
 - [alessandrolamberti/ocr_demo](https://github.com/alessandrolamberti/ocr_demo) - 
@@ -3179,6 +3186,7 @@
 
 ## SCSS 
 
+- [Phlow/simplicity](https://github.com/Phlow/simplicity) - A free, flexible, superfast and easily customizable Jekyll Theme with no Javascript but beautiful typography.
 - [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 - [section-engineering-education/engineering-education](https://github.com/section-engineering-education/engineering-education) - “Section's Engineering Education (EngEd) Program is dedicated to offering a unique quality community experience for computer science university students."
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
@@ -3358,6 +3366,7 @@
 
 ## TypeScript 
 
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [flexbox/react-native-bootcamp](https://github.com/flexbox/react-native-bootcamp) - 1 week, 20 lessons, opinionated React Native Bootcamp for busy developers
 - [janosh/periodic-table](https://github.com/janosh/periodic-table) - Periodic table of elements written in Svelte

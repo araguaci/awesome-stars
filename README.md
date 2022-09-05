@@ -86,6 +86,7 @@
 
 ## C 
 
+- [sqlite/sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree
 - [nadirhamid/asterisk-audiofork](https://github.com/nadirhamid/asterisk-audiofork) - Forks a raw audio stream to a WS server
 - [WireGuard/wireguard-linux](https://github.com/WireGuard/wireguard-linux) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-linux
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
@@ -213,7 +214,7 @@
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) - GNU Radio – the Free and Open Software Radio Ecosystem
 - [RHVoice/RHVoice](https://github.com/RHVoice/RHVoice) - a free and open source speech synthesizer for Russian and other languages
-- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2021 | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter 
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2022 coming | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever enc
 - [CGAL/cgal](https://github.com/CGAL/cgal) - The public CGAL repository, see the README below
 - [BelledonneCommunications/linphone-desktop](https://github.com/BelledonneCommunications/linphone-desktop) - Linphone is a free VoIP and video softphone based on the SIP protocol. Mirror of git://git.linphone.org/linphone-desktop.git
 - [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
@@ -841,7 +842,6 @@
 - [danjenkins/node-asterisk-ami](https://github.com/danjenkins/node-asterisk-ami) - Send and receive messages from the Asterisk Manager Interface via node.js
 - [vakila/functional-workshop](https://github.com/vakila/functional-workshop) - Intro to Functional Programming Workshop
 - [netlify-templates/nextjs-blog-theme](https://github.com/netlify-templates/nextjs-blog-theme) - A customizable Next.js and Tailwind blog starter. Designed by the Bejamas agency.
-- [itswadesh/svelte-commerce](https://github.com/itswadesh/svelte-commerce) - Svelte ecommerce - Headless, Authentication, Cart & Checkout, TailwindCSS, Server Rendered, Proxy + API Integrated, Animations, Stores, Lazy Loading, Loading Indicators, Carousel, Instant Search, Face
 - [juliomrqz/nuxt-optimized-images](https://github.com/juliomrqz/nuxt-optimized-images) - 🌅🚀 Automatically optimizes images used in Nuxt.js projects (JPEG, PNG, SVG, WebP and GIF).
 - [arifszn/awesome-shortcuts](https://github.com/arifszn/awesome-shortcuts) - Navigate to your favorite actions on the websites you love with just one click.
 - [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create an automatic portfolio based on GitHub profile.
@@ -1180,7 +1180,7 @@
 - [videogular/videogular](https://github.com/videogular/videogular) - The HTML5 video player for AngularJS
 - [mediaelement/mediaelement](https://github.com/mediaelement/mediaelement) - HTML5 &lt;audio&gt; or &lt;video&gt; player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consiste
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
-- [buttons/github-buttons](https://github.com/buttons/github-buttons) - :octocat: github:buttons (unofficial)
+- [buttons/github-buttons](https://github.com/buttons/github-buttons) - :octocat: Unofficial github:buttons
 - [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 - [araguaci/a-oracao-de-sao-miguel](https://github.com/araguaci/a-oracao-de-sao-miguel) - “São Miguel Arcanjo, defendei-nos no combate”: conheça a história e a teologia por trás desta prece, escrita pelo Papa Leão XIII depois de uma suposta visão de espíritos malignos sobrevoando a cidade 
 - [araguaci/matrix](https://github.com/araguaci/matrix) - Matrix Unicode init with Canadian Aboriginal =&gt; 0x1400 - 0x167F https://matrix-five.vercel.app/
@@ -2707,7 +2707,7 @@
 - [spekulatius/PHPScraper](https://github.com/spekulatius/PHPScraper) - PHP Scraper - a simple way to access the web from PHP
 - [slimphp/Slim](https://github.com/slimphp/Slim) - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
 - [tailflow/laravel-orion](https://github.com/tailflow/laravel-orion) - The simplest way to create REST API with Laravel
-- [delicata/genealogy](https://github.com/delicata/genealogy) - Laravel 9.x backend using PHP 8.1. Family tree and genealogy data processing website software.
+- [cgdprojects/genealogy](https://github.com/cgdprojects/genealogy) - Laravel 9.x backend using PHP 8.1. Family tree and genealogy data processing website software.
 - [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer
 - [GMX9/Crypto-Exchange-PHP](https://github.com/GMX9/Crypto-Exchange-PHP) - Free crypto exchange built with changenow.io API
 - [catfan/Medoo](https://github.com/catfan/Medoo) - The lightweight PHP database framework to accelerate the development.
@@ -2972,6 +2972,7 @@
 
 ## Python 
 
+- [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [openai/DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E.
 - [geduldig/TwitterAPI](https://github.com/geduldig/TwitterAPI) - Minimal python wrapper for Twitter's REST and Streaming APIs
 - [rdegges/django-twilio](https://github.com/rdegges/django-twilio) - A simple library for building twilio-powered Django webapps.
@@ -3340,6 +3341,7 @@
 ## Svelte 
 
 - [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
+- [itswadesh/svelte-commerce](https://github.com/itswadesh/svelte-commerce) - Svelte ecommerce - Headless, Authentication, Cart & Checkout, TailwindCSS, Server Rendered, Proxy + API Integrated, Animations, Stores, Lazy Loading, Loading Indicators, Carousel, Instant Search, Face
 - [Brain-Bones/skeleton](https://github.com/Brain-Bones/skeleton) - A fully featured Svelte component library. Skeleton allows you to build fast and reactive web UI using Svelte + Tailwind.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams

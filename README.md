@@ -410,6 +410,7 @@
 
 ## Dockerfile 
 
+- [microsoft/mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Server in Docker resources
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy.
 - [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes 🇺🇦
 - [Urigo/angular-meteor](https://github.com/Urigo/angular-meteor) - Angular and Meteor - The perfect stack
@@ -643,7 +644,7 @@
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [n457/Uncolored](https://github.com/n457/Uncolored) - (Un)colored — Next generation desktop rich content editor that saves documents with themes. HTML & Markdown compatible. For Windows, OS X & Linux. — http://n457.github.io/Uncolored/
 - [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
-- [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - Pure HTML5 Network Performance Estimation Tool. OpenSpeedTest use XMLHttpRequest (XHR), HTML, CSS, JS, & SVG For this network performance estimation tool. I started this project in 2011 and moved to O
+- [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - Pure HTML5 Network Performance Estimation Tool. OpenSpeedTest uses XMLHttpRequest (XHR), HTML, CSS, JS, & SVG For this network performance estimation tool. I started this project in 2011 and moved to 
 - [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
 - [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
 - [phuocng/frontend-tips](https://github.com/phuocng/frontend-tips) - Super tiny, quick tips, tricks and best practices of front-end development
@@ -836,6 +837,8 @@
 
 ## JavaScript 
 
+- [vdrmota/actor-twitter-scraper](https://github.com/vdrmota/actor-twitter-scraper) - 
+- [vdrmota/Social-Media-and-Contact-Info-Extractor](https://github.com/vdrmota/Social-Media-and-Contact-Info-Extractor) - Run this scraper for free: https://apify.com/vdrmota/contact-info-scraper
 - [lydiahallie/algo-data-structures](https://github.com/lydiahallie/algo-data-structures) - 🎉Common data structures and algorithms using JS.
 - [Phlow/feeling-responsive](https://github.com/Phlow/feeling-responsive) - »Feeling Responsive« is a free flexible theme for Jekyll built on Foundation framework. You can use it for your company site, as a portfolio or as a blog.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
@@ -2040,7 +2043,7 @@
 - [GoogleChromeLabs/preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin) - Please use https://github.com/vuejs/preload-webpack-plugin instead.
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2550 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [davidtheclark/react-aria-menubutton](https://github.com/davidtheclark/react-aria-menubutton) - A fully accessible, easily themeable, React-powered menu button
 - [geobde/react-triple-toggle](https://github.com/geobde/react-triple-toggle) - React multi toggle component
 - [zillow/react-slider](https://github.com/zillow/react-slider) - Accessible, CSS agnostic, slider component for React.
@@ -2586,6 +2589,8 @@
 
 ## PHP 
 
+- [ivan-sincek/secure-website](https://github.com/ivan-sincek/secure-website) - Secure website with a registration, sign in, session management, and CRUD controls.
+- [ivan-sincek/penetration-testing-cheat-sheet](https://github.com/ivan-sincek/penetration-testing-cheat-sheet) - Work in progress...
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
 - [Hasnayeen/goodwork](https://github.com/Hasnayeen/goodwork) - Self hosted project management and collaboration tool powered by TALL stack
 - [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 9.0 blog application with Vue.js, Homestead, Horizon, Telescope and Pusher
@@ -2705,7 +2710,7 @@
 - [intuit/QuickBooks-V3-PHP-SDK](https://github.com/intuit/QuickBooks-V3-PHP-SDK) - Official PHP SDK for QuickBooks REST API v3.0: https://developer.intuit.com/
 - [silverstripe/silverstripe-framework](https://github.com/silverstripe/silverstripe-framework) - Silverstripe Framework, the MVC framework that powers Silverstripe CMS
 - [CViniciusSDias/php-text-to-speech](https://github.com/CViniciusSDias/php-text-to-speech) - A simple PHP tool that uses each OS text-to-speech CLI
-- [spekulatius/PHPScraper](https://github.com/spekulatius/PHPScraper) - PHP Scraper - a simple way to access the web from PHP
+- [spekulatius/PHPScraper](https://github.com/spekulatius/PHPScraper) - A simple way to scraper and crawl the web from PHP
 - [slimphp/Slim](https://github.com/slimphp/Slim) - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
 - [tailflow/laravel-orion](https://github.com/tailflow/laravel-orion) - The simplest way to create REST API with Laravel
 - [cgdprojects/genealogy](https://github.com/cgdprojects/genealogy) - Laravel 9.x backend using PHP 8.1. Family tree and genealogy data processing website software.
@@ -2973,6 +2978,13 @@
 
 ## Python 
 
+- [hardikvasa/webb](https://github.com/hardikvasa/webb) - Python: An all-in-one Web Crawler, Web Parser and Web Scrapping library!
+- [hardikvasa/database-journal](https://github.com/hardikvasa/database-journal) - Databases: Concepts, commands, codes, interview questions and more...
+- [hardikvasa/google-images-download](https://github.com/hardikvasa/google-images-download) - Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
+- [ultralytics/google-images-download](https://github.com/ultralytics/google-images-download) - Google/Bing Images Web Downloader
+- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
+- [dmw94/BazzellCLI](https://github.com/dmw94/BazzellCLI) - Michael Bazzell's OSINT tools on the command line
+- [dmw94/bazzellpy](https://github.com/dmw94/bazzellpy) - A library for Pythonistas to call Michael Bazzell's OSINT tools as functions
 - [pinax/pinax-stripe-light](https://github.com/pinax/pinax-stripe-light) - a payments Django app for Stripe
 - [pinax/pinax](https://github.com/pinax/pinax) - a Django-based platform for rapidly developing websites
 - [elisheldon/showcase](https://github.com/elisheldon/showcase) - A lightweight, student-driven portfolio that represents only the work students are proud to share
@@ -4065,7 +4077,7 @@
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A fast, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
 - [actions-on-google/smart-home-local](https://github.com/actions-on-google/smart-home-local) - Local Home SDK sample
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.

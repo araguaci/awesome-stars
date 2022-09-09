@@ -964,7 +964,7 @@
 - [appbaseio/reactivesearch](https://github.com/appbaseio/reactivesearch) - Search UI components for React and Vue
 - [algolia/places](https://github.com/algolia/places) - :globe_with_meridians: Turn any &lt;input&gt; into an address autocomplete
 - [YosephKS/solana-defi-dashboard](https://github.com/YosephKS/solana-defi-dashboard) - This repository contains tutorial for building simple Solana DeFi Dashboard dApp with Moralis.
-- [victoria-lo/TAPI](https://github.com/victoria-lo/TAPI) - Full Node.js demo REST API for tea built for the Node.js MongoDB Beginner Series at lo-victoria.com/series/lets-build-a-nodejs-rest-api
+- [victoria-lo/TAPI](https://github.com/victoria-lo/TAPI) - Full Node.js demo REST API for tea built for the Node.js MongoDB Beginner Series at lo-victoria.com/series/nodejs-rest-api
 - [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - The Tiny JavaScript Game Engine That Can! 🚂
 - [AnyChart/GraphicsJS](https://github.com/AnyChart/GraphicsJS) - A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology.
 - [Two9A/jsGB](https://github.com/Two9A/jsGB) - JavaScript emulation of the GameBoy console
@@ -2043,7 +2043,7 @@
 - [GoogleChromeLabs/preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin) - Please use https://github.com/vuejs/preload-webpack-plugin instead.
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2550 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [davidtheclark/react-aria-menubutton](https://github.com/davidtheclark/react-aria-menubutton) - A fully accessible, easily themeable, React-powered menu button
 - [geobde/react-triple-toggle](https://github.com/geobde/react-triple-toggle) - React multi toggle component
 - [zillow/react-slider](https://github.com/zillow/react-slider) - Accessible, CSS agnostic, slider component for React.
@@ -2210,7 +2210,6 @@
 - [archriss/react-native-swiper](https://github.com/archriss/react-native-swiper) - The best Swiper component for React Native.
 - [meliorence/react-native-snap-carousel](https://github.com/meliorence/react-native-snap-carousel) - Swiper/carousel component for React Native featuring previews, multiple layouts, parallax images, performant handling of huge numbers of items, and more. Compatible with Android & iOS.
 - [timomeh/react-native-material-bottom-navigation](https://github.com/timomeh/react-native-material-bottom-navigation) - 💅🔧👌 a beautiful, customizable and easy-to-use material design bottom navigation for react-native
-- [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
 - [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [craftpip/jquery-confirm](https://github.com/craftpip/jquery-confirm) - A multipurpose plugin for alert, confirm & dialog, with extended features.
@@ -4112,6 +4111,7 @@
 - [archriss/apipeline](https://github.com/archriss/apipeline) - Feature-rich and pluggable offline-first API wrapper for all your javascript environements ! Easily wire-up your API and make your app work offline in minutes ! Use AsyncStorage, SQLite or any driver 
 - [AylanBoscarino/panemovel](https://github.com/AylanBoscarino/panemovel) - Ache o posto de gasolina mais próximo com 1 único toque.
 - [react-native-webview/react-native-webview](https://github.com/react-native-webview/react-native-webview) - React Native Cross-Platform WebView
+- [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
 - [aykutkardas/Json-Function](https://github.com/aykutkardas/Json-Function) - It allows you to use methods such as schema, innerJoin, where, limit, select, orderBy on JSON data.
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [onsip/SIP.js](https://github.com/onsip/SIP.js) - A simple, intuitive, and powerful JavaScript signaling library

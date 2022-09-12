@@ -7,6 +7,7 @@
 
 - [Astro](#astro)
 - [Batchfile](#batchfile)
+- [Bicep](#bicep)
 - [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
@@ -78,6 +79,10 @@
 
 - [troytse/wsl-autostart](https://github.com/troytse/wsl-autostart) - Support for starting the Linux services in Windows Subsystem for Linux (WSL) on Windows startup
 
+## Bicep 
+
+- [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
+
 ## Blade 
 
 - [lorisleiva/artisan-ui](https://github.com/lorisleiva/artisan-ui) - 🧰 Run your artisan commands by pressing buttons
@@ -85,6 +90,7 @@
 
 ## C 
 
+- [lurcher/unixODBC](https://github.com/lurcher/unixODBC) - The unixODBC Project goals are to develop and promote unixODBC to be the definitive standard for ODBC on non MS Windows platforms.
 - [sqlite/sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree
 - [nadirhamid/asterisk-audiofork](https://github.com/nadirhamid/asterisk-audiofork) - Forks a raw audio stream to a WS server
 - [WireGuard/wireguard-linux](https://github.com/WireGuard/wireguard-linux) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-linux
@@ -125,6 +131,7 @@
 
 ## C# # 
 
+- [syncfusion/blazor-showcase-expense-tracker](https://github.com/syncfusion/blazor-showcase-expense-tracker) - This expense tracker demo application showcases using several Syncfusion Blazor components together in a real-world application scenario. You can further explore the source code of this application an
 - [dotnettools/SharpGrabber](https://github.com/dotnettools/SharpGrabber) - Download from YouTube, Vimeo, HLS (M3U8 files) and more with .NET and JavaScript, Library and desktop app for downloading high quality media
 - [dotnet/cli-lab](https://github.com/dotnet/cli-lab) - A guided tool will be provided to enable the controlled clean up of a system such that only the desired versions of the Runtime and SDKs remain.
 - [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / W
@@ -192,6 +199,7 @@
 
 ## C++ 
 
+- [litespeedtech/openlitespeed](https://github.com/litespeedtech/openlitespeed) - Our high-performance, lightweight, open source HTTP server
 - [BelledonneCommunications/liblinphone](https://github.com/BelledonneCommunications/liblinphone) - Linphone.org mirror for liblinphone (git://git.linphone.org/liblinphone.git)
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [microsoft/WSL-DistroLauncher](https://github.com/microsoft/WSL-DistroLauncher) - Sample/reference launcher app for WSL distro Microsoft Store packages.
@@ -452,6 +460,8 @@
 
 ## Go 
 
+- [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
+- [pwnesia/dnstake](https://github.com/pwnesia/dnstake) - DNSTake — A fast tool to check missing hosted DNS zones that can lead to subdomain takeover
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [rdegges/ipify-api](https://github.com/rdegges/ipify-api) - A public IP API service.
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
@@ -547,6 +557,8 @@
 
 ## HTML 
 
+- [syncfusion/blazor-showcase-appointment-planner](https://github.com/syncfusion/blazor-showcase-appointment-planner) - Demo appointment scheduling application for doctors in a clinic to manage their appointments with patients
+- [syncfusion/blazor-samples](https://github.com/syncfusion/blazor-samples) - Explore and learn Syncfusion Blazor components using large collection of demos, example applications and tutorial samples
 - [Mekylei-Belchior/lotofacil](https://github.com/Mekylei-Belchior/lotofacil) - Jogando na Lotofácil utilizando rede neural.
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - A badge generator service to count visitors of your markdown file.
 - [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website) - This is an Open-Source Library Website in which you get Resources to learn different topics, Donate book section to donate your old books, and a Book issue section to keep a record of all the books is
@@ -1853,10 +1865,9 @@
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [edankwan/quick-loader](https://github.com/edankwan/quick-loader) - quick-loader is an asset loader that loads everything
-- [aws-amplify/learn](https://github.com/aws-amplify/learn) - AWS Amplify Community
 - [loiane/ext4-crud-mvc](https://github.com/loiane/ext4-crud-mvc) - BrazilJS Sample Project - Ext JS 4 CRUD MVC Example
 - [kartik-v/bootstrap-fileinput](https://github.com/kartik-v/bootstrap-fileinput) - An enhanced HTML 5 file input for Bootstrap 5.x/4.x./3.x with file preview, multiple selection, and more features.
-- [owncloud/web](https://github.com/owncloud/web) - :dragon_face: Next generation frontend for ownCloud X and Infinite Scale
+- [owncloud/web](https://github.com/owncloud/web) - :dragon_face: Next generation frontend for ownCloud 10 and Infinite Scale
 - [owncloud/owncloud-sdk](https://github.com/owncloud/owncloud-sdk) - :cloud: ownCloud client library for JavaScript
 - [rpocklin/ui-router-tabs](https://github.com/rpocklin/ui-router-tabs) - Idiot-proof tab panes with route support using Angular.js + Bootstrap 3 + UI Router
 - [VinceG/twitter-bootstrap-wizard](https://github.com/VinceG/twitter-bootstrap-wizard) - This twitter bootstrap plugin builds a wizard out of a formatter tabbable structure. It allows to build a wizard functionality using buttons to go through the different wizard steps and using events a
@@ -1986,7 +1997,6 @@
 - [text-mask/text-mask](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript
 - [evanw/node-source-map-support](https://github.com/evanw/node-source-map-support) - Adds source map support to node.js (for stack traces)
 - [devshawn/password.live](https://github.com/devshawn/password.live) - 🔒 Generate simple or complex passwords directly from your web browser.
-- [Pierstoval/alex-rock.tech](https://github.com/Pierstoval/alex-rock.tech) - 
 - [carbon-design-system/gatsby-theme-carbon](https://github.com/carbon-design-system/gatsby-theme-carbon) - A Carbon inspired Gatsby theme
 - [cboard-org/cboard](https://github.com/cboard-org/cboard) - Augmentative and Alternative Communication (AAC) communication system with text-to-speech for the browser
 - [carbon-design-system/carbon-website](https://github.com/carbon-design-system/carbon-website) - The website for the Carbon Design System.
@@ -2349,6 +2359,7 @@
 
 ## Others 
 
+- [araguaci/Christo-nihil-praeponere](https://github.com/araguaci/Christo-nihil-praeponere) - Christo nihil praeponere - a nada dar mais valor que a Cristo
 - [araguaci/You-Dont-Know-JS](https://github.com/araguaci/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [aneagoie/ztm-python-cheat-sheet](https://github.com/aneagoie/ztm-python-cheat-sheet) - 
 - [miconda/sip-resources](https://github.com/miconda/sip-resources) - Various SIP resources.
@@ -2588,6 +2599,8 @@
 
 ## PHP 
 
+- [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
+- [glpi-project/glpi](https://github.com/glpi-project/glpi) - GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
 - [ivan-sincek/secure-website](https://github.com/ivan-sincek/secure-website) - Secure website with a registration, sign in, session management, and CRUD controls.
 - [ivan-sincek/penetration-testing-cheat-sheet](https://github.com/ivan-sincek/penetration-testing-cheat-sheet) - Work in progress...
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
@@ -2670,7 +2683,7 @@
 - [XOOPS/XoopsCore](https://github.com/XOOPS/XoopsCore) - Core Framework for next version of XOOPS CMS: 2.6.0
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [araguaci/floripasupcamp](https://github.com/araguaci/floripasupcamp) - Club de Aventura, gestao, aula, surf, supsurf, aluguel, suptour, equipamento, qualidade, seguranca, consultoria, treinamento, evento turistico, roteiro ambiental e gastronomico.
-- [deployphp/deployer](https://github.com/deployphp/deployer) - A deployment tool written in PHP with support for popular frameworks out of the box
+- [deployphp/deployer](https://github.com/deployphp/deployer) - The PHP deployment tool with support for popular frameworks out of the box
 - [nelmio/NelmioCorsBundle](https://github.com/nelmio/NelmioCorsBundle) - Adds CORS (Cross-Origin Resource Sharing) headers support in your Symfony application
 - [SuperPWA/Super-Progressive-Web-Apps](https://github.com/SuperPWA/Super-Progressive-Web-Apps) - SuperPWA helps to convert your WordPress website into Progressive Web Apps instantly. PWA (Progressive Web Apps) demo at : https://superpwa.com and Plugin :
 - [noncent/instagram-data-scraper](https://github.com/noncent/instagram-data-scraper) - Instagram Data Scraper, Instagram Web Scraper, Instagram Super Scraper is a PHP script which takes @user-name or #keywords as input and returns all information related to user or hash-tags e.g. likes,
@@ -2752,7 +2765,7 @@
 - [javiereguiluz/easy-admin-demo](https://github.com/javiereguiluz/easy-admin-demo) - A demo application to showcase EasyAdmin features
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
 - [microsoft/tolerant-php-parser](https://github.com/microsoft/tolerant-php-parser) - An early-stage PHP parser designed for IDE usage scenarios.
-- [abydahana/aksara](https://github.com/abydahana/aksara) - Aksara is a CodeIgniter based CRUD Toolkit that you can use to build complex applications become shorter, secure and more reliable in just a few lines of code. Serving both CMS or Framework, produce b
+- [abydahana/aksara](https://github.com/abydahana/aksara) - Aksara is a CodeIgniter based CRUD Toolkit you can use to build complex applications become shorter, secure and more reliable just in a few lines of code. Serving both CMS or Framework, produce both H
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
 - [composer/packagist](https://github.com/composer/packagist) - Package Repository Website - try https://packagist.com if you need your own -
@@ -2977,6 +2990,7 @@
 
 ## Python 
 
+- [TransposeData/transpose-python-sdk](https://github.com/TransposeData/transpose-python-sdk) - Python SDK wrapper for the Transpose API suite
 - [hardikvasa/webb](https://github.com/hardikvasa/webb) - Python: An all-in-one Web Crawler, Web Parser and Web Scrapping library!
 - [hardikvasa/database-journal](https://github.com/hardikvasa/database-journal) - Databases: Concepts, commands, codes, interview questions and more...
 - [hardikvasa/google-images-download](https://github.com/hardikvasa/google-images-download) - Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
@@ -3226,6 +3240,7 @@
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [nzbin/three-dots](https://github.com/nzbin/three-dots) - 🔮 CSS loading animations made with single element.
 - [nasa/api-docs](https://github.com/nasa/api-docs) - api.nasa.gov
+- [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [compostrap/sidebar-menu](https://github.com/compostrap/sidebar-menu) - :page_with_curl: Simple and fast multi-level sidebar menu on Bootstrap (@twbs)
 - [rodrigorgtic/spiderman-frontend](https://github.com/rodrigorgtic/spiderman-frontend) - 🕷️ Front-end desenvolvido com a finalidade de estudos de responsividade, efeitos e boas práticas de criação de front-end.
 - [hydecorp/hydejack](https://github.com/hydecorp/hydejack) - A boutique Jekyll theme for hackers, nerds, and academics
@@ -3323,6 +3338,7 @@
 - [symblai/getting-started-samples](https://github.com/symblai/getting-started-samples) - Code samples to Get started quickly with Symbl's Voice SDK and APIs: Node.js, JavaScript, WebSockets, & PSTN.
 - [ekondayan/docker-3cx](https://github.com/ekondayan/docker-3cx) - Running 3CX under docker. 3CX is a PBX with video conferencing and live chat functions.
 - [havfo/WEBRTC-to-SIP](https://github.com/havfo/WEBRTC-to-SIP) - Setup for a WEBRTC client and Kamailio server to call SIP clients
+- [aws-amplify/learn](https://github.com/aws-amplify/learn) - AWS Amplify Learn
 - [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [monicahq/docker](https://github.com/monicahq/docker) - docker image of Monica
@@ -3339,7 +3355,6 @@
 - [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
 
 ## Starlark 
 
@@ -3677,7 +3692,6 @@
 - [stream-labs/desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron.
 - [musehq/spacesvr](https://github.com/musehq/spacesvr) - A standardized reality for the future of the 3D Web.
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
-- [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
@@ -3984,6 +3998,7 @@
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [brazilian-utils/brazilian-utils](https://github.com/brazilian-utils/brazilian-utils) - Utils library for specific Brazilian businesses
 - [IBM/carbon-components-angular](https://github.com/IBM/carbon-components-angular) - An Angular implementation of the Carbon Design System for IBM.
+- [Pierstoval/alex-rock.tech](https://github.com/Pierstoval/alex-rock.tech) - 
 - [StartBootstrap/sb-clean-blog-angular](https://github.com/StartBootstrap/sb-clean-blog-angular) - Open sourced Bootstrap themed Angular 9 starter project.
 - [yeojz/otplib](https://github.com/yeojz/otplib) - :key: One Time Password (OTP) / 2FA for Node.js and Browser - Supports HOTP, TOTP and Google Authenticator
 - [CliffCrerar/ng-ionic-dynamic-form-demo](https://github.com/CliffCrerar/ng-ionic-dynamic-form-demo) - Dynamic form defined by data object called from a backend.

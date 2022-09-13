@@ -317,6 +317,7 @@
 - [HTMLElements/smart-webcomponents](https://github.com/HTMLElements/smart-webcomponents) - Web Components & Custom Elements for Professional Web Applications
 - [azouaoui-med/ostora-jsapi4](https://github.com/azouaoui-med/ostora-jsapi4) - Responsive template for building web mapping applications
 - [NiallEccles/Hacktoberfest-animations](https://github.com/NiallEccles/Hacktoberfest-animations) - Small animation selector for Hacktoberfest
+- [GameGodS3/DropPoint](https://github.com/GameGodS3/DropPoint) - Make drag-and-drop easier using DropPoint. Drag content without having to open side-by-side windows
 - [ykob/fullscreen-slider](https://github.com/ykob/fullscreen-slider) - This asset controls sections in a page.   It resizes sections to fullscreen resolution and moves these individually by wheel/touch events.
 - [alssndro/trianglify-background-generator](https://github.com/alssndro/trianglify-background-generator) - Generate backgrounds using the trianglify plugin
 - [shgysk8zer0/core-css](https://github.com/shgysk8zer0/core-css) - A collection of CSS styles, categoiezed by files, which are useful on common projects
@@ -557,6 +558,7 @@
 
 ## HTML 
 
+- [techwithtim/Flask-Web-App-Tutorial](https://github.com/techwithtim/Flask-Web-App-Tutorial) - Code for the note storing flask web app made during a YouTube video.
 - [syncfusion/blazor-showcase-appointment-planner](https://github.com/syncfusion/blazor-showcase-appointment-planner) - Demo appointment scheduling application for doctors in a clinic to manage their appointments with patients
 - [syncfusion/blazor-samples](https://github.com/syncfusion/blazor-samples) - Explore and learn Syncfusion Blazor components using large collection of demos, example applications and tutorial samples
 - [Mekylei-Belchior/lotofacil](https://github.com/Mekylei-Belchior/lotofacil) - Jogando na Lotofácil utilizando rede neural.
@@ -786,6 +788,7 @@
 
 ## Java 
 
+- [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
 - [chuross/asciiartview](https://github.com/chuross/asciiartview) - Drawing for AsciiArt
 - [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp) - ☕️🚀🚨 This repository consists of solutions for the Community Classroom complete DSA Java Bootcamp assignment problems.
 - [eugenp/tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
@@ -860,7 +863,7 @@
 - [netlify-templates/nextjs-blog-theme](https://github.com/netlify-templates/nextjs-blog-theme) - A customizable Next.js and Tailwind blog starter. Designed by the Bejamas agency.
 - [juliomrqz/nuxt-optimized-images](https://github.com/juliomrqz/nuxt-optimized-images) - 🌅🚀 Automatically optimizes images used in Nuxt.js projects (JPEG, PNG, SVG, WebP and GIF).
 - [arifszn/awesome-shortcuts](https://github.com/arifszn/awesome-shortcuts) - Navigate to your favorite actions on the websites you love with just one click.
-- [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create an automatic portfolio based on GitHub profile.
+- [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create a dynamic portfolio by just providing your GitHub username.
 - [roots/acorn](https://github.com/roots/acorn) - Laravel components for WordPress plugins and themes
 - [ncase/anxiety](https://github.com/ncase/anxiety) - 
 - [ncase/loopy](https://github.com/ncase/loopy) - A tool for thinking in systems
@@ -1466,7 +1469,6 @@
 - [girliemac/fb-apiai-bot-demo](https://github.com/girliemac/fb-apiai-bot-demo) - A simple example of Facebook Chat Bot using API.ai
 - [terreng/simple-web-server](https://github.com/terreng/simple-web-server) - Create a local web server in just a few clicks with an easy to use interface. A continuation of Web Server for Chrome, built with Electron.
 - [felixrieseberg/electron-windows-store](https://github.com/felixrieseberg/electron-windows-store) - :package: Turn Electron Apps into Windows AppX Packages
-- [GameGodS3/DropPoint](https://github.com/GameGodS3/DropPoint) - Make drag-and-drop easier using DropPoint. Drag content without having to open side-by-side windows
 - [mawie81/electron-window-state](https://github.com/mawie81/electron-window-state) - A library to store and restore window sizes and positions for your Electron app
 - [ykob/sketch-threejs](https://github.com/ykob/sketch-threejs) - Interactive sketches made with three.js.
 - [Kamona-WD/starter-dashboard-layout-vue](https://github.com/Kamona-WD/starter-dashboard-layout-vue) - Starter responsive dashboard layout using tailwindcss & vue 3 (vitejs)
@@ -2990,6 +2992,7 @@
 
 ## Python 
 
+- [apache/skywalking-python](https://github.com/apache/skywalking-python) - The Python agent for Apache SkyWalking
 - [TransposeData/transpose-python-sdk](https://github.com/TransposeData/transpose-python-sdk) - Python SDK wrapper for the Transpose API suite
 - [hardikvasa/webb](https://github.com/hardikvasa/webb) - Python: An all-in-one Web Crawler, Web Parser and Web Scrapping library!
 - [hardikvasa/database-journal](https://github.com/hardikvasa/database-journal) - Databases: Concepts, commands, codes, interview questions and more...
@@ -3123,6 +3126,7 @@
 - [Helsinki-NLP/Opus-MT](https://github.com/Helsinki-NLP/Opus-MT) - Open neural machine translation models and web services
 - [EnableSecurity/sipvicious](https://github.com/EnableSecurity/sipvicious) - SIPVicious OSS has been around since 2007 and is actively updated to help security teams, QA and developers test SIP-based VoIP systems and applications.
 - [turicas/brasil.io](https://github.com/turicas/brasil.io) - Backend do Brasil.IO (para código dos scripts de coleta de dados, veja o link na página de cada dataset)
+- [deepmipt/DeepPavlov](https://github.com/deepmipt/DeepPavlov) - An open source library for deep learning end-to-end dialog systems and chatbots.
 - [V-Sense/DeepNormals](https://github.com/V-Sense/DeepNormals) - Code and Dataset from Deep Normal Estimation for Automatic Shading of Hand-Drawn Characters
 - [nywang16/Pixel2Mesh](https://github.com/nywang16/Pixel2Mesh) - Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images. In ECCV2018.
 - [Netflix/flamescope](https://github.com/Netflix/flamescope) - FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.

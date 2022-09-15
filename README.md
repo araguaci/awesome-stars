@@ -103,7 +103,7 @@
 - [uber/h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system
 - [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.
 - [fulldecent/system-bus-radio](https://github.com/fulldecent/system-bus-radio) - Transmits AM radio on computers without radio transmitting hardware.
-- [tanersener/ffmpeg-kit](https://github.com/tanersener/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
+- [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
 - [phpredis/phpredis](https://github.com/phpredis/phpredis) - A PHP extension for Redis
 - [asterisk/asterisk](https://github.com/asterisk/asterisk) - Mirror of the official Asterisk (https://www.asterisk.org) Project repository. No pull requests here please.  Use Gerrit:
 - [signalwire/freeswitch](https://github.com/signalwire/freeswitch) - FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a 
@@ -461,6 +461,8 @@
 
 ## Go 
 
+- [TimothyYe/godns](https://github.com/TimothyYe/godns) - A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go.
+- [nextdns/nextdns](https://github.com/nextdns/nextdns) - NextDNS CLI client (DoH Proxy)
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
 - [pwnesia/dnstake](https://github.com/pwnesia/dnstake) - DNSTake — A fast tool to check missing hosted DNS zones that can lead to subdomain takeover
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
@@ -558,6 +560,7 @@
 
 ## HTML 
 
+- [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [techwithtim/Flask-Web-App-Tutorial](https://github.com/techwithtim/Flask-Web-App-Tutorial) - Code for the note storing flask web app made during a YouTube video.
 - [syncfusion/blazor-showcase-appointment-planner](https://github.com/syncfusion/blazor-showcase-appointment-planner) - Demo appointment scheduling application for doctors in a clinic to manage their appointments with patients
 - [syncfusion/blazor-samples](https://github.com/syncfusion/blazor-samples) - Explore and learn Syncfusion Blazor components using large collection of demos, example applications and tutorial samples
@@ -636,6 +639,7 @@
 - [jgraph/drawio-github](https://github.com/jgraph/drawio-github) - Drawio GitHub Integration
 - [vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
 - [vasturiano/globe.gl](https://github.com/vasturiano/globe.gl) - UI component for Globe Data Visualization using ThreeJS/WebGL
+- [Decathlon/vitamin-web](https://github.com/Decathlon/vitamin-web) - Decathlon Design System UI components for web applications
 - [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
 - [aliasaria/scrumblr](https://github.com/aliasaria/scrumblr) - Collaborative Online Scrum Tool Using Websockets, Node.js, jQuery, and CSS3
 - [smaranjitghose/awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites) - A community maintained open source project aimed at making a personal portfolio for researchers, developers, and analysts simple, fast, and less cumbersome. We make sure you have a full-fledged websit
@@ -788,6 +792,7 @@
 
 ## Java 
 
+- [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
 - [chuross/asciiartview](https://github.com/chuross/asciiartview) - Drawing for AsciiArt
 - [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp) - ☕️🚀🚨 This repository consists of solutions for the Community Classroom complete DSA Java Bootcamp assignment problems.
@@ -852,6 +857,8 @@
 
 ## JavaScript 
 
+- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
+- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 - [vdrmota/actor-twitter-scraper](https://github.com/vdrmota/actor-twitter-scraper) - 
 - [vdrmota/Social-Media-and-Contact-Info-Extractor](https://github.com/vdrmota/Social-Media-and-Contact-Info-Extractor) - Run this scraper for free: https://apify.com/vdrmota/contact-info-scraper
 - [lydiahallie/algo-data-structures](https://github.com/lydiahallie/algo-data-structures) - 🎉Common data structures and algorithms using JS.
@@ -1287,7 +1294,6 @@
 - [surmon-china/vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
 - [chinchang/cta.js](https://github.com/chinchang/cta.js) - Animate your 'action-to-effect' paths
 - [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
-- [Decathlon/vitamin-web](https://github.com/Decathlon/vitamin-web) - Decathlon Design System UI components for web applications
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 - [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - Customization-first, performance-oriented and elegant UI framework for eCommerce (and not only) based on Vue.js and Google Retail UX Playbook. Made with 💚 by Vue Storefront team and contributors.
@@ -1778,7 +1784,7 @@
 - [soulwire/WTFEngine](https://github.com/soulwire/WTFEngine) - An HTML / CSS / JavaScript template for creating WhatTheFuckIsMyMashup.com style web sites
 - [googlecreativelab/teachable-machine-v1](https://github.com/googlecreativelab/teachable-machine-v1) - Explore how machine learning works, live in the browser. No coding required.
 - [googlecreativelab/morse-learn](https://github.com/googlecreativelab/morse-learn) - A fun little web app to help you learn Morse code on Gboard.
-- [aframevr/aframe](https://github.com/aframevr/aframe) - :a: web framework for building virtual reality experiences.
+- [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
 - [googlecreativelab/coder](https://github.com/googlecreativelab/coder) - A simple way to make web stuff on Raspberry Pi
 - [soulwire/Recursion-Toy](https://github.com/soulwire/Recursion-Toy) - A tool for exploring and visualising recursion / branching systems, written in JavaScript
 - [sparanoid/lightense-images](https://github.com/sparanoid/lightense-images) - A dependency-free pure JavaScript image zooming library less than 2 KB (gzipped). Inspired by tholman/intense-images
@@ -2545,7 +2551,7 @@
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [pcqpcq/open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) - Open-Source Android Apps
 - [1hakr/open-source-android-apps](https://github.com/1hakr/open-source-android-apps) - Open-Source Android Apps
-- [kolomied/awesome-cdk](https://github.com/kolomied/awesome-cdk) - A collection of awesome things related to the AWS Cloud Development Kit (CDK)
+- [kalaiser/awesome-cdk](https://github.com/kalaiser/awesome-cdk) - A collection of awesome things related to the AWS Cloud Development Kit (CDK)
 - [Rocketseat/awesome](https://github.com/Rocketseat/awesome) - Uma lista dos materiais gratuitos diponibilizados pela Rocketseat, incluindo conteúdos do Blog, Youtube e Instagram.
 - [devspace/awesome-github-templates](https://github.com/devspace/awesome-github-templates) - :octocat: Curated list of GitHub Issues and Pull Requests templates
 - [coseyfannitutti/discipline](https://github.com/coseyfannitutti/discipline) - 65% keyboard assembled with only through hole components, including usb type-c
@@ -2601,6 +2607,11 @@
 
 ## PHP 
 
+- [osTicket/osTicket](https://github.com/osTicket/osTicket) - The osTicket open source ticketing system official project repository, for versions 1.8 and later
+- [Laravel-Lang/publisher](https://github.com/Laravel-Lang/publisher) - Publisher lang files for the Laravel Framework, Jetstream, Fortify, Cashier, Spark, Nova and UI from Laravel-Lang/lang.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 78 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
+- [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) - Open Source eCommerce Application on top of Symfony
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Platform on Symfony
 - [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
 - [glpi-project/glpi](https://github.com/glpi-project/glpi) - GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
 - [ivan-sincek/secure-website](https://github.com/ivan-sincek/secure-website) - Secure website with a registration, sign in, session management, and CRUD controls.
@@ -2936,7 +2947,7 @@
 - [RamonSilva20/mapos](https://github.com/RamonSilva20/mapos) - Sistema de Controle de Ordens de Serviço
 - [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. 
 - [sciactive/hookphp](https://github.com/sciactive/hookphp) - Method hooking in PHP.
-- [walkor/workerman](https://github.com/walkor/workerman) - An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. PHP&gt;=5.4.
+- [walkor/workerman](https://github.com/walkor/workerman) - An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. PHP&gt;=7.0.
 - [php-api-clients/supervisord](https://github.com/php-api-clients/supervisord) - Async first supervisord HTTP API Client for PHP 7
 - [reactphp/socket](https://github.com/reactphp/socket) - Async, streaming plaintext TCP/IP and secure TLS socket server and client connections for ReactPHP.
 - [danielstjules/Stringy](https://github.com/danielstjules/Stringy) - A PHP string manipulation library with multibyte support
@@ -3126,7 +3137,7 @@
 - [Helsinki-NLP/Opus-MT](https://github.com/Helsinki-NLP/Opus-MT) - Open neural machine translation models and web services
 - [EnableSecurity/sipvicious](https://github.com/EnableSecurity/sipvicious) - SIPVicious OSS has been around since 2007 and is actively updated to help security teams, QA and developers test SIP-based VoIP systems and applications.
 - [turicas/brasil.io](https://github.com/turicas/brasil.io) - Backend do Brasil.IO (para código dos scripts de coleta de dados, veja o link na página de cada dataset)
-- [deepmipt/DeepPavlov](https://github.com/deepmipt/DeepPavlov) - An open source library for deep learning end-to-end dialog systems and chatbots.
+- [deeppavlov/DeepPavlov](https://github.com/deeppavlov/DeepPavlov) - An open source library for deep learning end-to-end dialog systems and chatbots.
 - [V-Sense/DeepNormals](https://github.com/V-Sense/DeepNormals) - Code and Dataset from Deep Normal Estimation for Automatic Shading of Hand-Drawn Characters
 - [nywang16/Pixel2Mesh](https://github.com/nywang16/Pixel2Mesh) - Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images. In ECCV2018.
 - [Netflix/flamescope](https://github.com/Netflix/flamescope) - FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.
@@ -3399,6 +3410,7 @@
 
 ## TypeScript 
 
+- [supertokens/supertokens-auth-react](https://github.com/supertokens/supertokens-auth-react) - ReactJS authentication module for SuperTokens
 - [lydiahallie/javascript-react-patterns](https://github.com/lydiahallie/javascript-react-patterns) - Repo related to the FrontendMasters course on JavaScript and React patterns
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site

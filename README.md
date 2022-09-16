@@ -103,7 +103,7 @@
 - [uber/h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system
 - [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.
 - [fulldecent/system-bus-radio](https://github.com/fulldecent/system-bus-radio) - Transmits AM radio on computers without radio transmitting hardware.
-- [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
+- [tanersener/ffmpeg-kit](https://github.com/tanersener/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
 - [phpredis/phpredis](https://github.com/phpredis/phpredis) - A PHP extension for Redis
 - [asterisk/asterisk](https://github.com/asterisk/asterisk) - Mirror of the official Asterisk (https://www.asterisk.org) Project repository. No pull requests here please.  Use Gerrit:
 - [signalwire/freeswitch](https://github.com/signalwire/freeswitch) - FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a 
@@ -594,7 +594,6 @@
 - [davidstutz/bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect) - JQuery multiselect plugin based on Twitter Bootstrap.
 - [chrisguest75/docker_examples](https://github.com/chrisguest75/docker_examples) - Tests, tricks, tips and examples of Docker builds.
 - [willianjusten/will-jekyll-template](https://github.com/willianjusten/will-jekyll-template) - A simple Jekyll theme.
-- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
 - [codingforentrepreneurs/30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - Learn Python for the next 30 (or so) Days.
 - [StartPolymer/progressive-web-app-template](https://github.com/StartPolymer/progressive-web-app-template) - Starting point for building Progressive Web Apps PWA based on Polymer with motto #UseThePlatform.
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -1028,6 +1027,7 @@
 - [benji6/andromeda](https://github.com/benji6/andromeda) - :musical_keyboard: Make Music In Your Browser!
 - [techlab/jquery-smartwizard](https://github.com/techlab/jquery-smartwizard) - The awesome jQuery step wizard plugin
 - [akitaonrails/akitando_episode_0118](https://github.com/akitaonrails/akitando_episode_0118) - examples to illustrate my YouTube channel's episode 118 about Databases
+- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS node.
 - [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
@@ -2019,7 +2019,7 @@
 - [tbreuss/eventbus](https://github.com/tbreuss/eventbus) - :bus: Dead simple ES6-ready JavaScript EventBus
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [maateusilva/picpay-clone](https://github.com/maateusilva/picpay-clone) - 
-- [guilhermerodz/gostack-7-gobarber-web](https://github.com/guilhermerodz/gostack-7-gobarber-web) - Front-end of the main App developed at the RocketSeat GoStack Bootcamp.
+- [guilhermerodz/rocketseat-bootcamp-7-gobarber-web](https://github.com/guilhermerodz/rocketseat-bootcamp-7-gobarber-web) - Front-end of the main App developed at the RocketSeat GoStack Bootcamp.
 - [guilhermerodz/guilhermerodz.me](https://github.com/guilhermerodz/guilhermerodz.me) - My personal blog and website.
 - [tomastrajan/angular-js-es6-testing-example](https://github.com/tomastrajan/angular-js-es6-testing-example) - Enhanced testing of Angular JS 1.X applications using ES6 modules
 - [junedomingo/movieapp](https://github.com/junedomingo/movieapp) - Discover Movies and TV shows -  React Native
@@ -2124,7 +2124,7 @@
 - [LeanKit-Labs/lux.js](https://github.com/LeanKit-Labs/lux.js) - Flux-based architecture for using ReactJS at LeanKit
 - [explooosion/browndust-share](https://github.com/explooosion/browndust-share) - This website is for browndust formation sharing
 - [tediousjs/node-mssql](https://github.com/tediousjs/node-mssql) - Microsoft SQL Server client for Node.js
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake & DB2
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake, Oracle DB & Db2 IBM i
 - [EmailThis/extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) - ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -2491,7 +2491,7 @@
 - [OtacilioN/awesome-conteudo-brasil](https://github.com/OtacilioN/awesome-conteudo-brasil) - Uma lista de conteúdos incríveis de tecnologia feito por pessoas brasileiras em PT-BR
 - [OtacilioN/OtacilioN](https://github.com/OtacilioN/OtacilioN) - 
 - [OtacilioN/awesome-hacktoberfest-plant-a-tree](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree) - Will you choose the :sparkles: Hacktoberfest t-shirt :sparkles: but don't want to stop contributing to the environment and a sustainable future? Find an organization here so you can plant a tree! :see
-- [OtacilioN/awesome-hacktoberfest-2021](https://github.com/OtacilioN/awesome-hacktoberfest-2021) - A curated list of awesome Hacktoberfest 2021 repositories, guides and resources
+- [OtacilioN/awesome-hacktoberfest-2022](https://github.com/OtacilioN/awesome-hacktoberfest-2022) - A curated list of awesome Hacktoberfest 2021 repositories, guides and resources
 - [jesherdevsk8/comandos-git](https://github.com/jesherdevsk8/comandos-git) - Anotações de comandos Git
 - [dgtlmoon/awesome-website-change-monitoring](https://github.com/dgtlmoon/awesome-website-change-monitoring) - A curated list of awesome tools for website diffing and change monitoring.
 - [react-brasil/empresas-que-usam-react-no-brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil) - Repositório que mostra empresas e projetos que utilizam React no Brasil
@@ -2570,7 +2570,6 @@
 - [gabiduarte/awesome-techleads](https://github.com/gabiduarte/awesome-techleads) - Uma lista selecionada de conteúdos sobre liderança técnica, com preferência em conteúdos em português
 - [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox
 - [zenorocha/alfred-workflows](https://github.com/zenorocha/alfred-workflows) - :metal: A collection of Alfred 3 and 4 workflows that will rock your world
-- [guilhermerodz/aws-serverless-study](https://github.com/guilhermerodz/aws-serverless-study) - 
 - [guilhermerodz/linux-fu](https://github.com/guilhermerodz/linux-fu) - My personal studies related to Linux Operating System
 - [guilhermerodz/guilhermerodz](https://github.com/guilhermerodz/guilhermerodz) - 
 - [websemantics/awesome-ant-design](https://github.com/websemantics/awesome-ant-design) - A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to
@@ -3035,7 +3034,6 @@
 - [PenseAllen/PensePython2e](https://github.com/PenseAllen/PensePython2e) - Tradução do livro Pense em Python (2ª ed.), de Allen B. Downey
 - [ChrisKnott/Eel](https://github.com/ChrisKnott/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
 - [shrutikapoor08/devjoke](https://github.com/shrutikapoor08/devjoke) - #DevJoke. Submit a PR if you know a good dev joke.
-- [ruppysuppy/Daily-Coding-Problem-Solutions](https://github.com/ruppysuppy/Daily-Coding-Problem-Solutions) - 🎓🖥️ Solutions for 350+ Interview Questions asked at FAANG and other top tech companies
 - [pyscaffold/pyscaffold](https://github.com/pyscaffold/pyscaffold) - 🛠 Python project template generator with batteries included
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [ThatOneCalculator/Among-Us-Dumpy-Gif-Maker](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker) - A tool to make dumpy among us GIFS
@@ -3289,6 +3287,8 @@
 
 ## Shell 
 
+- [lukevers/mp4towebm](https://github.com/lukevers/mp4towebm) - Convert all mp4 files in current directory from mp4 to webm
+- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox Helper Scripts
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [serverok/server-setup](https://github.com/serverok/server-setup) - Scripts for Debian/Ubuntu/CentOS server setup.
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
@@ -4029,7 +4029,7 @@
 - [donmccasland/nodejs-docker](https://github.com/donmccasland/nodejs-docker) - The Node.js Docker image used by Google App Engine Flexible.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [peppapighs/dashboard-oi](https://github.com/peppapighs/dashboard-oi) - 
-- [guilhermerodz/next-chakra-skylab-homepage](https://github.com/guilhermerodz/next-chakra-skylab-homepage) - Rocketseat Skylab Homepage UI clone made with Next.js and Chakra UI
+- [guilhermerodz/rocketseat-nextjs-skylab](https://github.com/guilhermerodz/rocketseat-nextjs-skylab) - Rocketseat Skylab Homepage UI clone made with Next.js and Chakra UI
 - [angular-extensions/model](https://github.com/angular-extensions/model) - Angular Model - Simple state management with minimalist API, one way data flow, multiple model support and immutable data exposed as RxJS Observable.
 - [bithost-gmbh/ngx-mat-select-search](https://github.com/bithost-gmbh/ngx-mat-select-search) - Angular component providing an input field for searching / filtering MatSelect options of the Angular Material library.
 - [angular-extensions/elements](https://github.com/angular-extensions/elements) - Lazy load Angular Elements (or any other web components / custom elements ) with ease!

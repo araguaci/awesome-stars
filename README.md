@@ -857,6 +857,11 @@
 
 ## JavaScript 
 
+- [PaulieScanlon/gatsby-theme-terminal](https://github.com/PaulieScanlon/gatsby-theme-terminal) - A zero component Gatsby theme for developers 🔋
+- [LekoArts/gatsby-starter-portfolio-cara](https://github.com/LekoArts/gatsby-starter-portfolio-cara) - Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Especially designers and/or photographers will love this theme! Built with MDX and Theme UI.
+- [LekoArts/gatsby-status-dashboard](https://github.com/LekoArts/gatsby-status-dashboard) - Show the live statuses of your Netlify and CircleCI builds on your website! Easily integrate the customizable components into your site and adapt them to your theme (utilizing Theme UI).
+- [tyrasd/overpass-turbo](https://github.com/tyrasd/overpass-turbo) - A web based data mining tool for OpenStreetMap using the Overpass API.
+- [shopyo/shopcube](https://github.com/shopyo/shopcube) - Open Ecommerce solution for Shops. Complete with cart and wishlist. Powered by Shopyo, a Python web framework built on top of Flask
 - [mattdesl/canvas-sketch](https://github.com/mattdesl/canvas-sketch) - [beta] A framework for making generative artwork in JavaScript and the browser.
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
@@ -1689,7 +1694,7 @@
 - [voximplant/react-native-demo](https://github.com/voximplant/react-native-demo) - React Native Voximplant Demo
 - [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys) - Lightweight full-featured WhatsApp Web + Multi-Device API
 - [parse-community/parse-server-example](https://github.com/parse-community/parse-server-example) - Example server using Express and the parse-server module.
-- [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
+- [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node/Express
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [MEGAMINDMK/Php-Electronjs](https://github.com/MEGAMINDMK/Php-Electronjs) - A working php server with electronjs fully customizable & easy to use
@@ -3049,7 +3054,6 @@
 - [dogsheep/github-to-sqlite](https://github.com/dogsheep/github-to-sqlite) - Save data from GitHub to a SQLite database
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [app-generator/django-soft-ui-dashboard](https://github.com/app-generator/django-soft-ui-dashboard) - Soft UI Dashboard - Open-source Django Dashboard | AppSeed
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
@@ -3233,6 +3237,7 @@
 
 ## SCSS 
 
+- [app-generator/flask-soft-ui-dashboard](https://github.com/app-generator/flask-soft-ui-dashboard) - Soft UI Dashboard - Open-source Flask Dashboard | AppSeed
 - [Phlow/simplicity](https://github.com/Phlow/simplicity) - A free, flexible, superfast and easily customizable Jekyll Theme with no Javascript but beautiful typography.
 - [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 - [section-engineering-education/engineering-education](https://github.com/section-engineering-education/engineering-education) - “Section's Engineering Education (EngEd) Program is dedicated to offering a unique quality community experience for computer science university students."
@@ -3241,6 +3246,7 @@
 - [jh3y/whirl](https://github.com/jh3y/whirl) - CSS loading animations with minimal effort!
 - [mbarker84/eleventy-parcel](https://github.com/mbarker84/eleventy-parcel) - 
 - [mbarker84/css-irl-eleventy](https://github.com/mbarker84/css-irl-eleventy) - 
+- [app-generator/django-soft-ui-dashboard](https://github.com/app-generator/django-soft-ui-dashboard) - Soft UI Dashboard - Open-source Django Dashboard | AppSeed
 - [app-generator/boilerplate-code-django-dashboard](https://github.com/app-generator/boilerplate-code-django-dashboard) - Boilerplate Code - Django Dashboard | AppSeed
 - [twitter/opensource-website](https://github.com/twitter/opensource-website) - Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
 - [simeydotme/jQuery-ui-Slider-Pips](https://github.com/simeydotme/jQuery-ui-Slider-Pips) - Plugin for adding little 'pips' , 'floats' and labels to a slider.
@@ -3467,7 +3473,7 @@
 - [DoableDanny/NextJS-HarperDB-Task-Timer](https://github.com/DoableDanny/NextJS-HarperDB-Task-Timer) - Fullstack productivity timer app built with NextJS and HarperDB
 - [sunface/datav](https://github.com/sunface/datav) - 📊https://datav.io is a modern APM, provide observability for your business, application and infrastructure. It's also a lightweight alternative to Grafana.
 - [apihero-run/jsonhero-web](https://github.com/apihero-run/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
-- [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .   备用地址: https://rsuite.vercel.app/
+- [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [danileao/permissions_users](https://github.com/danileao/permissions_users) - 
 - [lklima/rive-animated-app](https://github.com/lklima/rive-animated-app) - 
 - [sveltejs/sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
@@ -3655,7 +3661,7 @@
 - [elegantapp/pwa-workshop-angular-firebase](https://github.com/elegantapp/pwa-workshop-angular-firebase) - Build a production ready PWA with Angular and Firebase! This workshop consists of multiple steps for producing a PWA by transforming a regular web app - Ionic Conference App into a PWA, finally deploy
 - [elegantapp/pwa-asset-generator](https://github.com/elegantapp/pwa-asset-generator) - Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated i
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
-- [vant-ui/vant](https://github.com/vant-ui/vant) - Lightweight Mobile UI Components built on Vue
+- [youzan/vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
 - [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
 - [Dhaiwat10/react-link-preview](https://github.com/Dhaiwat10/react-link-preview) - A React library that generates beautiful previews for your links.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers

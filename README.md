@@ -43,6 +43,7 @@
 - [PHP](#php)
 - [PLSQL](#plsql)
 - [Pascal](#pascal)
+- [Perl](#perl)
 - [PostScript](#postscript)
 - [PowerShell](#powershell)
 - [Pug](#pug)
@@ -90,6 +91,7 @@
 
 ## C 
 
+- [greensoftwarelab/Energy-Languages](https://github.com/greensoftwarelab/Energy-Languages) - The complete set of tools for energy consumption analysis of programming languages, using Computer Language Benchmark Game
 - [lurcher/unixODBC](https://github.com/lurcher/unixODBC) - The unixODBC Project goals are to develop and promote unixODBC to be the definitive standard for ODBC on non MS Windows platforms.
 - [sqlite/sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree
 - [nadirhamid/asterisk-audiofork](https://github.com/nadirhamid/asterisk-audiofork) - Forks a raw audio stream to a WS server
@@ -461,6 +463,8 @@
 
 ## Go 
 
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
+- [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [TimothyYe/godns](https://github.com/TimothyYe/godns) - A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go.
 - [nextdns/nextdns](https://github.com/nextdns/nextdns) - NextDNS CLI client (DoH Proxy)
@@ -561,6 +565,7 @@
 
 ## HTML 
 
+- [jlord/git-it](https://github.com/jlord/git-it) - :computer: :mortar_board: Learn Git and GitHub. Try the new desktop version →
 - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [techwithtim/Flask-Web-App-Tutorial](https://github.com/techwithtim/Flask-Web-App-Tutorial) - Code for the note storing flask web app made during a YouTube video.
 - [syncfusion/blazor-showcase-appointment-planner](https://github.com/syncfusion/blazor-showcase-appointment-planner) - Demo appointment scheduling application for doctors in a clinic to manage their appointments with patients
@@ -679,7 +684,6 @@
 - [Kamona-WD/starter-dashboard-layout](https://github.com/Kamona-WD/starter-dashboard-layout) - Responsive dashboard layout
 - [Kamona-WD/kwd-dashboard](https://github.com/Kamona-WD/kwd-dashboard) - Fully responsive dashboard template built with tailwindcss & alpinejs
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
-- [shgysk8zer0/static-template](https://github.com/shgysk8zer0/static-template) - A template repository for static sites, including skeleton JS, CSS, SVGs, fonts, etc.
 - [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [FlorianFe/Elements](https://github.com/FlorianFe/Elements) - ⚛⚗ A desktop App which displays the periodic table
 - [ionic-team/ionic-preview-app](https://github.com/ionic-team/ionic-preview-app) - The Ionic Component Demos
@@ -857,6 +861,12 @@
 
 ## JavaScript 
 
+- [SteamDatabase/SteamTracking](https://github.com/SteamDatabase/SteamTracking) - 🕵 Tracking things, so you don't have to
+- [StartBootstrap/startbootstrap-stylish-portfolio](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio) - A stylish, one page, Bootstrap portfolio theme created by Start Bootstrap
+- [jlord/sheetdown](https://github.com/jlord/sheetdown) - :page_with_curl: :arrow_down: Convert a Google Spreadsheet into a Table in Markdown
+- [jlord/sheetsee-tables](https://github.com/jlord/sheetsee-tables) - Module for creating tables with sheetsee.js
+- [jlord/sheetsee.js](https://github.com/jlord/sheetsee.js) - :eyes: :chart_with_upwards_trend: Visualize Data from a Google Spreadsheet
+- [jlord/sheetsee-calendar](https://github.com/jlord/sheetsee-calendar) - Website with calendar of events from a Google Spreadsheet
 - [PaulieScanlon/gatsby-theme-terminal](https://github.com/PaulieScanlon/gatsby-theme-terminal) - A zero component Gatsby theme for developers 🔋
 - [LekoArts/gatsby-starter-portfolio-cara](https://github.com/LekoArts/gatsby-starter-portfolio-cara) - Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Especially designers and/or photographers will love this theme! Built with MDX and Theme UI.
 - [LekoArts/gatsby-status-dashboard](https://github.com/LekoArts/gatsby-status-dashboard) - Show the live statuses of your Netlify and CircleCI builds on your website! Easily integrate the customizable components into your site and adapt them to your theme (utilizing Theme UI).
@@ -1880,6 +1890,7 @@
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [edankwan/quick-loader](https://github.com/edankwan/quick-loader) - quick-loader is an asset loader that loads everything
+- [aws-amplify/learn](https://github.com/aws-amplify/learn) - AWS Amplify Learn
 - [loiane/ext4-crud-mvc](https://github.com/loiane/ext4-crud-mvc) - BrazilJS Sample Project - Ext JS 4 CRUD MVC Example
 - [kartik-v/bootstrap-fileinput](https://github.com/kartik-v/bootstrap-fileinput) - An enhanced HTML 5 file input for Bootstrap 5.x/4.x./3.x with file preview, multiple selection, and more features.
 - [owncloud/web](https://github.com/owncloud/web) - :dragon_face: Next generation frontend for ownCloud 10 and Infinite Scale
@@ -1934,7 +1945,6 @@
 - [nodegui/react-nodegui-starter](https://github.com/nodegui/react-nodegui-starter) - Starter repository for react based native desktop apps using react-nodegui
 - [mdn/dom-examples](https://github.com/mdn/dom-examples) - Code examples that accompany various MDN DOM and Web API documentation pages
 - [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net) - This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source p
 - [leecade/react-native-unlock](https://github.com/leecade/react-native-unlock) - 
 - [OmarElgabry/chat.io](https://github.com/OmarElgabry/chat.io) - A Real Time Chat Application built using Node.js, Express, Mongoose, Socket.io, Passport, & Redis.
@@ -2000,7 +2010,7 @@
 - [BrasilAPI/cep-promise](https://github.com/BrasilAPI/cep-promise) - Busca por CEP integrado diretamente aos serviços dos Correios, ViaCEP e outros (Node.js e Browser)
 - [LeonardoCesca/js-docs](https://github.com/LeonardoCesca/js-docs) - Este projeto foi desenvolvido para contribuir com o open-source. Se você quiser contribuir basta seguir o README
 - [anabastos/kart-challenge](https://github.com/anabastos/kart-challenge) - 🏁 kart-challenge
-- [anabastos/node101](https://github.com/anabastos/node101) - Repo para aprender NodeJS!
+- [anabastos/node4noobs](https://github.com/anabastos/node4noobs) - Repo para aprender NodeJS!
 - [felipefialho/felipefialho.com](https://github.com/felipefialho/felipefialho.com) - 😺 My personal website
 - [orbit-love/orbit-browser-extension](https://github.com/orbit-love/orbit-browser-extension) - Orbit Chrome extension — Add useful developer information right into GitHub issues and PRs.
 - [orbit-love/orbit-model](https://github.com/orbit-love/orbit-model) - A framework for building high gravity communities 🪐
@@ -2307,6 +2317,9 @@
 
 ## Jupyter Notebook 
 
+- [multimodalart/majesty-diffusion](https://github.com/multimodalart/majesty-diffusion) - Majesty Diffusion by @Dango233(@Dango233max) and @apolinario (@multimodalart)
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of CompVis/stable-diffusion features an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, a WebGUI, and multiple features 
+- [rafaballerini/AnaliseDaPlaylistDeRock](https://github.com/rafaballerini/AnaliseDaPlaylistDeRock) - Uma associação de como o rock foi se modificando desde a década de 50 até os dias de hoje e como isso pode ser observado na prática nas músicas presentes na minha playlist de rock do Spotify, chamada 
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [materialsvirtuallab/matgenb](https://github.com/materialsvirtuallab/matgenb) - Jupyter notebooks demonstrating the utilization of open-source codes for the study of materials science.
 - [okfn-brasil/perfil-politico](https://github.com/okfn-brasil/perfil-politico) - A platform for profiling public figures in Brazilian politics
@@ -2375,6 +2388,7 @@
 
 ## Others 
 
+- [zero-to-mastery/complete-web-developer-manual](https://github.com/zero-to-mastery/complete-web-developer-manual) - All resources and notes from the Complete Web Developer in 2022: Zero to Mastery course
 - [araguaci/Christo-nihil-praeponere](https://github.com/araguaci/Christo-nihil-praeponere) - Christo nihil praeponere - a nada dar mais valor que a Cristo
 - [araguaci/You-Dont-Know-JS](https://github.com/araguaci/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [aneagoie/ztm-python-cheat-sheet](https://github.com/aneagoie/ztm-python-cheat-sheet) - 
@@ -2448,7 +2462,7 @@
 - [metaplex-foundation/metaplex](https://github.com/metaplex-foundation/metaplex) - A directory of what the Metaplex Foundation works on!
 - [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 - [danopstech/starlink](https://github.com/danopstech/starlink) - 📈 Starlink Monitoring System. Measuring the performance of your Starlink internet connection
-- [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺  A place to discover the latest machine learning courses on YouTube.
+- [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺 Discover the latest machine learning / AI courses on YouTube.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [chentsulin/awesome-react-renderer](https://github.com/chentsulin/awesome-react-renderer) - Awesome list of React Renderer
 - [ribafs/all-awesomes](https://github.com/ribafs/all-awesomes) - Todas as listas awesomes que encontrei mais outros similares Links de projetos, ideias sobre projetos, livros de programação grátis, linguagens de programação, PHP, Laravel, etc
@@ -2614,6 +2628,7 @@
 
 ## PHP 
 
+- [ribafs/apostilas](https://github.com/ribafs/apostilas) - Aqui são distribuídas apostilas sobre alguns assuntos como PHP, PDO, MySQL, PHPOO, MVC, etc
 - [osTicket/osTicket](https://github.com/osTicket/osTicket) - The osTicket open source ticketing system official project repository, for versions 1.8 and later
 - [Laravel-Lang/publisher](https://github.com/Laravel-Lang/publisher) - Publisher lang files for the Laravel Framework, Jetstream, Fortify, Cashier, Spark, Nova and UI from Laravel-Lang/lang.
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 78 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
@@ -2973,6 +2988,10 @@
 
 - [HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL and SQLite, written in Delphi
 
+## Perl 
+
+- [jlord/git-it-electron](https://github.com/jlord/git-it-electron) - :computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub
+
 ## PostScript 
 
 - [neilorangepeel/Free-Social-Icons](https://github.com/neilorangepeel/Free-Social-Icons) - Vector based social icons made with Sketch App for mac
@@ -3010,6 +3029,8 @@
 
 ## Python 
 
+- [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
+- [zero-to-mastery/ascii-art-2021](https://github.com/zero-to-mastery/ascii-art-2021) - A ZTM Challenge for Hacktoberfest 2021, converting images into text using the 95 printable characters defined by the ASCII Standard
 - [apache/skywalking-python](https://github.com/apache/skywalking-python) - The Python agent for Apache SkyWalking
 - [TransposeData/transpose-python-sdk](https://github.com/TransposeData/transpose-python-sdk) - Python SDK wrapper for the Transpose API suite
 - [hardikvasa/webb](https://github.com/hardikvasa/webb) - Python: An all-in-one Web Crawler, Web Parser and Web Scrapping library!
@@ -3219,6 +3240,9 @@
 
 ## Rust 
 
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
+- [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
+- [rust-github/template](https://github.com/rust-github/template) - Template for a generic rust project hosted on GitHub
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
@@ -3361,7 +3385,6 @@
 - [symblai/getting-started-samples](https://github.com/symblai/getting-started-samples) - Code samples to Get started quickly with Symbl's Voice SDK and APIs: Node.js, JavaScript, WebSockets, & PSTN.
 - [ekondayan/docker-3cx](https://github.com/ekondayan/docker-3cx) - Running 3CX under docker. 3CX is a PBX with video conferencing and live chat functions.
 - [havfo/WEBRTC-to-SIP](https://github.com/havfo/WEBRTC-to-SIP) - Setup for a WEBRTC client and Kamailio server to call SIP clients
-- [aws-amplify/learn](https://github.com/aws-amplify/learn) - AWS Amplify Learn
 - [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [monicahq/docker](https://github.com/monicahq/docker) - docker image of Monica
@@ -3392,7 +3415,7 @@
 
 - [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
 - [itswadesh/svelte-commerce](https://github.com/itswadesh/svelte-commerce) - Svelte ecommerce - Headless, Authentication, Cart & Checkout, TailwindCSS, Server Rendered, Proxy + API Integrated, Animations, Stores, Lazy Loading, Loading Indicators, Carousel, Instant Search, Face
-- [Brain-Bones/skeleton](https://github.com/Brain-Bones/skeleton) - A fully featured Svelte component library. Skeleton allows you to build fast and reactive web UI using Svelte + Tailwind.
+- [Brain-Bones/skeleton](https://github.com/Brain-Bones/skeleton) - A fully featured UI toolkit for Svelte + Tailwind.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams
 - [sveltejs/realworld](https://github.com/sveltejs/realworld) - SvelteKit implementation of the RealWorld app
@@ -3419,6 +3442,7 @@
 
 ## TypeScript 
 
+- [ipenywis/react-nestjs-full-web-app](https://github.com/ipenywis/react-nestjs-full-web-app) - Full React with Nestjs/Nodejs Web Application deployed on Hostinger with docker and docker-compose
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [supertokens/supertokens-auth-react](https://github.com/supertokens/supertokens-auth-react) - ReactJS authentication module for SuperTokens
 - [lydiahallie/javascript-react-patterns](https://github.com/lydiahallie/javascript-react-patterns) - Repo related to the FrontendMasters course on JavaScript and React patterns
@@ -3563,7 +3587,7 @@
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [XRFoundation/XREngine](https://github.com/XRFoundation/XREngine) - Ethereal Engine - Bringing us together on the open social spatial web. 🤖 🚀 👓 🕹️ 🧑🏿‍🚀
-- [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app) - 💅 A ready-to-go with a well-thought-out structure Electron app boilerplate with ReactJS, TypeScript, CSS / SASS modules, SWC, Eslint, Prettier, GitHub Action releases and more.
+- [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app) - 💅 A fast and ready-to-go with a well-thought-out structure Electron app boilerplate with ReactJS, TypeScript, CSS / SASS modules, Electron Vite, Eslint, Prettier, GitHub Action releases and more.
 - [zowe/vscode-extension-for-zowe](https://github.com/zowe/vscode-extension-for-zowe) - Visual Studio Code Plug-in for Zowe, which lets users interact with z/OS data sets on a remote mainframe instance. Powered by Zowe CLI.
 - [ngx-rocket/generator-ngx-rocket](https://github.com/ngx-rocket/generator-ngx-rocket) - :rocket: Extensible Angular 14+ enterprise-grade project generator
 - [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk) - Matrix SDK for React Javascript
@@ -3976,6 +4000,7 @@
 - [trungk18/jira-clone-angular](https://github.com/trungk18/jira-clone-angular) - A simplified Jira clone built with Angular, ng-zorro and Akita
 - [wKoza/ngx-upload](https://github.com/wKoza/ngx-upload) - Ngx-upload is an upload module for Angular Ivy ready
 - [nodegui/nodegui-starter](https://github.com/nodegui/nodegui-starter) - A starter repo for NodeGui projects
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode
 - [PatrickJS/angular-hmr](https://github.com/PatrickJS/angular-hmr) - :fire: Angular Hot Module Replacement for Hot Module Reloading
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
@@ -4126,7 +4151,7 @@
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [rocketseat-content/youtube-clone-twitter](https://github.com/rocketseat-content/youtube-clone-twitter) - Responsive Twitter UI clone for study purposes.
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Community effort to create roadmaps, guides and other educational content to help the developers get an idea about the software development landscape, learn and grow in their career.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [johnpapa/angular-preload-and-interceptors](https://github.com/johnpapa/angular-preload-and-interceptors) - 
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A headless CMS for Markdown

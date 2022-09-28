@@ -201,6 +201,7 @@
 
 ## C++ 
 
+- [openswoole/swoole-src](https://github.com/openswoole/swoole-src) - Programmatic server for PHP with async IO, coroutines and fibers
 - [litespeedtech/openlitespeed](https://github.com/litespeedtech/openlitespeed) - Our high-performance, lightweight, open source HTTP server
 - [BelledonneCommunications/liblinphone](https://github.com/BelledonneCommunications/liblinphone) - Linphone.org mirror for liblinphone (git://git.linphone.org/liblinphone.git)
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
@@ -493,7 +494,7 @@
 - [pojntfx/weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
 - [achhabra2/riftshare](https://github.com/achhabra2/riftshare) - Easy, Secure, Free file sharing
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
@@ -568,6 +569,7 @@
 
 ## HTML 
 
+- [roberto-butti/50-drops-of-php](https://github.com/roberto-butti/50-drops-of-php) - Open source and free e-book, that collects some useful, unknown, underrated PHP functions or stuff discovered, used, learned during the PHP daily use.
 - [jlord/git-it](https://github.com/jlord/git-it) - :computer: :mortar_board: Learn Git and GitHub. Try the new desktop version →
 - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [techwithtim/Flask-Web-App-Tutorial](https://github.com/techwithtim/Flask-Web-App-Tutorial) - Code for the note storing flask web app made during a YouTube video.
@@ -806,7 +808,7 @@
 - [eugenp/tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
 - [dbpedia/chatbot](https://github.com/dbpedia/chatbot) - DBpedia Chatbot
 - [joindesk/Joindesk](https://github.com/joindesk/Joindesk) - Open source Project Management application.
-- [learning-zone/java-interview-questions](https://github.com/learning-zone/java-interview-questions) - Java Interview Questions
+- [learning-zone/java-interview-questions](https://github.com/learning-zone/java-interview-questions) - Java Interview Questions ( v8 )
 - [spring-io/start.spring.io](https://github.com/spring-io/start.spring.io) - https://start.spring.io
 - [flutter-webrtc/flutter-webrtc](https://github.com/flutter-webrtc/flutter-webrtc) - WebRTC plugin for Flutter Mobile/Desktop/Web
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
@@ -2113,7 +2115,7 @@
 - [lukejacksonn/perflink](https://github.com/lukejacksonn/perflink) - Low friction JavaScript benchmarks that you can share via URL
 - [lukejacksonn/react-slack-clone](https://github.com/lukejacksonn/react-slack-clone) - Complete chat application, built with Chatkit | by @lukejacksonn
 - [erikras/react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
-- [parse-community/parse-dashboard](https://github.com/parse-community/parse-dashboard) - A dashboard for managing your Parse Server Apps
+- [parse-community/parse-dashboard](https://github.com/parse-community/parse-dashboard) - A dashboard for managing Parse Server
 - [dipakkr/node-auth](https://github.com/dipakkr/node-auth) - Implementing Authentication in NodeJS With Express and JWT - CodeLab #1
 - [parse-community/Parse-SDK-JS](https://github.com/parse-community/Parse-SDK-JS) - The JavaScript SDK for Parse Platform
 - [evgomes/notes-redux](https://github.com/evgomes/notes-redux) - Sample React + Redux application.
@@ -2635,6 +2637,9 @@
 
 ## PHP 
 
+- [Codepoints/Codepoints.net](https://github.com/Codepoints/Codepoints.net) - A visual guide to the wonders of Unicode
+- [oscarotero/imagecow](https://github.com/oscarotero/imagecow) - PHP library to manipulate and generate responsive images
+- [roberto-butti/websocket-php](https://github.com/roberto-butti/websocket-php) - Example for WebSocket with PHP
 - [leokhoa/laragon](https://github.com/leokhoa/laragon) - Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python, Java, Go, Ruby. It is fast, lightweight, easy-to-use and easy-to-extend.
 - [googleworkspace/php-samples](https://github.com/googleworkspace/php-samples) - PHP samples for Google Workspace APIs
 - [ribafs/apostilas](https://github.com/ribafs/apostilas) - Aqui são distribuídas apostilas sobre alguns assuntos como PHP, PDO, MySQL, PHPOO, MVC, etc
@@ -3334,6 +3339,7 @@
 
 ## Shell 
 
+- [zero-to-mastery/resources](https://github.com/zero-to-mastery/resources) - Here is a list of best resources to get you started with learning how to code (mostly related to Web Development). Feel free to add your favorite  resources as well and help others in their journey of
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [centminmod/centminmod](https://github.com/centminmod/centminmod) - CentOS Shell menu based Nginx LEMP web stack auto installer (GPLv3 licensed)
 - [lukevers/mp4towebm](https://github.com/lukevers/mp4towebm) - Convert all mp4 files in current directory from mp4 to webm
@@ -4169,7 +4175,7 @@
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [rocketseat-content/youtube-clone-twitter](https://github.com/rocketseat-content/youtube-clone-twitter) - Responsive Twitter UI clone for study purposes.
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Community effort to create roadmaps, guides and other educational content to help the developers get an idea about the software development landscape, learn and grow in their career.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [johnpapa/angular-preload-and-interceptors](https://github.com/johnpapa/angular-preload-and-interceptors) - 
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A headless CMS for Markdown

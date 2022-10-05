@@ -7,6 +7,7 @@
 
 - [Astro](#astro)
 - [Batchfile](#batchfile)
+- [Bicep](#bicep)
 - [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
@@ -78,6 +79,10 @@
 ## Batchfile 
 
 - [troytse/wsl-autostart](https://github.com/troytse/wsl-autostart) - Support for starting the Linux services in Windows Subsystem for Linux (WSL) on Windows startup
+
+## Bicep 
+
+- [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
 
 ## Blade 
 
@@ -219,7 +224,7 @@
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) - GNU Radio – the Free and Open Software Radio Ecosystem
 - [RHVoice/RHVoice](https://github.com/RHVoice/RHVoice) - a free and open source speech synthesizer for Russian and other languages
-- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2022 | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter 
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2022 | World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
 - [CGAL/cgal](https://github.com/CGAL/cgal) - The public CGAL repository, see the README below
 - [BelledonneCommunications/linphone-desktop](https://github.com/BelledonneCommunications/linphone-desktop) - Linphone is a free VoIP and video softphone based on the SIP protocol. Mirror of git://git.linphone.org/linphone-desktop.git
 - [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
@@ -557,7 +562,6 @@
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [rancher/convoy](https://github.com/rancher/convoy) - A Docker volume plugin, managing persistent container volumes.
 - [mundipagg/boleto-api](https://github.com/mundipagg/boleto-api) - API for register and generate "Boletos"
 - [montanaflynn/awesome-go](https://github.com/montanaflynn/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -566,6 +570,7 @@
 
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - This is a full computer management web site. With MeshCentral, you can run your own web server and it to remotely manage and control computers on a local network or anywhere on the internet. Once you 
 - [mattmakai/fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
+- [Codepoints/Codepoints.net](https://github.com/Codepoints/Codepoints.net) - A visual guide to the wonders of Unicode
 - [roberto-butti/50-drops-of-php](https://github.com/roberto-butti/50-drops-of-php) - Open source and free e-book, that collects some useful, unknown, underrated PHP functions or stuff discovered, used, learned during the PHP daily use.
 - [jlord/git-it](https://github.com/jlord/git-it) - :computer: :mortar_board: Learn Git and GitHub. Try the new desktop version →
 - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
@@ -1018,7 +1023,6 @@
 - [LogRocket/redux-logger](https://github.com/LogRocket/redux-logger) - Logger for Redux
 - [yeoman/yo](https://github.com/yeoman/yo) - CLI tool for running Yeoman generators
 - [open-source-labs/Swell](https://github.com/open-source-labs/Swell) - Swell: API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL, and gRPC.
-- [logchimp/logchimp](https://github.com/logchimp/logchimp) - Track your customers feedback to build better products with LogChimp
 - [ringcentral/ringcentral-embeddable](https://github.com/ringcentral/ringcentral-embeddable) - RingCentral Embeddable widget
 - [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) - Detect Vue technologies running on a website ✨
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
@@ -1294,7 +1298,7 @@
 - [irislib/iris-messenger](https://github.com/irislib/iris-messenger) - Decentralized messenger
 - [appium/appium-desktop](https://github.com/appium/appium-desktop) - Appium Server in Desktop GUIs for Mac, Windows, and Linux
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
-- [jgraph/drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
+- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
 - [nodeca/pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed
 - [nodeca/probe-image-size](https://github.com/nodeca/probe-image-size) - Get image size without full download. Supported image types: JPG, GIF, PNG, WebP, BMP, TIFF, SVG, PSD, ICO.
 - [nodeca/pako](https://github.com/nodeca/pako) - high speed zlib port to javascript, works in browser & node.js
@@ -2140,6 +2144,7 @@
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [pubkey/eth-crypto](https://github.com/pubkey/eth-crypto) - Cryptographic javascript-functions for ethereum and tutorials to use them with web3js and solidity
 - [ZoneMinder/zmNinja](https://github.com/ZoneMinder/zmNinja) - High performance, cross platform ionic app for Home/Commerical Security Surveillance using ZoneMinder
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [LeanKit-Labs/lux.js](https://github.com/LeanKit-Labs/lux.js) - Flux-based architecture for using ReactJS at LeanKit
 - [explooosion/browndust-share](https://github.com/explooosion/browndust-share) - This website is for browndust formation sharing
 - [tediousjs/node-mssql](https://github.com/tediousjs/node-mssql) - Microsoft SQL Server client for Node.js
@@ -2539,7 +2544,7 @@
 - [linuxhandbook/tutorial-snippets](https://github.com/linuxhandbook/tutorial-snippets) - Repository to share long code snippets for LHB tutorials
 - [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
 - [kiok46/ReactNative-Animation-Challenges](https://github.com/kiok46/ReactNative-Animation-Challenges) - A series of animation challenges in React Native.
-- [he4rt/4noobs](https://github.com/he4rt/4noobs) - 
+- [he4rt/4noobs](https://github.com/he4rt/4noobs) - Repositório listando 4noobs de todas as categorias e funcionalidades possíveis.
 - [he4rt/react4noobs](https://github.com/he4rt/react4noobs) - 
 - [Universidade-Livre/ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao) - 🎓 Um caminho para a educação autodidata em Ciência da Computação!
 - [fbsamples/audience-network](https://github.com/fbsamples/audience-network) - Open source projects to demonstrate SDK and sample code usages and integration, and to collaborate and support peers in this community.
@@ -2637,7 +2642,6 @@
 ## PHP 
 
 - [laravelio/laravel.io](https://github.com/laravelio/laravel.io) - The Laravel.io Community Portal.
-- [Codepoints/Codepoints.net](https://github.com/Codepoints/Codepoints.net) - A visual guide to the wonders of Unicode
 - [oscarotero/imagecow](https://github.com/oscarotero/imagecow) - PHP library to manipulate and generate responsive images
 - [roberto-butti/websocket-php](https://github.com/roberto-butti/websocket-php) - Example for WebSocket with PHP
 - [leokhoa/laragon](https://github.com/leokhoa/laragon) - Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python, Java, Go, Ruby. It is fast, lightweight, easy-to-use and easy-to-extend.
@@ -3028,7 +3032,6 @@
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [adbertram/Random-PowerShell-Work](https://github.com/adbertram/Random-PowerShell-Work) - Random PowerShell Work
-- [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
 - [mlocati/powershell-phpmanager](https://github.com/mlocati/powershell-phpmanager) - A PowerShell module to install/update PHP, PHP extensions and Composer on Windows
 
 ## Pug 
@@ -3637,7 +3640,7 @@
 - [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
 - [open-source-labs/Chronos](https://github.com/open-source-labs/Chronos) - 📊 📊 📊 Monitors the health and web traffic of servers, microservices, Kafka clusters, and containers with real-time data monitoring and receive automated notifications over Slack or email.
 - [GetStream/stream-chat-react](https://github.com/GetStream/stream-chat-react) - React Chat SDK ➜ Stream Chat 💬
-- [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark.
+- [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A redesign of Nodejs.org built using Gatsby.js with React.js, TypeScript, and Remark.
 - [xmlking/ngx-starter-kit](https://github.com/xmlking/ngx-starter-kit) - :a: Angular :rocket: NestJS :monkey: Starter Kit
 - [rodrigorgtic/decode-savepass](https://github.com/rodrigorgtic/decode-savepass) - Aplicação utilizada na live decode sobre Criando um App utilizando armazenamento local no React Native.
 - [oleksiikhr/vue-stripe-menu](https://github.com/oleksiikhr/vue-stripe-menu) - Creating a navigation menu with animations like on Stripe
@@ -3718,7 +3721,7 @@
 - [nextauthjs/next-auth-example](https://github.com/nextauthjs/next-auth-example) - Example showing how to use NextAuth.js with Next.js
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source low-code platform for Firebase and Firestore. Airtable-like UI with cloud functions workflows in JS/TS, all in your browser.
+- [rowyio/rowy](https://github.com/rowyio/rowy) - Rowy is an open-source low-code platform. Airtable-like UI for managing your database with cloud functions workflows in JS/TS, all in your browser.
 - [elegantapp/pwa-workshop-angular-firebase](https://github.com/elegantapp/pwa-workshop-angular-firebase) - Build a production ready PWA with Angular and Firebase! This workshop consists of multiple steps for producing a PWA by transforming a regular web app - Ionic Conference App into a PWA, finally deploy
 - [elegantapp/pwa-asset-generator](https://github.com/elegantapp/pwa-asset-generator) - Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated i
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
@@ -4134,7 +4137,7 @@
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name 
 - [cornflourblue/angular-9-jwt-refresh-tokens](https://github.com/cornflourblue/angular-9-jwt-refresh-tokens) - Angular 9 - JWT Authentication with Refresh Tokens
 - [gregjacobs/js-to-ts-converter](https://github.com/gregjacobs/js-to-ts-converter) - Small utility to fix common js-&gt;ts issues in order to assist in migrating a codebase
-- [nrwl/nx-console](https://github.com/nrwl/nx-console) - Nx Console is the user interface for Nx.
+- [nrwl/nx-console](https://github.com/nrwl/nx-console) - Nx Console is the user interface for Nx & Lerna.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [cornflourblue/angular-8-alert-notifications](https://github.com/cornflourblue/angular-8-alert-notifications) - Angular 8 - Alert (Toaster) Notifications
 - [reactjs/pt-br.reactjs.org](https://github.com/reactjs/pt-br.reactjs.org) - 🇧🇷 React documentation website in Portuguese (Brazil)
@@ -4245,6 +4248,7 @@
 - [getumbrel/umbrel-dashboard](https://github.com/getumbrel/umbrel-dashboard) - Web-based dashboard to interact with your Umbrel
 - [jordihales/hypercolor](https://github.com/jordihales/hypercolor) - A curated collection of beautiful premade gradients using default colors from the Tailwind palette as well as a selection of custom color gradients.
 - [zernonia/madewithsupabase](https://github.com/zernonia/madewithsupabase) - A collection of projects made with Supabase – Websites, Mobile Apps, SaaS, Plugins and more!
+- [logchimp/logchimp](https://github.com/logchimp/logchimp) - Track your customers feedback to build better products with LogChimp
 - [karrot-dev/karrot-frontend](https://github.com/karrot-dev/karrot-frontend) - Karrot is a free and open-source tool for grassroots initiatives and groups of people that want to coordinate face-to-face activities on a local, autonomous and voluntary basis.
 - [nuxt/codesandbox-nuxt](https://github.com/nuxt/codesandbox-nuxt) - Starter template for CodeSandBox.io
 - [antfu/vitesse-nuxt3](https://github.com/antfu/vitesse-nuxt3) - Vitesse for Nuxt 3 🏔💚⚡️

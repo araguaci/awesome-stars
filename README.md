@@ -464,6 +464,7 @@
 
 ## Go 
 
+- [openservicemesh/osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microser
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams. https://www.bytebase.com
 - [CyCoreSystems/ari](https://github.com/CyCoreSystems/ari) - Golang Asterisk REST Interface (ARI) library
 - [flashmob/go-guerrilla](https://github.com/flashmob/go-guerrilla) - Mini SMTP server written in golang
@@ -1494,7 +1495,7 @@
 - [gopinav/React-TypeScript-Webpack-Starter](https://github.com/gopinav/React-TypeScript-Webpack-Starter) - A starter template for React projects with TypeScript and Webpack 5 with Fast refresh
 - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [ildaneta/challenges](https://github.com/ildaneta/challenges) - 👩🏻‍💻  This repository is dedicated to challenges that I perform in random ways, which can be from a study, or an application for articles that I create. 😊
-- [ildaneta/my-personal-blog-gatsby](https://github.com/ildaneta/my-personal-blog-gatsby) - 🙆🏻‍♀️.  This is a repository of my blog, when I used the Gatsby and GraphQL to built this application. 🌼
+- [ildaneta/my-personal-blog-gatsby](https://github.com/ildaneta/my-personal-blog-gatsby) - 🙆🏻‍♀️ Welcome to the source code of my personal blog. This project was created with Gatsby and GraphQL 🌼
 - [dgtlmoon/awesome-selfhosted](https://github.com/dgtlmoon/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Rajesh-Royal/React-Js-Todo-App-with-firebase-auth](https://github.com/Rajesh-Royal/React-Js-Todo-App-with-firebase-auth) - TodoApp using ReactJS and Firebase | ReactJS, Material UI, Firebase, ExpressJS
 - [girliemac/fb-apiai-bot-demo](https://github.com/girliemac/fb-apiai-bot-demo) - A simple example of Facebook Chat Bot using API.ai
@@ -3047,6 +3048,7 @@
 
 ## Python 
 
+- [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) - Stable Diffusion web UI
 - [twilio/twilio-python](https://github.com/twilio/twilio-python) - A Python module for communicating with the Twilio API and generating TwiML.
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
 - [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
@@ -3111,7 +3113,7 @@
 - [exercism/python](https://github.com/exercism/python) - Exercism exercises in Python.
 - [Scille/parsec-cloud](https://github.com/Scille/parsec-cloud) - Open source Dropbox-like file sharing with full client encryption !
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
+- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
@@ -3143,7 +3145,7 @@
 - [turicas/covid19-br](https://github.com/turicas/covid19-br) - Dados diários mais recentes do coronavírus por município brasileiro
 - [turicas/socios-brasil](https://github.com/turicas/socios-brasil) - Captura os dados de sócios das empresas brasileiras na Receita Federal e exporta para um formato legível por humanos
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
-- [diffgram/diffgram](https://github.com/diffgram/diffgram) - Training Data (Data Labeling, Annotation, Catalog, Workflow) for all Data Types (Image, Video, 3D, Text, Geo, Audio, more) at scale.
+- [diffgram/diffgram](https://github.com/diffgram/diffgram) - Training Data (Annotation, Catalog, Workflow) for all Data Types (Image, Video, 3D, Text, Geo, Audio, more) at scale.
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [jet-admin/jet-bridge](https://github.com/jet-admin/jet-bridge) - Jet Bridge – Admin Panel Framework for your application
 - [Ra-Na/GTranslate-strings-xml](https://github.com/Ra-Na/GTranslate-strings-xml) - Creats a strings.xml file by Google auto-translating an input strings.xml file
@@ -3471,6 +3473,7 @@
 
 ## TypeScript 
 
+- [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [alaingalvan/webgpu-seed](https://github.com/alaingalvan/webgpu-seed) - 🔺🌱 An example on how to render a hello triangle with WebGPU.
 - [apioo/fusio-apps-developer](https://github.com/apioo/fusio-apps-developer) - Fusio developer portal app
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
@@ -3557,7 +3560,7 @@
 - [samuelmeuli/mini-diary](https://github.com/samuelmeuli/mini-diary) - 📘 Simple and secure journal app
 - [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) - 🥳 Really simple Electron + Vite + Vue boilerplate.
 - [CorentinTh/inert](https://github.com/CorentinTh/inert) - Minimalistic tower defense in the browser entirely in typescript (no deps).
-- [YeonV/LedFx-Frontend-v2](https://github.com/YeonV/LedFx-Frontend-v2) - 
+- [YeonV/LedFx-Frontend-v2](https://github.com/YeonV/LedFx-Frontend-v2) - LedFx: Frontend & Clients
 - [hodgef/PRSS](https://github.com/hodgef/PRSS) - Build blazing fast blogs, documentation sites, showcases and more.
 - [digital-loukoum/gravity](https://github.com/digital-loukoum/gravity) - Next-generation backend framework with isomorphic capacities
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching

@@ -133,6 +133,7 @@
 
 ## C# # 
 
+- [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
 - [sipsorcery-org/sipsorcery](https://github.com/sipsorcery-org/sipsorcery) - A WebRTC, SIP and VoIP library for C# and .NET. Designed for real-time communications apps.
 - [syncfusion/blazor-showcase-expense-tracker](https://github.com/syncfusion/blazor-showcase-expense-tracker) - This expense tracker demo application showcases using several Syncfusion Blazor components together in a real-world application scenario. You can further explore the source code of this application an
 - [dotnettools/SharpGrabber](https://github.com/dotnettools/SharpGrabber) - Download from YouTube, Vimeo, HLS (M3U8 files) and more with .NET and JavaScript, Library and desktop app for downloading high quality media
@@ -231,7 +232,7 @@
 - [BelledonneCommunications/linphone-desktop](https://github.com/BelledonneCommunications/linphone-desktop) - Linphone is a free VoIP and video softphone based on the SIP protocol. Mirror of git://git.linphone.org/linphone-desktop.git
 - [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
 - [amov-lab/Prometheus](https://github.com/amov-lab/Prometheus) - Open source software for autonomous drones.
-- [osrf/gazebo](https://github.com/osrf/gazebo) - Gazebo classic. For the latest version, see https://github.com/gazebosim/gz-sim
+- [gazebosim/gazebo-classic](https://github.com/gazebosim/gazebo-classic) - Gazebo classic. For the latest version, see https://github.com/gazebosim/gz-sim
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
 - [marcodiiga/filepie](https://github.com/marcodiiga/filepie) - A terminal utility to display size quota maps on drives and folders
@@ -467,6 +468,9 @@
 
 ## Go 
 
+- [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
+- [gocopper/copper](https://github.com/gocopper/copper) - 🚀‏‏‎    ‎‏‏‎‏‏‎‎‎‎‎‎Copper is a Go toolkit complete with everything you need to build web apps.
+- [sakai135/wsl-vpnkit](https://github.com/sakai135/wsl-vpnkit) - Provide network connectivity to WSL 2 when blocked by VPN
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native management plane
 - [openservicemesh/osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microser
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams. https://www.bytebase.com
@@ -573,6 +577,7 @@
 
 ## HTML 
 
+- [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - This is a full computer management web site. With MeshCentral, you can run your own web server and it to remotely manage and control computers on a local network or anywhere on the internet. Once you 
 - [mattmakai/fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
 - [Codepoints/Codepoints.net](https://github.com/Codepoints/Codepoints.net) - A visual guide to the wonders of Unicode
@@ -892,7 +897,7 @@
 - [LekoArts/gatsby-starter-portfolio-cara](https://github.com/LekoArts/gatsby-starter-portfolio-cara) - Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Especially designers and/or photographers will love this theme! Built with MDX and Theme UI.
 - [LekoArts/gatsby-status-dashboard](https://github.com/LekoArts/gatsby-status-dashboard) - Show the live statuses of your Netlify and CircleCI builds on your website! Easily integrate the customizable components into your site and adapt them to your theme (utilizing Theme UI).
 - [tyrasd/overpass-turbo](https://github.com/tyrasd/overpass-turbo) - A web based data mining tool for OpenStreetMap using the Overpass API.
-- [shopyo/shopcube](https://github.com/shopyo/shopcube) - Open Ecommerce solution for Shops. Complete with cart and wishlist. Powered by Shopyo, a Python web framework built on top of Flask
+- [shopyo/shopcube](https://github.com/shopyo/shopcube) - Open Ecommerce solution for Shops. Complete with cart and wishlist.
 - [mattdesl/canvas-sketch](https://github.com/mattdesl/canvas-sketch) - [beta] A framework for making generative artwork in JavaScript and the browser.
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
@@ -1880,7 +1885,7 @@
 - [patrickporto/workshop-performance-react](https://github.com/patrickporto/workshop-performance-react) - 
 - [wpbrasil/certificates-for-wordcamp](https://github.com/wpbrasil/certificates-for-wordcamp) - Certificates generator for WordCamps
 - [mermaidjs/mermaid-live-editor](https://github.com/mermaidjs/mermaid-live-editor) - Location has moved to https://github.com/mermaid-js/mermaid-live-editor
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [DemocracyEarth/wallet](https://github.com/DemocracyEarth/wallet) - Censorship resistant democracies.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [Sinetheta/burn](https://github.com/Sinetheta/burn) - :fire: jQuery plugin to apply flame effect to text
@@ -2064,7 +2069,7 @@
 - [btholt/complete-intro-to-containers](https://github.com/btholt/complete-intro-to-containers) - The Complete Intro to Containers! As taught on Frontend Masters.
 - [testing-library/testing-playground](https://github.com/testing-library/testing-playground) - Simple and complete DOM testing playground that encourage good testing practices.
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)
-- [PatrickJS/angular-starter](https://github.com/PatrickJS/angular-starter) - Angular Starter
+- [PatrickJS/MFE-starter](https://github.com/PatrickJS/MFE-starter) - MFE Starter
 - [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [formio/formio.js](https://github.com/formio/formio.js) - JavaScript powered Forms with JSON Form Builder
@@ -2094,7 +2099,7 @@
 - [GoogleChromeLabs/preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin) - Please use https://github.com/vuejs/preload-webpack-plugin instead.
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [davidtheclark/react-aria-menubutton](https://github.com/davidtheclark/react-aria-menubutton) - A fully accessible, easily themeable, React-powered menu button
 - [geobde/react-triple-toggle](https://github.com/geobde/react-triple-toggle) - React multi toggle component
 - [zillow/react-slider](https://github.com/zillow/react-slider) - Accessible, CSS agnostic, slider component for React.
@@ -2212,7 +2217,7 @@
 - [bradtraversy/devconnector_2.0](https://github.com/bradtraversy/devconnector_2.0) - Social network for developers, built on the MERN stack
 - [bradtraversy/react_express_starter](https://github.com/bradtraversy/react_express_starter) - Starter pack for React and Express full stack development
 - [bradtraversy/node_passport_login](https://github.com/bradtraversy/node_passport_login) - Node.js login, registration and access control using Express and Passport
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 - [schmich/chrome-extension-localization](https://github.com/schmich/chrome-extension-localization) - Organize and manage localization for your Chrome extension
 - [schmich/marinara](https://github.com/schmich/marinara) - Pomodoro® time management assistant for Chrome
 - [apertureless/vue-parallax](https://github.com/apertureless/vue-parallax) - 🌌  Vue.js component for parallax image scroll effects
@@ -2407,6 +2412,7 @@
 
 ## Others 
 
+- [kzu/VocabularioTeologiaBiblica](https://github.com/kzu/VocabularioTeologiaBiblica) - Repositorio del Vocabulario de Teologia Biblica
 - [skills/github-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages.
 - [skills/introduction-to-github](https://github.com/skills/introduction-to-github) - Get started using GitHub in less than an hour.
 - [araguaci/lorentz-cti](https://github.com/araguaci/lorentz-cti) - Atendimento com Sistemas de CTI, CRM, SAC, Help Desk, URA, Voice, Mobile e Tarifador.
@@ -2650,6 +2656,8 @@
 
 ## PHP 
 
+- [julienbourdeau/route-usage](https://github.com/julienbourdeau/route-usage) - Log what routes were used and when. Easily figure out if one hasn't been called in a long time (and delete it! 🥳)
+- [osiset/laravel-shopify](https://github.com/osiset/laravel-shopify) - A full-featured Laravel package for aiding in Shopify App development
 - [bagisto/bagisto](https://github.com/bagisto/bagisto) - An easy to use, free and open source laravel eCommerce platform to build your online shop in no time.
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP
 - [laravelio/laravel.io](https://github.com/laravelio/laravel.io) - The Laravel.io Community Portal.
@@ -3239,6 +3247,7 @@
 
 ## Ruby 
 
+- [publify/publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails.
 - [ozh/top_100_PHP_projects](https://github.com/ozh/top_100_PHP_projects) - 💯 The 𝗧𝗼𝗽 𝟭𝟬𝟬 𝗣𝗛𝗣 Projects on Github. (𝐿𝑖𝑠𝑡 𝑔𝑒𝑛𝑒𝑟𝑎𝑡𝑒𝑑 𝑏𝑦 𝑎 𝑅𝑢𝑏𝑦 𝑠𝑐𝑟𝑖𝑝𝑡 𝑡ℎ𝑎𝑡 𝑤𝑎𝑠 𝑔𝑒𝑛𝑒𝑟𝑎𝑡𝑒𝑑 𝑏𝑦 𝐴𝐼 !)
 - [Alexoid1/Biologist-app](https://github.com/Alexoid1/Biologist-app) - This is a social-media where the user can share the species sightings with other users, follow other users, and track his activity daily and weekly.
 - [davidpiegza/graphit](https://github.com/davidpiegza/graphit) - 3D Graph Visualization with WebGL (Rail Web-Application)
@@ -3485,6 +3494,9 @@
 
 ## TypeScript 
 
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB
+- [karolkozer/planby](https://github.com/karolkozer/planby) - 
+- [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [pixiebrix/pixiebrix-extension](https://github.com/pixiebrix/pixiebrix-extension) - PixieBrix browser extension
 - [RafaelGoulartB/proffy](https://github.com/RafaelGoulartB/proffy) - 🚀 Project made to connect teachers to students. Made in Next Level Week #2 #NLW @Rocketseat
 - [koskimas/kysely](https://github.com/koskimas/kysely) - A type-safe typescript SQL query builder
@@ -3497,7 +3509,7 @@
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [googleapis/nodejs-speech](https://github.com/googleapis/nodejs-speech) - Node.js client for Google Cloud Speech: Speech to text conversion powered by machine learning.
 - [googleapis/google-cloud-node](https://github.com/googleapis/google-cloud-node) - Google Cloud Client Library for Node.js
-- [standardnotes/app](https://github.com/standardnotes/app) - An end-to-end encrypted notes app for digitalists and professionals. https://standardnotes.com For issues, visit https://forum.standardnotes.org or email help@standardnotes.com
+- [standardnotes/app](https://github.com/standardnotes/app) - An end-to-end encrypted notes app for digitalists and professionals. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [sanketbajoria/ssh2-promise](https://github.com/sanketbajoria/ssh2-promise) - ssh with promise/async await and typescript support
 - [twilio/twilio-video-app-react](https://github.com/twilio/twilio-video-app-react) - A collaboration application built with the twilio-video.js SDK and React.js
 - [mvllow/next-pwa-template](https://github.com/mvllow/next-pwa-template) - Next.js progressive web app template
@@ -3583,7 +3595,7 @@
 - [digital-loukoum/gravity](https://github.com/digital-loukoum/gravity) - Next-generation backend framework with isomorphic capacities
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [samuelmaddock/electron-browser-shell](https://github.com/samuelmaddock/electron-browser-shell) - A minimal, tabbed web browser with support for Chrome extensions—built on Electron.
-- [electron-userland/electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
+- [electron-userland/electron-forge](https://github.com/electron-userland/electron-forge) - :electron: A complete tool for building and publishing Electron applications
 - [cedoor/mindmapp](https://github.com/cedoor/mindmapp) - :rocket: Web application to draw mind maps.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
@@ -3712,7 +3724,7 @@
 - [araguaci/slidev](https://github.com/araguaci/slidev) - Presentation Slides for Developers (Beta)
 - [araguaci/botpress](https://github.com/araguaci/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop Visual CMS for React, Vue, Angular, and more
-- [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework.
+- [nuxt/framework](https://github.com/nuxt/framework) - The Intuitive Vue(3) Framework.
 - [r-park/soundcloud-ngrx](https://github.com/r-park/soundcloud-ngrx) - SoundCloud API client with Angular • RxJS • ngrx/store • ngrx/effects
 - [LeCoupa/vueflags](https://github.com/LeCoupa/vueflags) - 👩‍✈️👨‍✈️ One easy-to-use flag component for Vue.js with all ISO 3166-1 countries.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
@@ -4007,7 +4019,7 @@
 - [TerriaJS/terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data platforms.
 - [sebholstein/angular-google-maps](https://github.com/sebholstein/angular-google-maps) - Angular 2+ Google Maps Components
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
-- [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
+- [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript.
 - [dancancro/great-big-example-application](https://github.com/dancancro/great-big-example-application) - A full-stack example app built with JHipster, Spring Boot, Kotlin, Angular 4, ngrx, and Webpack
 - [reach/reach-ui](https://github.com/reach/reach-ui) - The Accessible Foundation for React Apps and Design Systems

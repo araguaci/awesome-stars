@@ -285,6 +285,7 @@
 - [roramirez/qpanel](https://github.com/roramirez/qpanel) - Dashboard for Queues in Asterisk and FreeSWITCH. app_queue panel for Asterisk and mod_callcenter in FreeSWITCH.   Get news -&gt; http://eepurl.com/dxKt7X
 - [johnpapa/vscode-winteriscoming](https://github.com/johnpapa/vscode-winteriscoming) - Dark theme with fun and bright foreground colors
 - [adrianhajdin/project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3) - Master the creation of Modern UX/UI Websites
+- [directus/examples](https://github.com/directus/examples) - Integration Examples with Directus
 - [ethanhs/WSL-Programs](https://github.com/ethanhs/WSL-Programs) - A community powered list of programs that work (and those that don't) on the Windows subsystem for Linux
 - [overwolf/demo-app](https://github.com/overwolf/demo-app) - 
 - [mafairnet/aloha](https://github.com/mafairnet/aloha) - aloha
@@ -471,7 +472,7 @@
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 - [gocopper/copper](https://github.com/gocopper/copper) - 🚀‏‏‎    ‎‏‏‎‏‏‎‎‎‎‎‎Copper is a Go toolkit complete with everything you need to build web apps.
 - [sakai135/wsl-vpnkit](https://github.com/sakai135/wsl-vpnkit) - Provide network connectivity to WSL 2 when blocked by VPN
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native management plane
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [openservicemesh/osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microser
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams. https://www.bytebase.com
 - [CyCoreSystems/ari](https://github.com/CyCoreSystems/ari) - Golang Asterisk REST Interface (ARI) library
@@ -942,7 +943,6 @@
 - [gjovanov/roomler](https://github.com/gjovanov/roomler) - Roomler - Multi-party Video Conferencing & Team Collaboration Tool using WebRTC (Janus Gateway)
 - [SalesforceCommerceCloud/pwa-kit](https://github.com/SalesforceCommerceCloud/pwa-kit) - React-based JavaScript frontend framework to create a progressive web app (PWA) storefront for Salesforce B2C Commerce.
 - [asterisk/node-ari-client](https://github.com/asterisk/node-ari-client) - Node.js client for ARI. This library is best effort with limited support.
-- [directus/examples](https://github.com/directus/examples) - Integration Examples with Directus
 - [hr21don/Zoom-VideoCall-App](https://github.com/hr21don/Zoom-VideoCall-App) - Video-Call App with WebRTC and Socket.Io
 - [araguaci/mermaid](https://github.com/araguaci/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [collecttix/ctxSip](https://github.com/collecttix/ctxSip) - ctxSip is a Javascript based SIP client that uses WebRTC and WebSockets to connect to your SIP server. The UI is designed to be launched as a popup from within your application. Works well with Kazoo 
@@ -3464,6 +3464,7 @@
 
 ## Svelte 
 
+- [carbon-design-system/carbon-components-svelte](https://github.com/carbon-design-system/carbon-components-svelte) - Svelte implementation of the Carbon Design System
 - [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
 - [itswadesh/svelte-commerce](https://github.com/itswadesh/svelte-commerce) - Svelte ecommerce - Headless, Authentication, Cart & Checkout, TailwindCSS, Server Rendered, Proxy + API Integrated, Animations, Stores, Lazy Loading, Loading Indicators, Carousel, Instant Search, Face
 - [Brain-Bones/skeleton](https://github.com/Brain-Bones/skeleton) - A fully featured web UI toolkit for Svelte + Tailwind.
@@ -4147,7 +4148,7 @@
 - [timdeschryver/angular](https://github.com/timdeschryver/angular) - One framework. Mobile & desktop.
 - [timdeschryver/router-guards](https://github.com/timdeschryver/router-guards) - 
 - [timdeschryver/angular-cli](https://github.com/timdeschryver/angular-cli) - CLI tool for Angular
-- [ngrx/platform](https://github.com/ngrx/platform) - Reactive libraries for Angular
+- [ngrx/platform](https://github.com/ngrx/platform) - Reactive State for Angular
 - [testing-library/angular-testing-library](https://github.com/testing-library/angular-testing-library) - 🦔 Simple and complete Angular testing utilities that encourage good testing practices
 - [timdeschryver/docs-md](https://github.com/timdeschryver/docs-md) - Generate markdown docs for your project's public API
 - [hsuanxyz/ion2-calendar](https://github.com/hsuanxyz/ion2-calendar) - 📅 A date picker components for ionic2 ／ionic3 / ionic4

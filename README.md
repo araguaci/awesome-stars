@@ -469,6 +469,7 @@
 
 ## Go 
 
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 - [gocopper/copper](https://github.com/gocopper/copper) - 🚀‏‏‎    ‎‏‏‎‏‏‎‎‎‎‎‎Copper is a Go toolkit complete with everything you need to build web apps.
 - [sakai135/wsl-vpnkit](https://github.com/sakai135/wsl-vpnkit) - Provide network connectivity to WSL 2 when blocked by VPN
@@ -611,7 +612,7 @@
 - [akashgiricse/templates-using-bootstrap4](https://github.com/akashgiricse/templates-using-bootstrap4) - 🌆 Here I've aggregated some of the most commonly used web-page templates made using Bootstrap4 🛒
 - [jh3y/driveway](https://github.com/jh3y/driveway) - pure CSS masonry layouts
 - [markmead/hyperui](https://github.com/markmead/hyperui) - HyperUI is a large collection of free Tailwind CSS components for marketing, ecommerce and application UI 🐳
-- [js13kGames/resources](https://github.com/js13kGames/resources) - js13kGames Resources
+- [js13kGames/resources](https://github.com/js13kGames/resources) - Tools, assets and tutorials for creating small HTML/JavaScript games.
 - [OmniSharp/generator-aspnet](https://github.com/OmniSharp/generator-aspnet) - yo generator for ASP.NET Core
 - [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for Android, Linux, macOS, Windows. For issues https://github.com/brave/brave-browser/issues
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
@@ -2656,6 +2657,8 @@
 
 ## PHP 
 
+- [HansSchouten/Laravel-Pagebuilder](https://github.com/HansSchouten/Laravel-Pagebuilder) - A drag and drop pagebuilder to manage pages in any Laravel project.
+- [cretueusebiu/laravel-vue-spa](https://github.com/cretueusebiu/laravel-vue-spa) - A Laravel-Vue SPA starter kit.
 - [julienbourdeau/route-usage](https://github.com/julienbourdeau/route-usage) - Log what routes were used and when. Easily figure out if one hasn't been called in a long time (and delete it! 🥳)
 - [osiset/laravel-shopify](https://github.com/osiset/laravel-shopify) - A full-featured Laravel package for aiding in Shopify App development
 - [bagisto/bagisto](https://github.com/bagisto/bagisto) - An easy to use, free and open source laravel eCommerce platform to build your online shop in no time.
@@ -4268,6 +4271,7 @@
 
 ## Vala 
 
+- [alainm23/planner](https://github.com/alainm23/planner) - Task manager with Todoist support designed for GNU/Linux 🚀
 - [pdfpc/pdfpc](https://github.com/pdfpc/pdfpc) - A presenter console with multi-monitor support for PDF files.
 
 ## Vim Script 

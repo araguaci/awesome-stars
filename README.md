@@ -399,6 +399,7 @@
 ## Dart 
 
 - [syncfusion/flutter-examples](https://github.com/syncfusion/flutter-examples) - This repository contains the Syncfusion Flutter UI widgets examples and the guide to use them.
+- [darwin-morocho/flutter-facebook-auth](https://github.com/darwin-morocho/flutter-facebook-auth) - A flutter plugin to add login with facebook in your flutter app
 - [fluttertools/sidekick](https://github.com/fluttertools/sidekick) - A simple app to make Flutter development more delightful
 - [Roaa94/flutter_cool_toolbar](https://github.com/Roaa94/flutter_cool_toolbar) - 
 - [flutter-webrtc/flutter-webrtc-demo](https://github.com/flutter-webrtc/flutter-webrtc-demo) - Demo for flutter-webrtc
@@ -534,7 +535,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
-- [livekit/livekit](https://github.com/livekit/livekit) - Scalable, high-performance WebRTC SFU. SDKs in JavaScript, React, React Native, Flutter, Swift, Kotlin, Unity/C#, Go, Ruby and Node.
+- [livekit/livekit](https://github.com/livekit/livekit) - End to end stack for WebRTC. SFU media server, SDKs in JavaScript, React, React Native, Flutter, Swift, Kotlin, Unity/C#, Go, Ruby and Node.
 - [ttacon/libphonenumber](https://github.com/ttacon/libphonenumber) - golang port of Google's libphonenumber
 - [grafeas/grafeas](https://github.com/grafeas/grafeas) - Artifact Metadata API
 - [mgerb/ServerStatus](https://github.com/mgerb/ServerStatus) - A Discord bot to display the status of servers.
@@ -592,7 +593,7 @@
 - [Mekylei-Belchior/lotofacil](https://github.com/Mekylei-Belchior/lotofacil) - Jogando na Lotofácil utilizando rede neural.
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - A badge generator service to count visitors of your markdown file.
 - [SauravMukherjee44/Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website) - This is an Open-Source Library Website in which you get Resources to learn different topics, Donate book section to donate your old books, and a Book issue section to keep a record of all the books is
-- [calixtocarolina/iBeauty-login](https://github.com/calixtocarolina/iBeauty-login) - 
+- [calixtocarolina/iBeauty-login](https://github.com/calixtocarolina/iBeauty-login) - Página de Login e Cadastro feita com HTML, CSS e VanillaJS!
 - [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
 - [BaseMax/GitHub-Repository-Export-List](https://github.com/BaseMax/GitHub-Repository-Export-List) - Python: A tiny script to get list of all repository of a GitHub user and generate HTML output with style.
 - [webrtcwork/webrtcwork](https://github.com/webrtcwork/webrtcwork) - webrtcwork.com - Resources for those working with WebRTC (Jobs, Contractors and Tool)
@@ -1144,7 +1145,7 @@
 - [ahmadawais/WPGulp](https://github.com/ahmadawais/WPGulp) - An advanced Gulp workflow for WordPress development with extensive documentation. Used by 40,000+ themes and plugins.
 - [amilajack/js-algorithms](https://github.com/amilajack/js-algorithms) - A collection of algorithms written in javascript
 - [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
-- [chocolatey/choco-theme](https://github.com/chocolatey/choco-theme) - 
+- [chocolatey/choco-theme](https://github.com/chocolatey/choco-theme) - The global theme for Chocolatey Software.
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
 - [brave/browser-laptop](https://github.com/brave/browser-laptop) - [DEPRECATED] Please see https://github.com/brave/brave-browser for the current version of Brave
 - [stelace/stelace](https://github.com/stelace/stelace) - Open-source marketplace backend in Node.js, empowering Web platforms with Search API, Automation, Auth, Headless CMS… ⚡ :computer:
@@ -2383,7 +2384,6 @@
 
 ## Makefile 
 
-- [darwin-morocho/flutter-facebook-auth](https://github.com/darwin-morocho/flutter-facebook-auth) - A flutter plugin to add login with facebook in your flutter app
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [thumbor/awesome-thumbor](https://github.com/thumbor/awesome-thumbor) - Everything thumbor, awesomely curated & updated weekly.
 - [Helsinki-NLP/Tatoeba-Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge) - 
@@ -2392,6 +2392,7 @@
 
 ## Markdown 
 
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
@@ -2415,6 +2416,7 @@
 
 ## Others 
 
+- [free-educa/free-livros](https://github.com/free-educa/free-livros) - Educação é um direito de todos
 - [kzu/VocabularioTeologiaBiblica](https://github.com/kzu/VocabularioTeologiaBiblica) - Repositorio del Vocabulario de Teologia Biblica
 - [skills/github-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages.
 - [skills/introduction-to-github](https://github.com/skills/introduction-to-github) - Get started using GitHub in less than an hour.
@@ -4284,6 +4286,7 @@
 
 ## Vue 
 
+- [henripar/gradientos](https://github.com/henripar/gradientos) - Gradientos makes it easy to choose gradients.
 - [vkaelin/LeagueStats](https://github.com/vkaelin/LeagueStats) - 📈 League of Legends Stats Web App
 - [Flowko/website-shot](https://github.com/Flowko/website-shot) - 📸 Generate a full web-page screenshot, Website-shot provides rich interface to make any kind of web screenshots online for free with no limits.
 - [prismicio-community/nuxt-starter-prismic-multi-language](https://github.com/prismicio-community/nuxt-starter-prismic-multi-language) - Multi-language project with Nuxt & Prismic

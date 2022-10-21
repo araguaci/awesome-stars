@@ -1520,7 +1520,7 @@
 - [Rajesh-Royal/React-Js-Todo-App-with-firebase-auth](https://github.com/Rajesh-Royal/React-Js-Todo-App-with-firebase-auth) - TodoApp using ReactJS and Firebase | ReactJS, Material UI, Firebase, ExpressJS
 - [girliemac/fb-apiai-bot-demo](https://github.com/girliemac/fb-apiai-bot-demo) - A simple example of Facebook Chat Bot using API.ai
 - [terreng/simple-web-server](https://github.com/terreng/simple-web-server) - Create a local web server in just a few clicks with an easy to use interface. A continuation of Web Server for Chrome, built with Electron.
-- [felixrieseberg/electron-windows-store](https://github.com/felixrieseberg/electron-windows-store) - :package: Turn Electron Apps into Windows AppX Packages
+- [electron-userland/electron-windows-store](https://github.com/electron-userland/electron-windows-store) - :package: Turn Electron Apps into Windows AppX Packages
 - [mawie81/electron-window-state](https://github.com/mawie81/electron-window-state) - A library to store and restore window sizes and positions for your Electron app
 - [ykob/sketch-threejs](https://github.com/ykob/sketch-threejs) - Interactive sketches made with three.js.
 - [Kamona-WD/starter-dashboard-layout-vue](https://github.com/Kamona-WD/starter-dashboard-layout-vue) - Starter responsive dashboard layout using tailwindcss & vue 3 (vitejs)
@@ -3839,7 +3839,7 @@
 - [luweslen/nlw-heat](https://github.com/luweslen/nlw-heat) - Application developed to practice learned technologies. Made at the NextLevel Week (NLW) event hosted by @Rocketseat.
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
-- [felixrieseberg/electron-wix-msi](https://github.com/felixrieseberg/electron-wix-msi) - :dvd: Create traditional MSI installers for your Electron app
+- [electron-userland/electron-wix-msi](https://github.com/electron-userland/electron-wix-msi) - :dvd: Create traditional MSI installers for your Electron app
 - [rodrigorgtic/gobarber-web-ts](https://github.com/rodrigorgtic/gobarber-web-ts) - :computer: :iphone: Plataforma Web para barbeiros gerenciar seus clientes e agendamentos em ReactJs.
 - [rodrigorgtic/cookapp](https://github.com/rodrigorgtic/cookapp) - 
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc

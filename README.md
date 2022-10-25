@@ -510,7 +510,7 @@
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
-- [miconda/sipexer](https://github.com/miconda/sipexer) - Modern and flexible SIP cli tool
+- [miconda/sipexer](https://github.com/miconda/sipexer) - Modern and flexible SIP/VoIP cli tool
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [GoogleCloudPlatform/golang-samples](https://github.com/GoogleCloudPlatform/golang-samples) - Sample apps and code written for Google Cloud in the Go programming language.
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications
@@ -2939,7 +2939,7 @@
 - [tbreuss/pingcrm-yii2](https://github.com/tbreuss/pingcrm-yii2) - Ping CRM on Yii 2 - A Yii 2 demo application to illustrate how Inertia.js works.
 - [inertiajs/pingcrm](https://github.com/inertiajs/pingcrm) - A demo application to illustrate how Inertia.js works.
 - [YetiForceCompany/YetiForceCRM](https://github.com/YetiForceCompany/YetiForceCRM) - Our team created for you one of the most innovative CRM systems that supports mainly business processes and allows for customization according to your needs. Be ahead of your competition and implement
-- [adhocore/phalcon-ext](https://github.com/adhocore/phalcon-ext) - Foundations, adapters, extensions, middlewares and utilities for Phalcon
+- [adhocore/phalcon-ext](https://github.com/adhocore/phalcon-ext) - Foundations, adapters, extensions, middlewares and utilities for Phalcon v4
 - [adhocore/php-jwt](https://github.com/adhocore/php-jwt) - Ultra lightweight, dependency free and standalone JSON web token (JWT) library for PHP5.6 to PHP8.1. This library makes JWT a cheese.
 - [soatok/dhole-cryptography](https://github.com/soatok/dhole-cryptography) - Boring (dull) cryptography for furry projects (created by a dhole)
 - [ratchetphp/Ratchet](https://github.com/ratchetphp/Ratchet) - Asynchronous WebSocket server
@@ -3126,6 +3126,7 @@
 - [dogsheep/github-to-sqlite](https://github.com/dogsheep/github-to-sqlite) - Save data from GitHub to a SQLite database
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
@@ -3647,7 +3648,6 @@
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [Urigo/SOFA](https://github.com/Urigo/SOFA) - The best way to create REST APIs - Generate RESTful APIs from your GraphQL Server
 - [fatihsolhan/r-onboarding](https://github.com/fatihsolhan/r-onboarding) - r-onboarding is a super-slim, fully-typed onboarding component for React
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [gobeam/truthy](https://github.com/gobeam/truthy) - Open source headless CMS API written using NestJS, that has pre built modules like User Management, Role Management, Permission Management, Email Module, Account Settings, OTP, Throttling, RBAC suppor
 - [ninest/husker](https://github.com/ninest/husker) - Useful Northeastern resources and links; a Student Hub alternative
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️

@@ -535,7 +535,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
-- [livekit/livekit](https://github.com/livekit/livekit) - End to end stack for WebRTC. SFU media server, SDKs in JavaScript, React, React Native, Flutter, Swift, Kotlin, Unity/C#, Go, Ruby and Node.
+- [livekit/livekit](https://github.com/livekit/livekit) - End to end stack for WebRTC. SFU media server and SDKs
 - [ttacon/libphonenumber](https://github.com/ttacon/libphonenumber) - golang port of Google's libphonenumber
 - [grafeas/grafeas](https://github.com/grafeas/grafeas) - Artifact Metadata API
 - [mgerb/ServerStatus](https://github.com/mgerb/ServerStatus) - A Discord bot to display the status of servers.
@@ -1014,7 +1014,7 @@
 - [ksowah/CONNECT-THE-CHAT-APP](https://github.com/ksowah/CONNECT-THE-CHAT-APP) - 
 - [JessicaWachtel/React-To-Do-List-Tutorial](https://github.com/JessicaWachtel/React-To-Do-List-Tutorial) - To-Do List Tutorial
 - [Basharath/FormEasy](https://github.com/Basharath/FormEasy) - A simple open source library to receive contact forms for static sites
-- [SammSuccess/text-to-speech](https://github.com/SammSuccess/text-to-speech) - 
+- [Sam-Success/text-to-speech](https://github.com/Sam-Success/text-to-speech) - 
 - [MikeyParton/react-speech-kit](https://github.com/MikeyParton/react-speech-kit) - React hooks for Speech Recognition and Speech Synthesis
 - [marciovsena/abibliadigital](https://github.com/marciovsena/abibliadigital) - A RESTful API for Bible
 - [lukechilds/reverse-shell](https://github.com/lukechilds/reverse-shell) - Reverse Shell as a Service
@@ -2093,7 +2093,7 @@
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
 - [HelioSilva/Whatsapp-bot-NodeJS](https://github.com/HelioSilva/Whatsapp-bot-NodeJS) - Whatsapp bot para delivery de uma lanchonete usando NodeJS.
 - [nhn/toast-ui.doc](https://github.com/nhn/toast-ui.doc) - 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022)
 - [CodAffection/Angular-7-Master-Detail-CRUD-with-Web-API](https://github.com/CodAffection/Angular-7-Master-Detail-CRUD-with-Web-API) - Angular 7 Master Detail CRUD with Web API
 - [phonegap/phonegap-mobile-accessibility](https://github.com/phonegap/phonegap-mobile-accessibility) - PhoneGap plugin to expose mobile accessibility APIs.
 - [techiediaries/fake-api-jwt-json-server](https://github.com/techiediaries/fake-api-jwt-json-server) - A Fake API with JWT Authentication using json-server and jsonwebtoken
@@ -2102,13 +2102,13 @@
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [GoogleChromeLabs/preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin) - Please use https://github.com/vuejs/preload-webpack-plugin instead.
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [davidtheclark/react-aria-menubutton](https://github.com/davidtheclark/react-aria-menubutton) - A fully accessible, easily themeable, React-powered menu button
 - [geobde/react-triple-toggle](https://github.com/geobde/react-triple-toggle) - React multi toggle component
 - [zillow/react-slider](https://github.com/zillow/react-slider) - Accessible, CSS agnostic, slider component for React.
 - [react-tags/react-tags](https://github.com/react-tags/react-tags) - A fantastically simple tagging component for your projects
-- [xudafeng/autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - Auto Responsive Layout Library For React
+- [xudafeng/autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - ⚛️ Auto Responsive Layout Library For React
 - [gpietro/react-numpad](https://github.com/gpietro/react-numpad) - A numpad for number, date and time, built with and for React.
 - [freiksenet/react-calendar](https://github.com/freiksenet/react-calendar) - A modular toolkit to build calendar-related things in React
 - [jquense/react-big-calendar](https://github.com/jquense/react-big-calendar) - gcal/outlook like calendar component
@@ -2167,7 +2167,7 @@
 - [LeanKit-Labs/lux.js](https://github.com/LeanKit-Labs/lux.js) - Flux-based architecture for using ReactJS at LeanKit
 - [explooosion/browndust-share](https://github.com/explooosion/browndust-share) - This website is for browndust formation sharing
 - [tediousjs/node-mssql](https://github.com/tediousjs/node-mssql) - Microsoft SQL Server client for Node.js
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Typescript and Javascript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [EmailThis/extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) - ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -3606,7 +3606,7 @@
 - [digital-loukoum/gravity](https://github.com/digital-loukoum/gravity) - Next-generation backend framework with isomorphic capacities
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [samuelmaddock/electron-browser-shell](https://github.com/samuelmaddock/electron-browser-shell) - A minimal, tabbed web browser with support for Chrome extensions—built on Electron.
-- [electron-userland/electron-forge](https://github.com/electron-userland/electron-forge) - :electron: A complete tool for building and publishing Electron applications
+- [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
 - [cedoor/mindmapp](https://github.com/cedoor/mindmapp) - :rocket: Web application to draw mind maps.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos

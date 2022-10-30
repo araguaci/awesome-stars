@@ -2288,7 +2288,6 @@
 - [chris-rudmin/opus-recorder](https://github.com/chris-rudmin/opus-recorder) - A library for encoding and decoding web audio as OggOpus.
 - [mattdiamond/Recorderjs](https://github.com/mattdiamond/Recorderjs) - A plugin for recording/exporting the output of Web Audio API nodes
 - [gillesdemey/node-record-lpcm16](https://github.com/gillesdemey/node-record-lpcm16) - :microphone: Records a 16-bit signed-integer linear pulse modulation code encoded audio file.
-- [antirek/owo-phone.js](https://github.com/antirek/owo-phone.js) - simple sip.js based webphone
 - [zzarcon/chaosocket](https://github.com/zzarcon/chaosocket) - :boom: Mock WebSockets and create chaos :boom:
 - [versatica/tryit-jssip](https://github.com/versatica/tryit-jssip) - New tryit-jssip application
 - [ricardojlrufino/webphone-sip](https://github.com/ricardojlrufino/webphone-sip) - WebRTC SIP based VoIP client software (+chrome extension)
@@ -2374,6 +2373,7 @@
 
 - [uiwjs/react-markdown-preview](https://github.com/uiwjs/react-markdown-preview) - React component preview markdown text in web browser. The minimal amount of CSS to replicate the GitHub Markdown style. Support dark-mode/night mode.
 - [jsdelivr/www.jsdelivr.com](https://github.com/jsdelivr/www.jsdelivr.com) - The official jsDelivr website
+- [antirek/owo-phone.js](https://github.com/antirek/owo-phone.js) - simple sip.js based webphone
 
 ## Lua 
 
@@ -2483,7 +2483,7 @@
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [Lissy93/Lissy93](https://github.com/Lissy93/Lissy93) - 🥳 Hello World!
 - [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 💖 A curated list of awesome things related to docsify
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
 - [wesbos/dad-jokes](https://github.com/wesbos/dad-jokes) - dad jokes
 - [lauragift21/awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) - 🔥 Awesome list of resources on Web Development.
 - [bnb/awesome-awesome-nodejs](https://github.com/bnb/awesome-awesome-nodejs) - 🐢🚀 An Awesome list of Awesome lists related to Node.js.

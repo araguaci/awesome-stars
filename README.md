@@ -1283,7 +1283,6 @@
 - [bpmn-io/bpmn-js-token-simulation](https://github.com/bpmn-io/bpmn-js-token-simulation) - A BPMN 2.0 specification compliant token simulator.
 - [denehyg/reveal.js-menu](https://github.com/denehyg/reveal.js-menu) - Slide out menu for reveal.js
 - [rajgoel/reveal.js-plugins](https://github.com/rajgoel/reveal.js-plugins) - Plugins for reveal.js
-- [weseek/growi](https://github.com/weseek/growi) - :anchor: GROWI - Team collaboration software using markdown
 - [PandelisZ/git-intro-slides](https://github.com/PandelisZ/git-intro-slides) - 🚩👨‍🎓 Slides for my GitHub Campus Expert workshop.
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [WebDevSimplified/wordle-clone](https://github.com/WebDevSimplified/wordle-clone) - 
@@ -1729,7 +1728,7 @@
 - [voximplant/react-native-demo](https://github.com/voximplant/react-native-demo) - React Native Voximplant Demo
 - [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys) - Lightweight full-featured WhatsApp Web + Multi-Device API
 - [parse-community/parse-server-example](https://github.com/parse-community/parse-server-example) - Example server using Express and the parse-server module.
-- [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node/Express
+- [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [MEGAMINDMK/Php-Electronjs](https://github.com/MEGAMINDMK/Php-Electronjs) - A working php server with electronjs fully customizable & easy to use
@@ -1789,7 +1788,7 @@
 - [xTecna/sete-cliques](https://github.com/xTecna/sete-cliques) - 
 - [codethejason/flood-game](https://github.com/codethejason/flood-game) - Flood game implemented in ReasonReact from Simon Tatham's Portable Puzzle Collection.
 - [codethejason/checkers](https://github.com/codethejason/checkers) - A Checkers Game based on Javascript.
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
 - [excalidraw/excalidraw-blog](https://github.com/excalidraw/excalidraw-blog) - Official blog of Excalidraw
 - [elwayman02/ember-user-activity](https://github.com/elwayman02/ember-user-activity) - Ember Addon for tracking user activity & idling
 - [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
@@ -2167,7 +2166,7 @@
 - [tediousjs/node-mssql](https://github.com/tediousjs/node-mssql) - Microsoft SQL Server client for Node.js
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [EmailThis/extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) - ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
@@ -2192,7 +2191,6 @@
 - [programadorabordo/ead-api](https://github.com/programadorabordo/ead-api) - API da plataforma de ensino a distância desenvolvida junto ao canal do YouTube Programador a Bordo
 - [ritwickdey/live-server-web-extension](https://github.com/ritwickdey/live-server-web-extension) - It makes your existing server live. This is a browser extension that helps you to live reload feature for dynamic content (PHP, Node.js, ASP.NET -- Whatever, it doesn't matter)
 - [reactiflux/reactiflux.com](https://github.com/reactiflux/reactiflux.com) - Reactiflux Website
-- [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
 - [ng-hai/simple-trello](https://github.com/ng-hai/simple-trello) - A simple cloning version of Trello, using React ecosystem.
@@ -2510,7 +2508,7 @@
 - [ilmoi/awesome-solana-nfts](https://github.com/ilmoi/awesome-solana-nfts) - A curated list of Solana NFT protocols, repos & community tools
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [engineerapart/TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) - Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!
-- [merchizm/Todoiva](https://github.com/merchizm/Todoiva) - Todoiva is a stylish non-competitive electron app that moves smoothly along its own line. The application has been developed for coders to learn practically while coding.
+- [merchizm/Todoiva](https://github.com/merchizm/Todoiva) - Todoiva is a stylish non-competitive electron app that moves smoothly along its own line.
 - [luisleao/frontinsampa](https://github.com/luisleao/frontinsampa) - Confira aqui como foram desenvolvidas todas as atividades de interatividade com a Twilio no FrontinSampa 2021.
 - [alan-ai/alan-sdk-web](https://github.com/alan-ai/alan-sdk-web) - Voice assistant SDK to build a voice interface for websites and web apps (JavaScript, React, Angular, Vue, Ember, Electron)
 - [yiisoft/docs](https://github.com/yiisoft/docs) - Various Yii 3.0 related documentation
@@ -3738,6 +3736,7 @@
 - [LeCoupa/vueflags](https://github.com/LeCoupa/vueflags) - 👩‍✈️👨‍✈️ One easy-to-use flag component for Vue.js with all ISO 3166-1 countries.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
+- [weseek/growi](https://github.com/weseek/growi) - :anchor: GROWI - Team collaboration software using markdown
 - [vuepress-theme-hope/vuepress-theme-hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope) - A vuepress theme with tons of features✨
 - [issaafalkattan/react-landing-page-template-2021](https://github.com/issaafalkattan/react-landing-page-template-2021) - A sleek plug n play react landing page template.
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
@@ -3778,7 +3777,7 @@
 - [johnpapa/hello-worlds](https://github.com/johnpapa/hello-worlds) - Hello world apps for angular, react, svelte, and vue
 - [netless-io/netless-app](https://github.com/netless-io/netless-app) - Official Apps for the Agora Interactive Whiteboard.
 - [joshuamorony/phaser3-typescript-webpack-capacitor](https://github.com/joshuamorony/phaser3-typescript-webpack-capacitor) - A starter project for Phaser 3 with TypeScript, Webpack, and Capacitor support
-- [novuhq/novu](https://github.com/novuhq/novu) - ⭐ A fully functional real-time notification center for your web and react apps. The open-source notifications infrastructure that enables scheduled notifications, digest engine, user preferences, and 
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for developers
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [AfterShip/phone](https://github.com/AfterShip/phone) - With a given country and phone number, validate and reformat the mobile phone number to the E.164 standard. The purpose of this is to allow us to send SMS to mobile phones only.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
@@ -3851,7 +3850,7 @@
 - [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
 - [deckgo/deckdeckgo](https://github.com/deckgo/deckdeckgo) - The web open source editor for presentations
 - [vechai/vechaiui](https://github.com/vechai/vechaiui) - A set of high-quality accessible React UI components with the built-in dark mode using Tailwind CSS. Pre-designed headless ui and radix-ui.
-- [radix-ui/primitives](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
+- [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 - [leerob/react2025](https://github.com/leerob/react2025) - ⚛️ Build applications from the the future, today.
 - [nuxt/image](https://github.com/nuxt/image) - Plug-and-play image optimization for Nuxt applications.
 - [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind, Prisma, and Vercel.
@@ -4237,6 +4236,7 @@
 - [johnpapa/angular-preload-and-interceptors](https://github.com/johnpapa/angular-preload-and-interceptors) - 
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A headless CMS for Markdown
 - [ARTHURPC03/GoFinancesWeb](https://github.com/ARTHURPC03/GoFinancesWeb) - Aplicação para gerenciar finanças, feito com React + TypeScript
+- [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [sahat/satellizer](https://github.com/sahat/satellizer) - Token-based AngularJS Authentication
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue

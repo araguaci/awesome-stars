@@ -823,7 +823,7 @@
 - [eugenp/tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
 - [dbpedia/chatbot](https://github.com/dbpedia/chatbot) - DBpedia Chatbot
 - [joindesk/Joindesk](https://github.com/joindesk/Joindesk) - Open source Project Management application.
-- [learning-zone/java-basics](https://github.com/learning-zone/java-basics) - Java Basics ( java-8 )
+- [learning-zone/java-basics](https://github.com/learning-zone/java-basics) - Java Basics ( Java-8 )
 - [spring-io/start.spring.io](https://github.com/spring-io/start.spring.io) - https://start.spring.io
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [Telegram-FOSS-Team/Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Unofficial, FOSS-friendly fork of the original Telegram client for Android
@@ -901,7 +901,7 @@
 - [LekoArts/gatsby-starter-portfolio-cara](https://github.com/LekoArts/gatsby-starter-portfolio-cara) - Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Especially designers and/or photographers will love this theme! Built with MDX and Theme UI.
 - [LekoArts/gatsby-status-dashboard](https://github.com/LekoArts/gatsby-status-dashboard) - Show the live statuses of your Netlify and CircleCI builds on your website! Easily integrate the customizable components into your site and adapt them to your theme (utilizing Theme UI).
 - [tyrasd/overpass-turbo](https://github.com/tyrasd/overpass-turbo) - A web based data mining tool for OpenStreetMap using the Overpass API.
-- [shopyo/shopcube](https://github.com/shopyo/shopcube) - Open Ecommerce solution for Shops. Complete with cart and wishlist.
+- [shopyo/shopcube](https://github.com/shopyo/shopcube) - Moved to https://github.com/Abdur-rahmaanJ/shopcube
 - [mattdesl/canvas-sketch](https://github.com/mattdesl/canvas-sketch) - [beta] A framework for making generative artwork in JavaScript and the browser.
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
@@ -2197,7 +2197,7 @@
 - [carlosazaustre/vue-trello](https://github.com/carlosazaustre/vue-trello) - Trello clone with Vue.js for educational purposes
 - [bhushankumarl/trello-node-api](https://github.com/bhushankumarl/trello-node-api) - Trello NodeJS Wrapper
 - [norberteder/trello](https://github.com/norberteder/trello) - Use the Trello API from Node
-- [vasani-arpit/WBOT](https://github.com/vasani-arpit/WBOT) - A simple Web based BOT for WhatsApp™ in NodeJS 😜. Working as of 📅 Dec 9th, 2021
+- [vasani-arpit/WBOT](https://github.com/vasani-arpit/WBOT) - A simple Web based BOT for WhatsApp™ in NodeJS 😜. Working as of 📅 Nov 14th, 2022
 - [videosegments/videosegments](https://github.com/videosegments/videosegments) - Extension to skip unwanted content in videos
 - [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 - [request/request](https://github.com/request/request) - 🏊🏾 Simplified HTTP request client.

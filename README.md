@@ -1567,6 +1567,7 @@
 - [javve/list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
 - [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [lukejacksonn/oceanwind](https://github.com/lukejacksonn/oceanwind) - Compiles tailwind shorthand into css at runtime. Succeeded by Twind.
+- [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
 - [bhj/KaraokeEternal](https://github.com/bhj/KaraokeEternal) - Open karaoke party system
 - [Temasys/AdapterJS](https://github.com/Temasys/AdapterJS) - AdapterJS Javascript Polyfill and Tools for WebRTC - Skylink WebRTC
 - [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
@@ -1646,7 +1647,7 @@
 - [stevenschobert/instafeed.js](https://github.com/stevenschobert/instafeed.js) - A simple Instagram JavaScript plugin for your website
 - [Sandermoen/instaclone](https://github.com/Sandermoen/instaclone) - An instagram clone created with the MERN stack
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
-- [opentargets/platform-app](https://github.com/opentargets/platform-app) - Open Targets Platform web app
+- [opentargets-archive/platform-app](https://github.com/opentargets-archive/platform-app) - Open Targets Platform web app
 - [twilio/twilio-node](https://github.com/twilio/twilio-node) - Node.js helper library
 - [maykbrito/trim-video](https://github.com/maykbrito/trim-video) - 
 - [rocketseat-content/masterclass-nodejs-sql](https://github.com/rocketseat-content/masterclass-nodejs-sql) - Código produzido durante o vídeo "Masterclass #01 - SQL no Node.js com Sequelize" no Youtube 🔥
@@ -2099,7 +2100,7 @@
 - [GoogleChromeLabs/preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin) - Please use https://github.com/vuejs/preload-webpack-plugin instead.
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [davidtheclark/react-aria-menubutton](https://github.com/davidtheclark/react-aria-menubutton) - A fully accessible, easily themeable, React-powered menu button
 - [geobde/react-triple-toggle](https://github.com/geobde/react-triple-toggle) - React multi toggle component
 - [zillow/react-slider](https://github.com/zillow/react-slider) - Accessible, CSS agnostic, slider component for React.
@@ -2222,7 +2223,6 @@
 - [apertureless/vue-parallax](https://github.com/apertureless/vue-parallax) - 🌌  Vue.js component for parallax image scroll effects
 - [jakezatecky/react-checkbox-tree](https://github.com/jakezatecky/react-checkbox-tree) - A simple and elegant checkbox tree for React.
 - [amsik/liquor-tree](https://github.com/amsik/liquor-tree) - Tree component based on Vue.js
-- [versatica/mediasoup-client](https://github.com/versatica/mediasoup-client) - mediasoup client side JavaScript library
 - [wayou/HiChat](https://github.com/wayou/HiChat) - A chat application built with Node.js and Websocket
 - [rodrilima/corona-analytic-api](https://github.com/rodrilima/corona-analytic-api) - API that generates information about coronavirus (COVID19) cases in the states of Brazil and other parts of the world
 - [mckenziearts/laravel-notify](https://github.com/mckenziearts/laravel-notify) - Flexible Flash notifications for Laravel
@@ -2520,7 +2520,6 @@
 - [syxanash/awesome-web-desktops](https://github.com/syxanash/awesome-web-desktops) - Websites, web apps, portfolios which look like desktop operating systems
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [priyankavergadia/GCPSketchnote](https://github.com/priyankavergadia/GCPSketchnote) - If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.
-- [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
 - [Jhnbrn90/LaravelPackage.com](https://github.com/Jhnbrn90/LaravelPackage.com) - Documentation for LaravelPackage.com: Learn to create Laravel specific PHP packages from scratch, following this open documentation.
 - [Urigo/awesome-meteor](https://github.com/Urigo/awesome-meteor) - A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things
 - [amilajack/project-checklist](https://github.com/amilajack/project-checklist) - ✅ A checklist of things to do before releasing your project
@@ -3192,7 +3191,6 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [github-tooling/ghtopdep](https://github.com/github-tooling/ghtopdep) - :star: CLI tool for sorting dependents repo by stars
-- [arc298/instagram-scraper](https://github.com/arc298/instagram-scraper) - Scrapes an instagram user's photos and videos
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
@@ -3363,6 +3361,7 @@
 ## SVG 
 
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨
+- [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
 
 ## Scala 
 
@@ -3390,7 +3389,7 @@
 - [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ wireguard-manager enables you to create and manage your own vpn under a minute.
 - [plone/plone-backend](https://github.com/plone/plone-backend) - Plone backend Docker images using Python 3 and pip.
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
-- [DamionGans/ubuntu-wsl2-systemd-script](https://github.com/DamionGans/ubuntu-wsl2-systemd-script) - Script to enable systemd support on current Ubuntu WSL2 images [Unsupported, no longer updated]
+- [DamionGans/ubuntu-wsl2-systemd-script](https://github.com/DamionGans/ubuntu-wsl2-systemd-script) - [Does not work anymore!] Script to enable systemd support on current Ubuntu WSL2 images
 - [VitalPBX/vitalpbx_ha_call_center](https://github.com/VitalPBX/vitalpbx_ha_call_center) - VitalPBX High Availability for Call Centers
 - [fdaciuk/install-linux](https://github.com/fdaciuk/install-linux) - Softwares to install on Linux
 - [heroku/heroku-buildpack-php](https://github.com/heroku/heroku-buildpack-php) - The official PHP buildpack for Heroku.
@@ -3862,7 +3861,6 @@
 - [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕜 Modern Timeline Component for React
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [vuerd/vuerd](https://github.com/vuerd/vuerd) - Entity-Relationship Diagram Editor
-- [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
 - [TowhidKashem/snapchat-clone](https://github.com/TowhidKashem/snapchat-clone) - 👻 A Snapchat clone built with React and Redux. Written in Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!
 - [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) - 🔎 🏞 The original medium.com-inspired image zooming library for React
 - [infinitered/reactotron-core-ui](https://github.com/infinitered/reactotron-core-ui) - 
@@ -4243,6 +4241,7 @@
 - [rocketseat-content/youtube-challenge-nestjs-graphql](https://github.com/rocketseat-content/youtube-challenge-nestjs-graphql) - GraphQL API with NestJS in Back-end. React in Front-end.
 - [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
+- [versatica/mediasoup-client](https://github.com/versatica/mediasoup-client) - mediasoup client side JavaScript library
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
 - [wireapp/wire-desktop](https://github.com/wireapp/wire-desktop) - :computer: Wire for desktop

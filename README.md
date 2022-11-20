@@ -687,7 +687,6 @@
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [n457/Uncolored](https://github.com/n457/Uncolored) - (Un)colored — Next generation desktop rich content editor that saves documents with themes. HTML & Markdown compatible. For Windows, OS X & Linux. — http://n457.github.io/Uncolored/
 - [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
-- [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - Pure HTML5 Network Performance Estimation Tool. OpenSpeedTest uses XMLHttpRequest (XHR), HTML, CSS, JS, & SVG For this network performance estimation tool. I started this project in 2011 and moved to 
 - [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
 - [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
 - [phuocng/frontend-tips](https://github.com/phuocng/frontend-tips) - Super tiny, quick tips, tricks and best practices of front-end development
@@ -1437,7 +1436,6 @@
 - [maykbrito/electron-desktop-custom-notion-omni](https://github.com/maykbrito/electron-desktop-custom-notion-omni) - Inject custom CSS to beautify Notion.so
 - [plotly/falcon](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac 🦅
 - [mholt/PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
-- [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js, with workbox 🧰
 - [1j01/98](https://github.com/1j01/98) - 💿 Web-based Windows 98 desktop recreation █████▓█▓▓▒▓▒▒░▒░░░🗕︎🗗︎🗙︎
@@ -1470,6 +1468,7 @@
 - [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
+- [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - Speed Test by OpenSpeedTest™️ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS
 - [dotenorio/clipboard-manager-electron](https://github.com/dotenorio/clipboard-manager-electron) - A clipboard manager built with Electron
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a brain
 - [advanced-rest-client/arc-electron](https://github.com/advanced-rest-client/arc-electron) - Advanced REST Client - Desktop application
@@ -2188,7 +2187,7 @@
 - [joelambert/Flux-Slider](https://github.com/joelambert/Flux-Slider) - CSS3 Animation based image transitions
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [francescou/docker-compose-ui](https://github.com/francescou/docker-compose-ui) - web interface for Docker Compose
-- [programadorabordo/ead-api](https://github.com/programadorabordo/ead-api) - API da plataforma de ensino a distância desenvolvida junto ao canal do YouTube Programador a Bordo
+- [ayrtonteshima/ead-api](https://github.com/ayrtonteshima/ead-api) - API da plataforma de ensino a distância desenvolvida junto ao canal do YouTube Programador a Bordo
 - [ritwickdey/live-server-web-extension](https://github.com/ritwickdey/live-server-web-extension) - It makes your existing server live. This is a browser extension that helps you to live reload feature for dynamic content (PHP, Node.js, ASP.NET -- Whatever, it doesn't matter)
 - [reactiflux/reactiflux.com](https://github.com/reactiflux/reactiflux.com) - Reactiflux Website
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -2395,6 +2394,7 @@
 ## Nunjucks 
 
 - [jamstack/jamstack.org](https://github.com/jamstack/jamstack.org) - The official Jamstack site
+- [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers
 - [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev) - The frontend, backend, and content source code for web.dev
 
@@ -2992,7 +2992,7 @@
 - [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files
 - [ReactiveX/RxPHP](https://github.com/ReactiveX/RxPHP) - Reactive extensions for PHP
 - [RobertoAlbino/i-educar](https://github.com/RobertoAlbino/i-educar) - 
-- [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client/server API for the telegram MTProto protocol
+- [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client API for the telegram MTProto protocol
 - [seregazhuk/reactphp-video-tutorials](https://github.com/seregazhuk/reactphp-video-tutorials) - 
 - [distvan/server-monitor](https://github.com/distvan/server-monitor) - Live Server Monitoring using websocket
 - [kanboard/kanboard](https://github.com/kanboard/kanboard) - Kanban project management software

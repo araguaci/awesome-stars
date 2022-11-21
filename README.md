@@ -1419,7 +1419,7 @@
 - [sirxemic/jquery.ripples](https://github.com/sirxemic/jquery.ripples) - Add a water ripple effect to your background using WebGL.
 - [simeydotme/sparticles](https://github.com/simeydotme/sparticles) - JavaScript Particles in Canvas ~~ Fast, Lightweight, High Performance.
 - [lindelof/particles-bg](https://github.com/lindelof/particles-bg) - React particles animation background component
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [vivek9patel/ad-free-spotify](https://github.com/vivek9patel/ad-free-spotify) - Chrome extension to automatically mute/unmute Spotify tab when Advertisement starts and ends!
 - [vivek9patel/CPU-Scheduling-APP-React-Native](https://github.com/vivek9patel/CPU-Scheduling-APP-React-Native) - React Native Application to visualize the CPU Scheduling with different Processes and Animations. Install the App on your Mobile Devices by going in the Releases below.
 - [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Personal portfolio website of theme Ubuntu 20.04, made using NEXT.js & tailwind CSS
@@ -1468,7 +1468,7 @@
 - [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
-- [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - Speed Test by OpenSpeedTest™️ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS
+- [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - Speed Test by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS,
 - [dotenorio/clipboard-manager-electron](https://github.com/dotenorio/clipboard-manager-electron) - A clipboard manager built with Electron
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a brain
 - [advanced-rest-client/arc-electron](https://github.com/advanced-rest-client/arc-electron) - Advanced REST Client - Desktop application

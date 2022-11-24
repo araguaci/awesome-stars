@@ -449,7 +449,6 @@
 ## EJS 
 
 - [rocketseat-education/nlw-06-discover](https://github.com/rocketseat-education/nlw-06-discover) - O Rocket.Q é uma aplicação de interação através de perguntas, sendo possível criar uma sala para internautas anônimos fazerem perguntas e o criador da sala em posse de uma senha gerenciar essas pergun
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 ## Elixir 
 
@@ -803,7 +802,7 @@
 
 ## Handlebars 
 
-- [electron/electronjs.org](https://github.com/electron/electronjs.org) - Electron website
+- [electron/electronjs.org-old](https://github.com/electron/electronjs.org-old) - Electron website
 - [felipecastrosales/Happy](https://github.com/felipecastrosales/Happy) - Happy 🥳 | Rocketseat 💜 - NLW 03 👩‍🚀
 
 ## Haskell 
@@ -1420,6 +1419,7 @@
 - [sirxemic/jquery.ripples](https://github.com/sirxemic/jquery.ripples) - Add a water ripple effect to your background using WebGL.
 - [simeydotme/sparticles](https://github.com/simeydotme/sparticles) - JavaScript Particles in Canvas ~~ Fast, Lightweight, High Performance.
 - [lindelof/particles-bg](https://github.com/lindelof/particles-bg) - React particles animation background component
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [vivek9patel/ad-free-spotify](https://github.com/vivek9patel/ad-free-spotify) - Chrome extension to automatically mute/unmute Spotify tab when Advertisement starts and ends!
 - [vivek9patel/CPU-Scheduling-APP-React-Native](https://github.com/vivek9patel/CPU-Scheduling-APP-React-Native) - React Native Application to visualize the CPU Scheduling with different Processes and Animations. Install the App on your Mobile Devices by going in the Releases below.
 - [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Personal portfolio website of theme Ubuntu 20.04, made using NEXT.js & tailwind CSS
@@ -1752,7 +1752,6 @@
 - [fullstackreact/google-maps-react](https://github.com/fullstackreact/google-maps-react) - Companion code to the "How to Write a Google Maps React Component" Tutorial
 - [Akryum/vue-googlemaps](https://github.com/Akryum/vue-googlemaps) - Integrate Google Maps in your Vue application
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
 - [aakashsr/GithubSquare](https://github.com/aakashsr/GithubSquare) - Explore the most starred projects , trending developers , popular repositories of any date and face off Github Profiles of your choice.
 - [klaudiosinani/ao](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -2230,7 +2229,6 @@
 - [rocketseat-content/youtube-challenge-grpc](https://github.com/rocketseat-content/youtube-challenge-grpc) - Micro-services communicating with gRPC.
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [Gikkman/google-auth-electron](https://github.com/Gikkman/google-auth-electron) - Sample app for verifying against Google with an Electron app
-- [mongodb-js/compass](https://github.com/mongodb-js/compass) - The GUI for MongoDB.
 - [mdemblani/twitter-login-client](https://github.com/mdemblani/twitter-login-client) - Implements a Client-Side flow for login with twitter, similar to one provided by Facebook and Google. To read the Flow of implementing Login with Twitter.
 - [the-javapocalypse/jitsi-meet](https://github.com/the-javapocalypse/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [rocketseat-content/youtube-challenge-electron-tray](https://github.com/rocketseat-content/youtube-challenge-electron-tray) - Provides an easy way to open favorite projects on VSCode
@@ -2796,7 +2794,7 @@
 - [intuit/QuickBooks-V3-PHP-SDK](https://github.com/intuit/QuickBooks-V3-PHP-SDK) - Official PHP SDK for QuickBooks REST API v3.0: https://developer.intuit.com/
 - [silverstripe/silverstripe-framework](https://github.com/silverstripe/silverstripe-framework) - Silverstripe Framework, the MVC framework that powers Silverstripe CMS
 - [CViniciusSDias/php-text-to-speech](https://github.com/CViniciusSDias/php-text-to-speech) - A simple PHP tool that uses each OS text-to-speech CLI
-- [spekulatius/PHPScraper](https://github.com/spekulatius/PHPScraper) - A universal web-util for PHP
+- [spekulatius/PHPScraper](https://github.com/spekulatius/PHPScraper) - A universal web-util for PHP.
 - [slimphp/Slim](https://github.com/slimphp/Slim) - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
 - [tailflow/laravel-orion](https://github.com/tailflow/laravel-orion) - The simplest way to create REST API with Laravel
 - [cgdprojects/genealogy](https://github.com/cgdprojects/genealogy) - Laravel 9.x backend using PHP 8.1. Family tree and genealogy data processing website software.
@@ -3474,7 +3472,7 @@
 - [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
 - [janosh/periodic-table](https://github.com/janosh/periodic-table) - Periodic table of elements written in Svelte
 - [itswadesh/svelte-commerce](https://github.com/itswadesh/svelte-commerce) - Svelte ecommerce - Headless, Authentication, Cart & Checkout, TailwindCSS, Server Rendered, Proxy + API Integrated, Animations, Stores, Lazy Loading, Loading Indicators, Carousel, Instant Search, Face
-- [Brain-Bones/skeleton](https://github.com/Brain-Bones/skeleton) - A fully featured UI toolkit for Svelte + Tailwind.
+- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A fully featured UI toolkit for Svelte + Tailwind.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams
 - [sveltejs/realworld](https://github.com/sveltejs/realworld) - SvelteKit implementation of the RealWorld app
@@ -3487,6 +3485,7 @@
 - [Aveek-Saha/DuskPlayer](https://github.com/Aveek-Saha/DuskPlayer) - A minimal music player built on electron.
 - [open-source-labs/SvelteStorm](https://github.com/open-source-labs/SvelteStorm) - SvelteStorm is an open-source IDE with a built-in Debugging window for viewing and debugging your Svelte project in real-time
 - [fireship-io/fireship.io](https://github.com/fireship-io/fireship.io) - Build and ship your app faster  https://fireship.io
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
 - [Tommertom/svelte-ionic-app](https://github.com/Tommertom/svelte-ionic-app) - Ionic  UI showcase app - try Ionic UI  and directly go to API or source code (Svelte, Angular, Vue, Vanilla and React)
 
 ## Swift 
@@ -4246,6 +4245,7 @@
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
 - [wireapp/wire-desktop](https://github.com/wireapp/wire-desktop) - :computer: Wire for desktop
 - [wexond/browser-base](https://github.com/wexond/browser-base) - Modern and feature-rich web browser base based on Electron
+- [mongodb-js/compass](https://github.com/mongodb-js/compass) - The GUI for MongoDB.
 - [WebThingsIO/gateway](https://github.com/WebThingsIO/gateway) - WebThings Gateway
 - [IBM/cognitive-social-crm](https://github.com/IBM/cognitive-social-crm) - An application that monitors a Twitter feed and determines customer sentiment using IBM Watson Assistant, Tone Analyzer, Natural Language Understanding, as well as CloudantDB
 - [nodegui/examples](https://github.com/nodegui/examples) - Repo containing example apps made with NodeGui and React NodeGui

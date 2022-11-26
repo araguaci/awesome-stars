@@ -374,7 +374,6 @@
 - [sahat/megaboilerplate](https://github.com/sahat/megaboilerplate) - Handcrafted starter projects, optimized for simplicity and ease of use.
 - [sahat/instagram-hackhands](https://github.com/sahat/instagram-hackhands) - Source code for HackHands blog post
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
-- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [vitroz/MapaInterativoJS](https://github.com/vitroz/MapaInterativoJS) - Mapa Interativo do Brasil separado por Estados em Javascript, utilizando a biblioteca open-source Geo Charts da Google
 - [hugmanrique/Twtr](https://github.com/hugmanrique/Twtr) - :tada: Twitter client made with Electron
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
@@ -2216,6 +2215,7 @@
 - [bradtraversy/react_express_starter](https://github.com/bradtraversy/react_express_starter) - Starter pack for React and Express full stack development
 - [bradtraversy/node_passport_login](https://github.com/bradtraversy/node_passport_login) - Node.js login, registration and access control using Express and Passport
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
+- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [schmich/chrome-extension-localization](https://github.com/schmich/chrome-extension-localization) - Organize and manage localization for your Chrome extension
 - [schmich/marinara](https://github.com/schmich/marinara) - Pomodoro® time management assistant for Chrome
 - [apertureless/vue-parallax](https://github.com/apertureless/vue-parallax) - 🌌  Vue.js component for parallax image scroll effects

@@ -294,6 +294,7 @@
 - [lonekorean/gist-syntax-themes](https://github.com/lonekorean/gist-syntax-themes) - Collection of syntax theme stylesheets for GitHub Gists.
 - [petargyurov/virtual-bookshelf](https://github.com/petargyurov/virtual-bookshelf) - A simple bookshelf made in CSS, HTML and vanilla JS.
 - [tandpfun/nft-avatar](https://github.com/tandpfun/nft-avatar) - Create fake Twitter NFT avatars by giving your profile picture a hexagonal shape.
+- [paadevelopments/pexxalert](https://github.com/paadevelopments/pexxalert) - An advanced JavaScript alert/dialog library for all PWAs. NPM accessible.
 - [ayusharma/birthday](https://github.com/ayusharma/birthday) - A Happy Birthday animation design in CSS3, HTML5
 - [vicky002/AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and resources on different topics of Computer Science.
 - [heroku/12factor](https://github.com/heroku/12factor) - 
@@ -719,7 +720,7 @@
 - [opentargets/opentargets.github.io](https://github.com/opentargets/opentargets.github.io) - Open Targets corporate website code using Jekyll
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [hermanzdosilovic/online-compiler](https://github.com/hermanzdosilovic/online-compiler) - Online compiler written in less than 200 lines of code.
-- [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 - FREE for commercial use
+- [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements) - The most popular independent Tailwind library. 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 - [cunhasbia/single-page-application](https://github.com/cunhasbia/single-page-application) - ✔️ a simple SPA that validates a login and shows the content page through javascript and DOM manipulation.
 - [Timoteoo/log-user-actions](https://github.com/Timoteoo/log-user-actions) - Basic app that logs to the database some things that the user do, such as login dates, amount of times that some user logged in...
 - [rocketseat-content/youtube-git-guia-pratico-iniciante](https://github.com/rocketseat-content/youtube-git-guia-pratico-iniciante) - 
@@ -1302,7 +1303,7 @@
 - [felixrieseberg/npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - :rocket: Upgrade npm on Windows
 - [patrickmonteiro/quasar-epub-reader](https://github.com/patrickmonteiro/quasar-epub-reader) - 📚 👓  An epub reader made with quasar framework and epubjs
 - [PDFTron/pdftron-document-search](https://github.com/PDFTron/pdftron-document-search) - Build search across multiple documents client-side in your file storage
-- [stephanrauh/ngx-extended-pdf-viewer](https://github.com/stephanrauh/ngx-extended-pdf-viewer) - A full-blown PDF viewer for Angular 12, 13, 14, and beyond
+- [stephanrauh/ngx-extended-pdf-viewer](https://github.com/stephanrauh/ngx-extended-pdf-viewer) - A full-blown PDF viewer for Angular 12, 13, 14, 15, and beyond
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
 - [ether/ep_webrtc](https://github.com/ether/ep_webrtc) - Audio & Video chat for Etherpad - Video Conferencing with a focus on collaboration
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
@@ -2066,7 +2067,7 @@
 - [btholt/complete-intro-to-linux-and-the-cli](https://github.com/btholt/complete-intro-to-linux-and-the-cli) - 🐧  The Complete Intro to Linux and the Command Line, as taught for Frontend Masters
 - [btholt/complete-intro-to-containers](https://github.com/btholt/complete-intro-to-containers) - The Complete Intro to Containers! As taught on Frontend Masters.
 - [testing-library/testing-playground](https://github.com/testing-library/testing-playground) - Simple and complete DOM testing playground that encourage good testing practices.
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (December 2022)
 - [PatrickJS/MFE-starter](https://github.com/PatrickJS/MFE-starter) - MFE Starter
 - [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
@@ -2441,7 +2442,6 @@
 - [dendronhq/awesome-dendron](https://github.com/dendronhq/awesome-dendron) - A big list of Dendron docs, talks, tools, examples, articles, extensions, vaults, showcases, and more that the internet has to offer.
 - [themesberg/glass-ui](https://github.com/themesberg/glass-ui) - CSS UI library based on the glassmorphism design specifications
 - [tombetthauser/fullstack-faqs](https://github.com/tombetthauser/fullstack-faqs) - Common questions and solutions observed during fullstack portfolio projects, specifically for Flask and Express React applications.
-- [paadevelopments/pexxalert](https://github.com/paadevelopments/pexxalert) - An advanced JavaScript alert/dialog library for all PWAs. NPM accessible.
 - [lucasgdb/useful-dev-tools](https://github.com/lucasgdb/useful-dev-tools) - :star: A list with useful tools that help many Developers. Hacktoberfest :star:
 - [sw-yx/spark-joy](https://github.com/sw-yx/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
 - [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) - :pager: Links to others' solutions to Projects (https://github.com/karan/Projects/)
@@ -3133,7 +3133,7 @@
 - [exercism/python](https://github.com/exercism/python) - Exercism exercises in Python.
 - [Scille/parsec-cloud](https://github.com/Scille/parsec-cloud) - Open source Dropbox-like file sharing with full client encryption !
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
+- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
@@ -3485,7 +3485,6 @@
 - [Aveek-Saha/DuskPlayer](https://github.com/Aveek-Saha/DuskPlayer) - A minimal music player built on electron.
 - [open-source-labs/SvelteStorm](https://github.com/open-source-labs/SvelteStorm) - SvelteStorm is an open-source IDE with a built-in Debugging window for viewing and debugging your Svelte project in real-time
 - [fireship-io/fireship.io](https://github.com/fireship-io/fireship.io) - Build and ship your app faster  https://fireship.io
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
 - [Tommertom/svelte-ionic-app](https://github.com/Tommertom/svelte-ionic-app) - Ionic  UI showcase app - try Ionic UI  and directly go to API or source code (Svelte, Angular, Vue, Vanilla and React)
 
 ## Swift 
@@ -3894,7 +3893,7 @@
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [vercel/virtual-event-starter-kit](https://github.com/vercel/virtual-event-starter-kit) - Open source demo that Next.js developers can clone, deploy, and fully customize for events.
 - [shmuelhizmi/web-desktop-environment](https://github.com/shmuelhizmi/web-desktop-environment) - a web-based cross-platform desktop environment
-- [qwefgh90/ng-terminal](https://github.com/qwefgh90/ng-terminal) - NgTerminal is a terminal component on Angular 12. the Ivy distribution's released from v5.0.0.
+- [qwefgh90/ng-terminal](https://github.com/qwefgh90/ng-terminal) - NgTerminal is a terminal component on Angular. the Ivy distribution's released from v5.0.0.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [steelbrain/node-ssh](https://github.com/steelbrain/node-ssh) - SSH2 with Promises
@@ -3972,6 +3971,7 @@
 - [jasperapp/jasper](https://github.com/jasperapp/jasper) - Jasper - A flexible and powerful issue reader for GitHub
 - [JustFly1984/react-google-maps-api](https://github.com/JustFly1984/react-google-maps-api) - React Google Maps API
 - [googlemaps/js-samples](https://github.com/googlemaps/js-samples) - Samples for the Google Maps JavaScript v3 API
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [googleapis/google-auth-library-nodejs](https://github.com/googleapis/google-auth-library-nodejs) - 🔑 Google Auth Library for Node.js

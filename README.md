@@ -1101,7 +1101,7 @@
 - [gbraadnl/gauth](https://github.com/gbraadnl/gauth) - A simple application for multi-factor authentication, written in HTML using jQuery Mobile, jsSHA and LocalStorage.
 - [AykutSarac/react-quiz](https://github.com/AykutSarac/react-quiz) - 💡 Quiz app made using React & Open Trivia DB.
 - [collab-project/videojs-record](https://github.com/collab-project/videojs-record) - video.js plugin for recording audio/video/image files
-- [100mslive/100ms-web](https://github.com/100mslive/100ms-web) - Build powerful live applications in hours
+- [100mslive/100ms-web](https://github.com/100mslive/100ms-web) - A conferencing and streaming UI built with 100ms SDK.
 - [streamproc/MediaStreamRecorder](https://github.com/streamproc/MediaStreamRecorder) - Cross browser audio/video/screen recording. It supports Chrome, Firefox, Opera and Microsoft Edge. It even works on Android browsers. It follows latest MediaRecorder API standards and provides similar
 - [muaz-khan/RecordRTC](https://github.com/muaz-khan/RecordRTC) - RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.
 - [muaz-khan/RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.)
@@ -2420,6 +2420,7 @@
 - [araguaci/Christo-nihil-praeponere](https://github.com/araguaci/Christo-nihil-praeponere) - Christo nihil praeponere - a nada dar mais valor que a Cristo
 - [araguaci/You-Dont-Know-JS](https://github.com/araguaci/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [aneagoie/ztm-python-cheat-sheet](https://github.com/aneagoie/ztm-python-cheat-sheet) - 
+- [Hasnayeen/goodwork](https://github.com/Hasnayeen/goodwork) - https://github.com/Hasnayeen/legacy-goodwork
 - [miconda/sip-resources](https://github.com/miconda/sip-resources) - Various SIP resources.
 - [rtckit/awesome-rtc](https://github.com/rtckit/awesome-rtc) - :satellite: A curated list of awesome Real Time Communications resources
 - [JStumpp/awesome-chatbots](https://github.com/JStumpp/awesome-chatbots) - A curated list of awesome Chatbot services and resources.
@@ -2657,7 +2658,7 @@
 - [HansSchouten/Laravel-Pagebuilder](https://github.com/HansSchouten/Laravel-Pagebuilder) - A drag and drop pagebuilder to manage pages in any Laravel project.
 - [cretueusebiu/laravel-vue-spa](https://github.com/cretueusebiu/laravel-vue-spa) - A Laravel-Vue SPA starter kit.
 - [julienbourdeau/route-usage](https://github.com/julienbourdeau/route-usage) - Log what routes were used and when. Easily figure out if one hasn't been called in a long time (and delete it! 🥳)
-- [osiset/laravel-shopify](https://github.com/osiset/laravel-shopify) - A full-featured Laravel package for aiding in Shopify App development
+- [gnikyt/laravel-shopify](https://github.com/gnikyt/laravel-shopify) - A full-featured Laravel package for aiding in Shopify App development
 - [bagisto/bagisto](https://github.com/bagisto/bagisto) - An easy to use, free and open source laravel eCommerce platform to build your online shop in no time.
 - [kreait/firebase-php](https://github.com/kreait/firebase-php) - Unofficial Firebase Admin SDK for PHP
 - [laravelio/laravel.io](https://github.com/laravelio/laravel.io) - The Laravel.io Community Portal.
@@ -2676,7 +2677,6 @@
 - [ivan-sincek/secure-website](https://github.com/ivan-sincek/secure-website) - Secure website with a registration, sign in, session management, and CRUD controls.
 - [ivan-sincek/penetration-testing-cheat-sheet](https://github.com/ivan-sincek/penetration-testing-cheat-sheet) - Work in progress...
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
-- [Hasnayeen/goodwork](https://github.com/Hasnayeen/goodwork) - Self hosted project management and collaboration tool powered by TALL stack
 - [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 9.0 blog application with Hotwire, Homestead, Horizon, Telescope and Pusher
 - [arifszn/ezfolio](https://github.com/arifszn/ezfolio) - Open Source Portfolio/Resume CMS built using Laravel, React and Ant Design.
 - [reactphp/http](https://github.com/reactphp/http) - Event-driven, streaming HTTP client and server implementation for ReactPHP.
@@ -3200,7 +3200,7 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [giswqs/leafmap](https://github.com/giswqs/leafmap) - A Python package for interactive mapping and geospatial analysis  with minimal coding in a Jupyter environment
 - [allenai/scholarphi](https://github.com/allenai/scholarphi) - An interactive PDF reader.
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted free open source website change detection tracking, monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed f
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is
 - [IBM/MAX-Audio-Embedding-Generator](https://github.com/IBM/MAX-Audio-Embedding-Generator) - Generate embedding vectors from audio files
 - [mateustoin/Bittoin-Telegram-Bot](https://github.com/mateustoin/Bittoin-Telegram-Bot) - Bot para Telegram com diversas funcionalidades, com o intuito de se divertir e aproveitar utilidades para o dia a dia.
 - [Kilian/Trimage](https://github.com/Kilian/Trimage) - A cross-platform tool for optimizing PNG and JPG files.
@@ -3774,7 +3774,7 @@
 - [johnpapa/hello-worlds](https://github.com/johnpapa/hello-worlds) - Hello world apps for angular, react, svelte, and vue
 - [netless-io/netless-app](https://github.com/netless-io/netless-app) - Official Apps for the Agora Interactive Whiteboard.
 - [joshuamorony/phaser3-typescript-webpack-capacitor](https://github.com/joshuamorony/phaser3-typescript-webpack-capacitor) - A starter project for Phaser 3 with TypeScript, Webpack, and Capacitor support
-- [novuhq/novu](https://github.com/novuhq/novu) - The Open-Source Notifications Platform. Add a working notification center to your app in minutes. 🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [AfterShip/phone](https://github.com/AfterShip/phone) - With a given country and phone number, validate and reformat the mobile phone number to the E.164 standard. The purpose of this is to allow us to send SMS to mobile phones only.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
@@ -4236,7 +4236,7 @@
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [sahat/satellizer](https://github.com/sahat/satellizer) - Token-based AngularJS Authentication
-- [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
+- [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [rocketseat-content/youtube-challenge-nestjs-graphql](https://github.com/rocketseat-content/youtube-challenge-nestjs-graphql) - GraphQL API with NestJS in Back-end. React in Front-end.
 - [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js

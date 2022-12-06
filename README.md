@@ -166,7 +166,7 @@
 - [ElectronNET/Electron.NET](https://github.com/ElectronNET/Electron.NET) - :electron: Build cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor).
 - [Megabit/Blazorise](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Bulma, AntDesign, and Material.
 - [HHChaos/Drawing-Studio](https://github.com/HHChaos/Drawing-Studio) - A creative app with intelligence. It was given 1st place for Best User Experience in 2019 Microsoft 365 app awards.
-- [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app) - Example Docker Compose app
+- [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app) - Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
 - [renatogroffe/ASPNETCore5-REST_API-Kafka_ContagemAcessos](https://github.com/renatogroffe/ASPNETCore5-REST_API-Kafka_ContagemAcessos) - Exemplo de API REST criada com o .NET 5 + ASP.NET Core para contagem de acessos e envio de mensagens para um tópico do Apache Kafka (utilizando a biblioteca Confluent.Kafka).
 - [renatogroffe/DotNet5-WorkerService-Kafka-SqlServer_ContagemAcessos](https://github.com/renatogroffe/DotNet5-WorkerService-Kafka-SqlServer_ContagemAcessos) - Exemplo de consumo de mensagens de um tópico do Apache Kafka com dados de contagens de acesso em um Worker Service criado com .NET 5, utilizando ainda SQL Server + Dapper.Contrib para gravação dos dad
 - [3F/DllExport](https://github.com/3F/DllExport) - .NET DllExport with .NET Core support (aka 3F/DllExport aka DllExport.bat)
@@ -265,7 +265,6 @@
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
 - [pichi-router/pichi](https://github.com/pichi-router/pichi) - Flexible Rule-Based Proxy
-- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 - [mscdex/sipster](https://github.com/mscdex/sipster) - A pjsip/pjsua2 binding for node.js
 - [Squirrel/Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) - An installation and update framework for Windows desktop apps
@@ -1454,7 +1453,7 @@
 - [callmecavs/jump.js](https://github.com/callmecavs/jump.js) - A modern smooth scrolling library.
 - [callmecavs/bricks.js](https://github.com/callmecavs/bricks.js) - A blazing fast masonry layout generator for fixed width elements.
 - [Vestride/Shuffle](https://github.com/Vestride/Shuffle) - Categorize, sort, and filter a responsive grid of items
-- [RoderickQiu/wnr](https://github.com/RoderickQiu/wnr) - ⏱️ Work/Rest Timer. Stricter. Prettier. More features. Win/Mac/Linux. New updates coming!!!!
+- [RoderickQiu/wnr](https://github.com/RoderickQiu/wnr) - ⏱️ Work/Rest Timer. Stricter. Prettier. More features. Win/Mac/Linux. Will update when there are new issues.
 - [testing-library/testing-library-docs](https://github.com/testing-library/testing-library-docs) - docs site for @testing-library/*
 - [phuocng/get-svg](https://github.com/phuocng/get-svg) - A Chrome extension to download SVG from a webpage
 - [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native.
@@ -1789,7 +1788,6 @@
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
 - [excalidraw/excalidraw-blog](https://github.com/excalidraw/excalidraw-blog) - Official blog of Excalidraw
 - [elwayman02/ember-user-activity](https://github.com/elwayman02/ember-user-activity) - Ember Addon for tracking user activity & idling
-- [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
 - [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [ghoshnirmalya/linkedin-clone-react-frontend](https://github.com/ghoshnirmalya/linkedin-clone-react-frontend) - :rocket: Frontend for a software similar to LinkedIn
@@ -2045,6 +2043,7 @@
 - [devshawn/password.live](https://github.com/devshawn/password.live) - 🔒 Generate simple or complex passwords directly from your web browser.
 - [carbon-design-system/gatsby-theme-carbon](https://github.com/carbon-design-system/gatsby-theme-carbon) - A Carbon inspired Gatsby theme
 - [cboard-org/cboard](https://github.com/cboard-org/cboard) - Augmentative and Alternative Communication (AAC) system with text-to-speech for the browser
+- [storybookjs/react-native](https://github.com/storybookjs/react-native) - 📓 Storybook for React Native!
 - [carbon-design-system/carbon-website](https://github.com/carbon-design-system/carbon-website) - The website for the Carbon Design System.
 - [carbon-design-system/carbon-addons-iot-react](https://github.com/carbon-design-system/carbon-addons-iot-react) - A collection of React components shared between IBM Watson IoT products.
 - [carbon-design-system/carbon-addons-data-viz-react](https://github.com/carbon-design-system/carbon-addons-data-viz-react) - DEPRECATED. Please use Carbon Charts instead
@@ -2079,7 +2078,7 @@
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 - [open-sauced/open-sauced](https://github.com/open-sauced/open-sauced) - 🍕  This is a project to identify your next open source contribution.
 - [jeromegn/Backbone.localStorage](https://github.com/jeromegn/Backbone.localStorage) - A localStorage adapter for Backbone.js
-- [huynhsamha/dontpad](https://github.com/huynhsamha/dontpad) - 🏆 Advanced Dontpad ⛳️ Online editor without Identity 🚓 🚑 🚒 🚐 🚚
+- [huynhsamha/dontpad](https://github.com/huynhsamha/dontpad) - [DEPRECATED] Advanced Dontpad. Online editor without Identity
 - [huynhsamha/react-configure](https://github.com/huynhsamha/react-configure) - Necessary configure for create-react-app 🤣🤣🤣
 - [cornflourblue/react-signup-verification-boilerplate](https://github.com/cornflourblue/react-signup-verification-boilerplate) - React Boilerplate - Email Sign Up with Verification, Authentication & Forgot Password
 - [jherr/chat-o-matic](https://github.com/jherr/chat-o-matic) - Example code for a real time chat system with GraphQL subscriptions
@@ -2420,7 +2419,6 @@
 - [araguaci/Christo-nihil-praeponere](https://github.com/araguaci/Christo-nihil-praeponere) - Christo nihil praeponere - a nada dar mais valor que a Cristo
 - [araguaci/You-Dont-Know-JS](https://github.com/araguaci/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [aneagoie/ztm-python-cheat-sheet](https://github.com/aneagoie/ztm-python-cheat-sheet) - 
-- [Hasnayeen/goodwork](https://github.com/Hasnayeen/goodwork) - https://github.com/Hasnayeen/legacy-goodwork
 - [miconda/sip-resources](https://github.com/miconda/sip-resources) - Various SIP resources.
 - [rtckit/awesome-rtc](https://github.com/rtckit/awesome-rtc) - :satellite: A curated list of awesome Real Time Communications resources
 - [JStumpp/awesome-chatbots](https://github.com/JStumpp/awesome-chatbots) - A curated list of awesome Chatbot services and resources.
@@ -3200,7 +3198,7 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [giswqs/leafmap](https://github.com/giswqs/leafmap) - A Python package for interactive mapping and geospatial analysis  with minimal coding in a Jupyter environment
 - [allenai/scholarphi](https://github.com/allenai/scholarphi) - An interactive PDF reader.
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor wh
 - [IBM/MAX-Audio-Embedding-Generator](https://github.com/IBM/MAX-Audio-Embedding-Generator) - Generate embedding vectors from audio files
 - [mateustoin/Bittoin-Telegram-Bot](https://github.com/mateustoin/Bittoin-Telegram-Bot) - Bot para Telegram com diversas funcionalidades, com o intuito de se divertir e aproveitar utilidades para o dia a dia.
 - [Kilian/Trimage](https://github.com/Kilian/Trimage) - A cross-platform tool for optimizing PNG and JPG files.
@@ -3291,6 +3289,7 @@
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
 - [rust-github/template](https://github.com/rust-github/template) - Template for a generic rust project hosted on GitHub
+- [Hasnayeen/goodwork](https://github.com/Hasnayeen/goodwork) - https://github.com/Hasnayeen/legacy-goodwork
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [tauri-apps/create-tauri-app](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold out a new tauri app project.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -3429,7 +3428,7 @@
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [wfxr/tmux-power](https://github.com/wfxr/tmux-power) - 🎨 Tmux powerline theme
 - [sipcapture/homer](https://github.com/sipcapture/homer) - HOMER - 100% Open-Source SIP, VoIP, RTC Packet Capture & Monitoring
-- [x2on/OpenSSL-for-iPhone](https://github.com/x2on/OpenSSL-for-iPhone) - A script for compiling OpenSSL for iOS Devices (iPhone, iPad, iPod Touch, AppleTV, MacCatalyst)
+- [x2on/OpenSSL-for-iPhone](https://github.com/x2on/OpenSSL-for-iPhone) - A script for compiling OpenSSL for iOS Devices (iPhone, iPad, Watch, iPod Touch, AppleTV, MacCatalyst)
 - [VoiSmart/pjsip-android-builder](https://github.com/VoiSmart/pjsip-android-builder) - Complete Android build environment for PJSIP with OpenSSL, OpenH264, Opus and G.729
 - [makenew/serverless-nodejs](https://github.com/makenew/serverless-nodejs) - Bootstrap a new Node.js Serverless project in five minutes or less.
 - [node-red/node-red-docker](https://github.com/node-red/node-red-docker) - Repository for all things Node-RED and Docker related
@@ -3992,6 +3991,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [neuronetio/gantt-schedule-timeline-calendar](https://github.com/neuronetio/gantt-schedule-timeline-calendar) - Gantt Gantt Gantt Timeline Schedule Calendar [ javascript gantt, js gantt, projects gantt, timeline, scheduler, gantt timeline, reservation timeline, react gantt, angular gantt, vue gantt, svelte gant
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
+- [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
 - [grsoares21/dev-communities](https://github.com/grsoares21/dev-communities) - Data visualizations of different portuguese speaking Dev communities
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
@@ -4133,7 +4133,6 @@
 - [ionic-team/ionic-conference-app](https://github.com/ionic-team/ionic-conference-app) - A conference app built with Ionic to demonstrate Ionic
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [carbon-design-system/carbon-angular-starter](https://github.com/carbon-design-system/carbon-angular-starter) - A simple starter app for bootstrapping applications with Carbon
-- [storybookjs/react-native](https://github.com/storybookjs/react-native) - 📓 Storybook for React Native!
 - [carbon-design-system/carbon-for-ibm-dotcom](https://github.com/carbon-design-system/carbon-for-ibm-dotcom) - Carbon for IBM.com is based on the Carbon Design System for IBM
 - [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar_chart: :chart_with_upwards_trend:⠀Robust dataviz framework implemented using D3 & typescript
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
@@ -4204,6 +4203,7 @@
 - [maxogden/menubar](https://github.com/maxogden/menubar) - ➖ high level way to create menubar desktop applications with electron
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [esvit/ng-table](https://github.com/esvit/ng-table) - Simple table with sorting and filtering on AngularJS
+- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [nodegui/react-nodegui](https://github.com/nodegui/react-nodegui) - Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
 - [capacitor-community/electron](https://github.com/capacitor-community/electron) - Deploy your Capacitor apps to Linux, Mac, and Windows desktops, with the Electron platform! 🖥️
 - [srinivastamada/new-ionic-angular](https://github.com/srinivastamada/new-ionic-angular) - 

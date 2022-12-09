@@ -140,7 +140,6 @@
 - [dotnet/cli-lab](https://github.com/dotnet/cli-lab) - A guided tool will be provided to enable the controlled clean up of a system such that only the desired versions of the Runtime and SDKs remain.
 - [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / W
 - [petrroll/PowerSwitcher](https://github.com/petrroll/PowerSwitcher) - Power plan switcher for Windows 10. Heavily inspired by EarTrumpet.
-- [PamelaRondina/step-by-step](https://github.com/PamelaRondina/step-by-step) - Projeto com o objetivo de auxiliar a comunidade de Tecnologia a aprender a utilizar o GitHub. Consiste em um passo a passo de inclusão de cabeçalho, ícones de linguagens, softwares, imagens e emojis. 
 - [meysamhadeli/awesome-dotnet-tips](https://github.com/meysamhadeli/awesome-dotnet-tips) - A curated list of awesome tips and tricks, resources, videos and articles in .net, software architecture, microservice and cloud-native
 - [telerik/UI-For-UWP](https://github.com/telerik/UI-For-UWP) - This repo contains the source code for Telerik UI for Universal Windows Platform (UWP), which includes 20+ UI controls for developers building UWP applications.
 - [renatogroffe/ASPNETCore6-REST_API-JWT-Postman_ContagemAcessos](https://github.com/renatogroffe/ASPNETCore6-REST_API-JWT-Postman_ContagemAcessos) - Exemplo de implementação de testes de uma API REST criada com .NET 6 (e protegida com autenticação via JWT) para contagem de acessos utilizando Postman + Newman. Inclui Dockerfile com build desta apli
@@ -967,6 +966,7 @@
 - [atapas/imaginary](https://github.com/atapas/imaginary) - imaginary is an image gallery built using Gatsby and Cloudinary. Follow this project to know more.
 - [ishantchauhan710/SpaceChat](https://github.com/ishantchauhan710/SpaceChat) - A socket.io based real time chat app where you can perform one-to-one chats as well as group chats! Built using MERN stack, this project implements all core functionalities like User Authentication, W
 - [matyo91/matyo91](https://github.com/matyo91/matyo91) - :octocat: Matyo91 Github Profil
+- [PamelaRondina/step-by-step](https://github.com/PamelaRondina/step-by-step) - Projeto com o objetivo de auxiliar a comunidade de Tecnologia a aprender a utilizar o GitHub. Consiste em um passo a passo de inclusão de cabeçalho, ícones de linguagens, softwares, imagens e emojis. 
 - [firstcontributions/firstcontributions.github.io](https://github.com/firstcontributions/firstcontributions.github.io) - Web app for First Contributions
 - [JetBrains/kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin programming language website
 - [madzadev/kanboard](https://github.com/madzadev/kanboard) - 📃 KanBoard - Your personal project management tool
@@ -3041,7 +3041,6 @@
 - [codaamok/PSShlink](https://github.com/codaamok/PSShlink) - An unofficial PowerShell module for Shlink (https://shlink.io), an open-source self-hosted and PHP-based URL shortener application
 - [MicrosoftDocs/windows-itpro-docs](https://github.com/MicrosoftDocs/windows-itpro-docs) - This is used for contributions to the Windows 10 content for IT professionals on docs.microsoft.com.
 - [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10+.
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [MicrosoftDocs/PowerShell-Docs](https://github.com/MicrosoftDocs/PowerShell-Docs) - The official PowerShell documentation sources
@@ -3116,6 +3115,7 @@
 - [dunossauro/live-de-python](https://github.com/dunossauro/live-de-python) - Repositório das lives semanais
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [dogsheep/github-to-sqlite](https://github.com/dogsheep/github-to-sqlite) - Save data from GitHub to a SQLite database
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -3751,7 +3751,7 @@
 - [martijnvwezel/muino-time-management](https://github.com/martijnvwezel/muino-time-management) - The Muino Time Management/ accounting tool for keeping track of your hours on projects and tasks.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
-- [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
+- [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 - [kremalicious/portfolio](https://github.com/kremalicious/portfolio) - 👔 Portfolio thingy
 - [oceanprotocol/market](https://github.com/oceanprotocol/market) - 🧜‍♀️ THE Data Market

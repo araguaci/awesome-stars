@@ -437,7 +437,6 @@
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [lorisleiva/laravel-docker](https://github.com/lorisleiva/laravel-docker) - 🐳 Generic docker image for Laravel Applications
 - [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) v8+ on Docker with Compose. Pre-configured out of the box to enable Logging, Metrics, APM, Alerting, ML, and SIEM features. Up with a Single Command.
-- [tiredofit/docker-freepbx](https://github.com/tiredofit/docker-freepbx) - Dockerized FreePBX 15 w/Asterisk 17, Seperate MySQL Database support, and Data Persistence and UCP
 - [fam4r/docker-3cx](https://github.com/fam4r/docker-3cx) - Dockerfile (and compose) for 3CX https://www.3cx.com
 - [P3TERX/Aria2-Pro-Docker](https://github.com/P3TERX/Aria2-Pro-Docker) - Aria2 Pro | A perfect Aria2 Docker image | 更好用的 Aria2 Docker 容器镜像
 - [docker-library/redis](https://github.com/docker-library/redis) - Docker Official Image packaging for Redis
@@ -2147,7 +2146,7 @@
 - [ahfarmer/javascriptstuff-db](https://github.com/ahfarmer/javascriptstuff-db) - Lists of JavaScript resources: tools, tutorials, starter projects, example code, etc.
 - [ahfarmer/calculator](https://github.com/ahfarmer/calculator) - Simple calculator built with React
 - [BolajiAyodeji/face-detector](https://github.com/BolajiAyodeji/face-detector) - A PERN stack face detector app
-- [BolajiAyodeji/speech-to-text](https://github.com/BolajiAyodeji/speech-to-text) - Simple speech to text app built with React and IBM Watson
+- [BolajiAyodeji/speech-to-text](https://github.com/BolajiAyodeji/speech-to-text) - Simple speech to text app built with React and IBM Watson.
 - [christiannwamba/crud-api-node](https://github.com/christiannwamba/crud-api-node) - 🛠️ End to end workshop on building, testing, CI, and deploying a CRUD API in Node.js
 - [homielab/audiobookapp](https://github.com/homielab/audiobookapp) - Audiobook mobile application accomplished with React Native and React ecosystem, just a single code base.
 - [ryanmcdermott/code-review-tips](https://github.com/ryanmcdermott/code-review-tips) - :microscope: Common problems to look for in a code review
@@ -2587,6 +2586,7 @@
 - [lindelof/awesome-web-effect](https://github.com/lindelof/awesome-web-effect) - A series of exquisite and compact web page cool effects
 - [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
 - [pedroslopez/wwebjs-guide](https://github.com/pedroslopez/wwebjs-guide) - 
+- [tiredofit/docker-freepbx](https://github.com/tiredofit/docker-freepbx) - Dockerized FreePBX 15 w/Asterisk 17, Seperate MySQL Database support, and Data Persistence and UCP
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [dadosgovbr/aplicativos-dados-brasil](https://github.com/dadosgovbr/aplicativos-dados-brasil) - Mapeamento de aplicativos e visualizações que usam dados abertos governamentais no Brasil.
 - [CamaraDosDeputados/dados-abertos](https://github.com/CamaraDosDeputados/dados-abertos) - Repositório do serviço de Dados Abertos da Câmara. Consulte as "Issues" para atendimento a dúvidas e sugestões.

@@ -194,7 +194,6 @@
 - [reactjs/React.NET](https://github.com/reactjs/React.NET) - .NET library for JSX compilation and server-side rendering of React components
 - [sqrldev/SQRLDotNetClient](https://github.com/sqrldev/SQRLDotNetClient) - A cross-platform SQRL Client and Library based on .NET Core
 - [bitbeans/SimpleDnsCrypt](https://github.com/bitbeans/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
-- [adamcaudill/libsodium-net](https://github.com/adamcaudill/libsodium-net) - libsodium for .NET - A secure cryptographic library
 - [ektrah/nsec](https://github.com/ektrah/nsec) - A modern and easy-to-use cryptographic library for .NET Core based on libsodium
 - [bitbeans/StreamCryptor](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf
 - [bitbeans/minisign-net](https://github.com/bitbeans/minisign-net) - .NET library to handle and create minisign signatures
@@ -569,7 +568,7 @@
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated service health dashboard
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
@@ -2097,7 +2096,7 @@
 - [GoogleChromeLabs/preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin) - Please use https://github.com/vuejs/preload-webpack-plugin instead.
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [davidtheclark/react-aria-menubutton](https://github.com/davidtheclark/react-aria-menubutton) - A fully accessible, easily themeable, React-powered menu button
 - [geobde/react-triple-toggle](https://github.com/geobde/react-triple-toggle) - React multi toggle component
 - [zillow/react-slider](https://github.com/zillow/react-slider) - Accessible, CSS agnostic, slider component for React.
@@ -2917,7 +2916,7 @@
 - [phpro/soap-client](https://github.com/phpro/soap-client) - A general purpose SOAP client for PHP
 - [Infanatica/InfanaticaCepModule](https://github.com/Infanatica/InfanaticaCepModule) - Módulo em Zend Framework 2 para consulta de endereço via CEP
 - [munizeverton/i-educar-restore](https://github.com/munizeverton/i-educar-restore) - Database restore tool for i-Educar.
-- [portabilis/i-educar-reports-package](https://github.com/portabilis/i-educar-reports-package) - Pacote de relatórios para o i-Educar
+- [portabilis/i-educar-reports-package](https://github.com/portabilis/i-educar-reports-package) - Pacote com as funcionalidades do módulo de relatórios para o i-Educar
 - [portabilis/i-educar](https://github.com/portabilis/i-educar) - Lançando o maior software livre de educação do Brasil!
 - [Respect/Validation](https://github.com/Respect/Validation) - The most awesome validation engine ever created for PHP
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)

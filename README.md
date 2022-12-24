@@ -2667,7 +2667,7 @@
 - [ribafs/apostilas](https://github.com/ribafs/apostilas) - Apostilas sobre diversos assuntos: PHP, PDO, MySQL, PHPOO, MVC, mobile, scratch, git, github, docker, vps, alpine linux, segurança na wev, servidores, etc
 - [osTicket/osTicket](https://github.com/osTicket/osTicket) - The osTicket open source ticketing system official project repository, for versions 1.8 and later
 - [Laravel-Lang/publisher](https://github.com/Laravel-Lang/publisher) - Publisher lang files for the Laravel Framework, Jetstream, Fortify, Cashier, Spark, Nova and UI from Laravel-Lang/lang.
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 78 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 78 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark, Laravel Spark Aurelius, Laravel Spark Aurelius Mollie and 
 - [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) - Open Source eCommerce Application on top of Symfony
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Framework on Symfony
 - [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system

@@ -1481,7 +1481,6 @@
 - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
 - [vector-im/hydrogen-web](https://github.com/vector-im/hydrogen-web) - Lightweight matrix client with legacy and mobile browser support
 - [churchtools/churchtools-js-client](https://github.com/churchtools/churchtools-js-client) - JavaScript client to easily access the ChurchTools REST-API
-- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.  If
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [meteor/examples](https://github.com/meteor/examples) - Project examples with Meteor
@@ -3185,7 +3184,7 @@
 - [github-tooling/ghtopdep](https://github.com/github-tooling/ghtopdep) - :star: CLI tool for sorting dependents repo by stars
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome Linux softwares!
 - [heartexlabs/labelImg](https://github.com/heartexlabs/labelImg) - LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source dat
 - [nvaccess/nvda](https://github.com/nvaccess/nvda) - NVDA, the free and open source Screen Reader for Microsoft Windows
 - [swimlane/elk-tls-docker](https://github.com/swimlane/elk-tls-docker) - This repository contains code to create a ELK stack with certificates & security enabled using docker-compose
@@ -3770,7 +3769,7 @@
 - [johnpapa/hello-worlds](https://github.com/johnpapa/hello-worlds) - Hello world apps for angular, react, svelte, and vue
 - [netless-io/netless-app](https://github.com/netless-io/netless-app) - Official Apps for the Agora Interactive Whiteboard.
 - [joshuamorony/phaser3-typescript-webpack-capacitor](https://github.com/joshuamorony/phaser3-typescript-webpack-capacitor) - A starter project for Phaser 3 with TypeScript, Webpack, and Capacitor support
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [AfterShip/phone](https://github.com/AfterShip/phone) - With a given country and phone number, validate and reformat the mobile phone number to the E.164 standard. The purpose of this is to allow us to send SMS to mobile phones only.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
@@ -3815,6 +3814,7 @@
 - [musehq/spacesvr](https://github.com/musehq/spacesvr) - A standardized reality for the future of the 3D Web.
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
+- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications

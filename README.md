@@ -383,7 +383,7 @@
 
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 
 ## CoffeeScript 
 
@@ -1382,7 +1382,6 @@
 - [Vonage/vivid](https://github.com/Vonage/vivid) - Vonage's web UI 🎨 toolbelt
 - [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman) - 💪  User-generated content for Git-powered websites
 - [zachleat/artificial-chart](https://github.com/zachleat/artificial-chart) - An SVG charting library based on D3.js
-- [KABBOUCHI/vue-tippy](https://github.com/KABBOUCHI/vue-tippy) - VueJS Tooltip powered by Tippy.js
 - [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
 - [red5pro/streaming-html5](https://github.com/red5pro/streaming-html5) - Testbed examples for Red5 Pro HTML SDK usage
@@ -3162,7 +3161,7 @@
 - [jet-admin/jet-bridge](https://github.com/jet-admin/jet-bridge) - Jet Admin – No-code Business App builder
 - [Ra-Na/GTranslate-strings-xml](https://github.com/Ra-Na/GTranslate-strings-xml) - Creats a strings.xml file by Google auto-translating an input strings.xml file
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
-- [GusFurtado/DAB-Apps](https://github.com/GusFurtado/DAB-Apps) - Aplicações de exemplo utilizando o pacote DadosAbertosBrasil
+- [GusFurtado/dab-apps](https://github.com/GusFurtado/dab-apps) - Aplicações de exemplo utilizando o pacote DadosAbertosBrasil
 - [GusFurtado/DadosAbertosBrasil](https://github.com/GusFurtado/DadosAbertosBrasil) - Pacote Python para acesso a dados abertos e APIs do governo brasileiro.
 - [ansible/galaxy](https://github.com/ansible/galaxy) - Source code behind the Galaxy hub at http://galaxy.ansible.com
 - [robertjkeck2/AutoCaller](https://github.com/robertjkeck2/AutoCaller) - Automated call and text service powered by Twilio
@@ -3531,7 +3530,7 @@
 - [craftzdog/react-native-animated-todo](https://github.com/craftzdog/react-native-animated-todo) - Animated ToDo app built with React Native and Reanimated v2
 - [fonoster/webui](https://github.com/fonoster/webui) - Web UI to create powerful voice applications with Fonoster's API.
 - [sanvishal/wrighter](https://github.com/sanvishal/wrighter) - Wrighter - A Powerful Markdown Blogger & A Writing Companion | write the (w)right way
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build sign-in, auth, and user identity.
 - [shlinkio/shlink-web-client](https://github.com/shlinkio/shlink-web-client) - A React-based client application for Shlink
 - [shlinkio/shlink.io](https://github.com/shlinkio/shlink.io) - Shlink project website
 - [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components
@@ -3645,7 +3644,7 @@
 - [apache-superset/superset-ui](https://github.com/apache-superset/superset-ui) - Apache Superset UI packages
 - [apache-superset/superset-ui-plugins](https://github.com/apache-superset/superset-ui-plugins) - A collection of official Superset UI plugins
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
-- [reaviz/reaflow](https://github.com/reaviz/reaflow) - 🎯 React library for building workflow editors, flow charts and diagrams
+- [reaviz/reaflow](https://github.com/reaviz/reaflow) - 🎯 React library for building workflow editors, flow charts and diagrams. Maintained by @goodcodeus.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [araguaci/hello-worlds](https://github.com/araguaci/hello-worlds) - Hello world apps for angular, react, svelte, and vue
 - [sadanandpai/resume-builder](https://github.com/sadanandpai/resume-builder) - Build a standard and professional single page resume
@@ -3774,6 +3773,7 @@
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [twilio/flex-plugin-builder](https://github.com/twilio/flex-plugin-builder) - Packages related to building a Twilio Flex Plugin
 - [netlify/next-runtime](https://github.com/netlify/next-runtime) - The Next.js Runtime allows Next.js to run on Netlify with zero configuration
+- [KABBOUCHI/vue-tippy](https://github.com/KABBOUCHI/vue-tippy) - VueJS Tooltip powered by Tippy.js
 - [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [maximegris/typescript-express-sequelize](https://github.com/maximegris/typescript-express-sequelize) - Easily bootstrap your NodeJS project with Express, Sequelize and Typescript :+1:

@@ -994,8 +994,8 @@
 - [hasura/learn-graphql](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
 - [sghall/react-move](https://github.com/sghall/react-move) - React Move | Beautiful, data-driven animations for React
 - [ant-design/ant-motion](https://github.com/ant-design/ant-motion) - :bicyclist: Animate specification and components of Ant Design
-- [jlmakes/rematrix](https://github.com/jlmakes/rematrix) - Matrix transformations made easy.
-- [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
+- [oddoculus/rematrix](https://github.com/oddoculus/rematrix) - Matrix transformations made easy.
+- [oddoculus/scrollreveal](https://github.com/oddoculus/scrollreveal) - Animate elements as they scroll into view.
 - [Cveinnt/bionify](https://github.com/Cveinnt/bionify) - Convert any webpage into bionified text!
 - [mdyna/mdyna-app](https://github.com/mdyna/mdyna-app) - React+Redux+Electron Note taking application repository
 - [ant-media/videojs-webrtc-plugin](https://github.com/ant-media/videojs-webrtc-plugin) - Webrtc plug-in for videojs
@@ -2285,7 +2285,7 @@
 - [nosir/obelisk.js](https://github.com/nosir/obelisk.js) - Build pixel isometric graphics with HTML5 canvas
 - [esteinborn/jquery-listnav](https://github.com/esteinborn/jquery-listnav) - Add a slick "letter-based" navigation bar to all of your lists. Click a letter to quickly filter the list to items that match that letter. Compatible with jQuery 3.0+ For previous versions of jQuery, 
 - [wagerfield/parallax](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device
-- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
+- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [nadbm/react-datasheet](https://github.com/nadbm/react-datasheet) - Excel-like data grid (table) component for React
 - [dollarshaveclub/shave](https://github.com/dollarshaveclub/shave) - 💈 Shave is a 0 dep JS plugin that truncates text to fit within an element based on a set max-height  ✁
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
@@ -3463,7 +3463,6 @@
 
 - [carbon-design-system/carbon-components-svelte](https://github.com/carbon-design-system/carbon-components-svelte) - Svelte implementation of the Carbon Design System
 - [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
-- [janosh/periodic-table](https://github.com/janosh/periodic-table) - Periodic table of elements written in Svelte
 - [itswadesh/svelte-commerce](https://github.com/itswadesh/svelte-commerce) - Svelte ecommerce - Headless, Authentication, Cart & Checkout, TailwindCSS, Server Rendered, Proxy + API Integrated, Animations, Stores, Lazy Loading, Loading Indicators, Carousel, Instant Search, Face
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A fully featured UI toolkit for Svelte + Tailwind.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
@@ -3519,6 +3518,7 @@
 - [lydiahallie/javascript-react-patterns](https://github.com/lydiahallie/javascript-react-patterns) - Repo related to the FrontendMasters course on JavaScript and React patterns
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
+- [janosh/periodic-table](https://github.com/janosh/periodic-table) - Periodic table of elements written in Svelte
 - [samuelmeuli/react-magnifier](https://github.com/samuelmeuli/react-magnifier) - 🔍 React image zoom component
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [staltz/manyverse](https://github.com/staltz/manyverse) - A social network off the grid (real repo at https://gitlab.com/staltz/manyverse)

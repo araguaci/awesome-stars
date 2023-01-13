@@ -101,7 +101,7 @@
 - [CoSMoSoftware/OBS-studio-webrtc](https://github.com/CoSMoSoftware/OBS-studio-webrtc) - This is a fork of OBS-studio with generic support for webrtc. It leverages the same webrtc implementation most browsers use.
 - [DoubangoTelecom/webrtc2sip](https://github.com/DoubangoTelecom/webrtc2sip) - Smart SIP and Media Gateway to connect WebRTC endpoints to any SIP-legacy network
 - [irontec/sngrep](https://github.com/irontec/sngrep) - Ncurses SIP Messages flow viewer
-- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform
+- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 - [uber/h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system
@@ -513,7 +513,7 @@
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [GoogleCloudPlatform/golang-samples](https://github.com/GoogleCloudPlatform/golang-samples) - Sample apps and code written for Google Cloud in the Go programming language.
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A blazing fast cross platform/shell prompt renderer
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira
 - [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [cuducos/minha-receita](https://github.com/cuducos/minha-receita) - 🏢 Sua API web para consulta de informações do CNPJ da Receita Federal
@@ -535,7 +535,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
-- [livekit/livekit](https://github.com/livekit/livekit) - End to end stack for WebRTC. SFU media server and SDKs
+- [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
 - [ttacon/libphonenumber](https://github.com/ttacon/libphonenumber) - golang port of Google's libphonenumber
 - [grafeas/grafeas](https://github.com/grafeas/grafeas) - Artifact Metadata API
 - [mgerb/ServerStatus](https://github.com/mgerb/ServerStatus) - A Discord bot to display the status of servers.
@@ -2497,7 +2497,7 @@
 - [engineerapart/TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) - Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!
 - [merchizm/Todoiva](https://github.com/merchizm/Todoiva) - Todoiva is a stylish non-competitive electron app that moves smoothly along its own line.
 - [luisleao/frontinsampa](https://github.com/luisleao/frontinsampa) - Confira aqui como foram desenvolvidas todas as atividades de interatividade com a Twilio no FrontinSampa 2021.
-- [alan-ai/alan-sdk-web](https://github.com/alan-ai/alan-sdk-web) - In-App assistant SDK to build a conversational multi-modal interface for websites and web apps (JavaScript, React, Angular, Vue, Ember, Electron)
+- [alan-ai/alan-sdk-web](https://github.com/alan-ai/alan-sdk-web) - In-App assistant SDK to build a multimodal conversational UX for websites and web apps (JavaScript, React, Angular, Vue, Ember, Electron)
 - [yiisoft/docs](https://github.com/yiisoft/docs) - Various Yii 3.0 related documentation
 - [RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
@@ -3719,7 +3719,7 @@
 - [araguaci/slidev](https://github.com/araguaci/slidev) - Presentation Slides for Developers (Beta)
 - [araguaci/botpress](https://github.com/araguaci/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop Visual CMS for React, Vue, Angular, and more
-- [nuxt/framework](https://github.com/nuxt/framework) - The Intuitive Web Framework, based on Vue 3.
+- [nuxt/framework](https://github.com/nuxt/framework) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
 - [r-park/soundcloud-ngrx](https://github.com/r-park/soundcloud-ngrx) - SoundCloud API client with Angular • RxJS • ngrx/store • ngrx/effects
 - [LeCoupa/vueflags](https://github.com/LeCoupa/vueflags) - 👩‍✈️👨‍✈️ One easy-to-use flag component for Vue.js with all ISO 3166-1 countries.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.

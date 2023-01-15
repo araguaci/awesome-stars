@@ -414,6 +414,7 @@
 - [steniooliv/payflow_nlw](https://github.com/steniooliv/payflow_nlw) - :iphone: Flutter project developed on NLW6, application to organize payment slips :dollar:
 - [dwyl/flutter-todo-list-tutorial](https://github.com/dwyl/flutter-todo-list-tutorial) - ✅ A detailed example/tutorial building a cross-platform Todo List App using Flutter 🦋
 - [burhanrashid52/WhatTodo](https://github.com/burhanrashid52/WhatTodo) - A Simple Todo app design in Flutter to keep track of your task on daily basis. Its build on BLoC Pattern. You can add a project, labels, and due-date to your task also you can sort your task on the ba
+- [dart-lang/site-www](https://github.com/dart-lang/site-www) - Source for Dart website
 - [mjohnsullivan/flutter-by-example](https://github.com/mjohnsullivan/flutter-by-example) - A collection of simple, bare-bones Flutter apps that each demonstrate a concept
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [bradtraversy/wordpair_generator](https://github.com/bradtraversy/wordpair_generator) - Flutter app based on the doc tutorial
@@ -770,6 +771,7 @@
 - [creativetimofficial/argon-dashboard-angular](https://github.com/creativetimofficial/argon-dashboard-angular) - 
 - [afonsopacifer/open-source-checklist](https://github.com/afonsopacifer/open-source-checklist) - :octocat: A guide to help you remember important things when creating an open source project ;D
 - [mozilla/bedrock](https://github.com/mozilla/bedrock) - Making mozilla.org awesome, one pebble at a time
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources
 - [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template
 - [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) - A simple online fake REST API server
@@ -994,8 +996,8 @@
 - [hasura/learn-graphql](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
 - [sghall/react-move](https://github.com/sghall/react-move) - React Move | Beautiful, data-driven animations for React
 - [ant-design/ant-motion](https://github.com/ant-design/ant-motion) - :bicyclist: Animate specification and components of Ant Design
-- [oddoculus/rematrix](https://github.com/oddoculus/rematrix) - Matrix transformations made easy.
-- [oddoculus/scrollreveal](https://github.com/oddoculus/scrollreveal) - Animate elements as they scroll into view.
+- [jlmakes/rematrix](https://github.com/jlmakes/rematrix) - Matrix transformations made easy.
+- [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
 - [Cveinnt/bionify](https://github.com/Cveinnt/bionify) - Convert any webpage into bionified text!
 - [mdyna/mdyna-app](https://github.com/mdyna/mdyna-app) - React+Redux+Electron Note taking application repository
 - [ant-media/videojs-webrtc-plugin](https://github.com/ant-media/videojs-webrtc-plugin) - Webrtc plug-in for videojs
@@ -1642,7 +1644,6 @@
 - [Sandermoen/instaclone](https://github.com/Sandermoen/instaclone) - An instagram clone created with the MERN stack
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [opentargets-archive/platform-app](https://github.com/opentargets-archive/platform-app) - Open Targets Platform web app
-- [twilio/twilio-node](https://github.com/twilio/twilio-node) - Node.js helper library
 - [maykbrito/trim-video](https://github.com/maykbrito/trim-video) - 
 - [rocketseat-content/masterclass-nodejs-sql](https://github.com/rocketseat-content/masterclass-nodejs-sql) - Código produzido durante o vídeo "Masterclass #01 - SQL no Node.js com Sequelize" no Youtube 🔥
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
@@ -1949,7 +1950,6 @@
 - [danielbayerlein/dashboard](https://github.com/danielbayerlein/dashboard) - 📺 Create your own team dashboard with custom widgets. Built with Next.js, React, styled-components and polished.
 - [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
 - [docker/getting-started](https://github.com/docker/getting-started) - Getting started with Docker
-- [dart-lang/site-www](https://github.com/dart-lang/site-www) - Source for Dart website
 - [google/WebFundamentals](https://github.com/google/WebFundamentals) - Former git repo for WebFundamentals on developers.google.com
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [jakkra/SmartMirror](https://github.com/jakkra/SmartMirror) - My MagicMirror running on a Raspberry Pi
@@ -2046,7 +2046,6 @@
 - [GoogleCloudPlatform/nodejs-docs-samples](https://github.com/GoogleCloudPlatform/nodejs-docs-samples) - Node.js samples for Google Cloud Platform products.
 - [CleverProgrammer/c9_flask_portfolio_app](https://github.com/CleverProgrammer/c9_flask_portfolio_app) - Flask Portfolio App for students @ Clever Programmer
 - [tbreuss/eventbus](https://github.com/tbreuss/eventbus) - :bus: Dead simple ES6-ready JavaScript EventBus
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [maateusilva/picpay-clone](https://github.com/maateusilva/picpay-clone) - 
 - [guilhermerodz/rocketseat-bootcamp-7-gobarber-web](https://github.com/guilhermerodz/rocketseat-bootcamp-7-gobarber-web) - Front-end of the main App developed at the RocketSeat GoStack Bootcamp.
 - [guilhermerodz/guilhermerodz.me](https://github.com/guilhermerodz/guilhermerodz.me) - My personal blog and website.
@@ -2258,7 +2257,7 @@
 - [craftpip/jquery-confirm](https://github.com/craftpip/jquery-confirm) - A multipurpose plugin for alert, confirm & dialog, with extended features.
 - [loteoo/hyperapp-rocks](https://github.com/loteoo/hyperapp-rocks) - A curated list of live Hyperapp projects.
 - [stefangabos/zebrajs](https://github.com/stefangabos/zebrajs) - A modular, jQuery compatible, ultra light-weight JavaScript micro-library for modern browsers
-- [stefangabos/Zebra_Datepicker](https://github.com/stefangabos/Zebra_Datepicker) - A super-lightweight, highly configurable, cross-browser date / time picker jQuery plugin
+- [stefangabos/Zebra_Datepicker](https://github.com/stefangabos/Zebra_Datepicker) - A super-lightweight, highly configurable, cross-browser date time picker jQuery plugin
 - [stefangabos/Zebra_Tooltips](https://github.com/stefangabos/Zebra_Tooltips) - A lightweight, accessible, and highly configurable jQuery plugin for creating beautiful tooltips
 - [stefangabos/Zebra_Dialog](https://github.com/stefangabos/Zebra_Dialog) - A small, compact, and highly configurable jQuery plugin for creating beautiful modal dialog boxes
 - [versatica/JsSIP](https://github.com/versatica/JsSIP) - JsSIP, the JavaScript SIP library
@@ -3890,6 +3889,7 @@
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [steelbrain/node-ssh](https://github.com/steelbrain/node-ssh) - SSH2 with Promises
+- [twilio/twilio-node](https://github.com/twilio/twilio-node) - Node.js helper library
 - [tediousjs/tedious](https://github.com/tediousjs/tedious) - Node TDS module for connecting to SQL Server databases.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [mcollina/aws-cdk](https://github.com/mcollina/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
@@ -4066,7 +4066,7 @@
 - [ng-bootstrap/ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular powered Bootstrap
 - [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open-Source Business Management Platform (ERP/CRM/HRM)
 - [salesforce/akita](https://github.com/salesforce/akita) - 🚀 State Management Tailored-Made for JS Applications
-- [trungk18/angular-tetris](https://github.com/trungk18/angular-tetris) - Tetris game built with Angular 10 and Akita 🎮
+- [trungk18/angular-tetris](https://github.com/trungk18/angular-tetris) - Tetris game built with Angular and Akita 🎮
 - [mgechev/guess-angular](https://github.com/mgechev/guess-angular) - 
 - [guess-js/guess](https://github.com/guess-js/guess) - 🔮 Libraries & tools for enabling Machine Learning driven user-experiences on the web
 - [trungk18/jira-clone-angular](https://github.com/trungk18/jira-clone-angular) - A simplified Jira clone built with Angular, ng-zorro and Akita

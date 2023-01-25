@@ -50,6 +50,7 @@
 - [Puppet](#puppet)
 - [Python](#python)
 - [R](#r)
+- [RPM Spec](#rpm-spec)
 - [ReScript](#rescript)
 - [Roff](#roff)
 - [Ruby](#ruby)
@@ -73,7 +74,7 @@
 
 ## Astro 
 
-- [onwidget/astrowind](https://github.com/onwidget/astrowind) - 🚀 AstroWind: A template to make your website using Astro + Tailwind CSS.
+- [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 2.0 and Tailwind CSS.
 - [CSS-Tricks/serverless](https://github.com/CSS-Tricks/serverless) - The Power of Serverless for Front-End Developers
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
@@ -494,7 +495,6 @@
 - [WireGuard/wireguard-windows](https://github.com/WireGuard/wireguard-windows) - Download WireGuard for Windows at https://www.wireguard.com/install . This repo is a mirror only. Official repository is at https://git.zx2c4.com/wireguard-windows
 - [WireGuard/wgctrl-go](https://github.com/WireGuard/wgctrl-go) - Package wgctrl enables control of WireGuard interfaces on multiple platforms.
 - [complexorganizations/code-snippets](https://github.com/complexorganizations/code-snippets) - ❤️ Code snippets from the open source community.
-- [microsoft/CBL-Mariner](https://github.com/microsoft/CBL-Mariner) - Linux OS for Azure 1P services and edge appliances
 - [CyCoreSystems/asterisk-config](https://github.com/CyCoreSystems/asterisk-config) - Kubernetes dynamic configuration engine for Asterisk
 - [CyCoreSystems/asterisk-k8s-demo](https://github.com/CyCoreSystems/asterisk-k8s-demo) - Demo of scalable Asterisk on Kubernetes
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
@@ -908,7 +908,6 @@
 - [lydiahallie/algo-data-structures](https://github.com/lydiahallie/algo-data-structures) - 🎉Common data structures and algorithms using JS.
 - [Phlow/feeling-responsive](https://github.com/Phlow/feeling-responsive) - »Feeling Responsive« is a free flexible theme for Jekyll built on Foundation framework. You can use it for your company site, as a portfolio or as a blog.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
-- [flexbox/react-native-bootcamp](https://github.com/flexbox/react-native-bootcamp) - 1 week, 20 lessons, opinionated React Native Bootcamp for busy developers
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [danjenkins/node-asterisk-ami](https://github.com/danjenkins/node-asterisk-ami) - Send and receive messages from the Asterisk Manager Interface via node.js
 - [vakila/functional-workshop](https://github.com/vakila/functional-workshop) - Intro to Functional Programming Workshop
@@ -2333,6 +2332,7 @@
 - [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Free Data Engineering course!
 - [dadosgovbr/catalogos-dados-brasil](https://github.com/dadosgovbr/catalogos-dados-brasil) - Mapeamento de iniciativas (e catálogos) de dados abertos governamentais no Brasil.
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
+- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [3778/COVID-19](https://github.com/3778/COVID-19) - Ciência de Dados aplicada à pandemia do novo coronavírus.
 
 ## Kotlin 
@@ -3021,6 +3021,7 @@
 
 ## PowerShell 
 
+- [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
 - [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core
 - [eizedev/PSItems](https://github.com/eizedev/PSItems) - A PowerShell module that finds files, file content, folders and their information in a really fast and easy way!
 - [adbertram/PowerShell-A-Getting-Started-Guide-For-IT-Admins](https://github.com/adbertram/PowerShell-A-Getting-Started-Guide-For-IT-Admins) - 
@@ -3206,7 +3207,6 @@
 - [CleverProgrammer/CP-Twilio-Python-Text-App](https://github.com/CleverProgrammer/CP-Twilio-Python-Text-App) - How to Text Using Twilio API with Python
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [Cloud-CV/Fabrik](https://github.com/Cloud-CV/Fabrik) - :factory: Collaboratively build, visualize, and design neural nets in browser
 - [dipakkr/public-apis](https://github.com/dipakkr/public-apis) - A collective list of free APIs for use in software and web development.
 - [bradtraversy/myflaskapp](https://github.com/bradtraversy/myflaskapp) - Python Flask app with authentication
@@ -3223,6 +3223,10 @@
 - [daattali/timevis](https://github.com/daattali/timevis) - 📅 Create interactive timeline visualizations in R
 - [rstudio/shiny](https://github.com/rstudio/shiny) - Easy interactive web applications with R
 - [r-lib/pkgdown](https://github.com/r-lib/pkgdown) - Generate static html documentation for an R package
+
+## RPM Spec 
+
+- [microsoft/CBL-Mariner](https://github.com/microsoft/CBL-Mariner) - Linux OS for Azure 1P services and edge appliances
 
 ## ReScript 
 
@@ -3516,6 +3520,7 @@
 - [lydiahallie/javascript-react-patterns](https://github.com/lydiahallie/javascript-react-patterns) - Repo related to the FrontendMasters course on JavaScript and React patterns
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
+- [flexbox/react-native-bootcamp](https://github.com/flexbox/react-native-bootcamp) - 1 week, 20 lessons, opinionated React Native Bootcamp for busy developers
 - [janosh/sveriodic-table](https://github.com/janosh/sveriodic-table) - Periodic table of elements written in Svelte
 - [samuelmeuli/react-magnifier](https://github.com/samuelmeuli/react-magnifier) - 🔍 React image zoom component
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.

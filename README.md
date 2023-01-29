@@ -204,6 +204,7 @@
 
 ## C++ 
 
+- [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [openswoole/swoole-src](https://github.com/openswoole/swoole-src) - Programmatic server for PHP with async IO, coroutines and fibers
 - [litespeedtech/openlitespeed](https://github.com/litespeedtech/openlitespeed) - Our high-performance, lightweight, open source HTTP server
 - [BelledonneCommunications/liblinphone](https://github.com/BelledonneCommunications/liblinphone) - Linphone.org mirror for liblinphone (git://git.linphone.org/liblinphone.git)
@@ -311,7 +312,6 @@
 - [codrops/GlitchSlideshow](https://github.com/codrops/GlitchSlideshow) - A slideshow that uses a CSS glitch effect for slide transitions.
 - [denehyg/reveal.js-toolbar](https://github.com/denehyg/reveal.js-toolbar) - Toolbar plugin for reveal.js
 - [PandelisZ/workshop-guestbook](https://github.com/PandelisZ/workshop-guestbook) - 🚩 This is intended to be used to introduce people to Git through GitHub
-- [issaafalkattan/React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
 - [creativetimofficial/paper-dashboard-react](https://github.com/creativetimofficial/paper-dashboard-react) - 
 - [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
 - [Logan1x/bookMarks](https://github.com/Logan1x/bookMarks) - A reactjs project to store bookmarks 🔖
@@ -423,6 +423,7 @@
 - [shubie/dashboard](https://github.com/shubie/dashboard) - This is the first of our Flutter Thursday series. We will randomly pick designs or tasks from the internet every week and make flutter UI/apps.
 - [seenickcode/tourismandco](https://github.com/seenickcode/tourismandco) - A simple project showing off a list of tours with a detail screen for each tour. Used by fluttercrashcourse.com
 - [TechieBlossom/flutter-samples](https://github.com/TechieBlossom/flutter-samples) - 
+- [flutter/website](https://github.com/flutter/website) - Flutter documentation web site
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [appsforartists/flutter](https://github.com/appsforartists/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
 
@@ -580,6 +581,7 @@
 
 ## HTML 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [Weilbyte/tiktok-tts](https://github.com/Weilbyte/tiktok-tts) - Generate TikTok Text-to-Speech voices in your browser
 - [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
@@ -656,7 +658,7 @@
 - [araguaci/jornada-seja-grato](https://github.com/araguaci/jornada-seja-grato) - SEJA GRATO FATOS ESQUECIDOS BREVE JORNADA DE 200 ANOS
 - [utsav-devadiga/ColorPallete](https://github.com/utsav-devadiga/ColorPallete) - 
 - [imfunniee/imfunniee.github.io](https://github.com/imfunniee/imfunniee.github.io) - 👨‍💻 personal portfolio website and projects
-- [tabatkins/bikeshed](https://github.com/tabatkins/bikeshed) - :bike: A preprocessor for anyone writing specifications that converts source files into actual specs.
+- [speced/bikeshed](https://github.com/speced/bikeshed) - :bike: A preprocessor for anyone writing specifications that converts source files into actual specs.
 - [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web Z, GPL v3
 - [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
@@ -778,7 +780,7 @@
 - [tomsaleeba/test-data-site](https://github.com/tomsaleeba/test-data-site) - Various assets for testing websites (photos with EXIF, etc)
 - [tomsaleeba/browser-image-compression](https://github.com/tomsaleeba/browser-image-compression) - 
 - [JayKan/tabler-icons](https://github.com/JayKan/tabler-icons) - A set of over 550 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [aeagle/react-spaces](https://github.com/aeagle/react-spaces) - React components that allow you to divide a page or container into nestable anchored, scrollable and resizable spaces.
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [coreui/coreui-free-angular-admin-template](https://github.com/coreui/coreui-free-angular-admin-template) - CoreUI Angular is free Angular 14 admin template based on Bootstrap 5
@@ -913,7 +915,7 @@
 - [vakila/functional-workshop](https://github.com/vakila/functional-workshop) - Intro to Functional Programming Workshop
 - [netlify-templates/nextjs-blog-theme](https://github.com/netlify-templates/nextjs-blog-theme) - A customizable Next.js and Tailwind blog starter. Designed by the Bejamas agency.
 - [juliomrqz/nuxt-optimized-images](https://github.com/juliomrqz/nuxt-optimized-images) - 🌅🚀 Automatically optimizes images used in Nuxt.js projects (JPEG, PNG, SVG, WebP and GIF).
-- [arifszn/awesome-shortcuts](https://github.com/arifszn/awesome-shortcuts) - Navigate to your favorite actions on the websites you love with just one click.
+- [arifszn/OneClick](https://github.com/arifszn/OneClick) - Navigate to your favorite actions on the websites you love with just one click.
 - [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create a dynamic portfolio by just providing your GitHub username.
 - [roots/acorn](https://github.com/roots/acorn) - Laravel components for WordPress plugins and themes
 - [ncase/anxiety](https://github.com/ncase/anxiety) - 
@@ -1291,6 +1293,7 @@
 - [watson-developer-cloud/speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) - :microphone: Sample Node.js Application for the IBM Watson Speech to Text Service
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [danarrib/BulletGCSS](https://github.com/danarrib/BulletGCSS) - A High Caliber Ground Control Station System designed for the 21st century lifestyle
+- [issaafalkattan/React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
 - [nickarocho/minesweeper](https://github.com/nickarocho/minesweeper) - The classic game with the classic look (Client-side Game) | HTML, CSS, JavaScript, recursion
 - [inexorabletash/jsbasic](https://github.com/inexorabletash/jsbasic) - Applesoft BASIC in JavaScript
 - [chawk/bare_bones_react](https://github.com/chawk/bare_bones_react) - A simple react project with what you need to get started and everything you don't.
@@ -1328,6 +1331,7 @@
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 - [vvo/gifify](https://github.com/vvo/gifify) - 😻 Convert any video file to an optimized animated GIF.
+- [microweber/microweber](https://github.com/microweber/microweber) - Drag and Drop Website Builder and CMS with E-commerce
 - [panshak/accountill](https://github.com/panshak/accountill) - Fullstack open source Invoicing application made with MongoDB, Express, React & Nodejs (MERN)
 - [toptal/haste-server](https://github.com/toptal/haste-server) - open source pastebin written in node.js
 - [surmon-china/vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
@@ -1465,7 +1469,7 @@
 - [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
-- [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - Speed Test by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS,
+- [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, 
 - [dotenorio/clipboard-manager-electron](https://github.com/dotenorio/clipboard-manager-electron) - A clipboard manager built with Electron
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a brain
 - [advanced-rest-client/arc-electron](https://github.com/advanced-rest-client/arc-electron) - Advanced REST Client - Desktop application
@@ -2332,7 +2336,6 @@
 - [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Free Data Engineering course!
 - [dadosgovbr/catalogos-dados-brasil](https://github.com/dadosgovbr/catalogos-dados-brasil) - Mapeamento de iniciativas (e catálogos) de dados abertos governamentais no Brasil.
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
-- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [3778/COVID-19](https://github.com/3778/COVID-19) - Ciência de Dados aplicada à pandemia do novo coronavírus.
 
 ## Kotlin 
@@ -2492,7 +2495,7 @@
 - [ilmoi/awesome-solana-nfts](https://github.com/ilmoi/awesome-solana-nfts) - A curated list of Solana NFT protocols, repos & community tools
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [engineerapart/TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) - Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!
-- [nuxt/framework](https://github.com/nuxt/framework) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
+- [nuxt/framework](https://github.com/nuxt/framework) - Old repo of Nuxt 3 framework, now on nuxt/nuxt
 - [merchizm/Todoiva](https://github.com/merchizm/Todoiva) - Todoiva is a stylish non-competitive electron app that moves smoothly along its own line.
 - [luisleao/frontinsampa](https://github.com/luisleao/frontinsampa) - Confira aqui como foram desenvolvidas todas as atividades de interatividade com a Twilio no FrontinSampa 2021.
 - [alan-ai/alan-sdk-web](https://github.com/alan-ai/alan-sdk-web) - In-App assistant SDK to build a multimodal conversational UX for websites and web apps (JavaScript, React, Angular, Vue, Ember, Electron)
@@ -2575,7 +2578,7 @@
 - [tiredofit/docker-freepbx](https://github.com/tiredofit/docker-freepbx) - Dockerized FreePBX 15 w/Asterisk 17, Seperate MySQL Database support, and Data Persistence and UCP
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [dadosgovbr/aplicativos-dados-brasil](https://github.com/dadosgovbr/aplicativos-dados-brasil) - Mapeamento de aplicativos e visualizações que usam dados abertos governamentais no Brasil.
-- [CamaraDosDeputados/dados-abertos](https://github.com/CamaraDosDeputados/dados-abertos) - Repositório do serviço de Dados Abertos da Câmara. Consulte as "Issues" para atendimento a dúvidas e sugestões.
+- [EquipeDadosAbertosCD/dados-abertos](https://github.com/EquipeDadosAbertosCD/dados-abertos) - Repositório do serviço de Dados Abertos da Câmara. Consulte as "Issues" para atendimento a dúvidas e sugestões.
 - [gomex/docker-para-desenvolvedores](https://github.com/gomex/docker-para-desenvolvedores) - Código fonte do livro Docker para desenvolvedores
 - [kartik-v/bootstrap-tabs-x](https://github.com/kartik-v/bootstrap-tabs-x) - Bootstrap tabs supercharged with various alignment and styling options
 - [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
@@ -2749,7 +2752,6 @@
 - [samdark/sitemap](https://github.com/samdark/sitemap) - Sitemap and sitemap index builder
 - [samdark/yiipowered](https://github.com/samdark/yiipowered) - Yii powered websites showcase
 - [Plataformas-Cidadania/portalosc](https://github.com/Plataformas-Cidadania/portalosc) - 
-- [microweber/microweber](https://github.com/microweber/microweber) - Drag and Drop Website Builder and CMS with E-commerce
 - [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml. Any help is welcome!
 - [hisune/Echarts-PHP](https://github.com/hisune/Echarts-PHP) - Echarts-PHP a PHP library that works as a wrapper for the Echarts js library
 - [Gregwar/Captcha](https://github.com/Gregwar/Captcha) - PHP Captcha library
@@ -3053,11 +3055,12 @@
 
 ## Python 
 
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
 - [jimmy201602/webterminal](https://github.com/jimmy201602/webterminal) - ssh rdp vnc telnet sftp bastion/jump web putty xshell terminal jumpserver audit realtime monitor rz/sz 堡垒机 云桌面 linux devops sftp websocket  file management rz/sz otp 自动化运维 审计 录像 文件管理 sftp上传 实时监控 录像回放 
 - [Sygil-Dev/sygil-webui](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion web UI
 - [twilio/twilio-python](https://github.com/twilio/twilio-python) - A Python module for communicating with the Twilio API and generating TwiML.
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
-- [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
+- [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [gdraheim/docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement) - docker systemctl replacement - allows to deploy to systemd-controlled containers without starting an actual systemd daemon (e.g.  centos7, ubuntu16)
 - [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
 - [zero-to-mastery/ascii-art-2021](https://github.com/zero-to-mastery/ascii-art-2021) - A ZTM Challenge for Hacktoberfest 2021, converting images into text using the 95 printable characters defined by the ASCII Standard
@@ -3207,6 +3210,7 @@
 - [CleverProgrammer/CP-Twilio-Python-Text-App](https://github.com/CleverProgrammer/CP-Twilio-Python-Text-App) - How to Text Using Twilio API with Python
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [Cloud-CV/Fabrik](https://github.com/Cloud-CV/Fabrik) - :factory: Collaboratively build, visualize, and design neural nets in browser
 - [dipakkr/public-apis](https://github.com/dipakkr/public-apis) - A collective list of free APIs for use in software and web development.
 - [bradtraversy/myflaskapp](https://github.com/bradtraversy/myflaskapp) - Python Flask app with authentication
@@ -3279,6 +3283,7 @@
 
 ## Rust 
 
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [mazznoer/colorgrad-rs](https://github.com/mazznoer/colorgrad-rs) - Rust color scales library
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
@@ -3342,12 +3347,12 @@
 - [alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) - A series of ReactJS coding challenges with a variety of difficulties.
 - [johannesjo/angular-material-css-vars](https://github.com/johannesjo/angular-material-css-vars) - Little library to use css variables with @angular/material
 - [machine-learning-apps/Issue-Label-Bot](https://github.com/machine-learning-apps/Issue-Label-Bot) - Code For The Issue Label Bot, an App that automatically labels issues using machine learning, available on the GitHub Marketplace.   This is also code for the blog article: "How to automate tasks on G
+- [ionic-team/stencil-site](https://github.com/ionic-team/stencil-site) - Stencil site and documentation source.
 - [creativetimofficial/paper-dashboard-angular](https://github.com/creativetimofficial/paper-dashboard-angular) - Angular version of the original Paper Dashboard.
 - [creativetimofficial/material-dashboard-angular2](https://github.com/creativetimofficial/material-dashboard-angular2) - Material Dashboard Angular
 - [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
 - [creativetimofficial/now-ui-kit-angular](https://github.com/creativetimofficial/now-ui-kit-angular) - 
 - [loiane/reactive-spring-angular](https://github.com/loiane/reactive-spring-angular) - :rocket: Simple application demonstrating Spring Webflux API + Angular/RxJS client.
-- [flutter/website](https://github.com/flutter/website) - Flutter documentation web site
 - [MatejKustec/SpinThatShit](https://github.com/MatejKustec/SpinThatShit) - A set of SCSS mixins for single element loaders and spinners
 
 ## SVG 
@@ -3366,6 +3371,7 @@
 
 ## Shell 
 
+- [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [zero-to-mastery/resources](https://github.com/zero-to-mastery/resources) - Here is a list of best resources to get you started with learning how to code (mostly related to Web Development). Feel free to add your favorite  resources as well and help others in their journey of
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
@@ -3463,7 +3469,7 @@
 
 - [carbon-design-system/carbon-components-svelte](https://github.com/carbon-design-system/carbon-components-svelte) - Svelte implementation of the Carbon Design System
 - [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
-- [itswadesh/svelte-commerce](https://github.com/itswadesh/svelte-commerce) - Svelte ecommerce - Headless, Authentication, Cart & Checkout, TailwindCSS, Server Rendered, Proxy + API Integrated, Animations, Stores, Lazy Loading, Loading Indicators, Carousel, Instant Search, Face
+- [itswadesh/svelte-commerce](https://github.com/itswadesh/svelte-commerce) - Svelte ecommerce - Headless, Authentication, Cart & Checkout, TailwindCSS, Server Rendered, Proxy + API Integrated, Animations, Lazy Loading, Loading Indicators, Carousel, Instant Search, Faceted Filt
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A fully featured UI toolkit for Svelte + Tailwind.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams
@@ -4118,7 +4124,6 @@
 - [prijs/pri](https://github.com/prijs/pri) - Framework for React applications and components.
 - [ascoders/react-native-image-zoom](https://github.com/ascoders/react-native-image-zoom) - react native image pan and zoom
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron
-- [ionic-team/stencil-site](https://github.com/ionic-team/stencil-site) - Stencil site and documentation source.
 - [meta-magic/microservice_apps_for_workshop](https://github.com/meta-magic/microservice_apps_for_workshop) - Microservice + Micro Frontend (Amexio, Angular) + Kubernetes
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [react-hook-form/devtools](https://github.com/react-hook-form/devtools) - 📋 DevTools to help debug forms.

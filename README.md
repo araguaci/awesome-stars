@@ -204,6 +204,8 @@
 
 ## C++ 
 
+- [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
+- [rockowitz/ddcui](https://github.com/rockowitz/ddcui) - Graphical user interface for ddcutil - control monitor settings
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [openswoole/swoole-src](https://github.com/openswoole/swoole-src) - Programmatic server for PHP with async IO, coroutines and fibers
 - [litespeedtech/openlitespeed](https://github.com/litespeedtech/openlitespeed) - Our high-performance, lightweight, open source HTTP server
@@ -364,6 +366,7 @@
 - [HubSpot/drop](https://github.com/HubSpot/drop) - A library for creating dropdowns and other floating elements. #hubspot-open-source
 - [HubSpot/tooltip](https://github.com/HubSpot/tooltip) - CSS Tooltips built on Tether. #hubspot-open-source
 - [HTMLElements/smart-webcomponents-angular](https://github.com/HTMLElements/smart-webcomponents-angular) - Smart UI for Angular
+- [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count
 - [birobirobiro/casa-criativa](https://github.com/birobirobiro/casa-criativa) - Projeto criado durante o WorkshopDev
 - [meta-magic/amexio.github.io](https://github.com/meta-magic/amexio.github.io) - Amexio is a rich set of Angular 7 (170+) components powered by HTML5 & CSS3 for Responsive Design and with 80+ Material Design Themes, UI Components, Charts, Gauges, Data Point Widgets, Dashboards. Am
 - [carbon-design-system/design-language-website](https://github.com/carbon-design-system/design-language-website) - IBM Design Language website
@@ -847,7 +850,7 @@
 - [react-native-webrtc/react-native-webrtc-web-shim](https://github.com/react-native-webrtc/react-native-webrtc-web-shim) - Web Shim for React Native WebRTC
 - [react-native-webrtc/react-native-incall-manager](https://github.com/react-native-webrtc/react-native-incall-manager) - Handling media-routes/sensors/events during a audio/video chat on React Native
 - [VoiSmart/pjsip-android](https://github.com/VoiSmart/pjsip-android) - SIP Service for Android based on PJSIP
-- [hazelcast/hazelcast](https://github.com/hazelcast/hazelcast) - Open-source distributed computation and storage platform
+- [hazelcast/hazelcast](https://github.com/hazelcast/hazelcast) - Open-source distributed computation and storage platform. Real-time Stream Processing Unconference. Save Your Spot https://hazelcast.com/lp/unconference/
 - [bkdev98/react-native-incoming-call](https://github.com/bkdev98/react-native-incoming-call) - React Native module to display custom incoming call activity for Android, since iOS we have VoIP.
 - [zxing/zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 - [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
@@ -883,6 +886,7 @@
 
 ## JavaScript 
 
+- [ManualDoCodigo/website](https://github.com/ManualDoCodigo/website) - 
 - [fullcalendar/fullcalendar-examples](https://github.com/fullcalendar/fullcalendar-examples) - Simple example projects for FullCalendar
 - [kentcdodds/react-hooks](https://github.com/kentcdodds/react-hooks) - Learn React Hooks! 🎣 ⚛
 - [Vincit/objection.js](https://github.com/Vincit/objection.js) - An SQL-friendly ORM for Node.js
@@ -1099,7 +1103,7 @@
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio) - My self coded personal website build with React.js
 - [PaulieScanlon/paulie-dev-2019](https://github.com/PaulieScanlon/paulie-dev-2019) - A Content Rich SSG Gatsby Website with Serverless Functions and SSR
-- [gbraadnl/gauth](https://github.com/gbraadnl/gauth) - A simple application for multi-factor authentication, written in HTML using jQuery Mobile, jsSHA and LocalStorage.
+- [gbraad/gauth](https://github.com/gbraad/gauth) - A simple application for multi-factor authentication, written in HTML using jQuery Mobile, jsSHA and LocalStorage.
 - [AykutSarac/react-quiz](https://github.com/AykutSarac/react-quiz) - 💡 Quiz app made using React & Open Trivia DB.
 - [collab-project/videojs-record](https://github.com/collab-project/videojs-record) - video.js plugin for recording audio/video/image files
 - [100mslive/100ms-web](https://github.com/100mslive/100ms-web) - A conferencing and streaming UI built with 100ms SDK.
@@ -1728,7 +1732,7 @@
 - [parse-community/parse-server-example](https://github.com/parse-community/parse-server-example) - Example server using Express and the parse-server module.
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
-- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com :fishsticks:
+- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [MEGAMINDMK/Php-Electronjs](https://github.com/MEGAMINDMK/Php-Electronjs) - A working php server with electronjs fully customizable & easy to use
 - [mglaman/conductor](https://github.com/mglaman/conductor) - A Composer user interface built using Electron.
 - [aj-techsoul/ELECTRON-4-PHP](https://github.com/aj-techsoul/ELECTRON-4-PHP) - An easiest way to use php in electron
@@ -2008,7 +2012,6 @@
 - [mmazzarolo/react-native-trello-login](https://github.com/mmazzarolo/react-native-trello-login) - Use Trello's API token-based authentication in React-Native
 - [mmazzarolo/react-native-modal-datetime-picker](https://github.com/mmazzarolo/react-native-modal-datetime-picker) - A React-Native datetime-picker for Android and iOS
 - [bradtraversy/storybooks](https://github.com/bradtraversy/storybooks) - Node.js app with Google OAuth
-- [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count
 - [sohobloo/react-native-modal-dropdown](https://github.com/sohobloo/react-native-modal-dropdown) - A react-native dropdown/picker/selector component for both Android & iOS.
 - [stovmascript/react-native-version](https://github.com/stovmascript/react-native-version) - :1234: Version your React Native or Expo app in a `npm version` fashion.
 - [maykbrito/screenboard](https://github.com/maykbrito/screenboard) - 👨🏾‍🏫 It's a overlay blackboard on your screen
@@ -2179,7 +2182,6 @@
 - [ayrtonteshima/ead-api](https://github.com/ayrtonteshima/ead-api) - API da plataforma de ensino a distância desenvolvida junto ao canal do YouTube Programador a Bordo
 - [ritwickdey/live-server-web-extension](https://github.com/ritwickdey/live-server-web-extension) - It makes your existing server live. This is a browser extension that helps you to live reload feature for dynamic content (PHP, Node.js, ASP.NET -- Whatever, it doesn't matter)
 - [reactiflux/reactiflux.com](https://github.com/reactiflux/reactiflux.com) - Reactiflux Website
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
 - [ng-hai/simple-trello](https://github.com/ng-hai/simple-trello) - A simple cloning version of Trello, using React ecosystem.
 - [carlosazaustre/vue-trello](https://github.com/carlosazaustre/vue-trello) - Trello clone with Vue.js for educational purposes
@@ -2371,6 +2373,7 @@
 - [thumbor/awesome-thumbor](https://github.com/thumbor/awesome-thumbor) - Everything thumbor, awesomely curated & updated weekly.
 - [Helsinki-NLP/Tatoeba-Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge) - 
 - [wamp-proto/wamp-proto](https://github.com/wamp-proto/wamp-proto) - The Web Application Messaging Protocol
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [WillStreeter/ws-dev-docker-example](https://github.com/WillStreeter/ws-dev-docker-example) - A Docker eco-system bundling 4 repositories to facilitate a FullStack integrated development environment encompassing an NGINX proxy instance, MongoDB instance, Front-End Angular (4.1.)x  App, Back-En
 
 ## Markdown 
@@ -2400,6 +2403,8 @@
 
 ## Others 
 
+- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
+- [vanities/GPU-Passthrough-Arch-Linux-to-Windows10](https://github.com/vanities/GPU-Passthrough-Arch-Linux-to-Windows10) - GPU Passthrough and virt-manager walkthrough
 - [free-educa/free-livros](https://github.com/free-educa/free-livros) - Educação é um direito de todos
 - [kzu/VocabularioTeologiaBiblica](https://github.com/kzu/VocabularioTeologiaBiblica) - Repositorio del Vocabulario de Teologia Biblica
 - [skills/github-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages.
@@ -2578,7 +2583,7 @@
 - [tiredofit/docker-freepbx](https://github.com/tiredofit/docker-freepbx) - Dockerized FreePBX 15 w/Asterisk 17, Seperate MySQL Database support, and Data Persistence and UCP
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [dadosgovbr/aplicativos-dados-brasil](https://github.com/dadosgovbr/aplicativos-dados-brasil) - Mapeamento de aplicativos e visualizações que usam dados abertos governamentais no Brasil.
-- [EquipeDadosAbertosCD/dados-abertos](https://github.com/EquipeDadosAbertosCD/dados-abertos) - Repositório do serviço de Dados Abertos da Câmara. Consulte as "Issues" para atendimento a dúvidas e sugestões.
+- [CamaraDosDeputados/dados-abertos](https://github.com/CamaraDosDeputados/dados-abertos) - Repositório do serviço de Dados Abertos da Câmara. Consulte as "Issues" para atendimento a dúvidas e sugestões.
 - [gomex/docker-para-desenvolvedores](https://github.com/gomex/docker-para-desenvolvedores) - Código fonte do livro Docker para desenvolvedores
 - [kartik-v/bootstrap-tabs-x](https://github.com/kartik-v/bootstrap-tabs-x) - Bootstrap tabs supercharged with various alignment and styling options
 - [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
@@ -2785,7 +2790,6 @@
 - [spekulatius/PHPScraper](https://github.com/spekulatius/PHPScraper) - A universal web-util for PHP.
 - [slimphp/Slim](https://github.com/slimphp/Slim) - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
 - [tailflow/laravel-orion](https://github.com/tailflow/laravel-orion) - The simplest way to create REST API with Laravel
-- [cgdsoftware/genealogy](https://github.com/cgdsoftware/genealogy) - Laravel 9.x backend using PHP 8.1. Family tree and genealogy data processing website software.
 - [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer
 - [GMX9/Crypto-Exchange-PHP](https://github.com/GMX9/Crypto-Exchange-PHP) - Free crypto exchange built with changenow.io API
 - [catfan/Medoo](https://github.com/catfan/Medoo) - The lightweight PHP database framework to accelerate the development.
@@ -2879,7 +2883,7 @@
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 - [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
-- [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) - Laravel IDE Helper
+- [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) - IDE Helper for Laravel
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
 - [ARCANEDEV/LogViewer](https://github.com/ARCANEDEV/LogViewer) - :page_with_curl: Provides a log viewer for Laravel
 - [panique/mini3](https://github.com/panique/mini3) - Just an extremely simple naked PHP application, useful for small projects and quick prototypes.
@@ -2994,7 +2998,7 @@
 - [RamonSilva20/mapos](https://github.com/RamonSilva20/mapos) - Sistema de Controle de Ordens de Serviço
 - [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. 
 - [sciactive/hookphp](https://github.com/sciactive/hookphp) - Method hooking in PHP.
-- [walkor/workerman](https://github.com/walkor/workerman) - An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. PHP&gt;=7.0.
+- [walkor/workerman](https://github.com/walkor/workerman) - An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols.
 - [php-api-clients/supervisord](https://github.com/php-api-clients/supervisord) - Async first supervisord HTTP API Client for PHP 7
 - [reactphp/socket](https://github.com/reactphp/socket) - Async, streaming plaintext TCP/IP and secure TLS socket server and client connections for ReactPHP.
 - [danielstjules/Stringy](https://github.com/danielstjules/Stringy) - A PHP string manipulation library with multibyte support
@@ -3023,6 +3027,8 @@
 
 ## PowerShell 
 
+- [farag2/Utilities](https://github.com/farag2/Utilities) - Useful things
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
 - [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core
 - [eizedev/PSItems](https://github.com/eizedev/PSItems) - A PowerShell module that finds files, file content, folders and their information in a really fast and easy way!
@@ -3055,7 +3061,7 @@
 
 ## Python 
 
-- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Real browserless ChatGPT library and command line tool. Using official API
 - [jimmy201602/webterminal](https://github.com/jimmy201602/webterminal) - ssh rdp vnc telnet sftp bastion/jump web putty xshell terminal jumpserver audit realtime monitor rz/sz 堡垒机 云桌面 linux devops sftp websocket  file management rz/sz otp 自动化运维 审计 录像 文件管理 sftp上传 实时监控 录像回放 
 - [Sygil-Dev/sygil-webui](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion web UI
 - [twilio/twilio-python](https://github.com/twilio/twilio-python) - A Python module for communicating with the Twilio API and generating TwiML.
@@ -3347,7 +3353,6 @@
 - [alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) - A series of ReactJS coding challenges with a variety of difficulties.
 - [johannesjo/angular-material-css-vars](https://github.com/johannesjo/angular-material-css-vars) - Little library to use css variables with @angular/material
 - [machine-learning-apps/Issue-Label-Bot](https://github.com/machine-learning-apps/Issue-Label-Bot) - Code For The Issue Label Bot, an App that automatically labels issues using machine learning, available on the GitHub Marketplace.   This is also code for the blog article: "How to automate tasks on G
-- [ionic-team/stencil-site](https://github.com/ionic-team/stencil-site) - Stencil site and documentation source.
 - [creativetimofficial/paper-dashboard-angular](https://github.com/creativetimofficial/paper-dashboard-angular) - Angular version of the original Paper Dashboard.
 - [creativetimofficial/material-dashboard-angular2](https://github.com/creativetimofficial/material-dashboard-angular2) - Material Dashboard Angular
 - [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
@@ -3371,6 +3376,7 @@
 
 ## Shell 
 
+- [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [zero-to-mastery/resources](https://github.com/zero-to-mastery/resources) - Here is a list of best resources to get you started with learning how to code (mostly related to Web Development). Feel free to add your favorite  resources as well and help others in their journey of
@@ -3852,7 +3858,7 @@
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 - [leerob/react2025](https://github.com/leerob/react2025) - ⚛️ Build applications from the the future, today.
 - [nuxt/image](https://github.com/nuxt/image) - Plug-and-play image optimization for Nuxt applications.
-- [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind, Prisma, and Vercel.
+- [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
 - [js-works/shoelace-theme-designer](https://github.com/js-works/shoelace-theme-designer) - 
 - [fulls1z3/universal](https://github.com/fulls1z3/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, CLI scaffolding, dev/prod modes, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO,
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
@@ -4124,13 +4130,13 @@
 - [prijs/pri](https://github.com/prijs/pri) - Framework for React applications and components.
 - [ascoders/react-native-image-zoom](https://github.com/ascoders/react-native-image-zoom) - react native image pan and zoom
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron
+- [ionic-team/stencil-site](https://github.com/ionic-team/stencil-site) - Stencil site and documentation source.
 - [meta-magic/microservice_apps_for_workshop](https://github.com/meta-magic/microservice_apps_for_workshop) - Microservice + Micro Frontend (Amexio, Angular) + Kubernetes
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [react-hook-form/devtools](https://github.com/react-hook-form/devtools) - 📋 DevTools to help debug forms.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [brazilian-utils/brazilian-utils](https://github.com/brazilian-utils/brazilian-utils) - Utils library for specific Brazilian businesses
 - [carbon-design-system/carbon-components-angular](https://github.com/carbon-design-system/carbon-components-angular) - An Angular implementation of the Carbon Design System for IBM.
-- [Pierstoval/alex-rock.tech](https://github.com/Pierstoval/alex-rock.tech) - 
 - [StartBootstrap/sb-clean-blog-angular](https://github.com/StartBootstrap/sb-clean-blog-angular) - Open sourced Bootstrap themed Angular 9 starter project.
 - [yeojz/otplib](https://github.com/yeojz/otplib) - :key: One Time Password (OTP) / 2FA for Node.js and Browser - Supports HOTP, TOTP and Google Authenticator
 - [CliffCrerar/ng-ionic-dynamic-form-demo](https://github.com/CliffCrerar/ng-ionic-dynamic-form-demo) - Dynamic form defined by data object called from a backend.

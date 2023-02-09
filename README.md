@@ -93,6 +93,7 @@
 
 ## C 
 
+- [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [greensoftwarelab/Energy-Languages](https://github.com/greensoftwarelab/Energy-Languages) - The complete set of tools for energy consumption analysis of programming languages, using Computer Language Benchmark Game
 - [lurcher/unixODBC](https://github.com/lurcher/unixODBC) - The unixODBC Project goals are to develop and promote unixODBC to be the definitive standard for ODBC on non MS Windows platforms.
 - [sqlite/sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree
@@ -2405,6 +2406,8 @@
 
 ## Others 
 
+- [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
+- [styfle/awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) - 🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [vanities/GPU-Passthrough-Arch-Linux-to-Windows10](https://github.com/vanities/GPU-Passthrough-Arch-Linux-to-Windows10) - GPU Passthrough and virt-manager walkthrough
 - [free-educa/free-livros](https://github.com/free-educa/free-livros) - Educação é um direito de todos
@@ -2768,7 +2771,7 @@
 - [spatie/Mailcoach](https://github.com/spatie/Mailcoach) - A self-hosted email list manager - in a modern jacket.
 - [rezaamini-ir/laravel-easypanel](https://github.com/rezaamini-ir/laravel-easypanel) - A beautiful and flexible admin panel creator based on Livewire for Laravel
 - [jeremykenedy/laravel-dashboard](https://github.com/jeremykenedy/laravel-dashboard) - This is an example of Spatie Laravel Dashboard using Livewire and package components. This example has all settings extended to the `dashboard.php` config file and the `.env` file. This example uses m
-- [westacks/telebot](https://github.com/westacks/telebot) - Easy way to create Telegram-bots in PHP. Rich Laravel support out of the box.
+- [westacks/telebot](https://github.com/westacks/telebot) - Easy way to create Telegram bots in PHP. Rich Laravel support out of the box.
 - [laravel/lumen](https://github.com/laravel/lumen) - The Laravel Lumen Framework.
 - [spatie/laravel-permission](https://github.com/spatie/laravel-permission) - Associate users with roles and permissions
 - [the-control-group/voyager](https://github.com/the-control-group/voyager) - Voyager - The Missing Laravel Admin
@@ -4345,7 +4348,7 @@
 - [GoodManWEN/GoodManWEN.github.io](https://github.com/GoodManWEN/GoodManWEN.github.io) - 📕 A website simulating linux system's GUI, using theme of Deepin distro. 网页模拟桌面
 - [creativetimofficial/vue-paper-dashboard](https://github.com/creativetimofficial/vue-paper-dashboard) - Creative Tim Paper Dashboard made for Vue
 - [harryho/vue-crm](https://github.com/harryho/vue-crm) - Simple reusable CRM built on Vue 2 PWA template and Vuetify UI
-- [xiaoxian521/vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
+- [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
 - [swina/whoobe-one-studio](https://github.com/swina/whoobe-one-studio) - A visual component builder for TailwindCSS
 - [Kamona-WD/kui-laravel-jetstream](https://github.com/Kamona-WD/kui-laravel-jetstream) - Different UI for laravel/jetstream
 - [pratik227/quasar-qgrid](https://github.com/pratik227/quasar-qgrid) - QGrid is a Quasar App Extension.  It allows you to filter data for each column, Drag and Drop Rows and also allows you to filter data using header filters.
@@ -4361,7 +4364,7 @@
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [Datlyfe/jira_clone](https://github.com/Datlyfe/jira_clone) - A Jira clone built with Vuejs & Nodejs/Graphql
-- [kadinzhang/Periodicity](https://github.com/kadinzhang/Periodicity) - periodic table for trend analysis
+- [kadinlz/Periodicity](https://github.com/kadinlz/Periodicity) - periodic table for trend analysis
 - [schoolofnetcom/cms-electron-php](https://github.com/schoolofnetcom/cms-electron-php) - 
 - [tmdh/laravel-kit](https://github.com/tmdh/laravel-kit) - A desktop Laravel admin panel app
 - [officert/vue-friendly-iframe](https://github.com/officert/vue-friendly-iframe) - A Vue js component for creating super fast loading, non-blocking iframes.

@@ -320,6 +320,7 @@
 - [Logan1x/bookMarks](https://github.com/Logan1x/bookMarks) - A reactjs project to store bookmarks 🔖
 - [marvelapp/devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets
 - [CSS-Tricks/AnythingSlider](https://github.com/CSS-Tricks/AnythingSlider) - A jQuery Slider plugin for anything.
+- [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [zachstronaut/quintessential-css-cube](https://github.com/zachstronaut/quintessential-css-cube) - .qube -- The Quintessential Responsive 3D CSS Cube
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian
 - [gadenbuie/tweet-conf-dash](https://github.com/gadenbuie/tweet-conf-dash) - A shiny twitter conference dashboard
@@ -682,7 +683,6 @@
 - [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [Script47/Toast](https://github.com/Script47/Toast) - A Bootstrap 4.2+ jQuery plugin for the toast component
 - [symbol/symbol-docs](https://github.com/symbol/symbol-docs) - Open-source documentation of Symbol
-- [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [jeromeetienne/threex](https://github.com/jeromeetienne/threex) - Game Extensions for three.js
 - [newdigate/teensy-eurorack](https://github.com/newdigate/teensy-eurorack) - Hardware Design: Eurorack shield for teensy 4.1 with 14 in / 16 out analog channels
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
@@ -1121,6 +1121,7 @@
 - [LeaVerou/inspire.js](https://github.com/LeaVerou/inspire.js) - Lean, hackable, extensible slide deck framework. Previously known as CSSS.
 - [Shabang-Systems/Condution](https://github.com/Shabang-Systems/Condution) - Tasks? Done. That was quick.
 - [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium
+- [warengonzaga/css-text-portrait-builder](https://github.com/warengonzaga/css-text-portrait-builder) - A popular pure CSS text portrait builder for your loved ones. 🥰
 - [vivek9patel/chrome-extension-react-boilerplate](https://github.com/vivek9patel/chrome-extension-react-boilerplate) - A boilerplate code to build a chrome extension with react and webpack.
 - [probablykasper/embler](https://github.com/probablykasper/embler) - Turn binaries into applications
 - [samirdjelal/mail-dev](https://github.com/samirdjelal/mail-dev) - Cross-platform, Local SMTP Server For Email Testing/Debugging
@@ -3334,7 +3335,6 @@
 - [app-generator/boilerplate-code-django-dashboard](https://github.com/app-generator/boilerplate-code-django-dashboard) - Boilerplate Code - Django Dashboard | AppSeed
 - [twitter/opensource-website](https://github.com/twitter/opensource-website) - Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
 - [simeydotme/jQuery-ui-Slider-Pips](https://github.com/simeydotme/jQuery-ui-Slider-Pips) - Plugin for adding little 'pips' , 'floats' and labels to a slider.
-- [warengonzaga/css-text-portrait-builder](https://github.com/warengonzaga/css-text-portrait-builder) - A popular pure CSS text portrait builder for your loved ones. 🥰
 - [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, easily build with blocks! 创建在线课程，学术简历或初创网站。#OpenScience
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [mmistakes/jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic) - Your new Jekyll default theme.
@@ -3357,7 +3357,6 @@
 - [warengonzaga/fork-corner](https://github.com/warengonzaga/fork-corner) - A modern and global open source fork corner label for your project's landing page.
 - [wonderfullandingpage/react-exquisite-resume](https://github.com/wonderfullandingpage/react-exquisite-resume) - A beautiful personal resume developed based on react
 - [alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) - A series of ReactJS coding challenges with a variety of difficulties.
-- [johannesjo/angular-material-css-vars](https://github.com/johannesjo/angular-material-css-vars) - Little library to use css variables with @angular/material
 - [machine-learning-apps/Issue-Label-Bot](https://github.com/machine-learning-apps/Issue-Label-Bot) - Code For The Issue Label Bot, an App that automatically labels issues using machine learning, available on the GitHub Marketplace.   This is also code for the blog article: "How to automate tasks on G
 - [creativetimofficial/paper-dashboard-angular](https://github.com/creativetimofficial/paper-dashboard-angular) - Angular version of the original Paper Dashboard.
 - [creativetimofficial/material-dashboard-angular2](https://github.com/creativetimofficial/material-dashboard-angular2) - Material Dashboard Angular
@@ -4074,6 +4073,7 @@
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [johnpapa/typescript-async](https://github.com/johnpapa/typescript-async) - Creating Asynchronous Code with TypeScript
 - [johnpapa/angular-lazy-load-demo](https://github.com/johnpapa/angular-lazy-load-demo) - Lazy loading Angular components
+- [johannesjo/angular-material-css-vars](https://github.com/johannesjo/angular-material-css-vars) - Little library to use css variables with @angular/material
 - [ArtBIT/html5-mandala](https://github.com/ArtBIT/html5-mandala) - Interactive radial symmetry image tool
 - [johannesjo/angular2-promise-buttons](https://github.com/johannesjo/angular2-promise-buttons) - Chilled loading buttons for angular2
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation

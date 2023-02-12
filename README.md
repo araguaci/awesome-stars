@@ -3094,7 +3094,7 @@
 - [rdegges/django-twilio](https://github.com/rdegges/django-twilio) - A simple library for building twilio-powered Django webapps.
 - [tomitokko/20-python-projects](https://github.com/tomitokko/20-python-projects) - 
 - [alessandrolamberti/ocr_demo](https://github.com/alessandrolamberti/ocr_demo) - 
-- [aiogram/aiogram](https://github.com/aiogram/aiogram) - Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp.
+- [aiogram/aiogram](https://github.com/aiogram/aiogram) - aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio
 - [eternnoir/pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - Python Telegram bot api.
 - [geekan/scrapy-examples](https://github.com/geekan/scrapy-examples) - Multifarious Scrapy examples. Spiders for alexa / amazon / douban / douyu / github / linkedin etc.
 - [leonardodiegues/lidebot](https://github.com/leonardodiegues/lidebot) - 🤖 que compara manchetes dos principais jornais do Brasil de hora em hora
@@ -4155,7 +4155,6 @@
 - [googleapis/repo-automation-bots](https://github.com/googleapis/repo-automation-bots) - A collection of bots, based on probot, for performing common maintenance tasks across the open-source repos managed by Google on GitHub.
 - [donmccasland/nodejs-docker](https://github.com/donmccasland/nodejs-docker) - The Node.js Docker image used by Google App Engine Flexible.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [peppapighs/dashboard-oi](https://github.com/peppapighs/dashboard-oi) - 
 - [guilhermerodz/rocketseat-nextjs-skylab](https://github.com/guilhermerodz/rocketseat-nextjs-skylab) - Rocketseat Skylab Homepage UI clone made with Next.js and Chakra UI
 - [angular-extensions/model](https://github.com/angular-extensions/model) - Angular Model - Simple state management with minimalist API, one way data flow, multiple model support and immutable data exposed as RxJS Observable.
 - [bithost-gmbh/ngx-mat-select-search](https://github.com/bithost-gmbh/ngx-mat-select-search) - Angular component providing an input field for searching / filtering MatSelect options of the Angular Material library.

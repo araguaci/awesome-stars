@@ -282,7 +282,6 @@
 
 ## CSS 
 
-- [McShelby/hugo-theme-relearn](https://github.com/McShelby/hugo-theme-relearn) - A theme for Hugo designed for documentation
 - [aidenybai/million-react](https://github.com/aidenybai/million-react) - ⚛️ Write React with a faster Virtual DOM
 - [mgilangjanuar/teledrive](https://github.com/mgilangjanuar/teledrive) - The Google Drive/OneDrive/etc alternative using Telegram API
 - [The-Shivam-garg/BigB-E-learn-Websit-e](https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e) - BigB is a E-learning website built using HTML, CSS, JavaScript and Bootstrap - Hacktoberfest Accepted.  🤞                                          This project is previously accepted in GSSoC 2022 , J
@@ -889,6 +888,7 @@
 
 ## JavaScript 
 
+- [McShelby/hugo-theme-relearn](https://github.com/McShelby/hugo-theme-relearn) - A theme for Hugo designed for documentation
 - [ManualDoCodigo/website](https://github.com/ManualDoCodigo/website) - 
 - [fullcalendar/fullcalendar-examples](https://github.com/fullcalendar/fullcalendar-examples) - Simple example projects for FullCalendar
 - [kentcdodds/react-hooks](https://github.com/kentcdodds/react-hooks) - Learn React Hooks! 🎣 ⚛
@@ -3872,7 +3872,7 @@
 - [alenaksu/json-viewer](https://github.com/alenaksu/json-viewer) - Web Component to visualize JSON data in a tree view
 - [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕜 Modern Timeline Component for React
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
-- [vuerd/vuerd](https://github.com/vuerd/vuerd) - Entity-Relationship Diagram Editor
+- [dineug/erd-editor](https://github.com/dineug/erd-editor) - Entity-Relationship Diagram Editor
 - [TowhidKashem/snapchat-clone](https://github.com/TowhidKashem/snapchat-clone) - 👻 A Snapchat clone built with React and Redux. Written in Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!
 - [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) - 🔎 🏞 The original medium.com-inspired image zooming library for React
 - [infinitered/reactotron-core-ui](https://github.com/infinitered/reactotron-core-ui) - 
@@ -4338,7 +4338,7 @@
 - [slanatech/dashblocks-template](https://github.com/slanatech/dashblocks-template) - Dashblocks Vue Material Admin Template
 - [danielroe/n3rdle](https://github.com/danielroe/n3rdle) - 
 - [LeCoupa/vuedarkmode](https://github.com/LeCoupa/vuedarkmode) - 👩‍🎨👨‍🎨 A minimalist dark design system for Vue.js. Based components designed for the insomniacs who enjoy dark interfaces as much as we do.
-- [hawkeye64/iconexplorer.app](https://github.com/hawkeye64/iconexplorer.app) - :zap: Icon Explorer application for Quasar Framework SVG icons. Over 120,000 searchable icons and growing.
+- [hawkeye64/iconexplorer.app](https://github.com/hawkeye64/iconexplorer.app) - :zap: Icon Explorer application for Quasar Framework SVG icons. Over 140,000 searchable icons and growing.
 - [hujiulong/vue-3d-model](https://github.com/hujiulong/vue-3d-model) - 📷 vue.js 3D model viewer component
 - [arnonrdp/LivroLog](https://github.com/arnonrdp/LivroLog) - A place for you to collect everything you've read.
 - [sumitkolhe/krates](https://github.com/sumitkolhe/krates) - :package: A free HTTP based JSON storage service

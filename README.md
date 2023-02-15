@@ -888,6 +888,7 @@
 
 ## JavaScript 
 
+- [hodgef/react-simple-keyboard](https://github.com/hodgef/react-simple-keyboard) - React Virtual Keyboard - Customizable, responsive and lightweight
 - [McShelby/hugo-theme-relearn](https://github.com/McShelby/hugo-theme-relearn) - A theme for Hugo designed for documentation
 - [ManualDoCodigo/website](https://github.com/ManualDoCodigo/website) - 
 - [fullcalendar/fullcalendar-examples](https://github.com/fullcalendar/fullcalendar-examples) - Simple example projects for FullCalendar
@@ -938,7 +939,6 @@
 - [rogeriogomes2009/ebux](https://github.com/rogeriogomes2009/ebux) - Biblioteca Virtual Free
 - [canove/whaticket-community](https://github.com/canove/whaticket-community) - A very simple Ticket System based on WhatsApp messages, that allow multi-users in same WhatsApp account.
 - [devpleno/junta-vagas](https://github.com/devpleno/junta-vagas) - 
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [Alexoid1/Super-heroes](https://github.com/Alexoid1/Super-heroes) - SuperHeroes is a web application that shows stats about All SuperHeroes and Villains from all universes. Built with React and Redux and fetches data from a standard API and FirebaseStore also authenti
 - [utsavbhattarai007/Toolkit](https://github.com/utsavbhattarai007/Toolkit) - 
 - [prismicio-community/nextjs-starter-prismic-multi-language](https://github.com/prismicio-community/nextjs-starter-prismic-multi-language) - Multi-language project with Next.js & Prismic
@@ -3511,6 +3511,7 @@
 
 ## TypeScript 
 
+- [hodgef/apiker](https://github.com/hodgef/apiker) - 🔼 Create Serverless APIs with Cloudflare Workers, Durable Objects & Wrangler
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The React + TypeScript CMS. Payload is a free and open-source Headless CMS and Application Framework built with TypeScript, Node.js, React, and MongoDB.
 - [karolkozer/planby](https://github.com/karolkozer/planby) - 
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
@@ -3540,7 +3541,7 @@
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [flexbox/react-native-bootcamp](https://github.com/flexbox/react-native-bootcamp) - 1 week, 20 lessons, opinionated React Native Bootcamp for busy developers
-- [janosh/elementari](https://github.com/janosh/elementari) - Simple interactive data visualizations for materials science: periodic table, Bohr atoms, nuclei, scatter plots.
+- [janosh/elementari](https://github.com/janosh/elementari) - Interactive visualizations for materials science: periodic tables, Bohr atoms, nuclei, heatmaps, scatter plots.
 - [samuelmeuli/react-magnifier](https://github.com/samuelmeuli/react-magnifier) - 🔍 React image zoom component
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [staltz/manyverse](https://github.com/staltz/manyverse) - A social network off the grid (real repo at https://gitlab.com/staltz/manyverse)

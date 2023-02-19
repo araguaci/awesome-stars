@@ -1147,7 +1147,7 @@
 - [tholman/elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
 - [ujjwalguptaofficial/JsStore](https://github.com/ujjwalguptaofficial/JsStore) - A complete IndexedDB wrapper with SQL like syntax.
 - [lostdesign/linked](https://github.com/lostdesign/linked) - 🧾  Daily journaling without distraction. An easy, distraction-free way to record your thoughts, declutter your mind and keep the things you want to remember. Join the discord at https://discord.gg/uNj
-- [guidone/node-red-contrib-chatbot](https://github.com/guidone/node-red-contrib-chatbot) - Visually build a full featured chat bot for Telegram, Facebook Messenger and Slack with Node-RED. Almost no coding skills required.
+- [guidone/node-red-contrib-chatbot](https://github.com/guidone/node-red-contrib-chatbot) - Visually build a full featured chat bot for Telegram, Facebook Messenger, Whatsapp and Slack with Node-RED. Almost no coding skills required.
 - [manuelbieh/geolib](https://github.com/manuelbieh/geolib) - Zero dependency library to provide some basic geo functions
 - [jamesqquick/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript](https://github.com/jamesqquick/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript) - Build a Quiz App with HTML, CSS, and JavaScript
 - [visjs/vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
@@ -1208,7 +1208,6 @@
 - [WordPress/dashicons](https://github.com/WordPress/dashicons) - Dashicons, the WordPress admin icon font. For the official resource, please see the WordPress Developer Hub.
 - [brunos3d/Calculator-React](https://github.com/brunos3d/Calculator-React) - 🖥 REACT.JS - Uma simples calculadora amigável feita em React.
 - [BlinkTagInc/gtfs-to-html](https://github.com/BlinkTagInc/gtfs-to-html) - Build human readable transit timetables as HTML or PDF from GTFS.
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [hzoo/hopeinsource.com](https://github.com/hzoo/hopeinsource.com) - 🙏 Hope In Source podcast site (+ transcripts)
 - [magenta/lofi-player](https://github.com/magenta/lofi-player) - 🔥 Virtual room in your browser that lets you play with the Lo-Fi VIBE and relax
 - [as-ideas/add-to-homescreen-react](https://github.com/as-ideas/add-to-homescreen-react) - A React component providing add-to-home-screen functionality for different platforms
@@ -2049,7 +2048,6 @@
 - [devshawn/password.live](https://github.com/devshawn/password.live) - 🔒 Generate simple or complex passwords directly from your web browser.
 - [carbon-design-system/gatsby-theme-carbon](https://github.com/carbon-design-system/gatsby-theme-carbon) - A Carbon inspired Gatsby theme
 - [cboard-org/cboard](https://github.com/cboard-org/cboard) - Augmentative and Alternative Communication (AAC) system with text-to-speech for the browser
-- [storybookjs/react-native](https://github.com/storybookjs/react-native) - 📓 Storybook for React Native!
 - [carbon-design-system/carbon-website](https://github.com/carbon-design-system/carbon-website) - The website for the Carbon Design System.
 - [carbon-design-system/carbon-addons-iot-react](https://github.com/carbon-design-system/carbon-addons-iot-react) - A collection of React components shared between IBM Watson IoT products.
 - [carbon-design-system/carbon-addons-data-viz-react](https://github.com/carbon-design-system/carbon-addons-data-viz-react) - DEPRECATED. Please use Carbon Charts instead
@@ -3071,6 +3069,7 @@
 
 ## Python 
 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
@@ -3612,6 +3611,7 @@
 - [redxzeta/Awesome-Adoption](https://github.com/redxzeta/Awesome-Adoption) - pet adoption near your area
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [antfu/vitesse-lite](https://github.com/antfu/vitesse-lite) - ⛺️ Lightweight version of Vitesse
+- [antfu/vitesse-nuxt3](https://github.com/antfu/vitesse-nuxt3) - Vitesse for Nuxt 3 🏔💚⚡️
 - [antfu/vitesse](https://github.com/antfu/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
 - [electron-vite/electron-vite-boilerplate](https://github.com/electron-vite/electron-vite-boilerplate) - 📚 A Electron + Vite boilerplate of the nature of learning(source-code of vite-plugin-electron)  / 学习性的样板工程(vite-plugin-electron源码)
 - [samuelmeuli/mini-diary](https://github.com/samuelmeuli/mini-diary) - 📘 Simple and secure journal app
@@ -3715,6 +3715,7 @@
 - [pablohen/covid](https://github.com/pablohen/covid) - Veja as estatísticas da Covid-19 de cada cidade do Brasil https://covid.pablohen.vercel.app.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [babel/website](https://github.com/babel/website) - :globe_with_meridians: The Babel documentation website
 - [typesense/docusaurus-theme-search-typesense](https://github.com/typesense/docusaurus-theme-search-typesense) - A fork of the awesome @docusaurus/theme-search-algolia library customized to work with Typesense
 - [iota-wiki/iota-wiki](https://github.com/iota-wiki/iota-wiki) - IOTA Wiki
@@ -4157,6 +4158,7 @@
 - [ionic-team/ionic-conference-app](https://github.com/ionic-team/ionic-conference-app) - A conference app built with Ionic to demonstrate Ionic
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [carbon-design-system/carbon-angular-starter](https://github.com/carbon-design-system/carbon-angular-starter) - A simple starter app for bootstrapping applications with Carbon
+- [storybookjs/react-native](https://github.com/storybookjs/react-native) - 📓 Storybook for React Native!
 - [carbon-design-system/carbon-for-ibm-dotcom](https://github.com/carbon-design-system/carbon-for-ibm-dotcom) - Carbon for IBM.com is based on the Carbon Design System for IBM
 - [carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts) - :bar_chart: :chart_with_upwards_trend:⠀Robust dataviz framework implemented using D3 & typescript
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
@@ -4319,7 +4321,6 @@
 - [logchimp/logchimp](https://github.com/logchimp/logchimp) - Track your customers feedback to build better products with LogChimp
 - [karrot-dev/karrot-frontend](https://github.com/karrot-dev/karrot-frontend) - Karrot is a free and open-source tool for grassroots initiatives and groups of people that want to coordinate face-to-face activities on a local, autonomous and voluntary basis.
 - [nuxt/codesandbox-nuxt](https://github.com/nuxt/codesandbox-nuxt) - Starter template for CodeSandBox.io
-- [antfu/vitesse-nuxt3](https://github.com/antfu/vitesse-nuxt3) - Vitesse for Nuxt 3 🏔💚⚡️
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [metalsadman/quasar-laravel](https://github.com/metalsadman/quasar-laravel) - Cloned from https://github.com/impxd/laravel-quasar-pwa-template
 - [bagisto/laravel-pwa](https://github.com/bagisto/laravel-pwa) - Transform your website like Mobile Application while having full functionality of the website using Laravel PWA

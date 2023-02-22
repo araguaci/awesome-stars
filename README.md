@@ -621,7 +621,7 @@
 - [jerosoler/css-svg-generator-waves](https://github.com/jerosoler/css-svg-generator-waves) - 🎨 CSS / SVG Generator Waves
 - [akashgiricse/templates-using-bootstrap4](https://github.com/akashgiricse/templates-using-bootstrap4) - 🌆 Here I've aggregated some of the most commonly used web-page templates made using Bootstrap4 🛒
 - [jh3y/driveway](https://github.com/jh3y/driveway) - pure CSS masonry layouts
-- [markmead/hyperui](https://github.com/markmead/hyperui) - 🚀 [FREE] Tailwind CSS components for marketing, e-commerce and application UI with optional support for Alpine JS, RTL and dark mode
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 - [js13kGames/resources](https://github.com/js13kGames/resources) - Tools, assets and tutorials for creating small HTML/JavaScript games.
 - [OmniSharp/generator-aspnet](https://github.com/OmniSharp/generator-aspnet) - yo generator for ASP.NET Core
 - [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for Android, Linux, macOS, Windows. For issues https://github.com/brave/brave-browser/issues
@@ -889,6 +889,7 @@
 
 ## JavaScript 
 
+- [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
 - [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [Mermade/widdershins](https://github.com/Mermade/widdershins) - OpenAPI / Swagger, AsyncAPI & Semoasa definitions to (re)Slate compatible markdown
@@ -1184,7 +1185,7 @@
 - [timgit/pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Node.js using PostgreSQL like a boss
 - [araguaci/timeline-surf-santa-catarina](https://github.com/araguaci/timeline-surf-santa-catarina) - 🚧 working in progress 🚧
 - [diego3g/video-to-reels](https://github.com/diego3g/video-to-reels) - Automatically edit videos to post on Instagram Reels
-- [ErickWendel/semana-javascript-expert06](https://github.com/ErickWendel/semana-javascript-expert06) - JS Expert 6.0 Week Classes - Spotify Radio
+- [ErickWendel/semana-javascript-expert06](https://github.com/ErickWendel/semana-javascript-expert06) - JS Expert Week 6.0 Classes - Spotify Radio
 - [ozanturhan/webrtc-nestjs-react-example](https://github.com/ozanturhan/webrtc-nestjs-react-example) - WebRTC Multi-Peer Example With React & NestJS
 - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [bachvtuan/Github-Contribution-Graph](https://github.com/bachvtuan/Github-Contribution-Graph) - Jquery plugin to render like contribution graph on Github.
@@ -2660,6 +2661,7 @@
 
 ## PHP 
 
+- [irontec/ivozprovider](https://github.com/irontec/ivozprovider) - IVOZ Provider - Multitenant solution for VoIP telephony providers
 - [HansSchouten/Laravel-Pagebuilder](https://github.com/HansSchouten/Laravel-Pagebuilder) - A drag and drop pagebuilder to manage pages in any Laravel project.
 - [cretueusebiu/laravel-vue-spa](https://github.com/cretueusebiu/laravel-vue-spa) - A Laravel-Vue SPA starter kit.
 - [julienbourdeau/route-usage](https://github.com/julienbourdeau/route-usage) - Log what routes were used and when. Easily figure out if one hasn't been called in a long time (and delete it! 🥳)
@@ -3004,7 +3006,7 @@
 - [openboleto/openboleto](https://github.com/openboleto/openboleto) - Biblioteca para geração de boletos bancários em PHP
 - [PHPJasper/phpjasper](https://github.com/PHPJasper/phpjasper) - A PHP report generator
 - [googleapis/google-api-php-client](https://github.com/googleapis/google-api-php-client) - A PHP client library for accessing Google APIs
-- [jupeter/clean-code-php](https://github.com/jupeter/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
+- [piotrplenik/clean-code-php](https://github.com/piotrplenik/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
 - [RamonSilva20/mapos](https://github.com/RamonSilva20/mapos) - Sistema de Controle de Ordens de Serviço
 - [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. 
 - [sciactive/hookphp](https://github.com/sciactive/hookphp) - Method hooking in PHP.

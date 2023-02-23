@@ -644,7 +644,6 @@
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [chocolatey/docs](https://github.com/chocolatey/docs) - https://docs.chocolatey.org - new docs website
 - [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
-- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [hexagontruth/hexular](https://github.com/hexagontruth/hexular) - Hexagonal cellular automata platform
 - [exercism/website-copy](https://github.com/exercism/website-copy) - A repository for exercism's website's copy
 - [araguaci/stop-war-for-ever](https://github.com/araguaci/stop-war-for-ever) - STOP WAR FOR EVER BE DONE GOD'S WILL
@@ -3278,6 +3277,7 @@
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [companionstudio/instagram-token-agent](https://github.com/companionstudio/instagram-token-agent) - A service to keep your Instagram Basic Display API token fresh.
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails

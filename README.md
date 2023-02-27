@@ -139,7 +139,7 @@
 - [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
 - [sipsorcery-org/sipsorcery](https://github.com/sipsorcery-org/sipsorcery) - A WebRTC, SIP and VoIP library for C# and .NET. Designed for real-time communications apps.
 - [syncfusion/blazor-showcase-expense-tracker](https://github.com/syncfusion/blazor-showcase-expense-tracker) - This expense tracker demo application showcases using several Syncfusion Blazor components together in a real-world application scenario. You can further explore the source code of this application an
-- [dotnettools/SharpGrabber](https://github.com/dotnettools/SharpGrabber) - Download from YouTube, Vimeo, HLS (M3U8 files) and more with .NET and JavaScript, Library and desktop app for downloading high quality media
+- [dotnettools/SharpGrabber](https://github.com/dotnettools/SharpGrabber) - Download from YouTube, Vimeo, HLS (M3U8 files) and more with .NET and JavaScript - Library and desktop app for downloading high quality media
 - [dotnet/cli-lab](https://github.com/dotnet/cli-lab) - A guided tool will be provided to enable the controlled clean up of a system such that only the desired versions of the Runtime and SDKs remain.
 - [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / W
 - [petrroll/PowerSwitcher](https://github.com/petrroll/PowerSwitcher) - Power plan switcher for Windows 10. Heavily inspired by EarTrumpet.
@@ -1400,7 +1400,7 @@
 - [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman) - 💪  User-generated content for Git-powered websites
 - [zachleat/artificial-chart](https://github.com/zachleat/artificial-chart) - An SVG charting library based on D3.js
 - [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
-- [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
+- [wavesurfer-js/wavesurfer.js](https://github.com/wavesurfer-js/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
 - [red5pro/streaming-html5](https://github.com/red5pro/streaming-html5) - Testbed examples for Red5 Pro HTML SDK usage
 - [Streamedian/html5_rtsp_player](https://github.com/Streamedian/html5_rtsp_player) - Play RTSP stream from IP camera in browser in this HTML5 player without plugins
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web

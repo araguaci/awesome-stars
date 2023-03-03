@@ -632,7 +632,7 @@
 - [willianjusten/will-jekyll-template](https://github.com/willianjusten/will-jekyll-template) - A simple Jekyll theme.
 - [codingforentrepreneurs/30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - Learn Python for the next 30 (or so) Days.
 - [StartPolymer/progressive-web-app-template](https://github.com/StartPolymer/progressive-web-app-template) - Starting point for building Progressive Web Apps PWA based on Polymer with motto #UseThePlatform.
-- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive and feature-rich Jekyll theme for technical writing.
 - [i18next/i18next-gitbook](https://github.com/i18next/i18next-gitbook) - 
 - [tuhinpal/dynamic-image](https://github.com/tuhinpal/dynamic-image) - Dynamically generate images for open-graph or website
 - [CodinGame/codingame-game-engine](https://github.com/CodinGame/codingame-game-engine) - CodinGame Engine
@@ -1701,7 +1701,7 @@
 - [liyasthomas/marcdown](https://github.com/liyasthomas/marcdown) - 👻 Lightweight realtime markdown viewer and editor - Simple, clean and beautiful https://liyasthomas.github.io/marcdown
 - [johnpapa/lite-server](https://github.com/johnpapa/lite-server) - Lightweight node server
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
-- [bmarvinb/react-trello-clone](https://github.com/bmarvinb/react-trello-clone) - Super simple Trello clone using React and Firebase
+- [bmarvinb/react-trello-clone](https://github.com/bmarvinb/react-trello-clone) - Simplified clone of Trello using React and Supabase
 - [rcdexta/react-event-timeline](https://github.com/rcdexta/react-event-timeline) - A responsive event timeline in React.js
 - [rcdexta/react-trello](https://github.com/rcdexta/react-trello) - Pluggable components to add a kanban board to your application
 - [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
@@ -3598,7 +3598,7 @@
 - [dastasoft/memory-game](https://github.com/dastasoft/memory-game) - Demo project to teach about Framer Motion animations on React projects.
 - [marakoss/sos-moto-app](https://github.com/marakoss/sos-moto-app) - SOS MOTO is a mobile application written in React Native that allows you to call a nearest contact from your GPS location to get a quick help. We have over 10k active users in Europe and steadily grow
 - [DoableDanny/NextJS-HarperDB-Task-Timer](https://github.com/DoableDanny/NextJS-HarperDB-Task-Timer) - Fullstack productivity timer app built with NextJS and HarperDB
-- [sunface/datav](https://github.com/sunface/datav) - 📊https://datav.io is a modern APM, provide observability for your business, application and infrastructure. It's also a lightweight alternative to Grafana.
+- [apm-ai/aiapm](https://github.com/apm-ai/aiapm) - 📊https://datav.io is a modern APM, provide observability for your business, application and infrastructure. It's also a lightweight alternative to Grafana.
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [danileao/permissions_users](https://github.com/danileao/permissions_users) - 
@@ -4279,7 +4279,7 @@
 - [wexond/browser-base](https://github.com/wexond/browser-base) - Modern and feature-rich web browser base based on Electron
 - [mongodb-js/compass](https://github.com/mongodb-js/compass) - The GUI for MongoDB.
 - [WebThingsIO/gateway](https://github.com/WebThingsIO/gateway) - WebThings Gateway
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [IBM/cognitive-social-crm](https://github.com/IBM/cognitive-social-crm) - An application that monitors a Twitter feed and determines customer sentiment using IBM Watson Assistant, Tone Analyzer, Natural Language Understanding, as well as CloudantDB
 - [nodegui/examples](https://github.com/nodegui/examples) - Repo containing example apps made with NodeGui and React NodeGui
 - [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron) - Official  OSX, Windows, and Linux Desktop Clients for Rocket.Chat

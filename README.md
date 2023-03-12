@@ -93,6 +93,7 @@
 
 ## C 
 
+- [akheron/jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [greensoftwarelab/Energy-Languages](https://github.com/greensoftwarelab/Energy-Languages) - The complete set of tools for energy consumption analysis of programming languages, using Computer Language Benchmark Game
 - [lurcher/unixODBC](https://github.com/lurcher/unixODBC) - The unixODBC Project goals are to develop and promote unixODBC to be the definitive standard for ODBC on non MS Windows platforms.
@@ -249,7 +250,7 @@
 - [tenacityteam/tenacity-legacy](https://github.com/tenacityteam/tenacity-legacy) - THIS REPO IS NOT MAINTAINED ANYMORE. Please see https://codeberg.org/tenacityteam/tenacity for Tenacity, which is maintained.
 - [tjanczuk/edge](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
 - [BelledonneCommunications/flexisip](https://github.com/BelledonneCommunications/flexisip) - Linphone.org mirror for flexisip (git://git.linphone.org/flexisip.git)
-- [owncloud/client](https://github.com/owncloud/client) - :computer: Desktop Syncing Client for ownCloud
+- [owncloud/client](https://github.com/owncloud/client) - 🖥️ Desktop Syncing Client for ownCloud
 - [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
 - [qTox/qTox](https://github.com/qTox/qTox) - qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -588,6 +589,7 @@
 
 ## HTML 
 
+- [iuricode/portfolio](https://github.com/iuricode/portfolio) - 💻 Portfólio - Iuri Silva
 - [matcornic/hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) - Porting Grav Learn theme to Hugo
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [Weilbyte/tiktok-tts](https://github.com/Weilbyte/tiktok-tts) - Generate TikTok Text-to-Speech voices in your browser
@@ -658,6 +660,7 @@
 - [peterpeterparker/web-social-share](https://github.com/peterpeterparker/web-social-share) - A Web Component to share url and text on social networks
 - [jaegertracing/documentation](https://github.com/jaegertracing/documentation) - Documentation/website for the Jaeger Distributed Tracing project.
 - [araguaci/javascript-slider-reviews](https://github.com/araguaci/javascript-slider-reviews) - AVALIAÇÕES - FLORIPA SURF CLUB SURF SCHOOL 🌊 A ESCOLA QUE ENSINA EM ONDAS PERFEITAS PARA INICIANTES 🌊 www.floripasurfclub.com.br - @floripasurfcluboficial
+- [araguaci/recursos-gratuitos](https://github.com/araguaci/recursos-gratuitos) - 🌈 Uma coleção com links de recursos gratuitos para desenvolvimentos e estudos.
 - [araguaci/araguaci.github.io](https://github.com/araguaci/araguaci.github.io) - Since 1994, creation and development of systems, portals, personal pages, websites, and specialized systems for internet and websites ...
 - [araguaci/catequese-para-adultos](https://github.com/araguaci/catequese-para-adultos) - A fé de dois mil anos da Igreja, explicada de forma concisa, simples e acessível a todos, é o que este curso de catequese deseja transmitir.
 - [araguaci/brasil-pela-liberdade](https://github.com/araguaci/brasil-pela-liberdade) - ✠ Brasil pela Liberdade ✠ Brasileiros unidos pedindo liberdade. Uma série de eventos realizados em todo o Brasil, pedindo liberdade para trabalhar e seguir com suas vidas.
@@ -785,7 +788,7 @@
 - [tomsaleeba/test-data-site](https://github.com/tomsaleeba/test-data-site) - Various assets for testing websites (photos with EXIF, etc)
 - [tomsaleeba/browser-image-compression](https://github.com/tomsaleeba/browser-image-compression) - 
 - [JayKan/tabler-icons](https://github.com/JayKan/tabler-icons) - A set of over 550 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [aeagle/react-spaces](https://github.com/aeagle/react-spaces) - React components that allow you to divide a page or container into nestable anchored, scrollable and resizable spaces.
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [coreui/coreui-free-angular-admin-template](https://github.com/coreui/coreui-free-angular-admin-template) - CoreUI Angular is free Angular 14 admin template based on Bootstrap 5
@@ -824,6 +827,7 @@
 
 ## Java 
 
+- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
 - [chuross/asciiartview](https://github.com/chuross/asciiartview) - Drawing for AsciiArt
@@ -888,6 +892,7 @@
 
 ## JavaScript 
 
+- [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simplest dashboard for WireGuard VPN written in Python w/ Flask
 - [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
 - [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
@@ -2090,7 +2095,7 @@
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
 - [HelioSilva/Whatsapp-bot-NodeJS](https://github.com/HelioSilva/Whatsapp-bot-NodeJS) - Whatsapp bot para delivery de uma lanchonete usando NodeJS.
 - [nhn/toast-ui.doc](https://github.com/nhn/toast-ui.doc) - 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
 - [CodAffection/Angular-7-Master-Detail-CRUD-with-Web-API](https://github.com/CodAffection/Angular-7-Master-Detail-CRUD-with-Web-API) - Angular 7 Master Detail CRUD with Web API
 - [phonegap/phonegap-mobile-accessibility](https://github.com/phonegap/phonegap-mobile-accessibility) - PhoneGap plugin to expose mobile accessibility APIs.
 - [techiediaries/fake-api-jwt-json-server](https://github.com/techiediaries/fake-api-jwt-json-server) - A Fake API with JWT Authentication using json-server and jsonwebtoken
@@ -2332,6 +2337,7 @@
 
 ## Jupyter Notebook 
 
+- [awangga/Python-Artificial-Intelligence-Projects-for-Beginners](https://github.com/awangga/Python-Artificial-Intelligence-Projects-for-Beginners) - Python Artificial Intelligence Projects for Beginners, published by Packt
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -2412,6 +2418,8 @@
 
 ## Others 
 
+- [sirredbeard/Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
+- [iuricode/padroes-de-commits](https://github.com/iuricode/padroes-de-commits) - 📄 Padrão de commits para repositórios.
 - [codecon-dev/awesome-communities-and-events-tech-brazil](https://github.com/codecon-dev/awesome-communities-and-events-tech-brazil) - Uma curadoria de comunidades e eventos tech incríveis para você participar.
 - [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
 - [styfle/awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) - 🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop
@@ -2506,7 +2514,6 @@
 - [araguaci/google-sheets-gatsby](https://github.com/araguaci/google-sheets-gatsby) - 
 - [araguaci/quasar-awesome](https://github.com/araguaci/quasar-awesome) - 🎉 A list of awesome things related to Quasar
 - [araguaci/Front-End-Web-Development-Resources](https://github.com/araguaci/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
-- [araguaci/recursos-gratuitos](https://github.com/araguaci/recursos-gratuitos) - 🌈 Uma coleção com links de recursos gratuitos para desenvolvimentos e estudos.
 - [araguaci/cronograma-para-a-t1ran1a](https://github.com/araguaci/cronograma-para-a-t1ran1a) - Cronograma para Tirania
 - [araguaci/olavo-de-carvalho](https://github.com/araguaci/olavo-de-carvalho) - 
 - [ilmoi/awesome-solana-nfts](https://github.com/ilmoi/awesome-solana-nfts) - A curated list of Solana NFT protocols, repos & community tools
@@ -3494,7 +3501,7 @@
 - [carbon-design-system/carbon-components-svelte](https://github.com/carbon-design-system/carbon-components-svelte) - Svelte implementation of the Carbon Design System
 - [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
 - [itswadesh/svelte-commerce](https://github.com/itswadesh/svelte-commerce) - Svelte ecommerce - Headless, Authentication, Cart & Checkout, TailwindCSS, Server Rendered, Proxy + API Integrated, Animations, Lazy Loading, Loading Indicators, Carousel, Instant Search, Faceted Filt
-- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A UI toolkit for Svelte + Tailwind.
+- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams
 - [sveltejs/realworld](https://github.com/sveltejs/realworld) - SvelteKit implementation of the RealWorld app
@@ -3522,6 +3529,7 @@
 
 ## TypeScript 
 
+- [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React
 - [wppconnect-team/wppconnect](https://github.com/wppconnect-team/wppconnect) - WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interacti
 - [frappe/books](https://github.com/frappe/books) - Modern desktop accounting for freelancers and small-businesses.
 - [hodgef/apiker](https://github.com/hodgef/apiker) - 🔼 Create Serverless APIs with Cloudflare Workers, Durable Objects & Wrangler
@@ -3601,7 +3609,7 @@
 - [marakoss/sos-moto-app](https://github.com/marakoss/sos-moto-app) - SOS MOTO is a mobile application written in React Native that allows you to call a nearest contact from your GPS location to get a quick help. We have over 10k active users in Europe and steadily grow
 - [DoableDanny/NextJS-HarperDB-Task-Timer](https://github.com/DoableDanny/NextJS-HarperDB-Task-Timer) - Fullstack productivity timer app built with NextJS and HarperDB
 - [ai-apm/aiapm](https://github.com/ai-apm/aiapm) - 📊AiAPM is a modern APM implementation, provide observability for your business, application and infrastructure.  Written in React/Typescript, Go, Rust.
-- [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
+- [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [danileao/permissions_users](https://github.com/danileao/permissions_users) - 
 - [lklima/rive-animated-app](https://github.com/lklima/rive-animated-app) - 
@@ -4128,7 +4136,7 @@
 - [eugustavo/github-badges](https://github.com/eugustavo/github-badges) - Application made to create badges for your readme 📑
 - [jpedroschmitz/gatsby-starter-ts](https://github.com/jpedroschmitz/gatsby-starter-ts) - TypeScript starter for Gatsby. No plugins and styling. Exactly the necessary to start. Ready for Gatsby 5 🔥
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
-- [pocka/storybook-addon-designs](https://github.com/pocka/storybook-addon-designs) - A Storybook addon that embeds Figma, websites, or images in the addon panel.
+- [storybookjs/addon-designs](https://github.com/storybookjs/addon-designs) - A Storybook addon that embeds Figma, websites, or images in the addon panel.
 - [pocka/storybook-addon-vue-info](https://github.com/pocka/storybook-addon-vue-info) - Info addon for Vue components
 - [aurelia/aurelia](https://github.com/aurelia/aurelia) - Aurelia 2, a standards-based, front-end framework designed for high-performing, ambitious applications.
 - [angular/universal](https://github.com/angular/universal) - Server-side rendering and Prerendering for Angular
@@ -4387,7 +4395,7 @@
 - [tmdh/laravel-kit](https://github.com/tmdh/laravel-kit) - A desktop Laravel admin panel app
 - [officert/vue-friendly-iframe](https://github.com/officert/vue-friendly-iframe) - A Vue js component for creating super fast loading, non-blocking iframes.
 - [officert/vue-slideout-panel](https://github.com/officert/vue-slideout-panel) - Vue JS component for stackable slideout panels
-- [nuxt/hackernews](https://github.com/nuxt/hackernews) - HackerNews clone built with Nuxt.js
+- [nuxt/hackernews](https://github.com/nuxt/hackernews) - HackerNews clone built with Nuxt.
 - [jp-amis/livetodo](https://github.com/jp-amis/livetodo) - 
 - [neuronetio/gantt-elastic](https://github.com/neuronetio/gantt-elastic) - Gantt Chart  [ javascript gantt chart, gantt component, vue gantt, vue gantt chart,  responsive gantt, project manager , vue projects ]
 - [DesignRevision/shards-vue](https://github.com/DesignRevision/shards-vue) - 🌟Shards Vue is a free, beautiful and modern Vue.js UI kit based on Shards.

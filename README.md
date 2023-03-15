@@ -732,7 +732,7 @@
 - [opentargets/opentargets.github.io](https://github.com/opentargets/opentargets.github.io) - Open Targets corporate website code using Jekyll
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [hermanzdosilovic/online-compiler](https://github.com/hermanzdosilovic/online-compiler) - Online compiler written in less than 200 lines of code.
-- [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements) - The most popular independent Tailwind library. 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
+- [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 - [cunhasbia/single-page-application](https://github.com/cunhasbia/single-page-application) - ✔️ a simple SPA that validates a login and shows the content page through javascript and DOM manipulation.
 - [Timoteoo/log-user-actions](https://github.com/Timoteoo/log-user-actions) - Basic app that logs to the database some things that the user do, such as login dates, amount of times that some user logged in...
 - [rocketseat-content/youtube-git-guia-pratico-iniciante](https://github.com/rocketseat-content/youtube-git-guia-pratico-iniciante) - 
@@ -2343,7 +2343,6 @@
 - [awangga/Python-Artificial-Intelligence-Projects-for-Beginners](https://github.com/awangga/Python-Artificial-Intelligence-Projects-for-Beginners) - Python Artificial Intelligence Projects for Beginners, published by Packt
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
-- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [kishanrajput23/Awesome-Project-Collection](https://github.com/kishanrajput23/Awesome-Project-Collection) - This repository contains a lot of projects in various languages and domains.
 - [multimodalart/majesty-diffusion](https://github.com/multimodalart/majesty-diffusion) - Majesty Diffusion by @Dango233(@Dango233max) and @apolinario (@multimodalart)
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
@@ -2741,7 +2740,7 @@
 - [suphiyasin/instagram-advanced-user-finder](https://github.com/suphiyasin/instagram-advanced-user-finder) - An auto software that collects, scans and sends automatic instagram users
 - [scrawler-labs/router](https://github.com/scrawler-labs/router) - An Fully Automatic RESTful PHP Router
 - [sstur/js2php](https://github.com/sstur/js2php) - JavaScript to PHP source transformation
-- [symfony/console](https://github.com/symfony/console) - The Console component eases the creation of beautiful and testable command line interfaces.
+- [symfony/console](https://github.com/symfony/console) - Eases the creation of beautiful and testable command line interfaces
 - [RobDWaller/ReallySimpleJWT](https://github.com/RobDWaller/ReallySimpleJWT) - A really simple library to generate JSON Web Tokens in PHP.
 - [scoumbourdis/grocery-crud](https://github.com/scoumbourdis/grocery-crud) - Grocery CRUD is a PHP Codeigniter Framework library that creates a full functional CRUD system without the requirement of extra customisation to the JavaScripts or the CSS to do it so.
 - [kirilkirkov/Ecommerce-CodeIgniter-Bootstrap](https://github.com/kirilkirkov/Ecommerce-CodeIgniter-Bootstrap) - Responsive, Multi-Vendor, MultiLanguage Online Store Platform (shopping cart solution)
@@ -2891,7 +2890,7 @@
 - [HubSpot/hubspot-api-php](https://github.com/HubSpot/hubspot-api-php) - HubSpot API PHP Client Libraries for V3 version of the API
 - [andygrunwald/DigitalKanban](https://github.com/andygrunwald/DigitalKanban) - A small digital Kanban board based on Symfony2. This application was developed during a small university project.
 - [thedevdojo/chatter](https://github.com/thedevdojo/chatter) - Chatter is a Simple Laravel Forum Package
-- [kingdom553/blade-template-using-api](https://github.com/kingdom553/blade-template-using-api) - This is the laravel front end project using blade template.
+- [loyal-golden/blade-template-using-api](https://github.com/loyal-golden/blade-template-using-api) - This is the laravel front end project using blade template.
 - [rappasoft/laravel-livewire-tables](https://github.com/rappasoft/laravel-livewire-tables) - A dynamic table component for Laravel Livewire
 - [FTXInfotech/laravel-adminpanel](https://github.com/FTXInfotech/laravel-adminpanel) - A Laravel Admin Panel (Laravel Version : 6.0)
 - [beyondcode/laravel-websockets](https://github.com/beyondcode/laravel-websockets) - Websockets for Laravel. Done right.
@@ -3086,12 +3085,15 @@
 
 ## Python 
 
+- [gildasio/h2t](https://github.com/gildasio/h2t) - h2t (HTTP Hardening Tool) scans a website and suggests security headers to apply
+- [dbcli/mssql-cli](https://github.com/dbcli/mssql-cli) - A command-line client for SQL Server with auto-completion and syntax highlighting
 - [gdraheim/docker-systemctl-images](https://github.com/gdraheim/docker-systemctl-images) - 
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [jimmy201602/webterminal](https://github.com/jimmy201602/webterminal) - ssh rdp vnc telnet sftp bastion/jump web putty xshell terminal jumpserver audit realtime monitor rz/sz 堡垒机 云桌面 linux devops sftp websocket  file management rz/sz otp 自动化运维 审计 录像 文件管理 sftp上传 实时监控 录像回放 
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [Sygil-Dev/sygil-webui](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion web UI
 - [twilio/twilio-python](https://github.com/twilio/twilio-python) - A Python module for communicating with the Twilio API and generating TwiML.
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
@@ -3190,7 +3192,7 @@
 - [turicas/covid19-br](https://github.com/turicas/covid19-br) - Dados diários mais recentes do coronavírus por município brasileiro
 - [turicas/socios-brasil](https://github.com/turicas/socios-brasil) - Captura os dados de sócios das empresas brasileiras na Receita Federal e exporta para um formato legível por humanos
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
-- [diffgram/diffgram](https://github.com/diffgram/diffgram) - Integrate Human Supervision into your Platform.  For all Training Data Types, Image, Video, 3D, Text, Geo, Audio, Compound, Grid, LLM, Conversational, and more.
+- [diffgram/diffgram](https://github.com/diffgram/diffgram) - Integrate Human Supervision into your Platform.  For all Training Data Types, Image, Video, 3D, Text, Geo, Audio, Compound, Grid, LLM, GPT, Conversational, and more.
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [jet-admin/jet-bridge](https://github.com/jet-admin/jet-bridge) - Jet Admin – No-code Business App builder
 - [Ra-Na/GTranslate-strings-xml](https://github.com/Ra-Na/GTranslate-strings-xml) - Creats a strings.xml file by Google auto-translating an input strings.xml file
@@ -4080,7 +4082,7 @@
 - [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript.
 - [dancancro/great-big-example-application](https://github.com/dancancro/great-big-example-application) - A full-stack example app built with JHipster, Spring Boot, Kotlin, Angular 4, ngrx, and Webpack
 - [reach/reach-ui](https://github.com/reach/reach-ui) - The Accessible Foundation for React Apps and Design Systems
-- [hirosystems/stacks-wallet](https://github.com/hirosystems/stacks-wallet) - Stacks Wallet—Send and receive STX tokens on the Stacks Blockchain.
+- [hirosystems/desktop-wallet](https://github.com/hirosystems/desktop-wallet) - Stacks Wallet—Send and receive STX tokens on the Stacks Blockchain.
 - [kata-ai/aksara-ui](https://github.com/kata-ai/aksara-ui) - Aksara Design System, from Kata.ai.
 - [LauraBeatris/floripamais](https://github.com/LauraBeatris/floripamais) - Website of the Floripa+ organization - built with Next.js and integrated with Strapi CMS
 - [Swizec/useAuth](https://github.com/Swizec/useAuth) - The simplest way to add authentication to your React app. Supports various providers.

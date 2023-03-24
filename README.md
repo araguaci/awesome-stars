@@ -515,7 +515,6 @@
 - [achhabra2/riftshare](https://github.com/achhabra2/riftshare) - Easy, Secure, Free file sharing
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [ObserveAPM/observe](https://github.com/ObserveAPM/observe) - Observe is a lightweight observability and APM platform that provides fully observability for your business and infrastructure. Observe UI is also an better alternative to Grafana, but only target Pro
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
@@ -583,7 +582,6 @@
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
-- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [rancher/convoy](https://github.com/rancher/convoy) - A Docker volume plugin, managing persistent container volumes.
 - [mundipagg/boleto-api](https://github.com/mundipagg/boleto-api) - API for register and generate "Boletos"
 - [montanaflynn/awesome-go](https://github.com/montanaflynn/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -592,6 +590,7 @@
 
 - [AlliumCepa/webgui](https://github.com/AlliumCepa/webgui) - A free open source content management system and web application framework. The most widely deployed mod_perl application on the planet.
 - [decal/werdlists](https://github.com/decal/werdlists) - :keyboard: Wordlists, Dictionaries and Other Data Sets for Writing Software Security Test Cases
+- [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simplest dashboard for WireGuard VPN written in Python w/ Flask
 - [iuricode/portfolio](https://github.com/iuricode/portfolio) - 💻 Portfólio - Iuri Silva
 - [matcornic/hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) - Porting Grav Learn theme to Hugo
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -898,7 +897,6 @@
 ## JavaScript 
 
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
-- [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simplest dashboard for WireGuard VPN written in Python w/ Flask
 - [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
 - [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
@@ -2470,7 +2468,7 @@
 - [Kollate/truegit-test](https://github.com/Kollate/truegit-test) - A sample blog powered by Truegit
 - [jeromedalbert/real-world-react-apps](https://github.com/jeromedalbert/real-world-react-apps) - Real world React apps and their open source codebases for developers to learn from
 - [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier
-- [AakashRao-dev/CSS-Cheatsheets](https://github.com/AakashRao-dev/CSS-Cheatsheets) - 📊 Get all of my CSS Cheatsheets from here which I have created & shared on twitter. Thanks for the support. 💜
+- [AakashRao-dev/Cheatsheets-for-Developers](https://github.com/AakashRao-dev/Cheatsheets-for-Developers) - 📊 Get all of my CSS Cheatsheets from here which I have created & shared on twitter. Thanks for the support. 💜
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css) - :art: A curated contents of amazing CSS :)
 - [vicky002/1000_Projects](https://github.com/vicky002/1000_Projects) - :sunglasses: Mega List of practical projects that one can solve in any programming language!
@@ -2674,6 +2672,8 @@
 
 ## PHP 
 
+- [cinderjk/zete](https://github.com/cinderjk/zete) - Simple Panel for Baileys API
+- [fresns/fresns](https://github.com/fresns/fresns) - Fresns core library: Cross-platform general-purpose multiple content forms social network service software
 - [BaseMax/LaravelBigDataTest](https://github.com/BaseMax/LaravelBigDataTest) - PHP Laravel: Develop a test environment in Laravel with more than 20 Million user rows. (A project in blade laravel and another SPA in vue js infinite scroll)
 - [irontec/ivozprovider](https://github.com/irontec/ivozprovider) - IVOZ Provider - Multitenant solution for VoIP telephony providers
 - [HansSchouten/Laravel-Pagebuilder](https://github.com/HansSchouten/Laravel-Pagebuilder) - A drag and drop pagebuilder to manage pages in any Laravel project.
@@ -3150,6 +3150,7 @@
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [app-generator/django-soft-ui-dashboard](https://github.com/app-generator/django-soft-ui-dashboard) - Soft UI Dashboard - Open-source Django Dashboard | AppSeed
+- [app-generator/boilerplate-code-django-dashboard](https://github.com/app-generator/boilerplate-code-django-dashboard) - Boilerplate Code - Django Dashboard | AppSeed
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
@@ -3363,7 +3364,6 @@
 - [mbarker84/eleventy-parcel](https://github.com/mbarker84/eleventy-parcel) - 
 - [mbarker84/css-irl-eleventy](https://github.com/mbarker84/css-irl-eleventy) - 
 - [selectize/selectize.js](https://github.com/selectize/selectize.js) - Selectize is the hybrid of a textbox and &lt;select&gt; box. It's jQuery based, and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
-- [app-generator/boilerplate-code-django-dashboard](https://github.com/app-generator/boilerplate-code-django-dashboard) - Boilerplate Code - Django Dashboard | AppSeed
 - [twitter/opensource-website](https://github.com/twitter/opensource-website) - Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
 - [simeydotme/jQuery-ui-Slider-Pips](https://github.com/simeydotme/jQuery-ui-Slider-Pips) - Plugin for adding little 'pips' , 'floats' and labels to a slider.
 - [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, easily build with blocks! 创建在线课程，学术简历或初创网站。#OpenScience
@@ -3412,6 +3412,7 @@
 
 ## Shell 
 
+- [zabbix/zabbix-docker](https://github.com/zabbix/zabbix-docker) - Official Zabbix Dockerfiles
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [plus3it/spel](https://github.com/plus3it/spel) - STIG-Partitioned Enterprise Linux (spel)
 - [NuLL3rr0r/omnibackup](https://github.com/NuLL3rr0r/omnibackup) - One Script to back them all up
@@ -3515,7 +3516,7 @@
 
 - [carbon-design-system/carbon-components-svelte](https://github.com/carbon-design-system/carbon-components-svelte) - Svelte implementation of the Carbon Design System
 - [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
-- [itswadesh/svelte-commerce](https://github.com/itswadesh/svelte-commerce) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Litekart. Woocommerce, MedusaJS, Bigcommerce and Shopify i
+- [itswadesh/svelte-commerce](https://github.com/itswadesh/svelte-commerce) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have WIP for Litekart. Woocommerce, MedusaJS, Bigcommerce and Shopify. The API approach 
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams
@@ -3544,6 +3545,8 @@
 
 ## TypeScript 
 
+- [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter with ⚛️  React, ▲ NextJS,  ⚡️ Chakra UI,  ⚛️  TanStack Query & 🐜  Formiz — From the 🐻  BearStudio Team
+- [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React
 - [wppconnect-team/wppconnect](https://github.com/wppconnect-team/wppconnect) - WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interacti
@@ -3624,6 +3627,7 @@
 - [dastasoft/memory-game](https://github.com/dastasoft/memory-game) - Demo project to teach about Framer Motion animations on React projects.
 - [marakoss/sos-moto-app](https://github.com/marakoss/sos-moto-app) - SOS MOTO is a mobile application written in React Native that allows you to call a nearest contact from your GPS location to get a quick help. We have over 10k active users in Europe and steadily grow
 - [DoableDanny/NextJS-HarperDB-Task-Timer](https://github.com/DoableDanny/NextJS-HarperDB-Task-Timer) - Fullstack productivity timer app built with NextJS and HarperDB
+- [ObserveAPM/observe](https://github.com/ObserveAPM/observe) - Observe is a lightweight observability and APM platform that provides fully observability for your business and infrastructure. Observe UI is also an better alternative to Grafana,  only targets Prome
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [danileao/permissions_users](https://github.com/danileao/permissions_users) - 
@@ -3874,7 +3878,7 @@
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
-- [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
+- [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Legacy version of the Mattermost web app (now located as part of https://github.com/mattermost/mattermost-server)
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [Vagr9K/gatsby-advanced-starter](https://github.com/Vagr9K/gatsby-advanced-starter) - A high performance skeleton starter for GatsbyJS with an advanced feature set.
@@ -3929,7 +3933,7 @@
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [ReactTraining/react-workshop](https://github.com/ReactTraining/react-workshop) - The course material for our React Hooks workshop
 - [Hermanya/use-interval](https://github.com/Hermanya/use-interval) - ⏲ Dan Abramov's interval hook.
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [LauraBeatris/use-selected-items-hook](https://github.com/LauraBeatris/use-selected-items-hook) - Easily select items based on an array
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [ionic-team/ionic-storage](https://github.com/ionic-team/ionic-storage) - Ionic Storage module for Ionic apps
@@ -4277,6 +4281,7 @@
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
+- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [actions-on-google/smart-home-local](https://github.com/actions-on-google/smart-home-local) - Local Home SDK sample
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform

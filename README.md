@@ -3557,7 +3557,7 @@
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [pixiebrix/pixiebrix-extension](https://github.com/pixiebrix/pixiebrix-extension) - PixieBrix browser extension
 - [RafaelGoulartB/proffy](https://github.com/RafaelGoulartB/proffy) - 🚀 Project made to connect teachers to students. Made in Next Level Week #2 #NLW @Rocketseat
-- [koskimas/kysely](https://github.com/koskimas/kysely) - A type-safe typescript SQL query builder
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
 - [getsentry/sentry-electron](https://github.com/getsentry/sentry-electron) - The official Sentry SDK for Electron
@@ -4079,7 +4079,7 @@
 - [tokyapp/toky-phone-js-sdk](https://github.com/tokyapp/toky-phone-js-sdk) - The Toky Phone JS SDK is a WebRTC Javascript library providing an abstraction to the Toky phone system, including its main features
 - [thenaim/ionic-tk-social-network](https://github.com/thenaim/ionic-tk-social-network) - Ionic 5 - social network starter project
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
-- [fonoster/routr](https://github.com/fonoster/routr) - ⚡ Next-generation programmable SIP Server
+- [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The next-generation programmable SIP Server
 - [bottenderjs/messaging-apis](https://github.com/bottenderjs/messaging-apis) - Messaging APIs for multi-platform
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
 - [ShadyNagy/ngx-keypad](https://github.com/ShadyNagy/ngx-keypad) - Angular Keypad

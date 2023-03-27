@@ -2372,6 +2372,7 @@
 
 ## Less 
 
+- [publify/publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails.
 - [uiwjs/react-markdown-preview](https://github.com/uiwjs/react-markdown-preview) - React component preview markdown text in web browser. The minimal amount of CSS to replicate the GitHub Markdown style. Support dark-mode/night mode.
 - [jsdelivr/www.jsdelivr.com](https://github.com/jsdelivr/www.jsdelivr.com) - The official jsDelivr website
 - [antirek/owo-phone.js](https://github.com/antirek/owo-phone.js) - simple sip.js based webphone
@@ -3283,7 +3284,6 @@
 ## Ruby 
 
 - [chromebrew/chromebrew](https://github.com/chromebrew/chromebrew) - Package manager for Chrome OS
-- [publify/publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails.
 - [ozh/top_100_PHP_projects](https://github.com/ozh/top_100_PHP_projects) - 💯 The 𝗧𝗼𝗽 𝟭𝟬𝟬 𝗣𝗛𝗣 Projects on Github. (𝐿𝑖𝑠𝑡 𝑔𝑒𝑛𝑒𝑟𝑎𝑡𝑒𝑑 𝑏𝑦 𝑎 𝑅𝑢𝑏𝑦 𝑠𝑐𝑟𝑖𝑝𝑡 𝑡ℎ𝑎𝑡 𝑤𝑎𝑠 𝑔𝑒𝑛𝑒𝑟𝑎𝑡𝑒𝑑 𝑏𝑦 𝐴𝐼 !)
 - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [Alexoid1/Biologist-app](https://github.com/Alexoid1/Biologist-app) - This is a social-media where the user can share the species sightings with other users, follow other users, and track his activity daily and weekly.
@@ -3388,6 +3388,7 @@
 - [warengonzaga/fork-corner](https://github.com/warengonzaga/fork-corner) - A modern and global open source fork corner label for your project's landing page.
 - [wonderfullandingpage/react-exquisite-resume](https://github.com/wonderfullandingpage/react-exquisite-resume) - A beautiful personal resume developed based on react
 - [alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) - A series of ReactJS coding challenges with a variety of difficulties.
+- [johannesjo/angular-material-css-vars](https://github.com/johannesjo/angular-material-css-vars) - Little library to use css variables with @angular/material
 - [machine-learning-apps/Issue-Label-Bot](https://github.com/machine-learning-apps/Issue-Label-Bot) - Code For The Issue Label Bot, an App that automatically labels issues using machine learning, available on the GitHub Marketplace.   This is also code for the blog article: "How to automate tasks on G
 - [creativetimofficial/paper-dashboard-angular](https://github.com/creativetimofficial/paper-dashboard-angular) - Angular version of the original Paper Dashboard.
 - [creativetimofficial/material-dashboard-angular2](https://github.com/creativetimofficial/material-dashboard-angular2) - Material Dashboard Angular
@@ -3827,7 +3828,7 @@
 - [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) - Zero-config PWA for Vite
 - [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [johnpapa/hello-worlds](https://github.com/johnpapa/hello-worlds) - Hello world apps for angular, react, svelte, and vue
 - [netless-io/netless-app](https://github.com/netless-io/netless-app) - Official Apps for the Agora Interactive Whiteboard.
 - [joshuamorony/phaser3-typescript-webpack-capacitor](https://github.com/joshuamorony/phaser3-typescript-webpack-capacitor) - A starter project for Phaser 3 with TypeScript, Webpack, and Capacitor support
@@ -4119,7 +4120,6 @@
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [johnpapa/typescript-async](https://github.com/johnpapa/typescript-async) - Creating Asynchronous Code with TypeScript
 - [johnpapa/angular-lazy-load-demo](https://github.com/johnpapa/angular-lazy-load-demo) - Lazy loading Angular components
-- [johannesjo/angular-material-css-vars](https://github.com/johannesjo/angular-material-css-vars) - Little library to use css variables with @angular/material
 - [ArtBIT/html5-mandala](https://github.com/ArtBIT/html5-mandala) - Interactive radial symmetry image tool
 - [johannesjo/angular2-promise-buttons](https://github.com/johannesjo/angular2-promise-buttons) - Chilled loading buttons for angular2
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation

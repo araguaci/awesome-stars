@@ -90,6 +90,7 @@
 
 - [lorisleiva/artisan-ui](https://github.com/lorisleiva/artisan-ui) - 🧰 Run your artisan commands by pressing buttons
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
+- [mckenziearts/laravel-notify](https://github.com/mckenziearts/laravel-notify) - Flexible Flash notifications for Laravel
 
 ## C 
 
@@ -541,7 +542,7 @@
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
 - [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code cloud development environments.
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
@@ -1360,7 +1361,6 @@
 - [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
-- [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - Customization-first, performance-oriented and elegant UI framework for eCommerce (and not only) based on Vue.js and Google Retail UX Playbook. Made with 💚 by Vue Storefront team and contributors.
 - [pat310/google-trends-api](https://github.com/pat310/google-trends-api) - An API layer on top of google trends
 - [chrisrzhou/react-globe](https://github.com/chrisrzhou/react-globe) - Create beautiful and interactive React + ThreeJS globe visualizations with ease.
 - [uinix-js/uinix-ui](https://github.com/uinix-js/uinix-ui) - A minimal framework-agnostic and configurable UI system to build UI systems. Your system your rules 🤘.
@@ -2228,7 +2228,6 @@
 - [amsik/liquor-tree](https://github.com/amsik/liquor-tree) - Tree component based on Vue.js
 - [wayou/HiChat](https://github.com/wayou/HiChat) - A chat application built with Node.js and Websocket
 - [rodrilima/corona-analytic-api](https://github.com/rodrilima/corona-analytic-api) - API that generates information about coronavirus (COVID19) cases in the states of Brazil and other parts of the world
-- [mckenziearts/laravel-notify](https://github.com/mckenziearts/laravel-notify) - Flexible Flash notifications for Laravel
 - [bradtraversy/electronshoppinglist](https://github.com/bradtraversy/electronshoppinglist) - Shopping list desktop app built on electron
 - [mongodb-js/compass-import-export](https://github.com/mongodb-js/compass-import-export) - Compass Import/Export Plugin
 - [rocketseat-content/youtube-challenge-grpc](https://github.com/rocketseat-content/youtube-challenge-grpc) - Micro-services communicating with gRPC.
@@ -3326,6 +3325,7 @@
 
 ## Rust 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [dduan/tre](https://github.com/dduan/tre) - Tree command, improved.
@@ -3808,6 +3808,7 @@
 - [ritwickdey/vscode-live-server](https://github.com/ritwickdey/vscode-live-server) - Launch a development local Server with live reload feature for static & dynamic pages.
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
 - [xlayers/xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design
+- [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - A frontend library for Vue and React that helps developers quickly build fast, accessible, and beautiful storefronts. Made with 💚 by Vue Storefront team and contributors.
 - [vuestorefront/template-magento](https://github.com/vuestorefront/template-magento) - 
 - [martijnvwezel/muino-time-management](https://github.com/martijnvwezel/muino-time-management) - The Muino Time Management/ accounting tool for keeping track of your hours on projects and tasks.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
@@ -3843,7 +3844,7 @@
 - [netlify/next-runtime](https://github.com/netlify/next-runtime) - The Next.js Runtime allows Next.js to run on Netlify with zero configuration
 - [KABBOUCHI/vue-tippy](https://github.com/KABBOUCHI/vue-tippy) - VueJS Tooltip powered by Tippy.js
 - [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [maximegris/typescript-express-sequelize](https://github.com/maximegris/typescript-express-sequelize) - Easily bootstrap your NodeJS project with Express, Sequelize and Typescript :+1:
 - [itgalaxy/favicons](https://github.com/itgalaxy/favicons) - Favicons generator for Node.js
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.

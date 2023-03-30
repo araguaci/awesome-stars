@@ -2670,6 +2670,9 @@
 
 ## PHP 
 
+- [phingofficial/phing](https://github.com/phingofficial/phing) - PHing Is Not GNU make; it's a PHP project build system or build tool based on  Apache Ant.
+- [clue/graph-composer](https://github.com/clue/graph-composer) - Dependency graph visualization for composer.json (PHP + Composer)
+- [clue/reactphp-zenity](https://github.com/clue/reactphp-zenity) - Zenity allows you to build graphical desktop (GUI) applications in PHP, built on top of ReactPHP.
 - [swooletw/laravel-swoole](https://github.com/swooletw/laravel-swoole) - High performance HTTP server based on Swoole. Speed up your Laravel or Lumen applications.
 - [hyperf/hyperf](https://github.com/hyperf/hyperf) - 🚀 A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease.
 - [utopia-php/database](https://github.com/utopia-php/database) - Lite & fast micro PHP database abstraction library that is **easy to use**.
@@ -3554,7 +3557,7 @@
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React
 - [wppconnect-team/wppconnect](https://github.com/wppconnect-team/wppconnect) - WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interacti
-- [frappe/books](https://github.com/frappe/books) - Modern desktop accounting for freelancers and small-businesses.
+- [frappe/books](https://github.com/frappe/books) - Free Accounting Software
 - [hodgef/apiker](https://github.com/hodgef/apiker) - 🔼 Create Serverless APIs with Cloudflare Workers, Durable Objects & Wrangler
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
 - [karolkozer/planby](https://github.com/karolkozer/planby) - 
@@ -3590,7 +3593,7 @@
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [staltz/manyverse](https://github.com/staltz/manyverse) - A social network off the grid (real repo at https://gitlab.com/staltz/manyverse)
 - [initml/clipdrop-api-samples](https://github.com/initml/clipdrop-api-samples) - Public samples using the ClipDrop API
-- [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
+- [amplication/amplication](https://github.com/amplication/amplication) - Auto-generating TypeScript, GraphQL, REST API, and Node.js, accelerating your full-stack development 🚀
 - [enzomanuelmangano/skia-grid-magnification](https://github.com/enzomanuelmangano/skia-grid-magnification) - 
 - [dblens/app](https://github.com/dblens/app) - Database explorer for Mac, Windows & Linux
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids

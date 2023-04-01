@@ -1736,7 +1736,6 @@
 - [koddr/goodshare.js](https://github.com/koddr/goodshare.js) - 🚀 А useful modern JavaScript solution for share a link from your website to social networks or mobile messengers. Easy to install and configuring on any of your website!
 - [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 - [Klynt/Klynt-Player](https://github.com/Klynt/Klynt-Player) - Klynt Player is a cross-browser, JavaScript engine to playback rich-media sequences.
-- [wppconnect-team/wppconnect-server](https://github.com/wppconnect-team/wppconnect-server) - Wppconnect Server is a ready-to-use API, just download, install, and start using, simple as that.
 - [styled-components/styled-components-website](https://github.com/styled-components/styled-components-website) - The styled-components website and documentation
 - [cern-phone-apps/mobile-phone-app](https://github.com/cern-phone-apps/mobile-phone-app) - CERN Phone Mobile client. Multiplatform phone application compatible with Android and iOS.
 - [ionorg/ion-app-web](https://github.com/ionorg/ion-app-web) - ion web app
@@ -1976,7 +1975,7 @@
 - [bencevans/node-sonos](https://github.com/bencevans/node-sonos) - 🔈 Sonos Media Player Interface/Client
 - [nodegui/react-nodegui-starter](https://github.com/nodegui/react-nodegui-starter) - Starter repository for react based native desktop apps using react-nodegui
 - [mdn/dom-examples](https://github.com/mdn/dom-examples) - Code examples that accompany various MDN DOM and Web API documentation pages
-- [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - 
+- [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - The Tailwind CSS documentation website.
 - [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net) - This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source p
 - [leecade/react-native-unlock](https://github.com/leecade/react-native-unlock) - 
 - [OmarElgabry/chat.io](https://github.com/OmarElgabry/chat.io) - A Real Time Chat Application built using Node.js, Express, Mongoose, Socket.io, Passport, & Redis.
@@ -3234,7 +3233,7 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [giswqs/leafmap](https://github.com/giswqs/leafmap) - A Python package for interactive mapping and geospatial analysis  with minimal coding in a Jupyter environment
 - [allenai/scholarphi](https://github.com/allenai/scholarphi) - An interactive PDF reader.
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply m
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites ha
 - [IBM/MAX-Audio-Embedding-Generator](https://github.com/IBM/MAX-Audio-Embedding-Generator) - Generate embedding vectors from audio files
 - [mateustoin/Bittoin-Telegram-Bot](https://github.com/mateustoin/Bittoin-Telegram-Bot) - Bot para Telegram com diversas funcionalidades, com o intuito de se divertir e aproveitar utilidades para o dia a dia.
 - [Kilian/Trimage](https://github.com/Kilian/Trimage) - A cross-platform tool for optimizing PNG and JPG files.
@@ -4028,6 +4027,7 @@
 - [swimlane/ngx-charts](https://github.com/swimlane/ngx-charts) - :bar_chart: Declarative Charting Framework for Angular
 - [danileao/youtube-input-mask](https://github.com/danileao/youtube-input-mask) - 
 - [danileao/dowhile-typegraphql](https://github.com/danileao/dowhile-typegraphql) - 
+- [wppconnect-team/wppconnect-server](https://github.com/wppconnect-team/wppconnect-server) - Wppconnect Server is a ready-to-use API, just download, install, and start using, simple as that.
 - [miaowing/nest-schedule](https://github.com/miaowing/nest-schedule) - A cron-like and not-cron-like job distributed scheduler for Nest.js by decorators.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [MrHertal/react-native-twilio-phone](https://github.com/MrHertal/react-native-twilio-phone) - Twilio Voice React Native module.

@@ -1252,7 +1252,7 @@
 - [phoenixlzx/telegram-stickerimage-bot](https://github.com/phoenixlzx/telegram-stickerimage-bot) - Bot to export telegram stickers to images
 - [gulpjs/gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
 - [auth0-samples/auth0-react-samples](https://github.com/auth0-samples/auth0-react-samples) - Auth0 Integration Samples for React Applications
-- [uberswe/triangulate](https://github.com/uberswe/triangulate) - This is the source code for https://www.triangulate.xyz which is used to create computer generated art. Written with Golang and ReactJS.
+- [uberswe/triangulate](https://github.com/uberswe/triangulate) - This was the source code for triangulate.xyz which is used to create computer generated art. Written with Golang and ReactJS.
 - [Azure-Samples/js-e2e-express-server-cognitive-services](https://github.com/Azure-Samples/js-e2e-express-server-cognitive-services) - Cognitive Services hosted from Express.js with at least 1 browser to Azure example
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
 - [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
@@ -2672,6 +2672,7 @@
 
 ## PHP 
 
+- [emaijala/MLInvoice](https://github.com/emaijala/MLInvoice) - Free web-based invoicing primarily for Finnish companies
 - [phingofficial/phing](https://github.com/phingofficial/phing) - PHing Is Not GNU make; it's a PHP project build system or build tool based on  Apache Ant.
 - [clue/graph-composer](https://github.com/clue/graph-composer) - Dependency graph visualization for composer.json (PHP + Composer)
 - [clue/reactphp-zenity](https://github.com/clue/reactphp-zenity) - Zenity allows you to build graphical desktop (GUI) applications in PHP, built on top of ReactPHP.

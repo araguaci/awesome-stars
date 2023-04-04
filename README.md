@@ -594,6 +594,7 @@
 
 ## HTML 
 
+- [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 - [AlliumCepa/webgui](https://github.com/AlliumCepa/webgui) - A free open source content management system and web application framework. The most widely deployed mod_perl application on the planet.
 - [decal/werdlists](https://github.com/decal/werdlists) - :keyboard: Wordlists, Dictionaries and Other Data Sets for Writing Software Security Test Cases
 - [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simplest dashboard for WireGuard VPN written in Python w/ Flask
@@ -3290,6 +3291,7 @@
 
 ## Ruby 
 
+- [yeti-switch/yeti-web](https://github.com/yeti-switch/yeti-web) - Yeti admin interface
 - [chromebrew/chromebrew](https://github.com/chromebrew/chromebrew) - Package manager for Chrome OS
 - [ozh/top_100_PHP_projects](https://github.com/ozh/top_100_PHP_projects) - 💯 The 𝗧𝗼𝗽 𝟭𝟬𝟬 𝗣𝗛𝗣 Projects on Github. (𝐿𝑖𝑠𝑡 𝑔𝑒𝑛𝑒𝑟𝑎𝑡𝑒𝑑 𝑏𝑦 𝑎 𝑅𝑢𝑏𝑦 𝑠𝑐𝑟𝑖𝑝𝑡 𝑡ℎ𝑎𝑡 𝑤𝑎𝑠 𝑔𝑒𝑛𝑒𝑟𝑎𝑡𝑒𝑑 𝑏𝑦 𝐴𝐼 !)
 - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
@@ -3362,6 +3364,7 @@
 
 ## SCSS 
 
+- [jmlemetayer/abba](https://github.com/jmlemetayer/abba) - Apache Bootstrap & Bootswatch Autoindex
 - [app-generator/flask-soft-ui-dashboard](https://github.com/app-generator/flask-soft-ui-dashboard) - Soft UI Dashboard - Open-source Flask Dashboard | AppSeed
 - [Phlow/simplicity](https://github.com/Phlow/simplicity) - A free, flexible, superfast and easily customizable Jekyll Theme with no Javascript but beautiful typography.
 - [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
@@ -3412,6 +3415,7 @@
 
 ## Scala 
 
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 - [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
 
@@ -3554,6 +3558,8 @@
 
 ## TypeScript 
 
+- [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code
+- [vercel-labs/next-fetch](https://github.com/vercel-labs/next-fetch) - Intuitive data fetching for Next.js
 - [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter with ⚛️  React, ▲ NextJS,  ⚡️ Chakra UI,  ⚛️  TanStack Query & 🐜  Formiz — From the 🐻  BearStudio Team
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.

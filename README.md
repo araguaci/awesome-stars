@@ -993,7 +993,7 @@
 - [atapas/imaginary](https://github.com/atapas/imaginary) - imaginary is an image gallery built using Gatsby and Cloudinary. Follow this project to know more.
 - [ishantchauhan710/SpaceChat](https://github.com/ishantchauhan710/SpaceChat) - A socket.io based real time chat app where you can perform one-to-one chats as well as group chats! Built using MERN stack, this project implements all core functionalities like User Authentication, W
 - [matyo91/matyo91](https://github.com/matyo91/matyo91) - :octocat: Matyo91 Github Profil
-- [PamelaRondina/step-by-step](https://github.com/PamelaRondina/step-by-step) - Projeto com o objetivo de auxiliar a comunidade de Tecnologia a aprender a utilizar o GitHub. Consiste em um passo a passo de inclusão de cabeçalho, ícones de linguagens, softwares, imagens e emojis. 
+- [PamelaRondina/step-by-step](https://github.com/PamelaRondina/step-by-step) - Repositórios com o passo a passo do que venho aprendendo + Readme Profile: consiste em um passo a passo de inclusão de cabeçalho, ícones de linguagens, softwares, imagens e emojis.
 - [firstcontributions/firstcontributions.github.io](https://github.com/firstcontributions/firstcontributions.github.io) - Web app for First Contributions
 - [JetBrains/kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin programming language website
 - [madzadev/kanboard](https://github.com/madzadev/kanboard) - 📃 KanBoard - Your personal project management tool

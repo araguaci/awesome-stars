@@ -1878,7 +1878,6 @@
 - [daltonmenezes/netflix-list-exporter](https://github.com/daltonmenezes/netflix-list-exporter) - :dizzy:‎‎‎‏‏‎ An Extension to export your lists from Netflix to Clipboard area and share it with your friends.
 - [vercel/hyper-site](https://github.com/vercel/hyper-site) - The official website for the Hyper terminal
 - [StartBootstrap/startbootstrap-bare](https://github.com/StartBootstrap/startbootstrap-bare) - A bare Bootstrap HTML starter template for rapid development - created by Start Bootstrap
-- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [zhw2590582/SubPlayer](https://github.com/zhw2590582/SubPlayer) - :memo: SubPlayer is an online subtitle editor
 - [zhw2590582/WFPlayer](https://github.com/zhw2590582/WFPlayer) - :ocean: WFPlayer.js is an audio waveform generator
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
@@ -3785,7 +3784,7 @@
 - [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev) - My portfolio powered by Next.js, content sourced from Notion, styled with Tailwind CSS and deployed on Vercel. 🙌
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 - [jahirfiquitiva/world-holidays](https://github.com/jahirfiquitiva/world-holidays) - Get to know the upcoming worldwide holidays
-- [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Figma to HTML, CSS, React, Vue, and more!
+- [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Builder.io for Figma: AI generation, export to code, import from web
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
@@ -4008,6 +4007,7 @@
 - [birobirobiro/nlw-06-gameplay](https://github.com/birobirobiro/nlw-06-gameplay) - This is a project developed during the Next Level Week Together, presented by Rocketseat during June 2021.
 - [birobirobiro/nlw-05-plantmanager](https://github.com/birobirobiro/nlw-05-plantmanager) - NLW#05 - PlantManager
 - [jos3s/nlw06-letmeask](https://github.com/jos3s/nlw06-letmeask) - Projeto da 6 NLW de React da @Rocketseat, desenvolvido utilizando Firebase, Styled-Components e Typescript.
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [trungk18/angular-spotify](https://github.com/trungk18/angular-spotify) - Spotify client built with Angular 12, Nx Workspace, ngrx, TailwindCSS and ng-zorro
 - [leandrowd/react-responsive-carousel](https://github.com/leandrowd/react-responsive-carousel) - React.js Responsive Carousel (with Swipe)
 - [getlift/lift](https://github.com/getlift/lift) - Expanding Serverless Framework beyond functions using the AWS CDK
@@ -4105,6 +4105,7 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [start-javascript/sb-admin-material](https://github.com/start-javascript/sb-admin-material) - Simple Dashboard Admin App built using Angular 9 and Material 2.
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [team-telnyx/webrtc](https://github.com/team-telnyx/webrtc) - SDK for Telnyx's WebRTC platform
 - [tokyapp/toky-phone-js-sdk](https://github.com/tokyapp/toky-phone-js-sdk) - The Toky Phone JS SDK is a WebRTC Javascript library providing an abstraction to the Toky phone system, including its main features
 - [thenaim/ionic-tk-social-network](https://github.com/thenaim/ionic-tk-social-network) - Ionic 5 - social network starter project
@@ -4440,7 +4441,6 @@
 - [socketio/socket.io-admin-ui](https://github.com/socketio/socket.io-admin-ui) - Admin UI for Socket.IO
 - [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [Datlyfe/jira_clone](https://github.com/Datlyfe/jira_clone) - A Jira clone built with Vuejs & Nodejs/Graphql
 - [schoolofnetcom/cms-electron-php](https://github.com/schoolofnetcom/cms-electron-php) - 
 - [tmdh/laravel-kit](https://github.com/tmdh/laravel-kit) - A desktop Laravel admin panel app

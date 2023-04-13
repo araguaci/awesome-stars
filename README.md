@@ -291,7 +291,7 @@
 ## CSS 
 
 - [McShelby/hugo-theme-relearn](https://github.com/McShelby/hugo-theme-relearn) - A theme for Hugo designed for documentation
-- [aidenybai/million-react](https://github.com/aidenybai/million-react) - ⚛️ Write React with a faster Virtual DOM
+- [aidenybai/million-react](https://github.com/aidenybai/million-react) - ⚛️ Vite starter for Million.js
 - [mgilangjanuar/teledrive](https://github.com/mgilangjanuar/teledrive) - The Google Drive/OneDrive/etc alternative using Telegram API
 - [The-Shivam-garg/BigB-E-learn-Websit-e](https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e) - BigB is a E-learning website built using HTML, CSS, JavaScript and Bootstrap - Hacktoberfest Accepted.  🤞                                          This project is previously accepted in GSSoC 2022 , J
 - [roramirez/qpanel](https://github.com/roramirez/qpanel) - Dashboard for Queues in Asterisk and FreeSWITCH. app_queue panel for Asterisk and mod_callcenter in FreeSWITCH.   Get news -&gt; http://eepurl.com/dxKt7X
@@ -1917,7 +1917,6 @@
 - [kenshoo/react-multi-select](https://github.com/kenshoo/react-multi-select) - A Multi Select component built with and for React
 - [cassidoo/todometer](https://github.com/cassidoo/todometer) - A meter-based to-do list
 - [stacks-network/docs](https://github.com/stacks-network/docs) - Unleash Bitcoin's full potential with decentralized apps and smart contracts. The documentation covers key aspects of the Stacks network and technology and provides tutorials and other helpful content
-- [contentful/contentful.js](https://github.com/contentful/contentful.js) - JavaScript library for Contentful's Delivery API (node & browser)
 - [ryanwiemer/subtle-ui](https://github.com/ryanwiemer/subtle-ui) - A collection of clever yet understated user interactions found on the web
 - [ryanwiemer/gatsby-starter-gcn](https://github.com/ryanwiemer/gatsby-starter-gcn) - A starter template to build amazing static websites with Gatsby, Contentful and Netlify
 - [RafaelGoulartB/next-ecommerce](https://github.com/RafaelGoulartB/next-ecommerce) - :zap: Quantum Ecommerce. Made with Next.js | GraphQL | Apollo Server | Apollo Client | SSR
@@ -2833,7 +2832,7 @@
 - [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer
 - [GMX9/Crypto-Exchange-PHP](https://github.com/GMX9/Crypto-Exchange-PHP) - Free crypto exchange built with changenow.io API
 - [catfan/Medoo](https://github.com/catfan/Medoo) - The lightweight PHP database framework to accelerate the development.
-- [yiisoft/db-mssql](https://github.com/yiisoft/db-mssql) - MSSQL support for Yii
+- [yiisoft/db-mssql](https://github.com/yiisoft/db-mssql) - MSSQL Server driver for Yii Database
 - [miladrahimi/phpcrypt](https://github.com/miladrahimi/phpcrypt) - Encryption, decryption, and password hashing tools for PHP projects
 - [miladrahimi/phprouter](https://github.com/miladrahimi/phprouter) - PhpRouter is a powerful, and very fast HTTP URL router for PHP projects
 - [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) - CryptoJS 3.x AES encryption/decryption on client side with Javascript and on server side with PHP
@@ -4124,6 +4123,7 @@
 - [reach/reach-ui](https://github.com/reach/reach-ui) - The Accessible Foundation for React Apps and Design Systems
 - [hirosystems/desktop-wallet](https://github.com/hirosystems/desktop-wallet) - Stacks Wallet—Send and receive STX tokens on the Stacks Blockchain.
 - [kata-ai/aksara-ui](https://github.com/kata-ai/aksara-ui) - Aksara Design System, from Kata.ai.
+- [contentful/contentful.js](https://github.com/contentful/contentful.js) - JavaScript library for Contentful's Delivery API (node & browser)
 - [LauraBeatris/floripamais](https://github.com/LauraBeatris/floripamais) - Website of the Floripa+ organization - built with Next.js and integrated with Strapi CMS
 - [Swizec/useAuth](https://github.com/Swizec/useAuth) - The simplest way to add authentication to your React app. Supports various providers.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you

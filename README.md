@@ -3442,7 +3442,7 @@
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [centminmod/centminmod](https://github.com/centminmod/centminmod) - CentOS Shell menu based Nginx LEMP web stack auto installer (GPLv3 licensed)
 - [lukevers/mp4towebm](https://github.com/lukevers/mp4towebm) - Convert all mp4 files in current directory from mp4 to webm
-- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox Helper Scripts
+- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper Scripts
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [serverok/server-setup](https://github.com/serverok/server-setup) - Scripts for Debian/Ubuntu/CentOS server setup.
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
@@ -3534,7 +3534,7 @@
 
 - [carbon-design-system/carbon-components-svelte](https://github.com/carbon-design-system/carbon-components-svelte) - Svelte implementation of the Carbon Design System
 - [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
-- [itswadesh/svelte-commerce](https://github.com/itswadesh/svelte-commerce) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have WIP for Litekart. Woocommerce, MedusaJS, Bigcommerce and Shopify. The API approach 
+- [itswadesh/svelte-commerce](https://github.com/itswadesh/svelte-commerce) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. The API approach also allows you to merge Svelte Commerce with any third-party tool like pa
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams
@@ -3581,7 +3581,7 @@
 - [pixiebrix/pixiebrix-extension](https://github.com/pixiebrix/pixiebrix-extension) - PixieBrix browser extension
 - [RafaelGoulartB/proffy](https://github.com/RafaelGoulartB/proffy) - 🚀 Project made to connect teachers to students. Made in Next Level Week #2 #NLW @Rocketseat
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
 - [getsentry/sentry-electron](https://github.com/getsentry/sentry-electron) - The official Sentry SDK for Electron
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
@@ -3808,7 +3808,7 @@
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [araguaci/slidev](https://github.com/araguaci/slidev) - Presentation Slides for Developers (Beta)
 - [araguaci/botpress](https://github.com/araguaci/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
-- [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, Angular, and more
+- [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
 - [r-park/soundcloud-ngrx](https://github.com/r-park/soundcloud-ngrx) - SoundCloud API client with Angular • RxJS • ngrx/store • ngrx/effects
 - [LeCoupa/vueflags](https://github.com/LeCoupa/vueflags) - 👩‍✈️👨‍✈️ One easy-to-use flag component for Vue.js with all ISO 3166-1 countries.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.

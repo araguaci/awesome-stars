@@ -3644,7 +3644,7 @@
 - [pbeshai/tidy](https://github.com/pbeshai/tidy) - Tidy up your data with JavaScript, inspired by dplyr and the tidyverse
 - [wonderflow-bv/wanda](https://github.com/wonderflow-bv/wanda) - Wanda design system monorepo
 - [AKAspanion/chat-app](https://github.com/AKAspanion/chat-app) - 💬 Real-time chat application with no history.
-- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
+- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements: tooltips, popovers, dropdowns, and more
 - [primer/primitives](https://github.com/primer/primitives) - Color, typography, and spacing primitives in json.
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [dastasoft/memory-game](https://github.com/dastasoft/memory-game) - Demo project to teach about Framer Motion animations on React projects.

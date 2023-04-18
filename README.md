@@ -811,7 +811,7 @@
 - [bradtraversy/mongochat](https://github.com/bradtraversy/mongochat) - Simple chat app using Mongo and websockets
 - [bradtraversy/chatcord](https://github.com/bradtraversy/chatcord) - Realtime chat app with rooms
 - [insign/mapa_Brasil_CSS](https://github.com/insign/mapa_Brasil_CSS) - Mapa do Brasil usando CSS (décadas atrás)
-- [jeanolvra/mapa-brasil-dinamico-svg](https://github.com/jeanolvra/mapa-brasil-dinamico-svg) - 🇧🇷 Mapa do Brasil - SVG
+- [jeandekairo/mapa-brasil-dinamico-svg](https://github.com/jeandekairo/mapa-brasil-dinamico-svg) - 🇧🇷 Mapa do Brasil - SVG
 - [vinitshahdeo/Quotter](https://github.com/vinitshahdeo/Quotter) - :robot: A Twitter bot which tweets random quotes with image and #hashtags :bird: :bell:
 - [chamkank/flask-chatterbot](https://github.com/chamkank/flask-chatterbot) - Simple boilerplate for ChatterBot using Flask
 - [madrobby/zepto](https://github.com/madrobby/zepto) - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API
@@ -1340,7 +1340,6 @@
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [bpampuch/pdfmake](https://github.com/bpampuch/pdfmake) - Client/server side PDF printing in pure JavaScript
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
-- [wojtekmaj/react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
 - [irislib/iris-messenger](https://github.com/irislib/iris-messenger) - Decentralized messenger
 - [appium/appium-desktop](https://github.com/appium/appium-desktop) - Appium Server in Desktop GUIs for Mac, Windows, and Linux
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
@@ -1504,7 +1503,7 @@
 - [rodrigokamada/chatbot-whatsapp-music](https://github.com/rodrigokamada/chatbot-whatsapp-music) - Example application using JavaScript and Node.js where a simple chatbot will be implemented using the Zenvia platform to integrate with WhatsApp and the AudD platform to integrate with music recognize
 - [oguzhaninan/Buka](https://github.com/oguzhaninan/Buka) - Buka is a modern software that helps you manage your ebook at ease.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
-- [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
+- [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [mozilla/translate](https://github.com/mozilla/translate) - Translations website utilizing Bergamot proceedings
 - [potch/layers.js](https://github.com/potch/layers.js) - a canvas compositing library with a familiar layer-based interface
 - [11ty/11ty-website](https://github.com/11ty/11ty-website) - Documentation site for the Eleventy static site generator.
@@ -3820,6 +3819,7 @@
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) - OpenTelemetry JavaScript Client
 - [react-pdf-viewer/react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer) - A React component to view a PDF document
+- [wojtekmaj/react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [lume/lume](https://github.com/lume/lume) - Create 3D web applications with HTML. Bring a new depth to your DOM!
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web

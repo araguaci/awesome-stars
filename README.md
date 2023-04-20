@@ -152,7 +152,7 @@
 - [meysamhadeli/awesome-dotnet-tips](https://github.com/meysamhadeli/awesome-dotnet-tips) - A curated list of awesome tips and tricks, resources, videos and articles in .net, software architecture, microservice and cloud-native
 - [telerik/UI-For-UWP](https://github.com/telerik/UI-For-UWP) - This repo contains the source code for Telerik UI for Universal Windows Platform (UWP), which includes 20+ UI controls for developers building UWP applications.
 - [renatogroffe/ASPNETCore6-REST_API-JWT-Postman_ContagemAcessos](https://github.com/renatogroffe/ASPNETCore6-REST_API-JWT-Postman_ContagemAcessos) - Exemplo de implementação de testes de uma API REST criada com .NET 6 (e protegida com autenticação via JWT) para contagem de acessos utilizando Postman + Newman. Inclui Dockerfile com build desta apli
-- [wixtoolset/wix4](https://github.com/wixtoolset/wix4) - WiX Toolset v4
+- [wixtoolset/wix](https://github.com/wixtoolset/wix) - WiX Toolset
 - [MvvmCross/MvvmCross](https://github.com/MvvmCross/MvvmCross) - The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
 - [nager/Nager.Date](https://github.com/nager/Nager.Date) - :earth_americas: Worldwide public holiday (REST API), NuGet or docker container
 - [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studi
@@ -458,6 +458,7 @@
 - [P3TERX/Aria2-Pro-Docker](https://github.com/P3TERX/Aria2-Pro-Docker) - Aria2 Pro | A perfect Aria2 Docker image | 更好用的 Aria2 Docker 容器镜像
 - [docker-library/redis](https://github.com/docker-library/redis) - Docker Official Image packaging for Redis
 - [swoole/docker-swoole](https://github.com/swoole/docker-swoole) - 🏄 Official Docker Image of Swoole
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 
 ## EJS 
@@ -1747,7 +1748,6 @@
 - [cern-phone-apps/mobile-phone-app](https://github.com/cern-phone-apps/mobile-phone-app) - CERN Phone Mobile client. Multiplatform phone application compatible with Android and iOS.
 - [ionorg/ion-app-web](https://github.com/ionorg/ion-app-web) - ion web app
 - [voximplant/react-native-demo](https://github.com/voximplant/react-native-demo) - React Native Voximplant Demo
-- [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys) - Lightweight full-featured WhatsApp Web + Multi-Device API
 - [parse-community/parse-server-example](https://github.com/parse-community/parse-server-example) - Example server using Express and the parse-server module.
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
@@ -2098,7 +2098,6 @@
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
 - [HelioSilva/Whatsapp-bot-NodeJS](https://github.com/HelioSilva/Whatsapp-bot-NodeJS) - Whatsapp bot para delivery de uma lanchonete usando NodeJS.
 - [nhn/toast-ui.doc](https://github.com/nhn/toast-ui.doc) - 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
 - [CodAffection/Angular-7-Master-Detail-CRUD-with-Web-API](https://github.com/CodAffection/Angular-7-Master-Detail-CRUD-with-Web-API) - Angular 7 Master Detail CRUD with Web API
 - [phonegap/phonegap-mobile-accessibility](https://github.com/phonegap/phonegap-mobile-accessibility) - PhoneGap plugin to expose mobile accessibility APIs.
 - [techiediaries/fake-api-jwt-json-server](https://github.com/techiediaries/fake-api-jwt-json-server) - A Fake API with JWT Authentication using json-server and jsonwebtoken
@@ -2671,6 +2670,7 @@
 
 ## PHP 
 
+- [lbr38/repomanager](https://github.com/lbr38/repomanager) - A web UI to mirror rpm or deb packages repositories.
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) - Extensions to the PHP Reflection API, static code scanning, and code generation
 - [kimai/kimai](https://github.com/kimai/kimai) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so
 - [jeroennoten/Laravel-AdminLTE](https://github.com/jeroennoten/Laravel-AdminLTE) - Easy AdminLTE integration with Laravel
@@ -3381,7 +3381,7 @@
 - [app-generator/django-soft-ui-dashboard](https://github.com/app-generator/django-soft-ui-dashboard) - Soft UI Dashboard - Open-source Django Dashboard | AppSeed
 - [twitter/opensource-website](https://github.com/twitter/opensource-website) - Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
 - [simeydotme/jQuery-ui-Slider-Pips](https://github.com/simeydotme/jQuery-ui-Slider-Pips) - Plugin for adding little 'pips' , 'floats' and labels to a slider.
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, easily build with blocks! 创建在线课程，学术简历或初创网站。#OpenScience
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN! 创建在线课程，学术简历或初创网站。#OpenScience
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [mmistakes/jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic) - Your new Jekyll default theme.
 - [chocolatey/choco-theme](https://github.com/chocolatey/choco-theme) - The global theme for Chocolatey Software.
@@ -3536,7 +3536,7 @@
 - [itswadesh/svelte-commerce](https://github.com/itswadesh/svelte-commerce) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. The API approach also allows you to merge Svelte Commerce with any third-party tool like pa
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
-- [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams
+- [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based UIs
 - [sveltejs/realworld](https://github.com/sveltejs/realworld) - SvelteKit implementation of the RealWorld app
 - [simeydotme/svelte-range-slider-pips](https://github.com/simeydotme/svelte-range-slider-pips) - Multi-Thumb, Accessible, Beautiful Range Slider with Pips
 - [iohzrd/identia](https://github.com/iohzrd/identia) - Decentralized, censorship resistant social media on IPFS.

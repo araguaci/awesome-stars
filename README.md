@@ -224,7 +224,6 @@
 - [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
 - [romkatv/gitstatus](https://github.com/romkatv/gitstatus) - Git status for Bash and Zsh prompt
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
-- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [robotastic/trunk-recorder](https://github.com/robotastic/trunk-recorder) - Records calls from a Trunked Radio System (P25 & SmartNet)
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -458,7 +457,7 @@
 - [P3TERX/Aria2-Pro-Docker](https://github.com/P3TERX/Aria2-Pro-Docker) - Aria2 Pro | A perfect Aria2 Docker image | 更好用的 Aria2 Docker 容器镜像
 - [docker-library/redis](https://github.com/docker-library/redis) - Docker Official Image packaging for Redis
 - [swoole/docker-swoole](https://github.com/swoole/docker-swoole) - 🏄 Official Docker Image of Swoole
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2023)
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 
 ## EJS 
@@ -662,6 +661,7 @@
 - [araguaci/stop-war-for-ever](https://github.com/araguaci/stop-war-for-ever) - STOP WAR FOR EVER BE DONE GOD'S WILL
 - [mapbox/mapbox.js](https://github.com/mapbox/mapbox.js) - Mapbox JavaScript API, a Leaflet Plugin
 - [photoprism/photoprism-docs](https://github.com/photoprism/photoprism-docs) - Official Documentation (English)
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [araguaci/earth-rainbow-bridge](https://github.com/araguaci/earth-rainbow-bridge) - Work In Progress. For meditation with Tzolkin Noosfera http://gaia.artesdosul.com/
 - [theus/instantgram](https://github.com/theus/instantgram) - :cloud: A bookmarklet for download photos in Instagram
@@ -904,6 +904,7 @@
 
 ## JavaScript 
 
+- [openwrt/luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface
 - [vakata/jstree](https://github.com/vakata/jstree) - jquery tree plugin
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
@@ -2852,7 +2853,7 @@
 - [paghiper/whmcs](https://github.com/paghiper/whmcs) - Modulo de PIX e boleto bancário PagHiper para o WHMCS
 - [nfe/whmcs-addon](https://github.com/nfe/whmcs-addon) - Módulo Nota Fiscal para WHMCS via NFE.io. Automatiza a emissão de notas fiscais.
 - [arthurkushman/php-wss](https://github.com/arthurkushman/php-wss) - Web-socket server/client with multi-process and parse templates support  on server and send/receive options on client
-- [parse-community/parse-php-sdk](https://github.com/parse-community/parse-php-sdk) - The Parse PHP SDK.
+- [parse-community/parse-php-sdk](https://github.com/parse-community/parse-php-sdk) - The PHP SDK for Parse Platform
 - [TheAlgorithms/PHP](https://github.com/TheAlgorithms/PHP) - All Algorithms implemented in PHP
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
@@ -3146,6 +3147,7 @@
 - [Jfaler/soup](https://github.com/Jfaler/soup) - ☎️ Original open source call flooder using Twilio's API.
 - [jlevy/repren](https://github.com/jlevy/repren) - Rename anything
 - [fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users) - Ready-to-use and customizable users management for FastAPI
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode) - Run VSCode (codeserver) on Google Colab or Kaggle Notebooks
 - [PenseAllen/PensePython2e](https://github.com/PenseAllen/PensePython2e) - Tradução do livro Pense em Python (2ª ed.), de Allen B. Downey
 - [python-eel/Eel](https://github.com/python-eel/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
@@ -3509,7 +3511,7 @@
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [monicahq/docker](https://github.com/monicahq/docker) - docker image of Monica
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
-- [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
+- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [mmazzarolo/alfred-jira-search](https://github.com/mmazzarolo/alfred-jira-search) - An Alfred workflow to search for Jira tickets
 - [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
 - [GoogleCloudPlatform/docker-ci-helper](https://github.com/GoogleCloudPlatform/docker-ci-helper) - 
@@ -3773,7 +3775,6 @@
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps for web. Open base map altenative.
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [pablohen/covid](https://github.com/pablohen/covid) - Veja as estatísticas da Covid-19 de cada cidade do Brasil https://covid.pablohen.vercel.app.
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [babel/website](https://github.com/babel/website) - :globe_with_meridians: The Babel documentation website
@@ -3948,7 +3949,7 @@
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [dineug/erd-editor](https://github.com/dineug/erd-editor) - Entity-Relationship Diagram Editor
 - [TowhidKashem/snapchat-clone](https://github.com/TowhidKashem/snapchat-clone) - 👻 A Snapchat clone built with React and Redux. Written in Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!
-- [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) - 🔎 🏞 The original medium.com-inspired image zooming library for React
+- [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) - 🔎 🏞 The original medium.com-inspired image zooming library for React (since 2016)
 - [infinitered/reactotron-core-ui](https://github.com/infinitered/reactotron-core-ui) - 
 - [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
@@ -4326,7 +4327,7 @@
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [johnpapa/angular-preload-and-interceptors](https://github.com/johnpapa/angular-preload-and-interceptors) - 
-- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A headless CMS for Markdown
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - The Markdown CMS
 - [ARTHURPC03/GoFinancesWeb](https://github.com/ARTHURPC03/GoFinancesWeb) - Aplicação para gerenciar finanças, feito com React + TypeScript
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.

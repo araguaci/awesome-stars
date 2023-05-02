@@ -2418,6 +2418,7 @@
 
 ## Others 
 
+- [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and op
 - [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) - This repo contains samples that demonstrate the API used in Windows classic desktop applications.
 - [mishamosher/CentOS-WSL](https://github.com/mishamosher/CentOS-WSL) - A GitHub Actions automated CentOS RootFS to use with WSL
 - [sirredbeard/Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
@@ -4010,7 +4011,7 @@
 - [birobirobiro/nlw-05-plantmanager](https://github.com/birobirobiro/nlw-05-plantmanager) - NLW#05 - PlantManager
 - [jos3s/nlw06-letmeask](https://github.com/jos3s/nlw06-letmeask) - Projeto da 6 NLW de React da @Rocketseat, desenvolvido utilizando Firebase, Styled-Components e Typescript.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-- [trungk18/angular-spotify](https://github.com/trungk18/angular-spotify) - Spotify client built with Angular 12, Nx Workspace, ngrx, TailwindCSS and ng-zorro
+- [trungk18/angular-spotify](https://github.com/trungk18/angular-spotify) - Spotify client built with Angular 15, Nx Workspace, ngrx, TailwindCSS and ng-zorro
 - [leandrowd/react-responsive-carousel](https://github.com/leandrowd/react-responsive-carousel) - React.js Responsive Carousel (with Swipe)
 - [getlift/lift](https://github.com/getlift/lift) - Expanding Serverless Framework beyond functions using the AWS CDK
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
@@ -4176,7 +4177,7 @@
 - [trungk18/jira-clone-angular](https://github.com/trungk18/jira-clone-angular) - A simplified Jira clone built with Angular, ng-zorro and Akita
 - [wKoza/ngx-upload](https://github.com/wKoza/ngx-upload) - Ngx-upload is an upload module for Angular Ivy ready
 - [nodegui/nodegui-starter](https://github.com/nodegui/nodegui-starter) - A starter repo for NodeGui projects
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
 - [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode
 - [PatrickJS/angular-hmr](https://github.com/PatrickJS/angular-hmr) - :fire: Angular Hot Module Replacement for Hot Module Reloading
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.

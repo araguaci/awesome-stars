@@ -1047,7 +1047,7 @@
 - [Basharath/FormEasy](https://github.com/Basharath/FormEasy) - A simple open source library to receive contact forms for static sites
 - [Sam-Success/text-to-speech](https://github.com/Sam-Success/text-to-speech) - 
 - [MikeyParton/react-speech-kit](https://github.com/MikeyParton/react-speech-kit) - React hooks for Speech Recognition and Speech Synthesis
-- [marciovsena/abibliadigital](https://github.com/marciovsena/abibliadigital) - A RESTful API for Bible
+- [omarciovsena/abibliadigital](https://github.com/omarciovsena/abibliadigital) - A RESTful API for Bible
 - [lukechilds/reverse-shell](https://github.com/lukechilds/reverse-shell) - Reverse Shell as a Service
 - [manuarora700/simple-developer-portfolio-website](https://github.com/manuarora700/simple-developer-portfolio-website) - ✈️ A simple portfolio for developers to showcase their skills and projects. Blog and tutorial at freeCodeCamp.
 - [manuarora700/100-days-interview-preparation](https://github.com/manuarora700/100-days-interview-preparation) - ⚡️ 100 Days of DS Algo for interview preparation (C++ and Javascript)
@@ -3569,6 +3569,7 @@
 
 ## TypeScript 
 
+- [enricoros/big-agi](https://github.com/enricoros/big-agi) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
 - [mckaywrigley/chatbot-ui-lite](https://github.com/mckaywrigley/chatbot-ui-lite) - A simple chatbot starter kit for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS.
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
 - [apideck-io/next-starter-kit](https://github.com/apideck-io/next-starter-kit) - A boilerplate for bootstrapping new projects with Next.js, TypeScript, Tailwind CSS, ESLint, Prettier, Jest, and React testing Library.

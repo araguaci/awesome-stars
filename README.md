@@ -1011,7 +1011,7 @@
 - [danba340/todos-recoil](https://github.com/danba340/todos-recoil) - 
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [DaggieBlanqx/whatsappcloudapi_wrapper](https://github.com/DaggieBlanqx/whatsappcloudapi_wrapper) - An easy way to build Whatsapp Chatbots on top of the new Whatsapp Cloud API
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
+- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
 - [unicef/material-slate](https://github.com/unicef/material-slate) - Rich text editor based on Slate for Material UI (React)
 - [unicef/react-org-chart](https://github.com/unicef/react-org-chart) - Component for displaying an org chart for a large organization. Supports lazy load and export.
 - [adisreyaj/portfolio](https://github.com/adisreyaj/portfolio) - My personal website and portfolio. Made with NextJs
@@ -1764,7 +1764,6 @@
 - [sadanandpai/sorting-visualizer](https://github.com/sadanandpai/sorting-visualizer) - Sorting Algorithms Visualizer
 - [amiroff/NextBook](https://github.com/amiroff/NextBook) - NextBook is quick and easy way to build technical books or documentation with markdown that run blazingly fast.
 - [pwambach/fat-file-finder](https://github.com/pwambach/fat-file-finder) - Electron app for finding large files on your filesystem. Build with React, Redux and ES6.
-- [G07cha/pomodoro](https://github.com/G07cha/pomodoro) - Pomodoro time managment tool build with electron :tomato:
 - [decosoftware/deco-ide](https://github.com/decosoftware/deco-ide) - The React Native IDE
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [mechaniac/Map-of-Javascript](https://github.com/mechaniac/Map-of-Javascript) - Javascript on one sheet. (and one for algorithms)
@@ -2676,6 +2675,7 @@
 
 ## PHP 
 
+- [jrgp/linfo](https://github.com/jrgp/linfo) - Linfo PHP Server Health Status
 - [phpsysinfo/phpsysinfo](https://github.com/phpsysinfo/phpsysinfo) - phpSysInfo: a customizable PHP script that displays information about your system nicely
 - [lbr38/repomanager](https://github.com/lbr38/repomanager) - A web UI to mirror rpm or deb packages repositories.
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) - Extensions to the PHP Reflection API, static code scanning, and code generation
@@ -3371,6 +3371,7 @@
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 - [huytd/kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
 - [adamsky/globe](https://github.com/adamsky/globe) - Interactive ASCII globe generator
+- [G07cha/pomodoro](https://github.com/G07cha/pomodoro) - Pomodoro time managment tool build with Tauri :tomato:
 - [grsoares21/video-silence-cutter](https://github.com/grsoares21/video-silence-cutter) - A Rust script to split and/or trim out silence sections from videos. Needs FFmpeg. WIP
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [mozilla/application-services](https://github.com/mozilla/application-services) - Firefox Application Services
@@ -3409,7 +3410,7 @@
 - [rodrigorgtic/spiderman-frontend](https://github.com/rodrigorgtic/spiderman-frontend) - 🕷️ Front-end desenvolvido com a finalidade de estudos de responsividade, efeitos e boas práticas de criação de front-end.
 - [hydecorp/hydejack](https://github.com/hydecorp/hydejack) - A boutique Jekyll theme for hackers, nerds, and academics
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
-- [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design 2.0 UI KIT
+- [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design UI KIT
 - [warengonzaga/fork-corner](https://github.com/warengonzaga/fork-corner) - A modern and global open source fork corner label for your project's landing page.
 - [wonderfullandingpage/react-exquisite-resume](https://github.com/wonderfullandingpage/react-exquisite-resume) - A beautiful personal resume developed based on react
 - [alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) - A series of ReactJS coding challenges with a variety of difficulties.
@@ -3716,7 +3717,7 @@
 - [vuepress/vuepress-next](https://github.com/vuepress/vuepress-next) - Repo for VuePress 2
 - [daniloab/graphql-real-world-server](https://github.com/daniloab/graphql-real-world-server) - Nodejs GraphQL server that represents the talk built for Paraiba.js edition https://daniloab.github.io/graphql-real-world/#0
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
-- [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex hackable website builder
+- [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex no-code website builder
 - [pbeshai/use-query-params](https://github.com/pbeshai/use-query-params) - React Hook for managing state in URL query parameters with easy serialization.
 - [zidoro/pomatez](https://github.com/zidoro/pomatez) - Stay Focused. Take a Break.
 - [benji6/virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) - :notes: Library for declaratively manipulating the Web Audio API
@@ -3745,7 +3746,7 @@
 - [apache-superset/superset-ui-plugins](https://github.com/apache-superset/superset-ui-plugins) - A collection of official Superset UI plugins
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [reaviz/reaflow](https://github.com/reaviz/reaflow) - 🎯 React library for building workflow editors, flow charts and diagrams. Maintained by @goodcodeus.
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs.
 - [araguaci/hello-worlds](https://github.com/araguaci/hello-worlds) - Hello world apps for angular, react, svelte, and vue
 - [sadanandpai/resume-builder](https://github.com/sadanandpai/resume-builder) - Build a standard and professional single page resume
 - [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
@@ -4272,7 +4273,7 @@
 - [briebug/cypress-schematic](https://github.com/briebug/cypress-schematic) - **⛔️  DEPRECATED** Add cypress to an Angular CLI project
 - [akopkesheshyan/ng-person](https://github.com/akopkesheshyan/ng-person) - A universal avatar component for Angular 2+ applications that generates truly unique colored letter avatar based on provided name.
 - [graphile/starter](https://github.com/graphile/starter) - Opinionated SaaS quick-start with pre-built user account and organization system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. Powered by PostGraphile, TypeScript, 
-- [stefanoslig/angular-ngrx-nx-realworld-example-app](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 15, NgRx 15, nrwl/nx 15
+- [stefanoslig/angular-ngrx-nx-realworld-example-app](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 16, NgRx 16, nrwl/nx 16
 - [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder) - Deploy your Angular app to netlify from CLI
 - [NileshPatel17/ng-multiselect-dropdown](https://github.com/NileshPatel17/ng-multiselect-dropdown) - Multiple Select Dropdown Component
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue and yo
@@ -4389,6 +4390,7 @@
 
 ## Vue 
 
+- [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [henripar/gradientos](https://github.com/henripar/gradientos) - Gradientos makes it easy to choose gradients.
 - [vkaelin/LeagueStats](https://github.com/vkaelin/LeagueStats) - 📈 League of Legends Stats Web App
 - [Flowko/website-shot](https://github.com/Flowko/website-shot) - 📸 Generate a full web-page screenshot, Website-shot provides rich interface to make any kind of web screenshots online for free with no limits.

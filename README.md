@@ -801,7 +801,6 @@
 - [tomsaleeba/browser-image-compression](https://github.com/tomsaleeba/browser-image-compression) - 
 - [JayKan/tabler-icons](https://github.com/JayKan/tabler-icons) - A set of over 550 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [aeagle/react-spaces](https://github.com/aeagle/react-spaces) - React components that allow you to divide a page or container into nestable anchored, scrollable and resizable spaces.
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [coreui/coreui-free-angular-admin-template](https://github.com/coreui/coreui-free-angular-admin-template) - CoreUI Angular is free Angular 15 admin template based on Bootstrap 5
 - [deepu105/angular-clock](https://github.com/deepu105/angular-clock) - angular clock widget directive: Demo-
@@ -1471,7 +1470,6 @@
 - [maykbrito/electron-desktop-custom-notion-omni](https://github.com/maykbrito/electron-desktop-custom-notion-omni) - Inject custom CSS to beautify Notion.so
 - [plotly/falcon](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac 🦅
 - [mholt/PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
-- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js, with workbox 🧰
 - [1j01/98](https://github.com/1j01/98) - 💿 Web-based Windows 98 desktop recreation █████▓█▓▓▒▓▒▒░▒░░░🗕︎🗗︎🗙︎
 - [1j01/os-gui](https://github.com/1j01/os-gui) - Retro OS GUI JS/CSS library
@@ -2459,7 +2457,7 @@
 - [curated-intel/CTI-fundamentals](https://github.com/curated-intel/CTI-fundamentals) - A collection of papers, blogs, and resources that make up the quintessential aspects of cyber threat intelligence
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2023
-- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
+- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [dendronhq/awesome-dendron](https://github.com/dendronhq/awesome-dendron) - A big list of Dendron docs, talks, tools, examples, articles, extensions, vaults, showcases, and more that the internet has to offer.
 - [themesberg/glass-ui](https://github.com/themesberg/glass-ui) - CSS UI library based on the glassmorphism design specifications
 - [tombetthauser/fullstack-faqs](https://github.com/tombetthauser/fullstack-faqs) - Common questions and solutions observed during fullstack portfolio projects, specifically for Flask and Express React applications.
@@ -2527,7 +2525,7 @@
 - [nuxt/framework](https://github.com/nuxt/framework) - Old repo of Nuxt 3 framework, now on nuxt/nuxt
 - [merchizm/Todoiva](https://github.com/merchizm/Todoiva) - Todoiva is a stylish non-competitive electron app that moves smoothly along its own line.
 - [luisleao/frontinsampa](https://github.com/luisleao/frontinsampa) - Confira aqui como foram desenvolvidas todas as atividades de interatividade com a Twilio no FrontinSampa 2021.
-- [alan-ai/alan-sdk-web](https://github.com/alan-ai/alan-sdk-web) - Conversational AI SDK for Web to build AI-powered voice assistants, voice and text chats for websites and web apps (JavaScript, React, Angular, Vue, Ember, Electron)
+- [alan-ai/alan-sdk-web](https://github.com/alan-ai/alan-sdk-web) - Conversational AI SDK for Web to build AI assistants to converse with a text chat or voice following with actions for your website or web app (JavaScript, React, Angular, Vue, Ember, Electron)
 - [yiisoft/docs](https://github.com/yiisoft/docs) - Various Yii 3.0 related documentation
 - [RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
@@ -3659,7 +3657,7 @@
 - [dastasoft/memory-game](https://github.com/dastasoft/memory-game) - Demo project to teach about Framer Motion animations on React projects.
 - [marakoss/sos-moto-app](https://github.com/marakoss/sos-moto-app) - SOS MOTO is a mobile application written in React Native that allows you to call a nearest contact from your GPS location to get a quick help. We have over 10k active users in Europe and steadily grow
 - [DoableDanny/NextJS-HarperDB-Task-Timer](https://github.com/DoableDanny/NextJS-HarperDB-Task-Timer) - Fullstack productivity timer app built with NextJS and HarperDB
-- [MyStarship/starship](https://github.com/MyStarship/starship) - "With my blazing fast starship and super smart AI assistant, I can observe everything in my planet". Starship is a lightweight observability and APM platform that provides fully observability for your
+- [DataObserve/datav](https://github.com/DataObserve/datav) - Datav is a observability and APM platform, providing fully observability for your business and infrastructure.
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [danileao/permissions_users](https://github.com/danileao/permissions_users) - 
@@ -3887,6 +3885,7 @@
 - [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [ansible/ansible-hub-ui](https://github.com/ansible/ansible-hub-ui) - Ansible Automation Hub UI
+- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [chicio/chicio.github.io](https://github.com/chicio/chicio.github.io) - :ghost: Fabrizio Duroni (me :smile:) personal website. Created using GatsbyJS, Styled Components, Storybook, Typescript, tsParticles, GitHub pages, Github Actions, Upptime.
 - [airform/airform](https://github.com/airform/airform) - Functional HTML forms for Front-End Developers.
@@ -4297,6 +4296,7 @@
 - [johnpapa/angular-event-view-cli](https://github.com/johnpapa/angular-event-view-cli) - Angular Demo with a Little bit of a lot of features
 - [johnpapa/vscode-angular-snippets](https://github.com/johnpapa/vscode-angular-snippets) - Angular Snippets for VS Code
 - [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
+- [aeagle/react-spaces](https://github.com/aeagle/react-spaces) - React components that allow you to divide a page or container into nestable anchored, scrollable and resizable spaces.
 - [konvajs/react-konva](https://github.com/konvajs/react-konva) - React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
 - [malerba118/react-particle-image](https://github.com/malerba118/react-particle-image) - Render images as interactive particles
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !

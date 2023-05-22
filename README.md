@@ -3622,7 +3622,7 @@
 - [staltz/manyverse](https://github.com/staltz/manyverse) - A social network off the grid (real repo at https://gitlab.com/staltz/manyverse)
 - [initml/clipdrop-api-samples](https://github.com/initml/clipdrop-api-samples) - Public samples using the ClipDrop API
 - [amplication/amplication](https://github.com/amplication/amplication) - Auto-generating TypeScript, GraphQL, REST API, and Node.js, accelerating your full-stack development 🚀
-- [enzomanuelmangano/skia-grid-magnification](https://github.com/enzomanuelmangano/skia-grid-magnification) - 
+- [enzomanuelmangano/exploring-skia](https://github.com/enzomanuelmangano/exploring-skia) - 
 - [dblens/app](https://github.com/dblens/app) - Database explorer for Mac, Windows & Linux
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [craftzdog/react-native-animated-todo](https://github.com/craftzdog/react-native-animated-todo) - Animated ToDo app built with React Native and Reanimated v2
@@ -4273,7 +4273,7 @@
 - [GregorBiswanger/rxjs-fruits](https://github.com/GregorBiswanger/rxjs-fruits) - A game for learning RxJS 🍎🍌
 - [taigaio/taiga-front-next](https://github.com/taigaio/taiga-front-next) - Next taiga-front version with Angular
 - [briebug/cypress-schematic](https://github.com/briebug/cypress-schematic) - **⛔️  DEPRECATED** Add cypress to an Angular CLI project
-- [akopkesheshyan/ng-person](https://github.com/akopkesheshyan/ng-person) - A universal avatar component for Angular 2+ applications that generates truly unique colored letter avatar based on provided name.
+- [akopdev/ng-person](https://github.com/akopdev/ng-person) - A universal avatar component for Angular 2+ applications that generates truly unique colored letter avatar based on provided name.
 - [graphile/starter](https://github.com/graphile/starter) - Opinionated SaaS quick-start with pre-built user account and organization system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. Powered by PostGraphile, TypeScript, 
 - [stefanoslig/angular-ngrx-nx-realworld-example-app](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 16, NgRx 16, nrwl/nx 16
 - [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder) - Deploy your Angular app to netlify from CLI

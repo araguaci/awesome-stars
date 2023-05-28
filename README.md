@@ -290,6 +290,7 @@
 
 ## CSS 
 
+- [l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
 - [McShelby/hugo-theme-relearn](https://github.com/McShelby/hugo-theme-relearn) - A theme for Hugo designed for documentation
 - [aidenybai/million-react](https://github.com/aidenybai/million-react) - ⚛️ Vite starter for Million.js
 - [mgilangjanuar/teledrive](https://github.com/mgilangjanuar/teledrive) - The Google Drive/OneDrive/etc alternative using Telegram API
@@ -470,7 +471,6 @@
 - [DinowSauron/Projeto-Next-Level-Week-7-Heat](https://github.com/DinowSauron/Projeto-Next-Level-Week-7-Heat) - Projeto para expressar suas expectativas para o DoWhile 2021
 - [Glimesh/glimesh.tv](https://github.com/Glimesh/glimesh.tv) - Glimesh is a next generation live streaming platform built by the community, for the community.
 - [rocketseat-education/nlw-06-elixir](https://github.com/rocketseat-education/nlw-06-elixir) - Projeto Wabanex
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [LauraBeatris/joy-of-elixir](https://github.com/LauraBeatris/joy-of-elixir) - elixir exercises with detailed answers
 
@@ -846,6 +846,7 @@
 
 ## Java 
 
+- [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
 - [renatoathaydes/rawhttp](https://github.com/renatoathaydes/rawhttp) - HTTP library to make it easy to deal with raw HTTP.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
@@ -962,7 +963,6 @@
 - [roots/acorn](https://github.com/roots/acorn) - Laravel components for WordPress plugins and themes
 - [ncase/anxiety](https://github.com/ncase/anxiety) - 
 - [ncase/loopy](https://github.com/ncase/loopy) - A tool for thinking in systems
-- [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [sindresorhus/pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots
 - [samuelmeuli/action-electron-builder](https://github.com/samuelmeuli/action-electron-builder) - :electron: GitHub Action for building and releasing Electron apps
@@ -3375,12 +3375,14 @@
 - [huytd/kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
 - [adamsky/globe](https://github.com/adamsky/globe) - Interactive ASCII globe generator
 - [G07cha/pomodoro](https://github.com/G07cha/pomodoro) - Pomodoro time managment tool build with Tauri :tomato:
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
 - [grsoares21/video-silence-cutter](https://github.com/grsoares21/video-silence-cutter) - A Rust script to split and/or trim out silence sections from videos. Needs FFmpeg. WIP
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [mozilla/application-services](https://github.com/mozilla/application-services) - Firefox Application Services
 
 ## SCSS 
 
+- [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11+).
 - [jmlemetayer/abba](https://github.com/jmlemetayer/abba) - Apache Bootstrap & Bootswatch Autoindex
 - [app-generator/flask-soft-ui-dashboard](https://github.com/app-generator/flask-soft-ui-dashboard) - Soft UI Dashboard - Open-source Flask Dashboard | AppSeed
 - [Phlow/simplicity](https://github.com/Phlow/simplicity) - A free, flexible, superfast and easily customizable Jekyll Theme with no Javascript but beautiful typography.
@@ -3619,6 +3621,7 @@
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [flexbox/react-native-bootcamp](https://github.com/flexbox/react-native-bootcamp) - 1 week, 20 lessons, opinionated React Native Bootcamp for busy developers
 - [janosh/elementari](https://github.com/janosh/elementari) - Interactive visualizations for materials science: periodic tables, 3d crystal structures, Bohr atoms, nuclei, heatmaps, scatter plots.
+- [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [samuelmeuli/react-magnifier](https://github.com/samuelmeuli/react-magnifier) - 🔍 React image zoom component
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [staltz/manyverse](https://github.com/staltz/manyverse) - A social network off the grid (real repo at https://gitlab.com/staltz/manyverse)
@@ -4125,7 +4128,7 @@
 - [tokyapp/toky-phone-js-sdk](https://github.com/tokyapp/toky-phone-js-sdk) - The Toky Phone JS SDK is a WebRTC Javascript library providing an abstraction to the Toky phone system, including its main features
 - [thenaim/ionic-tk-social-network](https://github.com/thenaim/ionic-tk-social-network) - Ionic 5 - social network starter project
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
-- [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of Programmable SIP Servers
+- [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of programmable SIP servers
 - [bottenderjs/messaging-apis](https://github.com/bottenderjs/messaging-apis) - Messaging APIs for multi-platform
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
 - [ShadyNagy/ngx-keypad](https://github.com/ShadyNagy/ngx-keypad) - Angular Keypad
@@ -4332,7 +4335,7 @@
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive Database for JavaScript Applications https://rxdb.info/
 - [actions-on-google/smart-home-local](https://github.com/actions-on-google/smart-home-local) - Local Home SDK sample
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
@@ -4486,7 +4489,7 @@
 
 ## Zig 
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 
 ## License

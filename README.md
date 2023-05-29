@@ -1427,7 +1427,6 @@
 - [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman) - 💪  User-generated content for Git-powered websites
 - [zachleat/artificial-chart](https://github.com/zachleat/artificial-chart) - An SVG charting library based on D3.js
 - [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
-- [wavesurfer-js/wavesurfer.js](https://github.com/wavesurfer-js/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
 - [red5pro/streaming-html5](https://github.com/red5pro/streaming-html5) - Testbed examples for Red5 Pro HTML SDK usage
 - [Streamedian/html5_rtsp_player](https://github.com/Streamedian/html5_rtsp_player) - Play RTSP stream from IP camera in browser in this HTML5 player without plugins
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
@@ -1752,7 +1751,6 @@
 - [koddr/goodshare.js](https://github.com/koddr/goodshare.js) - 🚀 А useful modern JavaScript solution for share a link from your website to social networks or mobile messengers. Easy to install and configuring on any of your website!
 - [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 - [Klynt/Klynt-Player](https://github.com/Klynt/Klynt-Player) - Klynt Player is a cross-browser, JavaScript engine to playback rich-media sequences.
-- [styled-components/styled-components-website](https://github.com/styled-components/styled-components-website) - The styled-components website and documentation
 - [cern-phone-apps/mobile-phone-app](https://github.com/cern-phone-apps/mobile-phone-app) - CERN Phone Mobile client. Multiplatform phone application compatible with Android and iOS.
 - [ionorg/ion-app-web](https://github.com/ionorg/ion-app-web) - ion web app
 - [voximplant/react-native-demo](https://github.com/voximplant/react-native-demo) - React Native Voximplant Demo
@@ -3689,7 +3687,7 @@
 - [antfu/vitesse-lite](https://github.com/antfu/vitesse-lite) - ⛺️ Lightweight version of Vitesse
 - [antfu/vitesse-nuxt3](https://github.com/antfu/vitesse-nuxt3) - Vitesse for Nuxt 3 🏔💚⚡️
 - [antfu/vitesse](https://github.com/antfu/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
-- [electron-vite/electron-vite-boilerplate](https://github.com/electron-vite/electron-vite-boilerplate) - 📚 Really simple Electron + Vite boilerplate.
+- [caoxiemeihao/electron-vite-boilerplate](https://github.com/caoxiemeihao/electron-vite-boilerplate) - 📚 Really simple Electron + Vite boilerplate.
 - [samuelmeuli/mini-diary](https://github.com/samuelmeuli/mini-diary) - 📘 Simple and secure journal app
 - [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) - 🥳 Really simple Electron + Vite + Vue boilerplate.
 - [CorentinTh/inert](https://github.com/CorentinTh/inert) - Minimalistic tower defense in the browser entirely in typescript (no deps).
@@ -3810,7 +3808,7 @@
 - [tanhakabir/rest-book](https://github.com/tanhakabir/rest-book) - REST Book is a Visual Studio Code extension that allows you to perform REST calls in a Notebook interface.
 - [peterpeterparker/tietracker](https://github.com/peterpeterparker/tietracker) - A simple, open source and free time tracking app ⏱️
 - [influxdata/ui](https://github.com/influxdata/ui) - UI for InfluxDB
-- [FireCMSco/firecms](https://github.com/FireCMSco/firecms) - Awesome Firebase/Firestore-based CMS. The missing admin panel for your Firebase project!
+- [firecmsco/firecms](https://github.com/firecmsco/firecms) - Awesome Firebase/Firestore-based CMS. The missing admin panel for your Firebase project!
 - [ionic-team/ionic-react-conference-app](https://github.com/ionic-team/ionic-react-conference-app) - The Ionic Conference Demo App - Now in React
 - [microsoft/maker.js](https://github.com/microsoft/maker.js) - 📐⚙ 2D vector line drawing and shape modeling for CNC and laser cutters.
 - [Anish-Agnihotri/tweetdrop](https://github.com/Anish-Agnihotri/tweetdrop) - Generate dispersable airdrops from Twitter threads.
@@ -3884,6 +3882,7 @@
 - [netlify/next-runtime](https://github.com/netlify/next-runtime) - The Next.js Runtime allows Next.js to run on Netlify with zero configuration
 - [KABBOUCHI/vue-tippy](https://github.com/KABBOUCHI/vue-tippy) - VueJS Tooltip powered by Tippy.js
 - [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
+- [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player JS library
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [maximegris/typescript-express-sequelize](https://github.com/maximegris/typescript-express-sequelize) - Easily bootstrap your NodeJS project with Express, Sequelize and Typescript :+1:
 - [itgalaxy/favicons](https://github.com/itgalaxy/favicons) - Favicons generator for Node.js
@@ -4067,6 +4066,7 @@
 - [danileao/youtube-input-mask](https://github.com/danileao/youtube-input-mask) - 
 - [danileao/dowhile-typegraphql](https://github.com/danileao/dowhile-typegraphql) - 
 - [wppconnect-team/wppconnect-server](https://github.com/wppconnect-team/wppconnect-server) - Wppconnect Server is a ready-to-use API, just download, install, and start using, simple as that.
+- [styled-components/styled-components-website](https://github.com/styled-components/styled-components-website) - The styled-components website and documentation
 - [miaowing/nest-schedule](https://github.com/miaowing/nest-schedule) - A cron-like and not-cron-like job distributed scheduler for Nest.js by decorators.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [MrHertal/react-native-twilio-phone](https://github.com/MrHertal/react-native-twilio-phone) - Twilio Voice React Native module.

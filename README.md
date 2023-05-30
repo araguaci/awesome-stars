@@ -3882,7 +3882,7 @@
 - [netlify/next-runtime](https://github.com/netlify/next-runtime) - The Next.js Runtime allows Next.js to run on Netlify with zero configuration
 - [KABBOUCHI/vue-tippy](https://github.com/KABBOUCHI/vue-tippy) - VueJS Tooltip powered by Tippy.js
 - [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
-- [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player JS library
+- [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [maximegris/typescript-express-sequelize](https://github.com/maximegris/typescript-express-sequelize) - Easily bootstrap your NodeJS project with Express, Sequelize and Typescript :+1:
 - [itgalaxy/favicons](https://github.com/itgalaxy/favicons) - Favicons generator for Node.js
@@ -4391,7 +4391,7 @@
 
 ## Vala 
 
-- [alainm23/planner](https://github.com/alainm23/planner) - Task manager with Todoist support designed for GNU/Linux 🚀
+- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist support designed for GNU/Linux 🚀
 - [pdfpc/pdfpc](https://github.com/pdfpc/pdfpc) - A presenter console with multi-monitor support for PDF files.
 
 ## Vim Script 

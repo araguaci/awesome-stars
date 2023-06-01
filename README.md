@@ -53,6 +53,7 @@
 - [R](#r)
 - [RPM Spec](#rpm-spec)
 - [ReScript](#rescript)
+- [Rich Text Format](#rich-text-format)
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -3297,6 +3298,10 @@
 ## ReScript 
 
 - [mobily/stacks](https://github.com/mobily/stacks) - ⚡ A set of useful components to help you build and maintain React Native (Web too) layouts with ease.
+
+## Rich Text Format 
+
+- [ckeditor/ckeditor4](https://github.com/ckeditor/ckeditor4) - The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.
 
 ## Roff 
 

@@ -1755,7 +1755,7 @@
 - [cern-phone-apps/mobile-phone-app](https://github.com/cern-phone-apps/mobile-phone-app) - CERN Phone Mobile client. Multiplatform phone application compatible with Android and iOS.
 - [ionorg/ion-app-web](https://github.com/ionorg/ion-app-web) - ion web app
 - [voximplant/react-native-demo](https://github.com/voximplant/react-native-demo) - React Native Voximplant Demo
-- [parse-community/parse-server-example](https://github.com/parse-community/parse-server-example) - Example server using Express and the parse-server module.
+- [parse-community/parse-server-example](https://github.com/parse-community/parse-server-example) - Example of Parse Server using the express framework.
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
@@ -2071,7 +2071,6 @@
 - [GoogleCloudPlatform/nodejs-docs-samples](https://github.com/GoogleCloudPlatform/nodejs-docs-samples) - Node.js samples for Google Cloud Platform products.
 - [CleverProgrammer/c9_flask_portfolio_app](https://github.com/CleverProgrammer/c9_flask_portfolio_app) - Flask Portfolio App for students @ Clever Programmer
 - [tbreuss/eventbus](https://github.com/tbreuss/eventbus) - :bus: Dead simple ES6-ready JavaScript EventBus
-- [maateusilva/picpay-clone](https://github.com/maateusilva/picpay-clone) - 
 - [guilhermerodz/rocketseat-bootcamp-7-gobarber-web](https://github.com/guilhermerodz/rocketseat-bootcamp-7-gobarber-web) - Front-end of the main App developed at the RocketSeat GoStack Bootcamp.
 - [guilhermerodz/guilhermerodz.me](https://github.com/guilhermerodz/guilhermerodz.me) - My personal blog and website.
 - [tomastrajan/angular-js-es6-testing-example](https://github.com/tomastrajan/angular-js-es6-testing-example) - Enhanced testing of Angular JS 1.X applications using ES6 modules
@@ -2153,8 +2152,8 @@
 - [benoitvallon/react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) - Mobile, desktop and website Apps with the same code
 - [benoitvallon/computer-science-in-javascript](https://github.com/benoitvallon/computer-science-in-javascript) - Computer science reimplemented in JavaScript
 - [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired) - Override create-react-app webpack configs without ejecting
-- [ahfarmer/javascriptstuff-db](https://github.com/ahfarmer/javascriptstuff-db) - Lists of JavaScript resources: tools, tutorials, starter projects, example code, etc.
-- [ahfarmer/calculator](https://github.com/ahfarmer/calculator) - Simple calculator built with React
+- [greatbunny/javascriptstuff-db](https://github.com/greatbunny/javascriptstuff-db) - Lists of JavaScript resources: tools, tutorials, starter projects, example code, etc.
+- [greatbunny/calculator](https://github.com/greatbunny/calculator) - Simple calculator built with React
 - [BolajiAyodeji/face-detector](https://github.com/BolajiAyodeji/face-detector) - A PERN stack face detector app
 - [BolajiAyodeji/speech-to-text](https://github.com/BolajiAyodeji/speech-to-text) - Simple speech to text app built with React and IBM Watson.
 - [christiannwamba/crud-api-node](https://github.com/christiannwamba/crud-api-node) - 🛠️ End to end workshop on building, testing, CI, and deploying a CRUD API in Node.js
@@ -2422,6 +2421,7 @@
 
 ## Others 
 
+- [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and op
 - [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) - This repo contains samples that demonstrate the API used in Windows classic desktop applications.
 - [mishamosher/CentOS-WSL](https://github.com/mishamosher/CentOS-WSL) - A GitHub Actions automated CentOS RootFS to use with WSL
@@ -2761,7 +2761,7 @@
 - [benbalter/wordpress-to-jekyll-exporter](https://github.com/benbalter/wordpress-to-jekyll-exporter) - One-click WordPress plugin that converts all posts, pages, taxonomies, metadata, and settings to Markdown and YAML which can be dropped into Jekyll (or Hugo or any other Markdown and YAML based site e
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [Laragear/TwoFactor](https://github.com/Laragear/TwoFactor) - Two-Factor Authentication for all your users out-of-the-box.
-- [Laragear/WebAuthn](https://github.com/Laragear/WebAuthn) - Authenticate users with fingerprints, patterns and biometric data.
+- [Laragear/WebAuthn](https://github.com/Laragear/WebAuthn) - Authenticate users with Passkeys: fingerprints, patterns and biometric data.
 - [suphiyasin/instagram-advanced-user-finder](https://github.com/suphiyasin/instagram-advanced-user-finder) - An auto software that collects, scans and sends automatic instagram users
 - [scrawler-labs/router](https://github.com/scrawler-labs/router) - An Fully Automatic RESTful PHP Router
 - [sstur/js2php](https://github.com/sstur/js2php) - JavaScript to PHP source transformation
@@ -3797,7 +3797,7 @@
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [babel/website](https://github.com/babel/website) - :globe_with_meridians: The Babel documentation website
 - [typesense/docusaurus-theme-search-typesense](https://github.com/typesense/docusaurus-theme-search-typesense) - A fork of the awesome @docusaurus/theme-search-algolia library customized to work with Typesense
-- [iota-wiki/iota-wiki](https://github.com/iota-wiki/iota-wiki) - IOTA Wiki
+- [iotaledger/iota-wiki](https://github.com/iotaledger/iota-wiki) - IOTA Wiki
 - [jakejarvis/jarv.is](https://github.com/jakejarvis/jarv.is) - 🏡 My humble abode on the World Wide Web
 - [jahirfiquitiva/jahir.dev](https://github.com/jahirfiquitiva/jahir.dev) - My personal website 💎 – Built using Next.js, TypeScript, Tailwind CSS, MDX and contentlayer
 - [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev) - My portfolio powered by Next.js, content sourced from Notion, styled with Tailwind CSS and deployed on Vercel. 🙌

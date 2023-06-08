@@ -602,6 +602,7 @@
 
 ## HTML 
 
+- [cpina/push-to-another-repository-example](https://github.com/cpina/push-to-another-repository-example) - Testing Github actions with Pandoc
 - [Eonasdan/tempus-dominus](https://github.com/Eonasdan/tempus-dominus) - A powerful Date/time picker widget.
 - [codingstella/vCard-personal-portfolio](https://github.com/codingstella/vCard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
 - [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
@@ -915,6 +916,7 @@
 
 ## JavaScript 
 
+- [svitkin/leaflet-timeline-slider](https://github.com/svitkin/leaflet-timeline-slider) - Plugin for leaflet that creates a customizable timeline slider
 - [clean-css/clean-css](https://github.com/clean-css/clean-css) - Fast and efficient CSS optimizer for node.js and the Web
 - [coderaiser/minify](https://github.com/coderaiser/minify) - Minifier of js, css, html and img
 - [golden-layout/golden-layout](https://github.com/golden-layout/golden-layout) - A multi window layout manager for webapps

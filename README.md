@@ -1835,6 +1835,7 @@
 - [karlhadwen/netflix](https://github.com/karlhadwen/netflix) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Netflix Using React
 - [karlhadwen/todoist](https://github.com/karlhadwen/todoist) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Todoist Using React
 - [karlhadwen/instagram](https://github.com/karlhadwen/instagram) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Instagram Using React
+- [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
 - [frapontillo/angular-bootstrap-duallistbox](https://github.com/frapontillo/angular-bootstrap-duallistbox) - Angular directive to include Bootstrap Dual Listbox in your apps.
 - [frapontillo/angular-bootstrap-switch](https://github.com/frapontillo/angular-bootstrap-switch) - AngularJS directive for the bootstrap-switch jQuery plugin.
 - [maykinmedia/dual-listbox](https://github.com/maykinmedia/dual-listbox) - A simple dual listbox build in plain Javascript and some simple styling. (no other libraries of frameworks required)
@@ -2053,7 +2054,7 @@
 - [anabastos/kart-challenge](https://github.com/anabastos/kart-challenge) - 🏁 kart-challenge
 - [anabastos/node4noobs](https://github.com/anabastos/node4noobs) - Repo para aprender NodeJS!
 - [felipefialho/felipefialho.com](https://github.com/felipefialho/felipefialho.com) - 😺 My personal website
-- [orbit-love/orbit-browser-extension](https://github.com/orbit-love/orbit-browser-extension) - Orbit Chrome extension — Add useful developer information right into GitHub issues and PRs.
+- [orbit-love/orbit-browser-extension](https://github.com/orbit-love/orbit-browser-extension) - The Orbit extension: all your community data, right at your fingertips.
 - [orbit-love/orbit-model](https://github.com/orbit-love/orbit-model) - A framework for building high gravity communities 🪐
 - [frontinsampa/frontinsampa.github.io](https://github.com/frontinsampa/frontinsampa.github.io) - 
 - [felipefialho/kratos-boilerplate](https://github.com/felipefialho/kratos-boilerplate) - :fire: A simple boilerplate for creating statics PWA using Webpack, Pug, PostCSS and CSS Modules
@@ -2324,7 +2325,6 @@
 - [johnpolacek/superscrollorama](https://github.com/johnpolacek/superscrollorama) - The original jQuery plugin for supercool scroll animation. NOTE: No longer under active development. New version is ScrollMagic.js
 - [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
 - [d3/d3-geo-projection](https://github.com/d3/d3-geo-projection) - Extended geographic projections for d3-geo.
-- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [d3/d3.github.com](https://github.com/d3/d3.github.com) - The D3 website.
 - [daneden/Baseline.js](https://github.com/daneden/Baseline.js) - A simple jQuery plugin for restoring vertical baselines thrown off by odd image sizes
 - [metafizzy/flickity](https://github.com/metafizzy/flickity) - :leaves: Touch, responsive, flickable carousels
@@ -3539,6 +3539,7 @@
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
 - [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
+- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 
 ## Starlark 
 
@@ -4110,7 +4111,6 @@
 - [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
 - [grsoares21/dev-communities](https://github.com/grsoares21/dev-communities) - Data visualizations of different portuguese speaking Dev communities
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
-- [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
 - [czeckd/angular-dual-listbox](https://github.com/czeckd/angular-dual-listbox) - Angular 10 component for a dual listbox control.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [benawad/fullstack-graphql-airbnb-clone](https://github.com/benawad/fullstack-graphql-airbnb-clone) - A Fullstack GraphQL Airbnb Clone with React and React Native

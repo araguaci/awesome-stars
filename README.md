@@ -2155,8 +2155,8 @@
 - [benoitvallon/react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) - Mobile, desktop and website Apps with the same code
 - [benoitvallon/computer-science-in-javascript](https://github.com/benoitvallon/computer-science-in-javascript) - Computer science reimplemented in JavaScript
 - [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired) - Override create-react-app webpack configs without ejecting
-- [greatbunny/javascriptstuff-db](https://github.com/greatbunny/javascriptstuff-db) - Lists of JavaScript resources: tools, tutorials, starter projects, example code, etc.
-- [greatbunny/calculator](https://github.com/greatbunny/calculator) - Simple calculator built with React
+- [direbunny/javascriptstuff-db](https://github.com/direbunny/javascriptstuff-db) - Lists of JavaScript resources: tools, tutorials, starter projects, example code, etc.
+- [direbunny/calculator](https://github.com/direbunny/calculator) - Simple calculator built with React
 - [BolajiAyodeji/face-detector](https://github.com/BolajiAyodeji/face-detector) - A PERN stack face detector app
 - [BolajiAyodeji/speech-to-text](https://github.com/BolajiAyodeji/speech-to-text) - Simple speech to text app built with React and IBM Watson.
 - [christiannwamba/crud-api-node](https://github.com/christiannwamba/crud-api-node) - 🛠️ End to end workshop on building, testing, CI, and deploying a CRUD API in Node.js
@@ -2501,7 +2501,7 @@
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [Lissy93/Lissy93](https://github.com/Lissy93/Lissy93) - 🥳 Hello World!
 - [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 💖 A curated list of awesome things related to docsify
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 - [wesbos/dad-jokes](https://github.com/wesbos/dad-jokes) - dad jokes
 - [lauragift21/awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) - 🔥 Awesome list of resources on Web Development.
 - [bnb/awesome-awesome-nodejs](https://github.com/bnb/awesome-awesome-nodejs) - 🐢🚀 An Awesome list of Awesome lists related to Node.js.
@@ -3585,6 +3585,7 @@
 
 ## TypeScript 
 
+- [pdfme/pdfme](https://github.com/pdfme/pdfme) - A TypeScript based PDF generator library, made with React.
 - [enricoros/big-agi](https://github.com/enricoros/big-agi) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
 - [mckaywrigley/chatbot-ui-lite](https://github.com/mckaywrigley/chatbot-ui-lite) - A simple chatbot starter kit for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS.
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
@@ -4046,7 +4047,6 @@
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [jessicaidro/letmeask](https://github.com/jessicaidro/letmeask) - 
 - [aleessandrohr/letmeask](https://github.com/aleessandrohr/letmeask) - Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática.
-- [marcelo-rafael/nlw-06-letmeask](https://github.com/marcelo-rafael/nlw-06-letmeask) - 🚀 Letmeask é uma aplicação Web desenvolvida durante a Next Level Week#6 Together oferecido pela @rocketseat
 - [PatoGordo/letmeask](https://github.com/PatoGordo/letmeask) - I made this project following the Next Level Week Together classes.
 - [GabrielCastilhoV/letmeask](https://github.com/GabrielCastilhoV/letmeask) - It consists of a platform to create Q&A rooms (questions and answers).
 - [Alexandrehideki13/DekiLetMeAsk](https://github.com/Alexandrehideki13/DekiLetMeAsk) - Projeto desenvolvido durante a Next Level Week #6 da @Rocketseat na trilha de ReactJS.

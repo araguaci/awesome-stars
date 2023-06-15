@@ -643,6 +643,7 @@
 - [formspree/formspree-example-jekyll](https://github.com/formspree/formspree-example-jekyll) - An example of using Formspree with Jekyll
 - [jerosoler/css-svg-generator-waves](https://github.com/jerosoler/css-svg-generator-waves) - 🎨 CSS / SVG Generator Waves
 - [akashgiricse/templates-using-bootstrap4](https://github.com/akashgiricse/templates-using-bootstrap4) - 🌆 Here I've aggregated some of the most commonly used web-page templates made using Bootstrap4 🛒
+- [dunossauro/live-de-python](https://github.com/dunossauro/live-de-python) - Repositório das lives de python semanais
 - [jh3y/driveway](https://github.com/jh3y/driveway) - pure CSS masonry layouts
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 - [js13kGames/resources](https://github.com/js13kGames/resources) - Tools, assets and tutorials for creating small HTML/JavaScript games.
@@ -1147,7 +1148,7 @@
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio) - My self coded personal website build with React.js
 - [PaulieScanlon/paulie-dev-2019](https://github.com/PaulieScanlon/paulie-dev-2019) - A Content Rich SSG Gatsby Website with Serverless Functions and SSR
-- [gbraad/gauth](https://github.com/gbraad/gauth) - A simple application for multi-factor authentication, written in HTML using jQuery Mobile, jsSHA and LocalStorage.
+- [gbraad-apps/gauth](https://github.com/gbraad-apps/gauth) - A simple application for multi-factor authentication, written in HTML using jQuery Mobile, jsSHA and LocalStorage.
 - [AykutSarac/react-quiz](https://github.com/AykutSarac/react-quiz) - 💡 Quiz app made using React & Open Trivia DB.
 - [collab-project/videojs-record](https://github.com/collab-project/videojs-record) - video.js plugin for recording audio/video/image files
 - [100mslive/100ms-web](https://github.com/100mslive/100ms-web) - A conferencing and streaming UI built with 100ms SDK.
@@ -3178,7 +3179,6 @@
 - [ThatOneCalculator/Among-Us-Dumpy-Gif-Maker](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker) - A tool to make dumpy among us GIFS
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [dunossauro/todo_list_flask_brython](https://github.com/dunossauro/todo_list_flask_brython) - um todo-list/kanban implementado com python fullstack
-- [dunossauro/live-de-python](https://github.com/dunossauro/live-de-python) - Repositório das lives de python semanais
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [dogsheep/github-to-sqlite](https://github.com/dogsheep/github-to-sqlite) - Save data from GitHub to a SQLite database
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
@@ -4086,7 +4086,7 @@
 - [wppconnect-team/wppconnect-server](https://github.com/wppconnect-team/wppconnect-server) - Wppconnect Server is a ready-to-use API, just download, install, and start using, simple as that.
 - [styled-components/styled-components-website](https://github.com/styled-components/styled-components-website) - The styled-components website and documentation
 - [miaowing/nest-schedule](https://github.com/miaowing/nest-schedule) - A cron-like and not-cron-like job distributed scheduler for Nest.js by decorators.
-- [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [MrHertal/react-native-twilio-phone](https://github.com/MrHertal/react-native-twilio-phone) - Twilio Voice React Native module.
 - [brekekesoftware/brekekephone](https://github.com/brekekesoftware/brekekephone) - Softphone for Brekeke PBX
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.

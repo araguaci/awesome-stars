@@ -3683,7 +3683,7 @@
 - [dastasoft/memory-game](https://github.com/dastasoft/memory-game) - Demo project to teach about Framer Motion animations on React projects.
 - [marakoss/sos-moto-app](https://github.com/marakoss/sos-moto-app) - SOS MOTO is a mobile application written in React Native that allows you to call a nearest contact from your GPS location to get a quick help. We have over 10k active users in Europe and steadily grow
 - [DoableDanny/NextJS-HarperDB-Task-Timer](https://github.com/DoableDanny/NextJS-HarperDB-Task-Timer) - Fullstack productivity timer app built with NextJS and HarperDB
-- [datavisions/datav](https://github.com/datavisions/datav) - Datav is a observability and APM platform, providing fully observability for your business and infrastructure.
+- [datavisions/datav](https://github.com/datavisions/datav) - A modern data visualization platform, mainly focus on observability and APM
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [danileao/permissions_users](https://github.com/danileao/permissions_users) - 

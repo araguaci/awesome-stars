@@ -174,7 +174,7 @@
 - [xamarin/Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) - Xamarin.Forms Official Home
 - [Redth/dotnet-maui-check](https://github.com/Redth/dotnet-maui-check) - .NET MAUI Check tool
 - [ElectronNET/Electron.NET](https://github.com/ElectronNET/Electron.NET) - :electron: Build cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor).
-- [Megabit/Blazorise](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Bulma, AntDesign, and Material.
+- [Megabit/Blazorise](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Tailwind, Bulma, AntDesign, and Material.
 - [HHChaos/Drawing-Studio](https://github.com/HHChaos/Drawing-Studio) - A creative app with intelligence. It was given 1st place for Best User Experience in 2019 Microsoft 365 app awards.
 - [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app) - Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
 - [renatogroffe/ASPNETCore5-REST_API-Kafka_ContagemAcessos](https://github.com/renatogroffe/ASPNETCore5-REST_API-Kafka_ContagemAcessos) - Exemplo de API REST criada com o .NET 5 + ASP.NET Core para contagem de acessos e envio de mensagens para um tópico do Apache Kafka (utilizando a biblioteca Confluent.Kafka).
@@ -291,6 +291,7 @@
 
 ## CSS 
 
+- [Binnette/homebank-converter](https://github.com/Binnette/homebank-converter) - A web app to convert an export bank file to compatible Homebank csv file.
 - [turretcss/turretcss](https://github.com/turretcss/turretcss) - Turret is a styles and browser behaviour normalisation framework for rapid development of responsive and accessible websites.
 - [l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
 - [McShelby/hugo-theme-relearn](https://github.com/McShelby/hugo-theme-relearn) - A theme for Hugo designed for documentation
@@ -551,7 +552,7 @@
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
 - [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [moul/depviz](https://github.com/moul/depviz) - 👓 dependency visualizer for GitHub & GitLab (a.k.a., "auto-roadmap")
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
@@ -851,6 +852,7 @@
 
 ## Java 
 
+- [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
 - [renatoathaydes/rawhttp](https://github.com/renatoathaydes/rawhttp) - HTTP library to make it easy to deal with raw HTTP.
@@ -920,6 +922,14 @@
 
 ## JavaScript 
 
+- [sindresorhus/generator-electron](https://github.com/sindresorhus/generator-electron) - Scaffold out an Electron app boilerplate
+- [sindresorhus/electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app with Electron
+- [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
+- [gkjohnson/three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) - A BVH implementation to speed up raycasting and enable spatial queries against three.js meshes.
+- [gkjohnson/source-engine-model-loader](https://github.com/gkjohnson/source-engine-model-loader) - Three.js loader for parsing Valve's Source Engine models
+- [brick-a-brack/eagle-animation](https://github.com/brick-a-brack/eagle-animation) - EagleAnimation is an awesome, free and open-source animation software.
+- [oriongunning/t5c](https://github.com/oriongunning/t5c) - Building a basic multiplayer 3d top down rpg using babylon.js and colyseus
+- [oriongunning/gridder](https://github.com/oriongunning/gridder) - A jQuery plugin that displays a thumbnail grid expanding preview similar to the effect seen on Google Images.
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
 - [cshum/scm-music-player](https://github.com/cshum/scm-music-player) - Seamless music for your website. HTML5 music player with continuous playback cross pages.
 - [svitkin/leaflet-timeline-slider](https://github.com/svitkin/leaflet-timeline-slider) - Plugin for leaflet that creates a customizable timeline slider
@@ -2429,6 +2439,11 @@
 
 ## Others 
 
+- [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
+- [araguaci/game-of-thrones](https://github.com/araguaci/game-of-thrones) - 
+- [araguaci/ultimate-homem-aranha](https://github.com/araguaci/ultimate-homem-aranha) - 
+- [araguaci/vikings](https://github.com/araguaci/vikings) - 
+- [araguaci/liga-da-justica](https://github.com/araguaci/liga-da-justica) - 
 - [rogerflan/bash-for-developers](https://github.com/rogerflan/bash-for-developers) - :mortar_board: Manual de sobrevivência do Linux Bash e Git com comandos mais usados no dia a dia como dev.
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and op
@@ -2684,6 +2699,8 @@
 
 ## PHP 
 
+- [pagseguro/pagseguro-sdk-php](https://github.com/pagseguro/pagseguro-sdk-php) - Biblioteca de integração em PHP
+- [pagseguro/pagseguro-modulo-prestashop](https://github.com/pagseguro/pagseguro-modulo-prestashop) - Módulo de Checkout Transparente para integração com PrestaShop 1.6, 1.7 e 8.0 - Oficial PagBank
 - [pi-hole/AdminLTE](https://github.com/pi-hole/AdminLTE) - Pi-hole Dashboard for stats and more
 - [shiningw/ncdownloader](https://github.com/shiningw/ncdownloader) - An easy-to-use web interface for Aria2 and Youtube-dl (downloading bittorrents, videos from twitter, youtube and the likes)运行在nextcloud下的多功能下载工具（Aria2 and youtube-dl）
 - [webonyx/graphql-php](https://github.com/webonyx/graphql-php) - PHP implementation of the GraphQL specification based on the reference implementation in JavaScript
@@ -3121,6 +3138,9 @@
 
 ## Python 
 
+- [bonfy/github-trending](https://github.com/bonfy/github-trending) - Tracking the most popular Github repos, update daily(Python version)
+- [araguaci/all-notes-skills](https://github.com/araguaci/all-notes-skills) - 
+- [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) - 🪩 Create Disco Diffusion artworks in one line
@@ -3592,6 +3612,8 @@
 
 ## TypeScript 
 
+- [wojtekmaj/date-utils](https://github.com/wojtekmaj/date-utils) - A collection of date-related utilities.
+- [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [atherosai/ui](https://github.com/atherosai/ui) - Simple UI examples from my social media
 - [pdfme/pdfme](https://github.com/pdfme/pdfme) - A TypeScript based PDF generator library, made with React.
 - [enricoros/big-agi](https://github.com/enricoros/big-agi) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
@@ -3684,7 +3706,7 @@
 - [dastasoft/memory-game](https://github.com/dastasoft/memory-game) - Demo project to teach about Framer Motion animations on React projects.
 - [marakoss/sos-moto-app](https://github.com/marakoss/sos-moto-app) - SOS MOTO is a mobile application written in React Native that allows you to call a nearest contact from your GPS location to get a quick help. We have over 10k active users in Europe and steadily grow
 - [DoableDanny/NextJS-HarperDB-Task-Timer](https://github.com/DoableDanny/NextJS-HarperDB-Task-Timer) - Fullstack productivity timer app built with NextJS and HarperDB
-- [datavisions/datav](https://github.com/datavisions/datav) - A modern data visualization platform, mainly focus on observability and APM
+- [DataObserve/datav](https://github.com/DataObserve/datav) - A modern data visualization platform, mainly focus on observability and APM
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [danileao/permissions_users](https://github.com/danileao/permissions_users) - 
@@ -4418,6 +4440,11 @@
 
 ## Vue 
 
+- [araguaci/ponerologia-psicopatas-no-poder](https://github.com/araguaci/ponerologia-psicopatas-no-poder) - ** É assim que um grupo relativamente pequeno de líderes psicopáticos destrói a alma de uma nação. **
+- [araguaci/drogavermelha](https://github.com/araguaci/drogavermelha) - “A fraude e as drogas são os nossos dois primeiros escalões estratégicos na guerra contra o capitalismo.” NIKITA KHRUSHCHEV, 1963
+- [araguaci/ikigai](https://github.com/araguaci/ikigai) - Os segredos dos japoneses para uma vida longa e feliz
+- [araguaci/os-5-carteis](https://github.com/araguaci/os-5-carteis) - 
+- [araguaci/a-esperanca-estilhacada](https://github.com/araguaci/a-esperanca-estilhacada) - O que aconteceu exatamente? Como pôde acontecer? Qual terá sido a gênese da inverossímil seqüência de escândalos? Quem são e o que pensam os personagens do drama? Como será o rosto do Brasil redesenha
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [henripar/gradientos](https://github.com/henripar/gradientos) - Gradientos makes it easy to choose gradients.
 - [vkaelin/LeagueStats](https://github.com/vkaelin/LeagueStats) - 📈 League of Legends Stats Web App

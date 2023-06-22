@@ -36,6 +36,7 @@
 - [Kotlin](#kotlin)
 - [Less](#less)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nunjucks](#nunjucks)
@@ -524,7 +525,6 @@
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [pojntfx/weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
 - [achhabra2/riftshare](https://github.com/achhabra2/riftshare) - Easy, Secure, Free file sharing
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
@@ -644,7 +644,6 @@
 - [formspree/formspree-example-jekyll](https://github.com/formspree/formspree-example-jekyll) - An example of using Formspree with Jekyll
 - [jerosoler/css-svg-generator-waves](https://github.com/jerosoler/css-svg-generator-waves) - 🎨 CSS / SVG Generator Waves
 - [akashgiricse/templates-using-bootstrap4](https://github.com/akashgiricse/templates-using-bootstrap4) - 🌆 Here I've aggregated some of the most commonly used web-page templates made using Bootstrap4 🛒
-- [dunossauro/live-de-python](https://github.com/dunossauro/live-de-python) - Repositório das lives de python semanais
 - [jh3y/driveway](https://github.com/jh3y/driveway) - pure CSS masonry layouts
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 - [js13kGames/resources](https://github.com/js13kGames/resources) - Tools, assets and tutorials for creating small HTML/JavaScript games.
@@ -852,6 +851,7 @@
 
 ## Java 
 
+- [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 - [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
@@ -922,6 +922,7 @@
 
 ## JavaScript 
 
+- [jsuites/jsuites](https://github.com/jsuites/jsuites) - jSuites is a collection of lightweight common required javascript web components. It is composed of fully responsive vanilla plugins to help you bring the best user experience to your projects, indepe
 - [sindresorhus/generator-electron](https://github.com/sindresorhus/generator-electron) - Scaffold out an Electron app boilerplate
 - [sindresorhus/electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app with Electron
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
@@ -1906,7 +1907,6 @@
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [WAClient/WALC](https://github.com/WAClient/WALC) - An unofficial WhatsApp Desktop client for linux systems.
-- [ngekoding/whatsapp-api-tutorial](https://github.com/ngekoding/whatsapp-api-tutorial) - Implementation of whatsapp-web.js
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [tuhinpal/WhatsBot](https://github.com/tuhinpal/WhatsBot) - Modular Userbot for Whatsapp. Supports MultiDevice authentication on non persistent server.
 - [salesforce/lwc](https://github.com/salesforce/lwc) - :zap: LWC - A Blazing Fast, Enterprise-Grade Web Components Foundation
@@ -1947,6 +1947,7 @@
 - [Swizec/serverlesshandbook.dev](https://github.com/Swizec/serverlesshandbook.dev) - A resource for frontend engineers to learn everything about modern backend development.
 - [Swizec/react-fractals](https://github.com/Swizec/react-fractals) - An experiment -&gt; Fractals in React.
 - [var77/react-native-youtube-player](https://github.com/var77/react-native-youtube-player) - React Native Youtube mp3 player
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [h5bp/create-html5-boilerplate](https://github.com/h5bp/create-html5-boilerplate) - npx quick start for html5-boilerplate
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
@@ -2080,7 +2081,6 @@
 - [devshawn/password.live](https://github.com/devshawn/password.live) - 🔒 Generate simple or complex passwords directly from your web browser.
 - [carbon-design-system/gatsby-theme-carbon](https://github.com/carbon-design-system/gatsby-theme-carbon) - A Carbon inspired Gatsby theme
 - [cboard-org/cboard](https://github.com/cboard-org/cboard) - Augmentative and Alternative Communication (AAC) system with text-to-speech for the browser
-- [carbon-design-system/carbon-website](https://github.com/carbon-design-system/carbon-website) - The website for the Carbon Design System.
 - [carbon-design-system/carbon-addons-iot-react](https://github.com/carbon-design-system/carbon-addons-iot-react) - A collection of React components shared between IBM Watson IoT products.
 - [carbon-design-system/carbon-addons-data-viz-react](https://github.com/carbon-design-system/carbon-addons-data-viz-react) - DEPRECATED. Please use Carbon Charts instead
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
@@ -2403,6 +2403,11 @@
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 
+## MDX 
+
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+- [carbon-design-system/carbon-website](https://github.com/carbon-design-system/carbon-website) - The website for the Carbon Design System.
+
 ## Makefile 
 
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
@@ -2439,6 +2444,7 @@
 
 ## Others 
 
+- [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - A curated list of nostr projects and resources
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [araguaci/game-of-thrones](https://github.com/araguaci/game-of-thrones) - 
 - [araguaci/ultimate-homem-aranha](https://github.com/araguaci/ultimate-homem-aranha) - 
@@ -2562,7 +2568,7 @@
 - [syxanash/awesome-web-desktops](https://github.com/syxanash/awesome-web-desktops) - Websites, web apps, portfolios which look like desktop operating systems
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [priyankavergadia/GCPSketchnote](https://github.com/priyankavergadia/GCPSketchnote) - If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.
-- [Jhnbrn90/LaravelPackage.com](https://github.com/Jhnbrn90/LaravelPackage.com) - Documentation for LaravelPackage.com: Learn to create Laravel specific PHP packages from scratch, following this open documentation.
+- [PackagePages/LaravelPackage.com](https://github.com/PackagePages/LaravelPackage.com) - Documentation for LaravelPackage.com: Learn to create Laravel specific PHP packages from scratch, following this open documentation.
 - [Urigo/awesome-meteor](https://github.com/Urigo/awesome-meteor) - A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things
 - [amilajack/project-checklist](https://github.com/amilajack/project-checklist) - ✅ A checklist of things to do before releasing your project
 - [quasarframework/quasar-awesome](https://github.com/quasarframework/quasar-awesome) - 🎉 A list of awesome things related to Quasar
@@ -2699,6 +2705,7 @@
 
 ## PHP 
 
+- [mapasculturais/mapasculturais](https://github.com/mapasculturais/mapasculturais) - Mapas Culturais é uma plataforma colaborativa que reúne informações sobre agentes, espaços, eventos e projetos culturais, fornecendo ao poder público uma radiografia da área de cultura e ao cidadão um
 - [pagseguro/pagseguro-sdk-php](https://github.com/pagseguro/pagseguro-sdk-php) - Biblioteca de integração em PHP
 - [pagseguro/pagseguro-modulo-prestashop](https://github.com/pagseguro/pagseguro-modulo-prestashop) - Módulo de Checkout Transparente para integração com PrestaShop 1.6, 1.7 e 8.0 - Oficial PagBank
 - [pi-hole/AdminLTE](https://github.com/pi-hole/AdminLTE) - Pi-hole Dashboard for stats and more
@@ -3200,6 +3207,7 @@
 - [ThatOneCalculator/Among-Us-Dumpy-Gif-Maker](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker) - A tool to make dumpy among us GIFS
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [dunossauro/todo_list_flask_brython](https://github.com/dunossauro/todo_list_flask_brython) - um todo-list/kanban implementado com python fullstack
+- [dunossauro/live-de-python](https://github.com/dunossauro/live-de-python) - Repositório das lives de python semanais
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [dogsheep/github-to-sqlite](https://github.com/dogsheep/github-to-sqlite) - Save data from GitHub to a SQLite database
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
@@ -3505,7 +3513,6 @@
 - [VitalPBX/vitalpbx_ha_call_center](https://github.com/VitalPBX/vitalpbx_ha_call_center) - VitalPBX High Availability for Call Centers
 - [fdaciuk/install-linux](https://github.com/fdaciuk/install-linux) - Softwares to install on Linux
 - [heroku/heroku-buildpack-php](https://github.com/heroku/heroku-buildpack-php) - The official PHP buildpack for Heroku.
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - DreamFactory API Management Platform
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
@@ -3612,6 +3619,7 @@
 
 ## TypeScript 
 
+- [KYDronePilot/SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live geostationary weather satellite imagery for your desktop background
 - [wojtekmaj/date-utils](https://github.com/wojtekmaj/date-utils) - A collection of date-related utilities.
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [atherosai/ui](https://github.com/atherosai/ui) - Simple UI examples from my social media
@@ -3635,7 +3643,7 @@
 - [pixiebrix/pixiebrix-extension](https://github.com/pixiebrix/pixiebrix-extension) - PixieBrix browser extension
 - [RafaelGoulartB/proffy](https://github.com/RafaelGoulartB/proffy) - 🚀 Project made to connect teachers to students. Made in Next Level Week #2 #NLW @Rocketseat
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Nightly Build artifacts for https://github.com/BuilderIO/qwik
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
 - [getsentry/sentry-electron](https://github.com/getsentry/sentry-electron) - The official Sentry SDK for Electron
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
@@ -4187,7 +4195,6 @@
 - [Swizec/useAuth](https://github.com/Swizec/useAuth) - The simplest way to add authentication to your React app. Supports various providers.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [ChristySchott/react-linkedin](https://github.com/ChristySchott/react-linkedin) - Clone do LinkedIn sendo desenvolvido em React
 - [rocketseat-content/youtube-clone-linkedin](https://github.com/rocketseat-content/youtube-clone-linkedin) - LinkedIn Feed UI Clone.
@@ -4343,7 +4350,7 @@
 - [angular/components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
 - [JayKan/angular2-instagram](https://github.com/JayKan/angular2-instagram) - :fire:Instagram like photo filter playground built with Angular2 (Web | Desktop)
 - [mgechev/angular-seed](https://github.com/mgechev/angular-seed) - 🌱 [Deprecated] Extensible, reliable, modular, PWA ready starter project for Angular (2 and beyond) with statically typed build and AoT compilation
-- [SinghDigamber/angular-http-observables](https://github.com/SinghDigamber/angular-http-observables) - Angular 13 Observables tutorial - Manage HTTP response with RxJS observables and operators, build a live country search module from scratch.
+- [dominic7753/angular-http-observables](https://github.com/dominic7753/angular-http-observables) - Angular 13 Observables tutorial - Manage HTTP response with RxJS observables and operators, build a live country search module from scratch.
 - [johnpapa/angular-event-view-cli](https://github.com/johnpapa/angular-event-view-cli) - Angular Demo with a Little bit of a lot of features
 - [johnpapa/vscode-angular-snippets](https://github.com/johnpapa/vscode-angular-snippets) - Angular Snippets for VS Code
 - [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
@@ -4453,6 +4460,7 @@
 - [wenzhixin/multiple-select](https://github.com/wenzhixin/multiple-select) - A jQuery plugin to select multiple elements with checkboxes :)
 - [codydbentley/wails-vite-vue-the-works](https://github.com/codydbentley/wails-vite-vue-the-works) - A Wails template with Vite, Vue 3 TypeScript, Vuex, Vue Router, Sass, ESLint, and Prettier
 - [getumbrel/umbrel-dashboard](https://github.com/getumbrel/umbrel-dashboard) - Web-based dashboard to interact with your Umbrel
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [jordihales/hypercolor](https://github.com/jordihales/hypercolor) - A curated collection of beautiful premade gradients using default colors from the Tailwind palette as well as a selection of custom color gradients.
 - [zernonia/madewithsupabase](https://github.com/zernonia/madewithsupabase) - A collection of projects made with Supabase – Websites, Mobile Apps, SaaS, Plugins and more!
 - [logchimp/logchimp](https://github.com/logchimp/logchimp) - Track your customers feedback to build better products with LogChimp

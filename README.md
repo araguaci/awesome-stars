@@ -634,7 +634,7 @@
 - [atapas/html-tips-tricks](https://github.com/atapas/html-tips-tricks) - My Favorite HTML5 Tips and Tricks
 - [codamos/codamos.github.io](https://github.com/codamos/codamos.github.io) - 
 - [wenzhixin/bootstrap-table-examples](https://github.com/wenzhixin/bootstrap-table-examples) - Bootstrap table examples
-- [getumbrel/umbrel-apps](https://github.com/getumbrel/umbrel-apps) - The new, official app repository of the Umbrel App Store. Submit apps and updates here.
+- [getumbrel/umbrel-apps](https://github.com/getumbrel/umbrel-apps) - The official app repository of the Umbrel App Store. Submit apps and updates here. Learn how → https://github.com/getumbrel/umbrel-apps#readme
 - [Evavic44/Periodic-Table](https://github.com/Evavic44/Periodic-Table) - Periodic table with CSS grid and glassmorphisim UI
 - [bxt/Nazareth-Knot](https://github.com/bxt/Nazareth-Knot) - A neat SVG drawing of a byzantine knot, generated with ERB
 - [eleith/emailjs](https://github.com/eleith/emailjs) - html emails and attachments to any smtp server with nodejs
@@ -922,6 +922,8 @@
 
 ## JavaScript 
 
+- [aimeos/aimeos](https://github.com/aimeos/aimeos) - Integrated online shop based on Laravel 9 and the Aimeos e-commerce framework for ultra-fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce
+- [aimeos/aimeos-headless](https://github.com/aimeos/aimeos-headless) - Aimeos cloud-native, API-first ecommerce headless distribution for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce
 - [jsuites/jsuites](https://github.com/jsuites/jsuites) - jSuites is a collection of lightweight common required javascript web components. It is composed of fully responsive vanilla plugins to help you bring the best user experience to your projects, indepe
 - [sindresorhus/generator-electron](https://github.com/sindresorhus/generator-electron) - Scaffold out an Electron app boilerplate
 - [sindresorhus/electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app with Electron
@@ -2406,6 +2408,7 @@
 ## MDX 
 
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+- [styled-components/styled-components-website](https://github.com/styled-components/styled-components-website) - The styled-components website and documentation
 - [carbon-design-system/carbon-website](https://github.com/carbon-design-system/carbon-website) - The website for the Carbon Design System.
 
 ## Makefile 
@@ -2705,6 +2708,8 @@
 
 ## PHP 
 
+- [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is the universal open-source software platform to build your e-commerce solution.
+- [aimeos/aimeos-laravel](https://github.com/aimeos/aimeos-laravel) - Laravel ecommerce package for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce
 - [mapasculturais/mapasculturais](https://github.com/mapasculturais/mapasculturais) - Mapas Culturais é uma plataforma colaborativa que reúne informações sobre agentes, espaços, eventos e projetos culturais, fornecendo ao poder público uma radiografia da área de cultura e ao cidadão um
 - [pagseguro/pagseguro-sdk-php](https://github.com/pagseguro/pagseguro-sdk-php) - Biblioteca de integração em PHP
 - [pagseguro/pagseguro-modulo-prestashop](https://github.com/pagseguro/pagseguro-modulo-prestashop) - Módulo de Checkout Transparente para integração com PrestaShop 1.6, 1.7 e 8.0 - Oficial PagBank
@@ -3608,6 +3613,7 @@
 
 ## Swift 
 
+- [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit) - Universal API for request permission and get its statuses.
 - [chicio/TabBarUIAction](https://github.com/chicio/TabBarUIAction) - 📚📱 A SwiftUI custom TabBar view with action button for modal content display. Fully compatible with Mac Catalyst.  📚📱
 - [facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) - Used to integrate the Facebook Platform with your iOS & tvOS apps.
 - [64characters/Telephone](https://github.com/64characters/Telephone) - SIP softphone for Mac
@@ -3619,6 +3625,10 @@
 
 ## TypeScript 
 
+- [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
+- [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer) - An all-round MQTT client that provides a structured topic overview
+- [brimdata/zui](https://github.com/brimdata/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it 🧠
 - [KYDronePilot/SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live geostationary weather satellite imagery for your desktop background
 - [wojtekmaj/date-utils](https://github.com/wojtekmaj/date-utils) - A collection of date-related utilities.
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
@@ -3907,7 +3917,7 @@
 - [oceanprotocol/market](https://github.com/oceanprotocol/market) - 🧜‍♀️ THE Data Market
 - [nextauthjs/next-auth-example](https://github.com/nextauthjs/next-auth-example) - Example showing how to use NextAuth.js with Next.js
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
-- [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
+- [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [elegantapp/pwa-workshop-angular-firebase](https://github.com/elegantapp/pwa-workshop-angular-firebase) - Build a production ready PWA with Angular and Firebase! This workshop consists of multiple steps for producing a PWA by transforming a regular web app - Ionic Conference App into a PWA, finally deploy
 - [elegantapp/pwa-asset-generator](https://github.com/elegantapp/pwa-asset-generator) - Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated i
@@ -4115,7 +4125,6 @@
 - [danileao/youtube-input-mask](https://github.com/danileao/youtube-input-mask) - 
 - [danileao/dowhile-typegraphql](https://github.com/danileao/dowhile-typegraphql) - 
 - [wppconnect-team/wppconnect-server](https://github.com/wppconnect-team/wppconnect-server) - Wppconnect Server is a ready-to-use API, just download, install, and start using, simple as that.
-- [styled-components/styled-components-website](https://github.com/styled-components/styled-components-website) - The styled-components website and documentation
 - [miaowing/nest-schedule](https://github.com/miaowing/nest-schedule) - A cron-like and not-cron-like job distributed scheduler for Nest.js by decorators.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [MrHertal/react-native-twilio-phone](https://github.com/MrHertal/react-native-twilio-phone) - Twilio Voice React Native module.
@@ -4350,7 +4359,7 @@
 - [angular/components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
 - [JayKan/angular2-instagram](https://github.com/JayKan/angular2-instagram) - :fire:Instagram like photo filter playground built with Angular2 (Web | Desktop)
 - [mgechev/angular-seed](https://github.com/mgechev/angular-seed) - 🌱 [Deprecated] Extensible, reliable, modular, PWA ready starter project for Angular (2 and beyond) with statically typed build and AoT compilation
-- [dominic7753/angular-http-observables](https://github.com/dominic7753/angular-http-observables) - Angular 13 Observables tutorial - Manage HTTP response with RxJS observables and operators, build a live country search module from scratch.
+- [digamber7753/angular-http-observables](https://github.com/digamber7753/angular-http-observables) - Angular 13 Observables tutorial - Manage HTTP response with RxJS observables and operators, build a live country search module from scratch.
 - [johnpapa/angular-event-view-cli](https://github.com/johnpapa/angular-event-view-cli) - Angular Demo with a Little bit of a lot of features
 - [johnpapa/vscode-angular-snippets](https://github.com/johnpapa/vscode-angular-snippets) - Angular Snippets for VS Code
 - [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices

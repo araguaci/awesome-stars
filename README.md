@@ -1311,7 +1311,6 @@
 - [mediaelement/mediaelement](https://github.com/mediaelement/mediaelement) - HTML5 &lt;audio&gt; or &lt;video&gt; player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consiste
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [buttons/github-buttons](https://github.com/buttons/github-buttons) - :octocat: Unofficial github:buttons
-- [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 - [araguaci/a-oracao-de-sao-miguel](https://github.com/araguaci/a-oracao-de-sao-miguel) - “São Miguel Arcanjo, defendei-nos no combate”: conheça a história e a teologia por trás desta prece, escrita pelo Papa Leão XIII depois de uma suposta visão de espíritos malignos sobrevoando a cidade 
 - [araguaci/matrix](https://github.com/araguaci/matrix) - Matrix Unicode init with Canadian Aboriginal =&gt; 0x1400 - 0x167F https://matrix-five.vercel.app/
 - [araguaci/santo-agostinho](https://github.com/araguaci/santo-agostinho) - 
@@ -1661,7 +1660,6 @@
 - [maxpert/raspchat](https://github.com/maxpert/raspchat) - A chat server that can run on Raspberry Pi
 - [LivePersonInc/node-agent-sdk](https://github.com/LivePersonInc/node-agent-sdk) - LivePerson Agent Messaging SDK for NodeJS
 - [wesbos/Advanced-React](https://github.com/wesbos/Advanced-React) - Starter Files and Solutions for Full Stack Advanced React and GraphQL
-- [wesbos/wesbos](https://github.com/wesbos/wesbos) - 
 - [webrtc/samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
 - [muaz-khan/WebRTC-Experiment](https://github.com/muaz-khan/WebRTC-Experiment) - WebRTC, WebRTC and WebRTC. Everything here is all about WebRTC!!
 - [adrianhajdin/project_video_chat](https://github.com/adrianhajdin/project_video_chat) - This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.
@@ -2006,7 +2004,6 @@
 - [bencevans/node-sonos](https://github.com/bencevans/node-sonos) - 🔈 Sonos Media Player Interface/Client
 - [nodegui/react-nodegui-starter](https://github.com/nodegui/react-nodegui-starter) - Starter repository for react based native desktop apps using react-nodegui
 - [mdn/dom-examples](https://github.com/mdn/dom-examples) - Code examples that accompany various MDN DOM and Web API documentation pages
-- [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - The Tailwind CSS documentation website.
 - [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net) - This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source p
 - [leecade/react-native-unlock](https://github.com/leecade/react-native-unlock) - 
 - [OmarElgabry/chat.io](https://github.com/OmarElgabry/chat.io) - A Real Time Chat Application built using Node.js, Express, Mongoose, Socket.io, Passport, & Redis.
@@ -2408,7 +2405,10 @@
 ## MDX 
 
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+- [jakejarvis/jarv.is](https://github.com/jakejarvis/jarv.is) - 🏡 My humble abode on the World Wide Web
+- [wesbos/wesbos](https://github.com/wesbos/wesbos) - 
 - [styled-components/styled-components-website](https://github.com/styled-components/styled-components-website) - The styled-components website and documentation
+- [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - The Tailwind CSS documentation website.
 - [carbon-design-system/carbon-website](https://github.com/carbon-design-system/carbon-website) - The website for the Carbon Design System.
 
 ## Makefile 
@@ -2447,6 +2447,9 @@
 
 ## Others 
 
+- [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+- [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
+- [best-of-lists/best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
 - [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - A curated list of nostr projects and resources
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [araguaci/game-of-thrones](https://github.com/araguaci/game-of-thrones) - 
@@ -2790,6 +2793,7 @@
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [leafsphp/skeleton](https://github.com/leafsphp/skeleton) - A boiler-plate application for rapid development.
 - [leafsphp/leaf](https://github.com/leafsphp/leaf) - 🍁 The easiest way to create clean, simple but powerful web apps and APIs quickly
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [shgysk8zer0/logos](https://github.com/shgysk8zer0/logos) - A collection of SVG logos
 - [hasinhayder/hydra](https://github.com/hasinhayder/hydra) - Hydra is a zero-config API boilerplate with Laravel 9x + Laravel Sanctum that comes with an excellent user and role management API out of the box
 - [taniarascia/laconia](https://github.com/taniarascia/laconia) - 🏺 ‎ A minimalist MVC framework.
@@ -3012,7 +3016,7 @@
 - [inertiajs/pingcrm](https://github.com/inertiajs/pingcrm) - A demo application to illustrate how Inertia.js works.
 - [YetiForceCompany/YetiForceCRM](https://github.com/YetiForceCompany/YetiForceCRM) - Our team created for you one of the most innovative CRM systems that supports mainly business processes and allows for customization according to your needs. Be ahead of your competition and implement
 - [adhocore/phalcon-ext](https://github.com/adhocore/phalcon-ext) - Foundations, adapters, extensions, middlewares and utilities for Phalcon v4
-- [adhocore/php-jwt](https://github.com/adhocore/php-jwt) - Ultra lightweight, dependency free and standalone JSON web token (JWT) library for PHP5.6 to PHP8.1. This library makes JWT a cheese. It is a minimal JWT integration for PHP.
+- [adhocore/php-jwt](https://github.com/adhocore/php-jwt) - Ultra lightweight, dependency free and standalone JSON web token (JWT) library for PHP5.6 to PHP8.2. This library makes JWT a cheese. It is a minimal JWT integration for PHP.
 - [soatok/dhole-cryptography](https://github.com/soatok/dhole-cryptography) - Boring (dull) cryptography for furry projects (created by a dhole)
 - [ratchetphp/Ratchet](https://github.com/ratchetphp/Ratchet) - Asynchronous WebSocket server
 - [kartik-v/yii2-tree-manager](https://github.com/kartik-v/yii2-tree-manager) - An advanced tree management module using nested sets for Yii 2.
@@ -3150,6 +3154,7 @@
 
 ## Python 
 
+- [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [bonfy/github-trending](https://github.com/bonfy/github-trending) - Tracking the most popular Github repos, update daily(Python version)
 - [araguaci/all-notes-skills](https://github.com/araguaci/all-notes-skills) - 
 - [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
@@ -3597,7 +3602,6 @@
 - [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
 - [itswadesh/svelte-commerce](https://github.com/itswadesh/svelte-commerce) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. The API approach also allows you to merge Svelte Commerce with any third-party tool like pa
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
 - [sveltejs/realworld](https://github.com/sveltejs/realworld) - SvelteKit implementation of the RealWorld app
 - [simeydotme/svelte-range-slider-pips](https://github.com/simeydotme/svelte-range-slider-pips) - Multi-Thumb, Accessible, Beautiful Range Slider with Pips
@@ -3853,7 +3857,6 @@
 - [babel/website](https://github.com/babel/website) - :globe_with_meridians: The Babel documentation website
 - [typesense/docusaurus-theme-search-typesense](https://github.com/typesense/docusaurus-theme-search-typesense) - A fork of the awesome @docusaurus/theme-search-algolia library customized to work with Typesense
 - [iotaledger/iota-wiki](https://github.com/iotaledger/iota-wiki) - IOTA Wiki
-- [jakejarvis/jarv.is](https://github.com/jakejarvis/jarv.is) - 🏡 My humble abode on the World Wide Web
 - [jahirfiquitiva/jahir.dev](https://github.com/jahirfiquitiva/jahir.dev) - My personal website 💎 – Built using Next.js, TypeScript, Tailwind CSS, MDX and contentlayer
 - [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev) - My portfolio powered by Next.js, content sourced from Notion, styled with Tailwind CSS and deployed on Vercel. 🙌
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
@@ -4133,7 +4136,7 @@
 - [fmeringdal/nettu-meet](https://github.com/fmeringdal/nettu-meet) - Open source video conferencing system for tutors.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [fabiospampinato/vscode-todo-plus](https://github.com/fabiospampinato/vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable.
-- [G07cha/pomodoro](https://github.com/G07cha/pomodoro) - Pomodoro time managment tool build with Tauri :tomato:
+- [G07cha/pomodoro](https://github.com/G07cha/pomodoro) - Time managment tool build with Tauri
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [jasperapp/jasper](https://github.com/jasperapp/jasper) - Jasper - A flexible and powerful issue reader for GitHub
 - [JustFly1984/react-google-maps-api](https://github.com/JustFly1984/react-google-maps-api) - React Google Maps API
@@ -4468,7 +4471,7 @@
 - [prismicio-community/nuxt-starter-prismic-multi-language](https://github.com/prismicio-community/nuxt-starter-prismic-multi-language) - Multi-language project with Nuxt & Prismic
 - [wenzhixin/multiple-select](https://github.com/wenzhixin/multiple-select) - A jQuery plugin to select multiple elements with checkboxes :)
 - [codydbentley/wails-vite-vue-the-works](https://github.com/codydbentley/wails-vite-vue-the-works) - A Wails template with Vite, Vue 3 TypeScript, Vuex, Vue Router, Sass, ESLint, and Prettier
-- [getumbrel/umbrel-dashboard](https://github.com/getumbrel/umbrel-dashboard) - Web-based dashboard to interact with your Umbrel
+- [getumbrel/umbrel-dashboard](https://github.com/getumbrel/umbrel-dashboard) - [Deprecated] Moved to https://github.com/getumbrel/umbrel/tree/master/packages/dashboard. Web-based dashboard to interact with your Umbrel.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [jordihales/hypercolor](https://github.com/jordihales/hypercolor) - A curated collection of beautiful premade gradients using default colors from the Tailwind palette as well as a selection of custom color gradients.
 - [zernonia/madewithsupabase](https://github.com/zernonia/madewithsupabase) - A collection of projects made with Supabase – Websites, Mobile Apps, SaaS, Plugins and more!

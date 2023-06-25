@@ -1313,7 +1313,7 @@
 - [buttons/github-buttons](https://github.com/buttons/github-buttons) - :octocat: Unofficial github:buttons
 - [araguaci/a-oracao-de-sao-miguel](https://github.com/araguaci/a-oracao-de-sao-miguel) - “São Miguel Arcanjo, defendei-nos no combate”: conheça a história e a teologia por trás desta prece, escrita pelo Papa Leão XIII depois de uma suposta visão de espíritos malignos sobrevoando a cidade 
 - [araguaci/matrix](https://github.com/araguaci/matrix) - Matrix Unicode init with Canadian Aboriginal =&gt; 0x1400 - 0x167F https://matrix-five.vercel.app/
-- [araguaci/santo-agostinho](https://github.com/araguaci/santo-agostinho) - 
+- [araguaci/santo-agostinho](https://github.com/araguaci/santo-agostinho) - Nesta aula, Olavo de Carvalho analisa o período da dissolução do Império Romano e destaca a vida e a filosofia de Santo Agostinho. Analisa as condições que desencadearam a formação das Igrejas cristãs
 - [araguaci/portfolio-particles](https://github.com/araguaci/portfolio-particles) - 
 - [adrai/flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
 - [araguaci/os-10-mandamentos](https://github.com/araguaci/os-10-mandamentos) - 

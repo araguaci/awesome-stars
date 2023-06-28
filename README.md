@@ -604,6 +604,7 @@
 
 ## HTML 
 
+- [araguaci/plantasquecuram](https://github.com/araguaci/plantasquecuram) - Plantas que Curam
 - [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
 - [cpina/push-to-another-repository-example](https://github.com/cpina/push-to-another-repository-example) - Testing Github actions with Pandoc
 - [Eonasdan/tempus-dominus](https://github.com/Eonasdan/tempus-dominus) - A powerful Date/time picker widget.
@@ -922,6 +923,8 @@
 
 ## JavaScript 
 
+- [vueblocks/ve-charts](https://github.com/vueblocks/ve-charts) - 📈 ECharts 4.x for Vue.js 2.x.  | 📈 ECharts 5.x for Vue.js 3.x in next version.
+- [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 - [aimeos/aimeos](https://github.com/aimeos/aimeos) - Integrated online shop based on Laravel 9 and the Aimeos e-commerce framework for ultra-fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce
 - [aimeos/aimeos-headless](https://github.com/aimeos/aimeos-headless) - Aimeos cloud-native, API-first ecommerce headless distribution for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce
@@ -2079,7 +2082,6 @@
 - [text-mask/text-mask](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript
 - [evanw/node-source-map-support](https://github.com/evanw/node-source-map-support) - Adds source map support to node.js (for stack traces)
 - [devshawn/password.live](https://github.com/devshawn/password.live) - 🔒 Generate simple or complex passwords directly from your web browser.
-- [carbon-design-system/gatsby-theme-carbon](https://github.com/carbon-design-system/gatsby-theme-carbon) - A Carbon inspired Gatsby theme
 - [cboard-org/cboard](https://github.com/cboard-org/cboard) - Augmentative and Alternative Communication (AAC) system with text-to-speech for the browser
 - [carbon-design-system/carbon-addons-iot-react](https://github.com/carbon-design-system/carbon-addons-iot-react) - A collection of React components shared between IBM Watson IoT products.
 - [carbon-design-system/carbon-addons-data-viz-react](https://github.com/carbon-design-system/carbon-addons-data-viz-react) - DEPRECATED. Please use Carbon Charts instead
@@ -2359,6 +2361,7 @@
 
 ## Jupyter Notebook 
 
+- [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [awangga/Python-Artificial-Intelligence-Projects-for-Beginners](https://github.com/awangga/Python-Artificial-Intelligence-Projects-for-Beginners) - Python Artificial Intelligence Projects for Beginners, published by Packt
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
@@ -2406,10 +2409,13 @@
 ## MDX 
 
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+- [iotaledger/iota-wiki](https://github.com/iotaledger/iota-wiki) - IOTA Wiki
 - [jakejarvis/jarv.is](https://github.com/jakejarvis/jarv.is) - 🏡 My humble abode on the World Wide Web
+- [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
 - [wesbos/wesbos](https://github.com/wesbos/wesbos) - 
 - [styled-components/styled-components-website](https://github.com/styled-components/styled-components-website) - The styled-components website and documentation
 - [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - The Tailwind CSS documentation website.
+- [carbon-design-system/gatsby-theme-carbon](https://github.com/carbon-design-system/gatsby-theme-carbon) - A Carbon inspired Gatsby theme
 - [carbon-design-system/carbon-website](https://github.com/carbon-design-system/carbon-website) - The website for the Carbon Design System.
 
 ## Makefile 
@@ -2597,7 +2603,7 @@
 - [OtacilioN/awesome-conteudo-brasil](https://github.com/OtacilioN/awesome-conteudo-brasil) - Uma lista de conteúdos incríveis de tecnologia feito por pessoas brasileiras em PT-BR
 - [OtacilioN/OtacilioN](https://github.com/OtacilioN/OtacilioN) - 
 - [OtacilioN/awesome-hacktoberfest-plant-a-tree](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree) - Will you choose the :sparkles: Hacktoberfest t-shirt :sparkles: but don't want to stop contributing to the environment and a sustainable future? Find an organization here so you can plant a tree! :see
-- [OtacilioN/awesome-hacktoberfest-2022](https://github.com/OtacilioN/awesome-hacktoberfest-2022) - A curated list of awesome Hacktoberfest 2022 repositories, guides and resources
+- [OtacilioN/awesome-hacktoberfest](https://github.com/OtacilioN/awesome-hacktoberfest) - A curated list of awesome Hacktoberfest 2022 repositories, guides and resources
 - [jesherdevsk8/comandos-git](https://github.com/jesherdevsk8/comandos-git) - Anotações de comandos Git
 - [dgtlmoon/awesome-website-change-monitoring](https://github.com/dgtlmoon/awesome-website-change-monitoring) - A curated list of awesome tools for website diffing and change monitoring.
 - [react-brasil/empresas-que-usam-react-no-brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil) - Repositório que mostra empresas e projetos que utilizam React no Brasil
@@ -2712,6 +2718,7 @@
 
 ## PHP 
 
+- [julien-boudry/Condorcet](https://github.com/julien-boudry/Condorcet) - Command line application and PHP library, providing an election engine with a high-level interface. Native support 20+ voting methods, easy to extend. Support simple elections with ease or billions of
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is the universal open-source software platform to build your e-commerce solution.
 - [aimeos/aimeos-laravel](https://github.com/aimeos/aimeos-laravel) - Laravel ecommerce package for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce
 - [mapasculturais/mapasculturais](https://github.com/mapasculturais/mapasculturais) - Mapas Culturais é uma plataforma colaborativa que reúne informações sobre agentes, espaços, eventos e projetos culturais, fornecendo ao poder público uma radiografia da área de cultura e ao cidadão um
@@ -3155,7 +3162,8 @@
 
 ## Python 
 
-- [araguaci/o-dominio-de-si-mesmo](https://github.com/araguaci/o-dominio-de-si-mesmo) - 
+- [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs text-to-speech.
+- [araguaci/o-dominio-de-si-mesmo](https://github.com/araguaci/o-dominio-de-si-mesmo) - Reflexões para vida. Compilado de temas e textos para reflexão pessoal
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [bonfy/github-trending](https://github.com/bonfy/github-trending) - Tracking the most popular Github repos, update daily(Python version)
 - [araguaci/all-notes-skills](https://github.com/araguaci/all-notes-skills) - 
@@ -3225,7 +3233,6 @@
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
-- [app-generator/boilerplate-code-django-dashboard](https://github.com/app-generator/boilerplate-code-django-dashboard) - Boilerplate Code - Django Dashboard | AppSeed
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
@@ -3786,7 +3793,7 @@
 - [vuepress/vuepress-next](https://github.com/vuepress/vuepress-next) - Repo for VuePress 2
 - [daniloab/graphql-real-world-server](https://github.com/daniloab/graphql-real-world-server) - Nodejs GraphQL server that represents the talk built for Paraiba.js edition https://daniloab.github.io/graphql-real-world/#0
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
-- [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex no-code website builder
+- [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex live web creation, free/libre no-code website builder, next gen Webflow for the static web
 - [pbeshai/use-query-params](https://github.com/pbeshai/use-query-params) - React Hook for managing state in URL query parameters with easy serialization.
 - [zidoro/pomatez](https://github.com/zidoro/pomatez) - Stay Focused. Take a Break.
 - [benji6/virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) - :notes: Library for declaratively manipulating the Web Audio API
@@ -3858,7 +3865,6 @@
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [babel/website](https://github.com/babel/website) - :globe_with_meridians: The Babel documentation website
 - [typesense/docusaurus-theme-search-typesense](https://github.com/typesense/docusaurus-theme-search-typesense) - A fork of the awesome @docusaurus/theme-search-algolia library customized to work with Typesense
-- [iotaledger/iota-wiki](https://github.com/iotaledger/iota-wiki) - IOTA Wiki
 - [jahirfiquitiva/jahir.dev](https://github.com/jahirfiquitiva/jahir.dev) - My personal website 💎 – Built using Next.js, TypeScript, Tailwind CSS, MDX and contentlayer
 - [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev) - My portfolio powered by Next.js, content sourced from Notion, styled with Tailwind CSS and deployed on Vercel. 🙌
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
@@ -4020,7 +4026,6 @@
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 - [leerob/react2025](https://github.com/leerob/react2025) - ⚛️ Build applications from the the future, today.
 - [nuxt/image](https://github.com/nuxt/image) - Plug-and-play image optimization for Nuxt applications.
-- [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
 - [js-works/shoelace-theme-designer](https://github.com/js-works/shoelace-theme-designer) - 
 - [fulls1z3/universal](https://github.com/fulls1z3/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, CLI scaffolding, dev/prod modes, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO,
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
@@ -4461,6 +4466,11 @@
 
 ## Vue 
 
+- [mayur091193/quasar-shopping](https://github.com/mayur091193/quasar-shopping) - Free and Open source eCommerce UI template written in Vue.js/Quasar
+- [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup) - Planning universitaire réalisé en Nuxt.js
+- [araguaci/ocaminhodaservidao](https://github.com/araguaci/ocaminhodaservidao) - O CAMINHO DA SERVIDÃO F.A. HAYEK Tradução e revisão Anna Maria Capovilla, José Ítalo Stelle e Liane de Morais Ribeiro
+- [araguaci/kaizen](https://github.com/araguaci/kaizen) - A arte de alcançar uma vida plena
+- [araguaci/os-cinco-niveis-de-apego](https://github.com/araguaci/os-cinco-niveis-de-apego) - Seguindo os ensinamentos de Don Miguel Ruiz, o leitor agora tem a oportunidade de ler um afinado estudo de seu filho, Don Miguel Ruiz Jr., sobre a busca da liberdade e do equilíbrio interior.
 - [araguaci/ponerologia-psicopatas-no-poder](https://github.com/araguaci/ponerologia-psicopatas-no-poder) - ** É assim que um grupo relativamente pequeno de líderes psicopáticos destrói a alma de uma nação. **
 - [araguaci/drogavermelha](https://github.com/araguaci/drogavermelha) - “A fraude e as drogas são os nossos dois primeiros escalões estratégicos na guerra contra o capitalismo.” NIKITA KHRUSHCHEV, 1963
 - [araguaci/ikigai](https://github.com/araguaci/ikigai) - Os segredos dos japoneses para uma vida longa e feliz

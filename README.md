@@ -923,6 +923,7 @@
 
 ## JavaScript 
 
+- [yabwe/medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 - [vueblocks/ve-charts](https://github.com/vueblocks/ve-charts) - 📈 ECharts 4.x for Vue.js 2.x.  | 📈 ECharts 5.x for Vue.js 3.x in next version.
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
@@ -3162,6 +3163,11 @@
 
 ## Python 
 
+- [streamlit/roadmap](https://github.com/streamlit/roadmap) - A public roadmap for Streamlit
+- [whitphx/streamlit-webrtc](https://github.com/whitphx/streamlit-webrtc) - Real-time video and audio streams over the network, with Streamlit.
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+- [ml-tooling/opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
+- [whitphx/streamlit-stt-app](https://github.com/whitphx/streamlit-stt-app) - Real time web based Speech-to-Text app with Streamlit
 - [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs text-to-speech.
 - [araguaci/o-dominio-de-si-mesmo](https://github.com/araguaci/o-dominio-de-si-mesmo) - Reflexões para vida. Compilado de temas e textos para reflexão pessoal
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
@@ -3505,6 +3511,7 @@
 
 ## Shell 
 
+- [FreeFlarum/freeflarum.com](https://github.com/FreeFlarum/freeflarum.com) - FreeFlarum.com static files
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [hestiacp/hestiacp](https://github.com/hestiacp/hestiacp) - Hestia Control Panel | A lightweight and powerful control panel for the modern web.
 - [zabbix/zabbix-docker](https://github.com/zabbix/zabbix-docker) - Official Zabbix Dockerfiles
@@ -3638,10 +3645,11 @@
 
 ## TypeScript 
 
+- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🌐 Website OSINT tool
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer) - An all-round MQTT client that provides a structured topic overview
 - [brimdata/zui](https://github.com/brimdata/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it 🧠
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files into your private Generative AI Second Brain and chat with it using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
 - [KYDronePilot/SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live geostationary weather satellite imagery for your desktop background
 - [wojtekmaj/date-utils](https://github.com/wojtekmaj/date-utils) - A collection of date-related utilities.
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
@@ -3703,7 +3711,7 @@
 - [craftzdog/react-native-animated-todo](https://github.com/craftzdog/react-native-animated-todo) - Animated ToDo app built with React Native and Reanimated v2
 - [fonoster/webui](https://github.com/fonoster/webui) - Web UI to create powerful voice applications with Fonoster's API.
 - [sanvishal/wrighter](https://github.com/sanvishal/wrighter) - Wrighter - A Powerful Markdown Blogger & A Writing Companion | write the (w)right way
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a cost-effective open-source alternative to Auth0. It offers a seamless developer experience and is well-suited for individuals and growing companies.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a modern Auth0 alternative for building identity infrastructure with minimal effort, for both your customers and their organizations.
 - [shlinkio/shlink-web-client](https://github.com/shlinkio/shlink-web-client) - A React-based client application for Shlink
 - [shlinkio/shlink.io](https://github.com/shlinkio/shlink.io) - Shlink project website
 - [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components

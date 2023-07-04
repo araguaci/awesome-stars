@@ -492,6 +492,8 @@
 
 ## Go 
 
+- [boojack/shortify](https://github.com/boojack/shortify) - A bookmarking and short link service that allows you to save and share links easily.
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [DapperDox/dapperdox](https://github.com/DapperDox/dapperdox) - Beautiful, integrated, OpenAPI documentation.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
@@ -925,6 +927,8 @@
 
 ## JavaScript 
 
+- [SamurAIGPT/EmbedAI](https://github.com/SamurAIGPT/EmbedAI) - An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks
+- [kudoai/chatgpt.js](https://github.com/kudoai/chatgpt.js) - 🤖 A powerful client-side JavaScript library for ChatGPT
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [yabwe/medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 - [vueblocks/ve-charts](https://github.com/vueblocks/ve-charts) - 📈 ECharts 4.x for Vue.js 2.x.  | 📈 ECharts 5.x for Vue.js 3.x in next version.
@@ -1225,7 +1229,7 @@
 - [andreasbm/web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [dabeng/OrgChart](https://github.com/dabeng/OrgChart) - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.
 - [28mm/blast-radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs using d3.js
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop 
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [josephsurin/tiled-hexagons](https://github.com/josephsurin/tiled-hexagons) - 📦💻 Simple React single or tessellated 2D/3D hexagon buttons
 - [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
 - [zombieFox/awesomeSheet](https://github.com/zombieFox/awesomeSheet) - Online Pathfinder Character Sheet
@@ -2458,6 +2462,9 @@
 
 ## Others 
 
+- [araguaci/araguaci](https://github.com/araguaci/araguaci) - IMPEDIMENTUM BELLUM SEMPER B E   D O N E   G O D ' S   W I L L
+- [araguaci/lorentz-monitor](https://github.com/araguaci/lorentz-monitor) - 
+- [araguaci/AI-tools-and-prompts](https://github.com/araguaci/AI-tools-and-prompts) - 
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [best-of-lists/best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
@@ -3288,7 +3295,7 @@
 - [turicas/covid19-br](https://github.com/turicas/covid19-br) - Dados diários mais recentes do coronavírus por município brasileiro
 - [turicas/socios-brasil](https://github.com/turicas/socios-brasil) - Captura os dados de sócios das empresas brasileiras na Receita Federal e exporta para um formato legível por humanos
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
-- [diffgram/diffgram](https://github.com/diffgram/diffgram) - Human Supervision for your Platform.  All Training Data Types, Image, Video, 3D, Text, Geo, Audio, Compound, Grid, LLM, GPT, Conversational, and more.
+- [diffgram/diffgram](https://github.com/diffgram/diffgram) - We’re the AI Datastore for putting Schema, BLOBs, and Predictions in one place. Use with your apps or integrate our built-in Human Supervision, Data Workflow, and UI Catalog to get the most value out 
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [jet-admin/jet-bridge](https://github.com/jet-admin/jet-bridge) - Jet Admin – No-code Business App builder
 - [Ra-Na/GTranslate-strings-xml](https://github.com/Ra-Na/GTranslate-strings-xml) - Creats a strings.xml file by Google auto-translating an input strings.xml file
@@ -3379,6 +3386,7 @@
 
 ## Ruby 
 
+- [ElMassimo/vite_ruby](https://github.com/ElMassimo/vite_ruby) - ⚡️ Vite.js in Ruby, bringing joy to your JavaScript experience
 - [yeti-switch/yeti-web](https://github.com/yeti-switch/yeti-web) - Yeti admin interface
 - [chromebrew/chromebrew](https://github.com/chromebrew/chromebrew) - Package manager for Chrome OS
 - [ozh/top_100_PHP_projects](https://github.com/ozh/top_100_PHP_projects) - 💯 The 𝗧𝗼𝗽 𝟭𝟬𝟬 𝗣𝗛𝗣 Projects on Github. (𝐿𝑖𝑠𝑡 𝑔𝑒𝑛𝑒𝑟𝑎𝑡𝑒𝑑 𝑏𝑦 𝑎 𝑅𝑢𝑏𝑦 𝑠𝑐𝑟𝑖𝑝𝑡 𝑡ℎ𝑎𝑡 𝑤𝑎𝑠 𝑔𝑒𝑛𝑒𝑟𝑎𝑡𝑒𝑑 𝑏𝑦 𝐴𝐼 !)
@@ -3652,6 +3660,10 @@
 
 ## TypeScript 
 
+- [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
+- [ElMassimo/iles](https://github.com/ElMassimo/iles) - 🏝 The joyful site generator
+- [yyx990803/vue-wordle](https://github.com/yyx990803/vue-wordle) - Wordle built with Vue, aka VVordle
+- [lightdash/lightdash](https://github.com/lightdash/lightdash) - Open source BI for teams that move fast ⚡️
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2022: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
 - [bestofjs/bestofjs-webui](https://github.com/bestofjs/bestofjs-webui) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
@@ -3659,7 +3671,7 @@
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer) - An all-round MQTT client that provides a structured topic overview
 - [brimdata/zui](https://github.com/brimdata/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Chat with your files, audio, video, csv with your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
 - [KYDronePilot/SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live geostationary weather satellite imagery for your desktop background
 - [wojtekmaj/date-utils](https://github.com/wojtekmaj/date-utils) - A collection of date-related utilities.
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
@@ -4483,6 +4495,8 @@
 
 ## Vue 
 
+- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
+- [Hanziness/FocusTide](https://github.com/Hanziness/FocusTide) - Modern and customizable productivity timer app that runs in your browser.
 - [mayur091193/quasar-shopping](https://github.com/mayur091193/quasar-shopping) - Free and Open source eCommerce UI template written in Vue.js/Quasar
 - [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup) - Planning universitaire réalisé en Nuxt.js
 - [araguaci/ocaminhodaservidao](https://github.com/araguaci/ocaminhodaservidao) - O CAMINHO DA SERVIDÃO F.A. HAYEK Tradução e revisão Anna Maria Capovilla, José Ítalo Stelle e Liane de Morais Ribeiro

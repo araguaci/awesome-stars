@@ -93,6 +93,7 @@
 
 ## Blade 
 
+- [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
 - [lorisleiva/artisan-ui](https://github.com/lorisleiva/artisan-ui) - 🧰 Run your artisan commands by pressing buttons
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 - [mckenziearts/laravel-notify](https://github.com/mckenziearts/laravel-notify) - Flexible Flash notifications for Laravel
@@ -2745,6 +2746,7 @@
 
 ## PHP 
 
+- [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
 - [munafio/chatify-demo](https://github.com/munafio/chatify-demo) - Chatify Laravel Package Demo application
 - [krayin/laravel-crm](https://github.com/krayin/laravel-crm) - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
 - [araguaci/-mssqlphp7-docker](https://github.com/araguaci/-mssqlphp7-docker) - Build an app using SQL Server Get started with SQL Server on macOS, Linux, and Windows.
@@ -2809,7 +2811,6 @@
 - [ivan-sincek/secure-website](https://github.com/ivan-sincek/secure-website) - Secure website with a registration, sign in, session management, and CRUD controls.
 - [ivan-sincek/penetration-testing-cheat-sheet](https://github.com/ivan-sincek/penetration-testing-cheat-sheet) - Work in progress...
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
-- [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
 - [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 9.0 blog application with Hotwire, Homestead, Horizon, Telescope and Pusher
 - [arifszn/ezfolio](https://github.com/arifszn/ezfolio) - Open Source Portfolio/Resume CMS built using Laravel, React and Ant Design.
 - [reactphp/http](https://github.com/reactphp/http) - Event-driven, streaming HTTP client and server implementation for ReactPHP.
@@ -3690,6 +3691,9 @@
 
 ## TypeScript 
 
+- [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
+- [araguaci/edge-functions-geolocation](https://github.com/araguaci/edge-functions-geolocation) - 
+- [SonarSource/SonarJS](https://github.com/SonarSource/SonarJS) - SonarSource Static Analyzer for JavaScript and TypeScript
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase.
 - [priyankarpal/ProjectsHut](https://github.com/priyankarpal/ProjectsHut) - Projectshut is an open source web app that enables users to freely publish their projects and create user profiles within the platform ✨🚀
 - [bigcapitalhq/bigcapital](https://github.com/bigcapitalhq/bigcapital) - 💵 Bigcapital is intelligent cloud and open-source accounting software for small and medium businesses.

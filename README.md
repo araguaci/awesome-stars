@@ -95,7 +95,6 @@
 
 - [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
 - [lorisleiva/artisan-ui](https://github.com/lorisleiva/artisan-ui) - 🧰 Run your artisan commands by pressing buttons
-- [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 - [mckenziearts/laravel-notify](https://github.com/mckenziearts/laravel-notify) - Flexible Flash notifications for Laravel
 
 ## C 
@@ -137,7 +136,7 @@
 - [baresip/baresip](https://github.com/baresip/baresip) - Baresip is a modular SIP User-Agent with audio and video support
 - [devkitPro/3ds-examples](https://github.com/devkitPro/3ds-examples) - Examples for 3DS using devkitARM, libctru, citro3d and citro2d
 - [Yuriy-Svetlov/compress-images](https://github.com/Yuriy-Svetlov/compress-images) - Minify size your images. Image compression with extension: jpg/jpeg, svg, png, gif. NodeJs
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [Imagick/imagick](https://github.com/Imagick/imagick) - 🌈 The Imagick PHP extension 🌈
 - [jedisct1/libsodium-php](https://github.com/jedisct1/libsodium-php) - The PHP extension for libsodium.
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
@@ -470,7 +469,7 @@
 - [P3TERX/Aria2-Pro-Docker](https://github.com/P3TERX/Aria2-Pro-Docker) - Aria2 Pro | A perfect Aria2 Docker image | 更好用的 Aria2 Docker 容器镜像
 - [docker-library/redis](https://github.com/docker-library/redis) - Docker Official Image packaging for Redis
 - [swoole/docker-swoole](https://github.com/swoole/docker-swoole) - 🏄 Official Docker Image of Swoole
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 
 ## EJS 
@@ -595,7 +594,7 @@
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [apex/gh-polls](https://github.com/apex/gh-polls) - Polls for user feedback in GitHub issues
-- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code Intelligence Platform
+- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
 - [docker/machine](https://github.com/docker/machine) - Machine management for a container-centric world
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
@@ -613,6 +612,7 @@
 
 ## HTML 
 
+- [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [filipedeschamps/tabnews.com.br](https://github.com/filipedeschamps/tabnews.com.br) - Conteúdos para quem trabalha com Programação e Tecnologia.
 - [araguaci/plantasquecuram](https://github.com/araguaci/plantasquecuram) - Plantas que Curam
 - [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
@@ -708,7 +708,7 @@
 - [jgraph/drawio-github](https://github.com/jgraph/drawio-github) - Drawio GitHub Integration
 - [vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
 - [vasturiano/globe.gl](https://github.com/vasturiano/globe.gl) - UI component for Globe Data Visualization using ThreeJS/WebGL
-- [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos) - Coleção com links para desenvolvimentos e estudos
+- [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos) - Coleção com links para desenvolvimento
 - [Decathlon/vitamin-web](https://github.com/Decathlon/vitamin-web) - Decathlon Design System UI components for web applications
 - [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
 - [aliasaria/scrumblr](https://github.com/aliasaria/scrumblr) - Collaborative Online Scrum Tool Using Websockets, Node.js, jQuery, and CSS3
@@ -935,6 +935,10 @@
 
 ## JavaScript 
 
+- [JasonDsouza212/free-hit](https://github.com/JasonDsouza212/free-hit) - 🏏Free-Hit is an application that is used to search for Free tools that are both free 🆓 and helpful for our needs. Don't forget to 🌟 this repository
+- [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new) - GSSoC'23 Official Website
+- [WebXDAO/WebXDAO.github.io](https://github.com/WebXDAO/WebXDAO.github.io) - WebX DAO - Website built with Next.js and Tailwind - Community Built. 🛸
+- [visjs/vis-timeline](https://github.com/visjs/vis-timeline) - 📅 Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
 - [Dash-Industry-Forum/dash.js](https://github.com/Dash-Industry-Forum/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
 - [diegomura/discover-play-learn](https://github.com/diegomura/discover-play-learn) - 
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
@@ -3012,6 +3016,7 @@
 - [beyondcode/laravel-websockets](https://github.com/beyondcode/laravel-websockets) - Websockets for Laravel. Done right.
 - [laravel/ui](https://github.com/laravel/ui) - Laravel UI utilities and presets.
 - [laravel/jetstream](https://github.com/laravel/jetstream) - Tailwind scaffolding for the Laravel framework.
+- [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 - [rappasoft/laravel-boilerplate](https://github.com/rappasoft/laravel-boilerplate) - The Laravel Boilerplate Project - https://laravel-boilerplate.com
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - PHP classes interact Jira with the REST API.
 - [docker/labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
@@ -3691,6 +3696,8 @@
 
 ## TypeScript 
 
+- [prabhuignoto/react-visual-grid](https://github.com/prabhuignoto/react-visual-grid) - 🪟 Image Grid / Masonry Layout for React
+- [windingwind/zotero-pdf-preview](https://github.com/windingwind/zotero-pdf-preview) - PDF Preview for Zotero.
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [araguaci/edge-functions-geolocation](https://github.com/araguaci/edge-functions-geolocation) - 
 - [SonarSource/SonarJS](https://github.com/SonarSource/SonarJS) - SonarSource Static Analyzer for JavaScript and TypeScript
@@ -3732,7 +3739,7 @@
 - [wppconnect-team/wppconnect](https://github.com/wppconnect-team/wppconnect) - WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interacti
 - [frappe/books](https://github.com/frappe/books) - Free Accounting Software
 - [hodgef/apiker](https://github.com/hodgef/apiker) - 🔼 Create Serverless APIs with Cloudflare Workers, Durable Objects & Wrangler
-- [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
+- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [karolkozer/planby](https://github.com/karolkozer/planby) - 
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [pixiebrix/pixiebrix-extension](https://github.com/pixiebrix/pixiebrix-extension) - PixieBrix browser extension
@@ -4472,7 +4479,7 @@
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive Database for JavaScript Applications https://rxdb.info/
-- [actions-on-google/smart-home-local](https://github.com/actions-on-google/smart-home-local) - Local Home SDK sample
+- [google-home/smart-home-local](https://github.com/google-home/smart-home-local) - Local Home SDK sample
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.

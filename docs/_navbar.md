@@ -1,0 +1,15 @@
+- [ideia](ideia.md) 
+- [machine-learning](machine-learning-courses.md) 
+- [moji-cheat-sheet](emoji-cheat-sheet.md) 
+- [opensource](opensource.md) 
+- [resources](web-development-resources.md) 
+- [WebRTC](WebRTC.md) 
+- Extra
+  - [cool-repos](other-cool-repos.md) 
+  - [portfolios](portfolios.md) 
+  - [markdown-it](markdown-it.md) 
+  - [markdown-emojis](markdown-emojis.md) 
+  - [html-meta-tags](complete-list-of-html-meta-tags.md) 
+  - [welcome](welcome.md) 
+  - [hexagon](hexagon.md) 
+

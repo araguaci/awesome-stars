@@ -1,14 +1,5 @@
 # :fire: All the emojis :tada:
 
----
-### [source](https://github.com/markdown-templates/markdown-emojis/blob/master/README.md)
----
-
-# :fire: All the emojis :tada:
-
----
----
-
 ## People
 
 |                               All                               |                              The                                |                   Emojies                   |
@@ -355,6 +346,6 @@
 |         :small_red_triangle_down: `:small_red_triangle_down:`         |                                                               |
 
 <sup>Source: [https://gist.github.com/rxaviers/7360908](https://gist.github.com/rxaviers/7360908) (with additional change)</sup>
----
-### [source](https://github.com/markdown-templates/markdown-emojis/blob/master/README.md)
----
+
+[source](https://github.com/markdown-templates/markdown-emojis/blob/master/README.md)
+

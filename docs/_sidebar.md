@@ -1,0 +1,22 @@
+<!-- markdownlint-disable-next-line first-line-heading -->
+- [Awesome stars](/)
+- [Ideia](ideia.md) 
+- [Machine Learning](machine-learning-courses.md) 
+- [Moji Cheat Sheet](emoji-cheat-sheet.md) 
+- [Opensource](opensource.md) 
+- [Resources](web-development-resources.md) 
+- [webRTC](webrtc.md) 
+- Extra
+  - [Cool Repos](other-cool-repos.md) 
+  - [Portfolios](portfolios.md) 
+  - [Markdown IT](markdown-it.md) 
+  - [Markdown Emojis](markdown-emojis.md) 
+  - [Html Meta Tags](complete-list-of-html-meta-tags.md) 
+  - [Welcome](welcome.md) 
+  - [Hexagon](hexagon.md) 
+
+- **Links**
+- [![artesdosul](media/artesdosul.png)artesdosul](https://www.artesdosul.com)
+- [![github](media/github.png)araguaci](https://github.com/araguaci)
+- [![facebook](media/facebook.png)@artesdosulweb](https://www.facebook.com/artesdosulweb/)
+- [![instagram](media/instagram.png)@araguaciandrade](https://www.instagram.com/araguaciandrade/)

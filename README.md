@@ -831,7 +831,7 @@
 - [deepu105/angular-clock](https://github.com/deepu105/angular-clock) - angular clock widget directive: Demo-
 - [siddii/angular-timer](https://github.com/siddii/angular-timer) - re-usable/inter-operable AngularJS timer directive ⛺
 - [themesberg/neumorphism-ui-bootstrap](https://github.com/themesberg/neumorphism-ui-bootstrap) - Neumorphism inspired UI Kit: web components, sections and pages in neumorphic style built with Bootstrap CSS Framework
-- [themefisher/sleek](https://github.com/themefisher/sleek) - Sleek Dashboard - Free Bootstrap  Admin Template and UI Kit
+- [themefisher/sleek-bootstrap](https://github.com/themefisher/sleek-bootstrap) - Sleek Dashboard - Free Bootstrap  Admin Template and UI Kit
 - [CreativeIT/material-dashboard-lite](https://github.com/CreativeIT/material-dashboard-lite) - A free dashboard template with material design lite
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
@@ -936,6 +936,7 @@
 
 ## JavaScript 
 
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [JasonDsouza212/free-hit](https://github.com/JasonDsouza212/free-hit) - 🏏Free-Hit is an application that is used to search for Free tools that are both free 🆓 and helpful for our needs. Don't forget to 🌟 this repository
 - [girlscript/gssoc-website-new](https://github.com/girlscript/gssoc-website-new) - GSSoC'23 Official Website
 - [WebXDAO/WebXDAO.github.io](https://github.com/WebXDAO/WebXDAO.github.io) - WebX DAO - Website built with Next.js and Tailwind - Community Built. 🛸
@@ -1505,7 +1506,6 @@
 - [sirxemic/jquery.ripples](https://github.com/sirxemic/jquery.ripples) - Add a water ripple effect to your background using WebGL.
 - [simeydotme/sparticles](https://github.com/simeydotme/sparticles) - JavaScript Particles in Canvas ~~ Fast, Lightweight, High Performance.
 - [lindelof/particles-bg](https://github.com/lindelof/particles-bg) - React particles animation background component
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [vivek9patel/ad-free-spotify](https://github.com/vivek9patel/ad-free-spotify) - Chrome extension to automatically mute/unmute Spotify tab when Advertisement starts and ends!
 - [vivek9patel/CPU-Scheduling-APP-React-Native](https://github.com/vivek9patel/CPU-Scheduling-APP-React-Native) - React Native Application to visualize the CPU Scheduling with different Processes and Animations. Install the App on your Mobile Devices by going in the Releases below.
 - [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Personal portfolio website simulating Ubuntu 20.04, made using NEXT.js & tailwind CSS
@@ -2216,7 +2216,7 @@
 - [tediousjs/node-mssql](https://github.com/tediousjs/node-mssql) - Microsoft SQL Server client for Node.js
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [EmailThis/extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) - ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
@@ -3011,7 +3011,7 @@
 - [HubSpot/hubspot-api-php](https://github.com/HubSpot/hubspot-api-php) - HubSpot API PHP Client Libraries for V3 version of the API
 - [andygrunwald/DigitalKanban](https://github.com/andygrunwald/DigitalKanban) - A small digital Kanban board based on Symfony2. This application was developed during a small university project.
 - [thedevdojo/chatter](https://github.com/thedevdojo/chatter) - Chatter is a Simple Laravel Forum Package
-- [loyal-golden/blade-template-using-api](https://github.com/loyal-golden/blade-template-using-api) - This is the laravel front end project using blade template.
+- [codemage128/blade-template-using-api](https://github.com/codemage128/blade-template-using-api) - This is the laravel front end project using blade template.
 - [rappasoft/laravel-livewire-tables](https://github.com/rappasoft/laravel-livewire-tables) - A dynamic table component for Laravel Livewire
 - [FTXInfotech/laravel-adminpanel](https://github.com/FTXInfotech/laravel-adminpanel) - A Laravel Admin Panel (Laravel Version : 6.0)
 - [beyondcode/laravel-websockets](https://github.com/beyondcode/laravel-websockets) - Websockets for Laravel. Done right.
@@ -3562,6 +3562,7 @@
 
 ## Shell 
 
+- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing
 - [doctorfree/Asciiville](https://github.com/doctorfree/Asciiville) - ASCII Art, Animation, and Utilities
 - [FreeFlarum/freeflarum.com](https://github.com/FreeFlarum/freeflarum.com) - FreeFlarum.com static files
@@ -3698,6 +3699,7 @@
 
 ## TypeScript 
 
+- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [prismaneui/prismane](https://github.com/prismaneui/prismane) - Prismane is an innovative have-it-all React UI library
 - [microsoft/vscode-webview-ui-toolkit](https://github.com/microsoft/vscode-webview-ui-toolkit) - A component library for building webview-based extensions in Visual Studio Code.
 - [prabhuignoto/react-visual-grid](https://github.com/prabhuignoto/react-visual-grid) - 🪟 Image Grid / Masonry Layout for React

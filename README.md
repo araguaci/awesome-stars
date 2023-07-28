@@ -496,7 +496,7 @@
 
 ## Go 
 
-- [boojack/slash](https://github.com/boojack/slash) - A bookmarking and url shortener, save and share your links very easily.
+- [boojack/slash](https://github.com/boojack/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily.
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [DapperDox/dapperdox](https://github.com/DapperDox/dapperdox) - Beautiful, integrated, OpenAPI documentation.
@@ -547,7 +547,7 @@
 - [cuducos/minha-receita](https://github.com/cuducos/minha-receita) - 🏢 Sua API web para consulta de informações do CNPJ da Receita Federal
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [miguelmota/golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang compared to Node.js for learning 🤓
-- [dstdfx/twbridge](https://github.com/dstdfx/twbridge) - Telegram &lt;-&gt; Whatsapp bridge that allows getting and replying to the messages
+- [dstdfx/twbridge](https://github.com/dstdfx/twbridge) - Telegram &lt;-&gt; WhatsApp bridge that enables message retrieval and replies
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [esimov/pigo](https://github.com/esimov/pigo) - Fast face detection, pupil/eyes localization and facial landmark points detection library in pure Go.
 - [esimov/triangle](https://github.com/esimov/triangle) - Convert images to computer generated art using delaunay triangulation.
@@ -1183,7 +1183,7 @@
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism) - 🎉 Generate CSS for your Neumorphism/Soft UI design
 - [jlongster/absurd-sql](https://github.com/jlongster/absurd-sql) - sqlite3 in ur indexeddb (hopefully a better backend soon)
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [elugens/hello-javascript](https://github.com/elugens/hello-javascript) - This a full fledge PWA working with Docusaurus documentation library and React.js. HelloJavaScript is a free web application for new or veteran developers to increase their knowledge of JavaScript.
 - [VPNht/desktop](https://github.com/VPNht/desktop) - VPN.ht Desktop Application for Windows and Mac OS X built on top of Electron
 - [VPNht/desktop-legacy](https://github.com/VPNht/desktop-legacy) - VPN.ht Desktop Application for Windows and Mac OS X built on top of Electron
@@ -3207,6 +3207,8 @@
 
 ## Python 
 
+- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions) - Extensions for Python Markdown
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 400+ 1-click Portainer app templates
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints

@@ -216,6 +216,7 @@
 
 ## C++ 
 
+- [apache/mxnet](https://github.com/apache/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 - [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++
@@ -268,6 +269,7 @@
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [mateustoin/Qt-GUI-for-Arduino](https://github.com/mateustoin/Qt-GUI-for-Arduino) - Projeto de interface gráfica feita com Qt para controle e leitura de dados do Arduino. Interações com widgets, mouse e teclado.
 - [DoubangoTelecom/ultimateMICR-SDK](https://github.com/DoubangoTelecom/ultimateMICR-SDK) - Bank check information extraction/OCR from Magnetic Ink Character Recognition [MICR] (E-13B & CMC-7) using deep learning
 - [Infactum/tg2sip](https://github.com/Infactum/tg2sip) - Telegram &lt;-&gt; SIP voice gateway
@@ -613,6 +615,7 @@
 
 ## HTML 
 
+- [WestHealth/pyvis](https://github.com/WestHealth/pyvis) - Python package for creating and visualizing interactive network graphs.
 - [araguaci/a-cura-em-1minuto](https://github.com/araguaci/a-cura-em-1minuto) - O segredo para curar praticamente todas as doenças
 - [araguaci/docsify-awesome-stars](https://github.com/araguaci/docsify-awesome-stars) - 
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
@@ -3210,6 +3213,8 @@
 
 ## Python 
 
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
+- [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
 - [araguaci/github-trending](https://github.com/araguaci/github-trending) - Tracking the most popular Github repos, update daily(Python version)
 - [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions) - Extensions for Python Markdown
@@ -3287,7 +3292,7 @@
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [dunossauro/todo_list_flask_brython](https://github.com/dunossauro/todo_list_flask_brython) - um todo-list/kanban implementado com python fullstack
 - [dunossauro/live-de-python](https://github.com/dunossauro/live-de-python) - Repositório das lives de python semanais
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [dogsheep/github-to-sqlite](https://github.com/dogsheep/github-to-sqlite) - Save data from GitHub to a SQLite database
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -3401,6 +3406,7 @@
 
 ## R 
 
+- [briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) - A curated list of awesome network analysis resources.
 - [daattali/shinyscreenshot](https://github.com/daattali/shinyscreenshot) - 📷 Capture screenshots of entire pages or parts of pages in Shiny apps
 - [daattali/shinybrowser](https://github.com/daattali/shinybrowser) - 🌐 Find out information about a user's web browser in Shiny apps
 - [daattali/shinyalert](https://github.com/daattali/shinyalert) - 🗯️ Easily create pretty popup messages (modals) in Shiny
@@ -3496,7 +3502,6 @@
 - [huytd/kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
 - [adamsky/globe](https://github.com/adamsky/globe) - Interactive ASCII globe generator
 - [G07cha/pomodoro](https://github.com/G07cha/pomodoro) - Time management tool build with Tauri
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [grsoares21/video-silence-cutter](https://github.com/grsoares21/video-silence-cutter) - A Rust script to split and/or trim out silence sections from videos. Needs FFmpeg. WIP
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [mozilla/application-services](https://github.com/mozilla/application-services) - Firefox Application Services

@@ -72,6 +72,7 @@
 - [VBScript](#vbscript)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
+- [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 - [YAML](#yaml)
 - [Zig](#zig)
@@ -150,6 +151,7 @@
 
 ## C# # 
 
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your readi
 - [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
 - [sipsorcery-org/sipsorcery](https://github.com/sipsorcery-org/sipsorcery) - A WebRTC, SIP and VoIP library for C# and .NET. Designed for real-time communications apps.
@@ -504,7 +506,7 @@
 ## Go 
 
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs g
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [DapperDox/dapperdox](https://github.com/DapperDox/dapperdox) - Beautiful, integrated, OpenAPI documentation.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
@@ -619,6 +621,7 @@
 
 ## HTML 
 
+- [jinglescode/time-series-forecasting-tensorflowjs](https://github.com/jinglescode/time-series-forecasting-tensorflowjs) - Pull stock prices from online API and perform predictions using Long Short Term Memory (LSTM) with TensorFlow.js framework
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [free-for-life/free-for-life](https://github.com/free-for-life/free-for-life) - A massive list including a huge amount of products and services that are completely free!
@@ -966,7 +969,6 @@
 - [SheetAble/SheetAble](https://github.com/SheetAble/SheetAble) - Self-hosted music sheet organizing software
 - [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
 - [aethereans/aether-app](https://github.com/aethereans/aether-app) - Aether client app with bundled front-end and P2P back-end
-- [smol-ai/menubar](https://github.com/smol-ai/menubar) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 - [araguaci/o-apagar-das-luzes](https://github.com/araguaci/o-apagar-das-luzes) - Quando a justiça não funciona, a sede e a fome mencionadas por Jesus continuam existindo, e precisam ser saciadas por algum método.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [JasonDsouza212/free-hit](https://github.com/JasonDsouza212/free-hit) - 🏏Free-Hit is an application that is used to search for Free tools that are both free 🆓 and helpful for our needs. Don't forget to 🌟 this repository
@@ -1175,7 +1177,6 @@
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [jonathontoon/manifest](https://github.com/jonathontoon/manifest) - An instant grid-based pinboard for note taking in your browser.
 - [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
-- [elementor/elementor](https://github.com/elementor/elementor) - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
 - [ellisonleao/sharer.js](https://github.com/ellisonleao/sharer.js) - :on: :bookmark: Create your own social share buttons. No jquery.
 - [sstur/react-rte](https://github.com/sstur/react-rte) - Pure React rich text WYSIWYG editor based on draft-js.
 - [siddharthkp/bundlesize](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check
@@ -2509,6 +2510,8 @@
 
 ## Others 
 
+- [pmjones/php-history](https://github.com/pmjones/php-history) - A list of the years-of-introductions of notable (to me) PHP framework and library projects.
+- [JetBrains/php-timeline](https://github.com/JetBrains/php-timeline) - Notable events of PHP history
 - [araguaci/o-grande-conflito](https://github.com/araguaci/o-grande-conflito) - Audiolivro O Grande Conflito por Ellen Gould White
 - [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
 - [Abacatinhos/eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) - Lista de eventos tech que acontecem no Brasil
@@ -2788,6 +2791,7 @@
 
 ## PHP 
 
+- [area17/twill](https://github.com/area17/twill) - Twill is an open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible. Chat with us on Discord at https://discord.gg/cnWk
 - [jsdecena/laracom](https://github.com/jsdecena/laracom) - Laravel FREE E-Commerce Software
 - [timegridio/timegrid](https://github.com/timegridio/timegrid) - Free, open-source, online appointments platform based on Laravel PHP Framework.
 - [openemr/openemr](https://github.com/openemr/openemr) - The most popular open source electronic health records and medical practice management solution.
@@ -2908,6 +2912,7 @@
 - [Laragear/WebAuthn](https://github.com/Laragear/WebAuthn) - Authenticate users with Passkeys: fingerprints, patterns and biometric data.
 - [suphiyasin/instagram-advanced-user-finder](https://github.com/suphiyasin/instagram-advanced-user-finder) - An auto software that collects, scans and sends automatic instagram users
 - [scrawler-labs/router](https://github.com/scrawler-labs/router) - An Fully Automatic RESTful PHP Router
+- [elementor/elementor](https://github.com/elementor/elementor) - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
 - [sstur/js2php](https://github.com/sstur/js2php) - JavaScript to PHP source transformation
 - [symfony/console](https://github.com/symfony/console) - Eases the creation of beautiful and testable command line interfaces
 - [RobDWaller/ReallySimpleJWT](https://github.com/RobDWaller/ReallySimpleJWT) - A really simple library to generate JSON Web Tokens in PHP.
@@ -2958,7 +2963,7 @@
 - [spatie/Mailcoach](https://github.com/spatie/Mailcoach) - A self-hosted email list manager - in a modern jacket.
 - [rezaamini-ir/laravel-easypanel](https://github.com/rezaamini-ir/laravel-easypanel) - A beautiful and flexible admin panel creator based on Livewire for Laravel
 - [jeremykenedy/laravel-dashboard](https://github.com/jeremykenedy/laravel-dashboard) - This is an example of Spatie Laravel Dashboard using Livewire and package components. This example has all settings extended to the `dashboard.php` config file and the `.env` file. This example uses m
-- [westacks/telebot](https://github.com/westacks/telebot) - Easy way to create Telegram bots in PHP. Rich Laravel support out of the box.
+- [westacks/telebot](https://github.com/westacks/telebot) - Easy way to create Telegram bots in PHP
 - [laravel/lumen](https://github.com/laravel/lumen) - The Laravel Lumen Framework.
 - [spatie/laravel-permission](https://github.com/spatie/laravel-permission) - Associate users with roles and permissions
 - [the-control-group/voyager](https://github.com/the-control-group/voyager) - Voyager - The Missing Laravel Admin
@@ -3254,6 +3259,9 @@
 
 ## Python 
 
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
+- [mikeroyal/Digital-Forensics-Guide](https://github.com/mikeroyal/Digital-Forensics-Guide) - Digital Forensics Guide. Learn all about Digital Forensics, Computer Forensics, Mobile device Forensics, Network Forensics, and Database Forensics.
+- [PINTO0309/PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo) - A repository for storing models that have been inter-converted between various frameworks. Supported frameworks are TensorFlow, PyTorch, ONNX, OpenVINO, TFJS, TFTRT, TensorFlowLite (Float32/16/INT8), 
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
 - [lucidrains/imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) - Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
@@ -3769,6 +3777,7 @@
 
 ## TypeScript 
 
+- [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format.
@@ -3792,6 +3801,7 @@
 - [zeno-oss/zeno](https://github.com/zeno-oss/zeno) - A Truly Cross Platform Monorepo featuring Next.js + tRPC + Tauri + Vite + Expo (React Native).
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [Icon-Shelf/icon-shelf](https://github.com/Icon-Shelf/icon-shelf) - SVG icon manager for developers.
+- [smol-ai/menubar](https://github.com/smol-ai/menubar) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [prismaneui/prismane](https://github.com/prismaneui/prismane) - Prismane is an innovative have-it-all React UI library
 - [microsoft/vscode-webview-ui-toolkit](https://github.com/microsoft/vscode-webview-ui-toolkit) - A component library for building webview-based extensions in Visual Studio Code.
@@ -4642,6 +4652,10 @@
 ## Vim Script 
 
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+
+## Visual Basic .NET 
+
+- [ChrisAnd1998/TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Center Windows taskbar icons with a variety of animations and options.
 
 ## Vue 
 

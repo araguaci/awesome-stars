@@ -103,6 +103,7 @@
 
 ## C 
 
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [yaml/libyaml](https://github.com/yaml/libyaml) - Canonical source repository for LibYAML
 - [allinurl/gwsocket](https://github.com/allinurl/gwsocket) - fast, standalone, language-agnostic WebSocket server RFC6455 compliant
@@ -509,6 +510,7 @@
 
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [boojack/slash](https://github.com/boojack/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily.
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs g
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [DapperDox/dapperdox](https://github.com/DapperDox/dapperdox) - Beautiful, integrated, OpenAPI documentation.
@@ -753,9 +755,7 @@
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [n457/Uncolored](https://github.com/n457/Uncolored) - (Un)colored — Next generation desktop rich content editor that saves documents with themes. HTML & Markdown compatible. For Windows, OS X & Linux. — http://n457.github.io/Uncolored/
 - [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
-- [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
 - [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
-- [phuocng/frontend-tips](https://github.com/phuocng/frontend-tips) - Super tiny, quick tips, tricks and best practices of front-end development
 - [jxnblk/colorable](https://github.com/jxnblk/colorable) - Color combination contrast tester
 - [azouaoui-med/pro-sidebar-template](https://github.com/azouaoui-med/pro-sidebar-template) - Responsive layout with advanced sidebar menu built with SCSS and vanilla Javascript
 - [NYPL-Simplified/web-reader](https://github.com/NYPL-Simplified/web-reader) - A web-based reader for ebooks in multiple formats.
@@ -774,6 +774,7 @@
 - [ionic-team/ionic-preview-app](https://github.com/ionic-team/ionic-preview-app) - The Ionic Component Demos
 - [GoogleChrome/developer.chrome.com](https://github.com/GoogleChrome/developer.chrome.com) - The frontend, backend, and content source code for developer.chrome.com
 - [GoogleChrome/devtools-docs](https://github.com/GoogleChrome/devtools-docs) - The legacy documentation for Chrome DevTools.
+- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 - [facebookincubator/infima](https://github.com/facebookincubator/infima) - A UI framework that provides websites with the minimal CSS and JS needed to get started with building a modern responsive beautiful website
 - [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
@@ -955,7 +956,6 @@
 
 ## JavaScript 
 
-- [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT
 - [Jac21/SkillSet](https://github.com/Jac21/SkillSet) - ✨ Intuitive job-candidate skill visualization, taking advantage of D3.js and JSONResume.
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)
@@ -986,7 +986,7 @@
 - [adam-golab/react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer
 - [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
 - [SamurAIGPT/EmbedAI](https://github.com/SamurAIGPT/EmbedAI) - An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks
-- [kudoai/chatgpt.js](https://github.com/kudoai/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
+- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [yabwe/medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 - [vueblocks/ve-charts](https://github.com/vueblocks/ve-charts) - 📈 ECharts 4.x for Vue.js 2.x.  | 📈 ECharts 5.x for Vue.js 3.x in next version.
@@ -1983,7 +1983,7 @@
 - [captainwz/svg-3d-builder](https://github.com/captainwz/svg-3d-builder) - an elaborate tool to create 3d model with svg
 - [mozilla/Spoke](https://github.com/mozilla/Spoke) - Easily create custom 3D environments
 - [aholachek/mobile-first-animation](https://github.com/aholachek/mobile-first-animation) - Gesture-driven animation on the mobile web (React Conf 2019)
-- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
+- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [AndrewMayes/Linktree-Clone](https://github.com/AndrewMayes/Linktree-Clone) - Clone of Linktree using the MERN stack
 - [patrickporto/workshop-performance-react](https://github.com/patrickporto/workshop-performance-react) - 
 - [wpbrasil/certificates-for-wordcamp](https://github.com/wpbrasil/certificates-for-wordcamp) - Certificates generator for WordCamps
@@ -2472,6 +2472,9 @@
 - [iotaledger/iota-wiki](https://github.com/iotaledger/iota-wiki) - IOTA Wiki
 - [jakejarvis/jarv.is](https://github.com/jakejarvis/jarv.is) - 🏡 My humble abode on the World Wide Web
 - [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
+- [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
+- [phuocng/frontend-tips](https://github.com/phuocng/frontend-tips) - Super tiny, quick tips, tricks and best practices of front-end development
+- [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 - [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 - [wesbos/wesbos](https://github.com/wesbos/wesbos) - 
@@ -3009,7 +3012,7 @@
 - [gladchinda/keygen-php](https://github.com/gladchinda/keygen-php) - A fluent PHP random key generator.
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [realodix/urlhub](https://github.com/realodix/urlhub) - ✂️ URL shortener web application based on the Laravel PHP Framework.
-- [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (writ
+- [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Free and Online Accounting Software
 - [nfe/client-php](https://github.com/nfe/client-php) - Official NFe.io API Client for PHP
 - [paghiper/whmcs](https://github.com/paghiper/whmcs) - Modulo de PIX e boleto bancário PagHiper para o WHMCS
@@ -3264,6 +3267,7 @@
 
 ## Python 
 
+- [pndurette/gTTS](https://github.com/pndurette/gTTS) - Python library and CLI tool to interface with Google Translate's text-to-speech API
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
@@ -3608,7 +3612,6 @@
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [nzbin/three-dots](https://github.com/nzbin/three-dots) - 🔮 CSS loading animations made with single element.
 - [nasa/api-docs](https://github.com/nasa/api-docs) - api.nasa.gov
-- [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 - [compostrap/sidebar-menu](https://github.com/compostrap/sidebar-menu) - :page_with_curl: Simple and fast multi-level sidebar menu on Bootstrap (@twbs)
 - [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [rodrigorgtic/spiderman-frontend](https://github.com/rodrigorgtic/spiderman-frontend) - 🕷️ Front-end desenvolvido com a finalidade de estudos de responsividade, efeitos e boas práticas de criação de front-end.
@@ -3773,6 +3776,7 @@
 
 ## Swift 
 
+- [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 - [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit) - Universal API for request permission and get its statuses.
 - [chicio/TabBarUIAction](https://github.com/chicio/TabBarUIAction) - 📚📱 A SwiftUI custom TabBar view with action button for modal content display. Fully compatible with Mac Catalyst.  📚📱
@@ -3828,7 +3832,6 @@
 - [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs.
 - [jooy2/vutron](https://github.com/jooy2/vutron) - 💚 Quick Start Templates for Vite + Electron + Vue 3 + Vuetify + TypeScript. Vutron is a preconfigured template for developing Electron cross-platform desktop apps. It uses Vue 3 and allows you to buil
 - [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
-- [boojack/slash](https://github.com/boojack/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily.
 - [ElMassimo/iles](https://github.com/ElMassimo/iles) - 🏝 The joyful site generator
 - [yyx990803/vue-wordle](https://github.com/yyx990803/vue-wordle) - Wordle built with Vue, aka VVordle
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - Open source BI for teams that move fast ⚡️
@@ -3839,7 +3842,7 @@
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer) - An all-round MQTT client that provides a structured topic overview
 - [brimdata/zui](https://github.com/brimdata/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your Second Brain powered by Generative AI 🧠 Dump all your files and chat with it  ( GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...) & Embeddings
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
 - [KYDronePilot/SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live geostationary weather satellite imagery for your desktop background
 - [wojtekmaj/date-utils](https://github.com/wojtekmaj/date-utils) - A collection of date-related utilities.
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
@@ -3933,7 +3936,7 @@
 - [dastasoft/memory-game](https://github.com/dastasoft/memory-game) - Demo project to teach about Framer Motion animations on React projects.
 - [marakoss/sos-moto-app](https://github.com/marakoss/sos-moto-app) - SOS MOTO is a mobile application written in React Native that allows you to call a nearest contact from your GPS location to get a quick help. We have over 10k active users in Europe and steadily grow
 - [DoableDanny/NextJS-HarperDB-Task-Timer](https://github.com/DoableDanny/NextJS-HarperDB-Task-Timer) - Fullstack productivity timer app built with NextJS and HarperDB
-- [apm-ai/datav](https://github.com/apm-ai/datav) - 
+- [data-observe/datav](https://github.com/data-observe/datav) - Datav is an extremely powerful observability  platform, mainly focus on APM data visualization. You can visualize metrics, traces and logs from various datasource, and correlate them easily and deeply
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [danileao/permissions_users](https://github.com/danileao/permissions_users) - 
@@ -4101,7 +4104,7 @@
 - [vuepress-theme-hope/vuepress-theme-hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope) - A vuepress theme with tons of features✨
 - [issaafalkattan/react-landing-page-template-2021](https://github.com/issaafalkattan/react-landing-page-template-2021) - A sleek plug n play react landing page template.
 - [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web A, GPL v3
-- [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
+- [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) - OpenTelemetry JavaScript Client
 - [react-pdf-viewer/react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer) - A React component to view a PDF document
 - [wojtekmaj/react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
@@ -4230,7 +4233,6 @@
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 - [react-boilerplate/react-boilerplate-cra-template](https://github.com/react-boilerplate/react-boilerplate-cra-template) - :fire: Setup Create React App with React Boilerplate. Highly scalable & Best DX & Performance Focused & Best practices.
 - [alenaksu/json-viewer](https://github.com/alenaksu/json-viewer) - Web Component to visualize JSON data in a tree view
-- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [dineug/erd-editor](https://github.com/dineug/erd-editor) - Entity-Relationship Diagram Editor
 - [TowhidKashem/snapchat-clone](https://github.com/TowhidKashem/snapchat-clone) - 👻 A Snapchat clone built with React and Redux. Written in Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!
@@ -4283,7 +4285,6 @@
 - [GraphQL-Portal/graphql-portal](https://github.com/GraphQL-Portal/graphql-portal) - Configurable and distributed GraphQL Gateway. Convert your legacy data sources or monitor your existing GraphQL Services with a visual dashboard.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
-- [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [Quinhas/letmeask](https://github.com/Quinhas/letmeask) - Projeto desenvolvido durante a NLW #06, apresentado pela Rocketseat entre 20 a 27 de Junho de 2021. 💜 #NLW #ReactJS #Rocketseat
 - [Motirck/NLW-Rocketseat-NodeJS](https://github.com/Motirck/NLW-Rocketseat-NodeJS) - Next Level Week da Rocketseat - Nodejs
 - [rocketseat-education/ignite-template-reactjs-criando-um-hook-de-carrinho-de-compras](https://github.com/rocketseat-education/ignite-template-reactjs-criando-um-hook-de-carrinho-de-compras) - 
@@ -4757,6 +4758,7 @@
 - [prabhuignoto/vue-float-menu](https://github.com/prabhuignoto/vue-float-menu) - 🎈Customizable floating menu for Vue
 - [prabhuignoto/vue-dock-menu](https://github.com/prabhuignoto/vue-dock-menu) - ⚓Dockable Menu bar for Vue
 - [socketio/socket.io-admin-ui](https://github.com/socketio/socket.io-admin-ui) - Admin UI for Socket.IO
+- [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [Datlyfe/jira_clone](https://github.com/Datlyfe/jira_clone) - A Jira clone built with Vuejs & Nodejs/Graphql
 - [schoolofnetcom/cms-electron-php](https://github.com/schoolofnetcom/cms-electron-php) - 

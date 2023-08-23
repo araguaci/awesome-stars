@@ -2489,7 +2489,6 @@
 - [thumbor/awesome-thumbor](https://github.com/thumbor/awesome-thumbor) - Everything thumbor, awesomely curated & updated weekly.
 - [Helsinki-NLP/Tatoeba-Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge) - 
 - [wamp-proto/wamp-proto](https://github.com/wamp-proto/wamp-proto) - The Web Application Messaging Protocol
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [WillStreeter/ws-dev-docker-example](https://github.com/WillStreeter/ws-dev-docker-example) - A Docker eco-system bundling 4 repositories to facilitate a FullStack integrated development environment encompassing an NGINX proxy instance, MongoDB instance, Front-End Angular (4.1.)x  App, Back-En
 
 ## Markdown 
@@ -2779,6 +2778,7 @@
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [leocavalcante/faq](https://github.com/leocavalcante/faq) - Answers for frequently asked questions
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [bradtraversy/A-to-Z-Resources-for-Students](https://github.com/bradtraversy/A-to-Z-Resources-for-Students) - Curated list of resources for college students :octocat: If you like give a :star:
 - [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
 - [andrews1022/web-development-course-list](https://github.com/andrews1022/web-development-course-list) - A list of Udemy courses from Brad Traversy's Web Development 2021 video
@@ -3505,7 +3505,7 @@
 ## Ruby 
 
 - [ElMassimo/vite_ruby](https://github.com/ElMassimo/vite_ruby) - ⚡️ Vite.js in Ruby, bringing joy to your JavaScript experience
-- [yeti-switch/yeti-web](https://github.com/yeti-switch/yeti-web) - Yeti admin interface
+- [yeti-switch/yeti-web](https://github.com/yeti-switch/yeti-web) - Yeti admin interface. Opensource SIP SBC with billing.
 - [chromebrew/chromebrew](https://github.com/chromebrew/chromebrew) - Package manager for Chrome OS
 - [ozh/top_100_PHP_projects](https://github.com/ozh/top_100_PHP_projects) - 💯 The 𝗧𝗼𝗽 𝟭𝟬𝟬 𝗣𝗛𝗣 Projects on Github. (𝐿𝑖𝑠𝑡 𝑔𝑒𝑛𝑒𝑟𝑎𝑡𝑒𝑑 𝑏𝑦 𝑎 𝑅𝑢𝑏𝑦 𝑠𝑐𝑟𝑖𝑝𝑡 𝑡ℎ𝑎𝑡 𝑤𝑎𝑠 𝑔𝑒𝑛𝑒𝑟𝑎𝑡𝑒𝑑 𝑏𝑦 𝐴𝐼 !)
 - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.

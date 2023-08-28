@@ -881,6 +881,7 @@
 
 ## Haskell 
 
+- [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [sharkdp/yinsh](https://github.com/sharkdp/yinsh) - A web-based version of the board game Yinsh
 - [aviaviavi/toodles](https://github.com/aviaviavi/toodles) - Project management directly from the TODOs in your codebase
 
@@ -1810,7 +1811,7 @@
 - [liyasthomas/marcdown](https://github.com/liyasthomas/marcdown) - 👻 Lightweight realtime markdown viewer and editor - Simple, clean and beautiful https://liyasthomas.github.io/marcdown
 - [johnpapa/lite-server](https://github.com/johnpapa/lite-server) - Lightweight node server
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
-- [bmarvinb/react-trello-clone](https://github.com/bmarvinb/react-trello-clone) - Simplified clone of Trello using React and Firebase
+- [bmadone/react-trello-clone](https://github.com/bmadone/react-trello-clone) - Simplified clone of Trello using React and Firebase
 - [rcdexta/react-event-timeline](https://github.com/rcdexta/react-event-timeline) - A responsive event timeline in React.js
 - [rcdexta/react-trello](https://github.com/rcdexta/react-trello) - Pluggable components to add a kanban board to your application
 - [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
@@ -3830,7 +3831,7 @@
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [prismaneui/prismane](https://github.com/prismaneui/prismane) - Prismane is an innovative have-it-all React UI library
 - [microsoft/vscode-webview-ui-toolkit](https://github.com/microsoft/vscode-webview-ui-toolkit) - A component library for building webview-based extensions in Visual Studio Code.
-- [windingwind/zotero-pdf-preview](https://github.com/windingwind/zotero-pdf-preview) - PDF Preview for Zotero.
+- [windingwind/zotero-pdf-preview](https://github.com/windingwind/zotero-pdf-preview) - Preview Zotero attachments in the library view.
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [araguaci/edge-functions-geolocation](https://github.com/araguaci/edge-functions-geolocation) - 
 - [SonarSource/SonarJS](https://github.com/SonarSource/SonarJS) - SonarSource Static Analyzer for JavaScript and TypeScript

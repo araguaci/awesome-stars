@@ -438,6 +438,7 @@
 
 ## Dart 
 
+- [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB, Fastboot, and other Android tools on Linux, macOS, Chrome OS, and Windows
 - [syncfusion/flutter-examples](https://github.com/syncfusion/flutter-examples) - This repository contains the Syncfusion Flutter UI widgets examples and the guide to use them.
 - [darwin-morocho/flutter-facebook-auth](https://github.com/darwin-morocho/flutter-facebook-auth) - A flutter plugin to add login with facebook in your flutter app
 - [fluttertools/sidekick](https://github.com/fluttertools/sidekick) - A simple app to make Flutter development more delightful
@@ -2478,7 +2479,6 @@
 
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [PaulieScanlon/paulie-dev-2019](https://github.com/PaulieScanlon/paulie-dev-2019) - A Content Rich SSG Gatsby Website with Serverless Functions and SSR
-- [iotaledger/iota-wiki](https://github.com/iotaledger/iota-wiki) - IOTA Wiki
 - [jakejarvis/jarv.is](https://github.com/jakejarvis/jarv.is) - 🏡 My humble abode on the World Wide Web
 - [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
@@ -3047,7 +3047,7 @@
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
 - [composer/packagist](https://github.com/composer/packagist) - Package Repository Website - try https://packagist.com if you need your own -
-- [espocrm/espocrm](https://github.com/espocrm/espocrm) - EspoCRM open source CRM application
+- [espocrm/espocrm](https://github.com/espocrm/espocrm) - EspoCRM – Open Source CRM Application
 - [ManukMinasyan/PhotoLife-Social-Network](https://github.com/ManukMinasyan/PhotoLife-Social-Network) - PhotoLife - The Ultimate Social Network | Laravel/Vue.js
 - [team-telnyx/telnyx-php](https://github.com/team-telnyx/telnyx-php) - PHP SDK for the Telnyx API
 - [Nexmo/nexmo-laravel](https://github.com/Nexmo/nexmo-laravel) - Add Vonage functionality such as SMS and voice calling to your Laravel app with this Laravel Service Provider.
@@ -4080,6 +4080,7 @@
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [babel/website](https://github.com/babel/website) - :globe_with_meridians: The Babel documentation website
 - [typesense/docusaurus-theme-search-typesense](https://github.com/typesense/docusaurus-theme-search-typesense) - A fork of the awesome @docusaurus/theme-search-algolia library customized to work with Typesense
+- [iotaledger/iota-wiki](https://github.com/iotaledger/iota-wiki) - IOTA Wiki
 - [jahirfiquitiva/jahir.dev](https://github.com/jahirfiquitiva/jahir.dev) - My personal website 💎 – Built using Next.js, TypeScript, Tailwind CSS, MDX and contentlayer
 - [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev) - My portfolio powered by Next.js, content sourced from Notion, styled with Tailwind CSS and deployed on Vercel. 🙌
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
@@ -4422,7 +4423,7 @@
 - [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript.
 - [dancancro/great-big-example-application](https://github.com/dancancro/great-big-example-application) - A full-stack example app built with JHipster, Spring Boot, Kotlin, Angular 4, ngrx, and Webpack
 - [reach/reach-ui](https://github.com/reach/reach-ui) - The Accessible Foundation for React Apps and Design Systems
-- [hirosystems/desktop-wallet](https://github.com/hirosystems/desktop-wallet) - Stacks Wallet—Send and receive STX tokens on the Stacks Blockchain.
+- [leather-wallet/desktop](https://github.com/leather-wallet/desktop) - Stacks Wallet—Send and receive STX tokens on the Stacks Blockchain.
 - [kata-ai/aksara-ui](https://github.com/kata-ai/aksara-ui) - Aksara Design System, from Kata.ai.
 - [contentful/contentful.js](https://github.com/contentful/contentful.js) - JavaScript library for Contentful's Delivery API (node & browser)
 - [LauraBeatris/floripamais](https://github.com/LauraBeatris/floripamais) - Website of the Floripa+ organization - built with Next.js and integrated with Strapi CMS

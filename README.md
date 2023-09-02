@@ -512,6 +512,7 @@
 
 ## Go 
 
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
@@ -2532,7 +2533,7 @@
 - [araguaci/o-grande-conflito](https://github.com/araguaci/o-grande-conflito) - Audiolivro O Grande Conflito por Ellen Gould White
 - [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
 - [Abacatinhos/eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) - Lista de eventos tech que acontecem no Brasil
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [alexanyernas/Biblioteca](https://github.com/alexanyernas/Biblioteca) - Colección de libros recomendados en formato PDF que he realizado para ti y así puedas mejorar tus habilidades como programador. Recuerda, siempre disfruta del aprendizaje.
 - [btw-so/open-source-alternatives](https://github.com/btw-so/open-source-alternatives) - List of open-source alternatives to everyday SaaS products.
 - [LaravelDaily/laravel-tips](https://github.com/LaravelDaily/laravel-tips) - Awesome tips for Laravel
@@ -2809,6 +2810,7 @@
 
 ## PHP 
 
+- [cytopia/devilbox](https://github.com/cytopia/devilbox) - A modern Docker LAMP stack and MEAN stack for local development
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) - Opinionated PHP Docker images
 - [area17/twill](https://github.com/area17/twill) - Twill is an open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible. Chat with us on Discord at https://discord.gg/cnWk
 - [jsdecena/laracom](https://github.com/jsdecena/laracom) - Laravel FREE E-Commerce Software
@@ -3665,6 +3667,7 @@
 
 ## Shell 
 
+- [linuxeye/lnmp](https://github.com/linuxeye/lnmp) - LEMP stack/LAMP stack/LNMP stack  installation scripts for CentOS/Redhat Debian and Ubuntu
 - [virtualmin/virtualmin-install](https://github.com/virtualmin/virtualmin-install) - Shell script to perform a Virtualmin GPL or Professional installation
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 - [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.
@@ -4162,7 +4165,7 @@
 - [johnpapa/hello-worlds](https://github.com/johnpapa/hello-worlds) - Hello world apps for angular, react, svelte, and vue
 - [netless-io/netless-app](https://github.com/netless-io/netless-app) - Official Apps for the Agora Interactive Whiteboard.
 - [joshuamorony/phaser3-typescript-webpack-capacitor](https://github.com/joshuamorony/phaser3-typescript-webpack-capacitor) - A starter project for Phaser 3 with TypeScript, Webpack, and Capacitor support
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
+- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [AfterShip/phone](https://github.com/AfterShip/phone) - With a given country and phone number, validate and reformat the mobile phone number to the E.164 standard. The purpose of this is to allow us to send SMS to mobile phones only.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
@@ -4191,7 +4194,7 @@
 - [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora - Open-Source Translation Management Platform
 - [huytd/pomoday-v2](https://github.com/huytd/pomoday-v2) - A keyboard only task management web app
 - [ibitcy/eo-locale](https://github.com/ibitcy/eo-locale) - 🌏Internationalize React apps 👔Elegant lightweight library based on Internationalization API
-- [prc5/react-zoom-pan-pinch](https://github.com/prc5/react-zoom-pan-pinch) - 🖼 React library to support easy zoom, pan, pinch on various html dom elements like &lt;img&gt; and &lt;div&gt;
+- [BetterTyped/react-zoom-pan-pinch](https://github.com/BetterTyped/react-zoom-pan-pinch) - 🖼 React library to support easy zoom, pan, pinch on various html dom elements like &lt;img&gt; and &lt;div&gt;
 - [pancakeswap/pancake-toolkit](https://github.com/pancakeswap/pancake-toolkit) - :hammer_and_pick: Pancake frontend packages
 - [Splidejs/react-splide](https://github.com/Splidejs/react-splide) - The React component for the Splide slider/carousel.
 - [Splidejs/splide](https://github.com/Splidejs/splide) - Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.
@@ -4423,7 +4426,7 @@
 - [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript.
 - [dancancro/great-big-example-application](https://github.com/dancancro/great-big-example-application) - A full-stack example app built with JHipster, Spring Boot, Kotlin, Angular 4, ngrx, and Webpack
 - [reach/reach-ui](https://github.com/reach/reach-ui) - The Accessible Foundation for React Apps and Design Systems
-- [leather-wallet/desktop](https://github.com/leather-wallet/desktop) - Stacks Wallet—Send and receive STX tokens on the Stacks Blockchain.
+- [leather-wallet/desktop](https://github.com/leather-wallet/desktop) - Manage STX tokens and Stacking
 - [kata-ai/aksara-ui](https://github.com/kata-ai/aksara-ui) - Aksara Design System, from Kata.ai.
 - [contentful/contentful.js](https://github.com/contentful/contentful.js) - JavaScript library for Contentful's Delivery API (node & browser)
 - [LauraBeatris/floripamais](https://github.com/LauraBeatris/floripamais) - Website of the Floripa+ organization - built with Next.js and integrated with Strapi CMS

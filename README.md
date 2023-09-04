@@ -527,7 +527,7 @@
 - [gocopper/copper](https://github.com/gocopper/copper) - 🚀‏‏‎    ‎‏‏‎‏‏‎‎‎‎‎‎Copper is a Go toolkit complete with everything you need to build web apps.
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [openservicemesh/osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microser
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for Developer, DBA and Platform Engineering team. https://www.bytebase.com
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for Developer, DBA and Platform Engineering team.
 - [CyCoreSystems/ari](https://github.com/CyCoreSystems/ari) - Golang Asterisk REST Interface (ARI) library
 - [flashmob/go-guerrilla](https://github.com/flashmob/go-guerrilla) - Mini SMTP server written in golang
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
@@ -2437,7 +2437,6 @@
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [kishanrajput23/Awesome-Project-Collection](https://github.com/kishanrajput23/Awesome-Project-Collection) - This repository contains a lot of projects in various languages and domains.
 - [multimodalart/majesty-diffusion](https://github.com/multimodalart/majesty-diffusion) - Majesty Diffusion by @Dango233(@Dango233max) and @apolinario (@multimodalart)
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [rafaballerini/AnaliseDaPlaylistDeRock](https://github.com/rafaballerini/AnaliseDaPlaylistDeRock) - Uma associação de como o rock foi se modificando desde a década de 50 até os dias de hoje e como isso pode ser observado na prática nas músicas presentes na minha playlist de rock do Spotify, chamada 
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [materialsvirtuallab/matgenb](https://github.com/materialsvirtuallab/matgenb) - Jupyter notebooks demonstrating the utilization of open-source codes for the study of materials science.
@@ -3896,6 +3895,7 @@
 - [sanketbajoria/ssh2-promise](https://github.com/sanketbajoria/ssh2-promise) - ssh with promise/async await and typescript support
 - [twilio/twilio-video-app-react](https://github.com/twilio/twilio-video-app-react) - A collaboration application built with the twilio-video.js SDK and React.js
 - [mvllow/next-pwa-template](https://github.com/mvllow/next-pwa-template) - Next.js progressive web app template
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [ipenywis/react-nestjs-full-web-app](https://github.com/ipenywis/react-nestjs-full-web-app) - Full React with Nestjs/Nodejs Web Application deployed on Hostinger with docker and docker-compose
 - [LekoArts/gatsby-starter-portfolio-cara](https://github.com/LekoArts/gatsby-starter-portfolio-cara) - Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Especially designers and/or photographers will love this theme! Built with MDX and Theme UI.
 - [LekoArts/gatsby-status-dashboard](https://github.com/LekoArts/gatsby-status-dashboard) - Show the live statuses of your Netlify and CircleCI builds on your website! Easily integrate the customizable components into your site and adapt them to your theme (utilizing Theme UI).

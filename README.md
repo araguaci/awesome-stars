@@ -154,7 +154,7 @@
 
 ## C# # 
 
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your readi
 - [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
 - [sipsorcery-org/sipsorcery](https://github.com/sipsorcery-org/sipsorcery) - A WebRTC, SIP and VoIP library for C# and .NET. Designed for real-time communications apps.
@@ -289,7 +289,6 @@
 - [google/earthenterprise](https://github.com/google/earthenterprise) - Google Earth Enterprise - Open Source
 - [grishka/libtgvoip](https://github.com/grishka/libtgvoip) - VoIP library for Telegram clients
 - [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [nodegui/nodegui-plugin-webview](https://github.com/nodegui/nodegui-plugin-webview) - [WIP] A NodeGui plugin that adds webview support
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
@@ -938,6 +937,7 @@
 - [jitsi/jitsi](https://github.com/jitsi/jitsi) - Jitsi is an audio/video and chat communicator that supports protocols such as SIP, XMPP/Jabber, IRC and many other useful features.
 - [react-native-webrtc/react-native-callkeep](https://github.com/react-native-webrtc/react-native-callkeep) - iOS CallKit framework and Android ConnectionService for React Native
 - [pmd/pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [apache/netbeans](https://github.com/apache/netbeans) - Apache NetBeans
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
@@ -1013,7 +1013,6 @@
 - [gkjohnson/three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) - A BVH implementation to speed up raycasting and enable spatial queries against three.js meshes.
 - [gkjohnson/source-engine-model-loader](https://github.com/gkjohnson/source-engine-model-loader) - Three.js loader for parsing Valve's Source Engine models
 - [brick-a-brack/eagle-animation](https://github.com/brick-a-brack/eagle-animation) - EagleAnimation is an awesome, free and open-source animation software.
-- [orion3dgames/t5c](https://github.com/orion3dgames/t5c) - Building a open source multiplayer 3d rpg using babylon.js and colyseus
 - [orion3dgames/gridder](https://github.com/orion3dgames/gridder) - A jQuery plugin that displays a thumbnail grid expanding preview similar to the effect seen on Google Images.
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
 - [cshum/scm-music-player](https://github.com/cshum/scm-music-player) - Seamless music for your website. HTML5 music player with continuous playback cross pages.
@@ -2025,7 +2024,7 @@
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [h5bp/create-html5-boilerplate](https://github.com/h5bp/create-html5-boilerplate) - npx quick start for html5-boilerplate
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [edankwan/quick-loader](https://github.com/edankwan/quick-loader) - quick-loader is an asset loader that loads everything
 - [aws-amplify/learn](https://github.com/aws-amplify/learn) - AWS Amplify Learn
 - [loiane/ext4-crud-mvc](https://github.com/loiane/ext4-crud-mvc) - BrazilJS Sample Project - Ext JS 4 CRUD MVC Example
@@ -3667,6 +3666,8 @@
 
 ## Shell 
 
+- [kasmtech/workspaces-images](https://github.com/kasmtech/workspaces-images) - 
+- [kasmtech/workspaces-core-images](https://github.com/kasmtech/workspaces-core-images) - 
 - [linuxeye/lnmp](https://github.com/linuxeye/lnmp) - LEMP stack/LAMP stack/LNMP stack  installation scripts for CentOS/Redhat Debian and Ubuntu
 - [virtualmin/virtualmin-install](https://github.com/virtualmin/virtualmin-install) - Shell script to perform a Virtualmin GPL or Professional installation
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
@@ -3863,6 +3864,7 @@
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
 - [KYDronePilot/SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live geostationary weather satellite imagery for your desktop background
 - [wojtekmaj/date-utils](https://github.com/wojtekmaj/date-utils) - A collection of date-related utilities.
+- [orion3dgames/t5c](https://github.com/orion3dgames/t5c) - Building a open source multiplayer 3d rpg using babylon.js and colyseus
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [pdfme/pdfme](https://github.com/pdfme/pdfme) - A TypeScript based PDF generator library, made with React.
 - [enricoros/big-agi](https://github.com/enricoros/big-agi) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
@@ -3955,7 +3957,7 @@
 - [dastasoft/memory-game](https://github.com/dastasoft/memory-game) - Demo project to teach about Framer Motion animations on React projects.
 - [marakoss/sos-moto-app](https://github.com/marakoss/sos-moto-app) - SOS MOTO is a mobile application written in React Native that allows you to call a nearest contact from your GPS location to get a quick help. We have over 10k active users in Europe and steadily grow
 - [DoableDanny/NextJS-HarperDB-Task-Timer](https://github.com/DoableDanny/NextJS-HarperDB-Task-Timer) - Fullstack productivity timer app built with NextJS and HarperDB
-- [data-observe/datav](https://github.com/data-observe/datav) - Datav is an extremely powerful observability  platform, mainly focus on APM data visualization. You can visualize metrics, traces and logs from various datasource, and correlate them easily and deeply
+- [data-observe/datav](https://github.com/data-observe/datav) - :unicorn: Datav is an extremely powerful observability  platform, mainly focus on APM data visualization. You can visualize metrics, traces and logs from various datasource, and correlate them easily 
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [danileao/permissions_users](https://github.com/danileao/permissions_users) - 
@@ -4306,6 +4308,7 @@
 - [GraphQL-Portal/graphql-portal](https://github.com/GraphQL-Portal/graphql-portal) - Configurable and distributed GraphQL Gateway. Convert your legacy data sources or monitor your existing GraphQL Services with a visual dashboard.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+- [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [Quinhas/letmeask](https://github.com/Quinhas/letmeask) - Projeto desenvolvido durante a NLW #06, apresentado pela Rocketseat entre 20 a 27 de Junho de 2021. 💜 #NLW #ReactJS #Rocketseat
 - [Motirck/NLW-Rocketseat-NodeJS](https://github.com/Motirck/NLW-Rocketseat-NodeJS) - Next Level Week da Rocketseat - Nodejs
 - [rocketseat-education/ignite-template-reactjs-criando-um-hook-de-carrinho-de-compras](https://github.com/rocketseat-education/ignite-template-reactjs-criando-um-hook-de-carrinho-de-compras) - 
@@ -4632,7 +4635,7 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [johnpapa/angular-preload-and-interceptors](https://github.com/johnpapa/angular-preload-and-interceptors) - 
-- [tinacms/tinacms](https://github.com/tinacms/tinacms) - The Markdown CMS
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Git and Visual Editing
 - [ARTHURPC03/GoFinancesWeb](https://github.com/ARTHURPC03/GoFinancesWeb) - Aplicação para gerenciar finanças, feito com React + TypeScript
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
@@ -4778,7 +4781,6 @@
 - [prabhuignoto/vue-float-menu](https://github.com/prabhuignoto/vue-float-menu) - 🎈Customizable floating menu for Vue
 - [prabhuignoto/vue-dock-menu](https://github.com/prabhuignoto/vue-dock-menu) - ⚓Dockable Menu bar for Vue
 - [socketio/socket.io-admin-ui](https://github.com/socketio/socket.io-admin-ui) - Admin UI for Socket.IO
-- [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [Datlyfe/jira_clone](https://github.com/Datlyfe/jira_clone) - A Jira clone built with Vuejs & Nodejs/Graphql
 - [schoolofnetcom/cms-electron-php](https://github.com/schoolofnetcom/cms-electron-php) - 

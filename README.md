@@ -827,7 +827,7 @@
 - [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
 - [devopsdays/devopsdays-web](https://github.com/devopsdays/devopsdays-web) - This is the website for devopsdays
 - [irshad/LinkTree](https://github.com/irshad/LinkTree) - Bootstrap one page application for sharing your all social media links at one page | Replace few details of you in the code. That's it!
-- [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie
+- [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie.
 - [davland7/rplayer](https://github.com/davland7/rplayer) - Play streaming radio HTML5 .mp3 & .m3u8
 - [ErickWendel/livereload-docker-nodejs-typescript](https://github.com/ErickWendel/livereload-docker-nodejs-typescript) - Example of how to configure Docker to run a backend, frontend and build processes using live reload
 - [openam/bootstrap-responsive-tabs](https://github.com/openam/bootstrap-responsive-tabs) - Bootstrap responsive tabs are tabs that switch to collapsible components (accordions) when resized.

@@ -633,6 +633,10 @@
 
 ## HTML 
 
+- [google/docsy-example](https://github.com/google/docsy-example) - An example documentation site using the Docsy Hugo theme
+- [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
+- [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
+- [themesberg/flowbite](https://github.com/themesberg/flowbite) - The most popular and open-source library of Tailwind CSS components
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [jinglescode/time-series-forecasting-tensorflowjs](https://github.com/jinglescode/time-series-forecasting-tensorflowjs) - Pull stock prices from online API and perform predictions using Long Short Term Memory (LSTM) with TensorFlow.js framework
@@ -965,6 +969,7 @@
 
 ## JavaScript 
 
+- [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - The best free email forwarding for custom domains (Web Server)
 - [magneum/BloomBot](https://github.com/magneum/BloomBot) - Ⓒ𝐁𝐥𝐨𝐨𝐦𝐁𝐨𝐭🌻𝐌𝐮𝐥𝐭𝐢-𝐃𝐞𝐯𝐢𝐜𝐞: is a whatsapp user-bot with automation, moderation, music, games and 200+ commands!
 - [vitmalina/w2ui](https://github.com/vitmalina/w2ui) - UI widgets for modern apps. Data table, forms, toolbars, sidebar, tabs, tooltips, popups. All under 120kb (gzipped).
 - [adobe-webplatform/Snap.svg](https://github.com/adobe-webplatform/Snap.svg) - The JavaScript library for modern SVG graphics.
@@ -2291,7 +2296,7 @@
 - [carlosazaustre/vue-trello](https://github.com/carlosazaustre/vue-trello) - Trello clone with Vue.js for educational purposes
 - [bhushankumarl/trello-node-api](https://github.com/bhushankumarl/trello-node-api) - Trello NodeJS Wrapper
 - [norberteder/trello](https://github.com/norberteder/trello) - Use the Trello API from Node
-- [vasani-arpit/WBOT](https://github.com/vasani-arpit/WBOT) - A simple Web based BOT for WhatsApp™ in NodeJS 😜. Working as of 📅 Mar 15th, 2023
+- [vasani-arpit/WBOT](https://github.com/vasani-arpit/WBOT) - A simple Web based BOT for WhatsApp™ in NodeJS 😜. Working as of 📅 Sep 14th, 2023
 - [videosegments/videosegments](https://github.com/videosegments/videosegments) - Extension to skip unwanted content in videos
 - [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 - [request/request](https://github.com/request/request) - 🏊🏾 Simplified HTTP request client.
@@ -2916,7 +2921,7 @@
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [leafsphp/skeleton](https://github.com/leafsphp/skeleton) - A boiler-plate application for rapid development.
 - [leafsphp/leaf](https://github.com/leafsphp/leaf) - 🍁 The easiest way to create clean, simple but powerful web apps and APIs quickly
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
 - [shgysk8zer0/logos](https://github.com/shgysk8zer0/logos) - A collection of SVG logos
 - [hasinhayder/hydra](https://github.com/hasinhayder/hydra) - Hydra is a zero-config API boilerplate with Laravel 9x + Laravel Sanctum that comes with an excellent user and role management API out of the box
 - [taniarascia/laconia](https://github.com/taniarascia/laconia) - 🏺 ‎ A minimalist MVC framework.
@@ -3178,7 +3183,7 @@
 - [gabrielrcouto/php-convnet](https://github.com/gabrielrcouto/php-convnet) - Pure PHP Convolutional Neural Network
 - [ben-xo/dir2cast](https://github.com/ben-xo/dir2cast) - Turn a directory of MP3s into a podcast - automatically.
 - [ben-xo/sslscrobbler](https://github.com/ben-xo/sslscrobbler) - Serato ScratchLive! / Serato DJ Scrobbler and Twitter bot
-- [takielias/codeigniter-websocket](https://github.com/takielias/codeigniter-websocket) - Codeigniter WebSocket Built for real-time application. Inspired by https://github.com/romainrg/ratchet_client
+- [takielias/codeigniter-websocket](https://github.com/takielias/codeigniter-websocket) - Codeigniter WebSocket Built for real-time application.
 - [J7mbo/twitter-api-php](https://github.com/J7mbo/twitter-api-php) - The simplest PHP Wrapper for Twitter API v1.1 calls
 - [abraham/twitteroauth](https://github.com/abraham/twitteroauth) - The most popular PHP library for use with the Twitter OAuth REST API.
 - [hirak/prestissimo](https://github.com/hirak/prestissimo) - composer parallel install plugin
@@ -3279,6 +3284,7 @@
 
 ## Python 
 
+- [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [PyMySQL/mysqlclient](https://github.com/PyMySQL/mysqlclient) - MySQL database connector for Python (with Python 3 support)
 - [SociallyIneptWeeb/AICoverGen](https://github.com/SociallyIneptWeeb/AICoverGen) - A WebUI to create song covers with any RVC v2 trained AI voice from YouTube videos or audio files.
 - [runpod/runpod-python](https://github.com/runpod/runpod-python) - 🐍 | Python library for RunPod API and serverless worker SDK.
@@ -3600,6 +3606,7 @@
 
 ## SCSS 
 
+- [ForEvolve/bootstrap-dark](https://github.com/ForEvolve/bootstrap-dark) - Bootstrap 4 dark theme that supports togging dark/light themes as well. There is no fluff, it changes the color of Bootstrap and that's it, no new thing to learn or unlearn, just Bootstrap, but Dark!
 - [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS)
 - [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11+).
 - [jmlemetayer/abba](https://github.com/jmlemetayer/abba) - Apache Bootstrap & Bootswatch Autoindex
@@ -3665,6 +3672,7 @@
 
 ## Shell 
 
+- [joglomedia/LEMPer](https://github.com/joglomedia/LEMPer) - LEMPer Stack is terminal-based LEMP / LNMP installer and manager for Debian & Ubuntu cloud or virtual server (vps) and on-premise (bare metal).
 - [kasmtech/workspaces-images](https://github.com/kasmtech/workspaces-images) - 
 - [kasmtech/workspaces-core-images](https://github.com/kasmtech/workspaces-core-images) - 
 - [linuxeye/lnmp](https://github.com/linuxeye/lnmp) - LEMP stack/LAMP stack/LNMP stack  installation scripts for CentOS/Redhat Debian and Ubuntu
@@ -4418,7 +4426,7 @@
 - [tokyapp/toky-phone-js-sdk](https://github.com/tokyapp/toky-phone-js-sdk) - The Toky Phone JS SDK is a WebRTC Javascript library providing an abstraction to the Toky phone system, including its main features
 - [thenaim/ionic-tk-social-network](https://github.com/thenaim/ionic-tk-social-network) - Ionic 5 - social network starter project
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
-- [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of programmable SIP servers
+- [fonoster/routr](https://github.com/fonoster/routr) - ⚡ The future of programmable SIP servers.
 - [bottenderjs/messaging-apis](https://github.com/bottenderjs/messaging-apis) - Messaging APIs for multi-platform
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
 - [ShadyNagy/ngx-keypad](https://github.com/ShadyNagy/ngx-keypad) - Angular Keypad
@@ -4764,7 +4772,7 @@
 - [sumitkolhe/krates](https://github.com/sumitkolhe/krates) - :package: A free HTTP based JSON storage service
 - [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Free and Open Source UI Library for Vue 3 🤘
 - [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue 3 Admin Template
-- [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
+- [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [GoodManWEN/GoodManWEN.github.io](https://github.com/GoodManWEN/GoodManWEN.github.io) - 📕 A website simulating linux system's GUI, using theme of Deepin distro. 网页模拟桌面
 - [creativetimofficial/vue-paper-dashboard](https://github.com/creativetimofficial/vue-paper-dashboard) - Creative Tim Paper Dashboard made for Vue
 - [harryho/vue-crm](https://github.com/harryho/vue-crm) - Simple reusable CRM built on Vue 2 PWA template and Vuetify UI

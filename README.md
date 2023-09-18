@@ -927,7 +927,6 @@
 - [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 - [cesardeazevedo/react-native-collapsing-toolbar](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - react-native wrapper for android CollapsingToolbarLayout
 - [cesardeazevedo/react-native-bottom-sheet-behavior](https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior) - react-native wrapper for android BottomSheetBehavior
-- [rnmapbox/maps](https://github.com/rnmapbox/maps) - A Mapbox react native module for creating custom maps
 - [react-native-webrtc/react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) - The WebRTC module for React Native
 - [react-native-share/react-native-share](https://github.com/react-native-share/react-native-share) - Social share, sending simple data to other apps.
 - [react-native-webrtc/react-native-webrtc-web-shim](https://github.com/react-native-webrtc/react-native-webrtc-web-shim) - Web Shim for React Native WebRTC
@@ -1507,7 +1506,7 @@
 - [klaudiosinani/hyperocean](https://github.com/klaudiosinani/hyperocean) - Deep oceanic blue Hyper theme
 - [firebase/codelab-friendlychat-web](https://github.com/firebase/codelab-friendlychat-web) - The source for the Firebase codelab for building a cross-platform chat app
 - [16patsle/TermListDB](https://github.com/16patsle/TermListDB) - A term list project using Firestore as a backend
-- [mwakerman/kanbanist](https://github.com/mwakerman/kanbanist) - The universal kanban board for Todoist
+- [mwakerman/kanbanist](https://github.com/mwakerman/kanbanist) - The Universal Kanban Board for Todoist
 - [edent/TweeView](https://github.com/edent/TweeView) - A Tree View For Tweets
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
@@ -2458,6 +2457,7 @@
 - [VirgilSecurity/chat-back4app-android](https://github.com/VirgilSecurity/chat-back4app-android) - (Works!) A simple Back4App Android application based on Virgil E3Kit that demonstrates how the end-to-end encryption works.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [AdevintaSpain/Leku](https://github.com/AdevintaSpain/Leku) - :earth_africa: Map location picker component for Android. Based on Google Maps. An alternative to Google Place Picker.
+- [rnmapbox/maps](https://github.com/rnmapbox/maps) - A Mapbox react native module for creating custom maps
 - [SimonMarquis/QrCode](https://github.com/SimonMarquis/QrCode) - 🏁 Scan and create QR Codes.
 - [SimonMarquis/FCM-toolbox](https://github.com/SimonMarquis/FCM-toolbox) - 📲 Firebase Cloud Messaging toolbox
 - [owncloud/android](https://github.com/owncloud/android) - :phone: The ownCloud Android App
@@ -2484,6 +2484,7 @@
 
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [PaulieScanlon/paulie-dev-2019](https://github.com/PaulieScanlon/paulie-dev-2019) - A Content Rich SSG Gatsby Website with Serverless Functions and SSR
+- [sadanandpai/javascript-code-challenges](https://github.com/sadanandpai/javascript-code-challenges) - A collection of JavaScript modern interview code challenges for beginners to experts
 - [jakejarvis/jarv.is](https://github.com/jakejarvis/jarv.is) - 🏡 My humble abode on the World Wide Web
 - [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
@@ -2627,7 +2628,6 @@
 - [Yegorov/awesome-ruby-blogs](https://github.com/Yegorov/awesome-ruby-blogs) - A curated list of Awesome Ruby Blogs and Newsletters for Ruby Developers and Newbies
 - [quasilyte/talks](https://github.com/quasilyte/talks) - A collection of slides, notes and other related stuff from talks I have given.
 - [cipher387/awesome-grep](https://github.com/cipher387/awesome-grep) - List of GREP modifications and alternatives for a variety of purposes
-- [sadanandpai/javascript-code-challenges](https://github.com/sadanandpai/javascript-code-challenges) - A collection of JavaScript modern interview code challenges for beginners to experts
 - [sadanandpai/frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend tech guide and curated collection of frontend materials
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [100daysofkubernetes/100DaysOfKubernetes](https://github.com/100daysofkubernetes/100DaysOfKubernetes) - 100DaysOfKubernetes book

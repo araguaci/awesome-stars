@@ -2294,7 +2294,7 @@
 - [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
 - [ng-hai/simple-trello](https://github.com/ng-hai/simple-trello) - A simple cloning version of Trello, using React ecosystem.
 - [carlosazaustre/vue-trello](https://github.com/carlosazaustre/vue-trello) - Trello clone with Vue.js for educational purposes
-- [bhushankumarl/trello-node-api](https://github.com/bhushankumarl/trello-node-api) - Trello NodeJS Wrapper
+- [bhushankummar/trello-node-api](https://github.com/bhushankummar/trello-node-api) - Trello NodeJS Wrapper
 - [norberteder/trello](https://github.com/norberteder/trello) - Use the Trello API from Node
 - [vasani-arpit/WBOT](https://github.com/vasani-arpit/WBOT) - A simple Web based BOT for WhatsApp™ in NodeJS 😜. Working as of 📅 Sep 14th, 2023
 - [videosegments/videosegments](https://github.com/videosegments/videosegments) - Extension to skip unwanted content in videos

@@ -4496,7 +4496,7 @@
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [rocketseat-content/youtube-challenge-ui-kit](https://github.com/rocketseat-content/youtube-challenge-ui-kit) - 
 - [infinitered/flipper-plugin-reactotron](https://github.com/infinitered/flipper-plugin-reactotron) - A plugin for the Flipper desktop application
-- [oblador/react-native-performance](https://github.com/oblador/react-native-performance) - Monitor and measure React Native performance
+- [oblador/react-native-performance](https://github.com/oblador/react-native-performance) - 📐 Monitor and measure React Native performance
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [pwa-builder/pwa-starter](https://github.com/pwa-builder/pwa-starter) - Welcome to the PWABuilder pwa-starter! Looking to build a new Progressive Web App and not sure where to get started? This is what you are looking for!
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.

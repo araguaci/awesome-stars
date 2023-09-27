@@ -518,7 +518,7 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
-- [boojack/slash](https://github.com/boojack/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily.
+- [boojack/slash](https://github.com/boojack/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [DapperDox/dapperdox](https://github.com/DapperDox/dapperdox) - Beautiful, integrated, OpenAPI documentation.
@@ -571,7 +571,6 @@
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [miguelmota/golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang compared to Node.js for learning 🤓
 - [dstdfx/twbridge](https://github.com/dstdfx/twbridge) - Telegram &lt;-&gt; WhatsApp bridge that enables message retrieval and replies
-- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [esimov/pigo](https://github.com/esimov/pigo) - Fast face detection, pupil/eyes localization and facial landmark points detection library in pure Go.
 - [esimov/triangle](https://github.com/esimov/triangle) - Convert images to computer generated art using delaunay triangulation.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -1402,7 +1401,6 @@
 - [atulmy/fullstack-graphql](https://github.com/atulmy/fullstack-graphql) - 🌈  Simple Fullstack GraphQL Application. API built with Express + GraphQL + Sequelize (supports MySQL, Postgres, Sqlite and MSSQL). WebApp built with React + Redux to access the API. Written in ES6 us
 - [atulmy/crate](https://github.com/atulmy/crate) - 👕 👖 📦  A sample web and mobile application built with Node, Express, React, React Native, Redux and GraphQL. Very basic replica of stitchfix.com / krate.in (allows users to get monthly subscription of
 - [Strider-CD/strider](https://github.com/Strider-CD/strider) - Open Source Continuous Integration & Deployment Server
-- [Gherciu/react-p5](https://github.com/Gherciu/react-p5) - 🎨 This Component lets you integrate p5 Sketches into your React App.
 - [generative-design/Code-Package-p5.js](https://github.com/generative-design/Code-Package-p5.js) - Code package of the book: Generative Design – Creative Coding for the Web with JavaScript in p5.js
 - [hsnaydd/moveTo](https://github.com/hsnaydd/moveTo) - A lightweight scroll animation javascript library without any dependency
 - [rnosov/react-reveal](https://github.com/rnosov/react-reveal) - Easily add reveal on scroll animations to your React app
@@ -1781,7 +1779,7 @@
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [rafaballerini/ReactHooks](https://github.com/rafaballerini/ReactHooks) - Um guia para entender os diferentes Hooks em React!
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
-- [PactInteractive/image-downloader](https://github.com/PactInteractive/image-downloader) - A browser extension for Google Chrome, Microsoft Edge, and Brave that lets you download images from the web more easily.
+- [PactInteractive/image-downloader](https://github.com/PactInteractive/image-downloader) - Download images from the web more easily. A browser extension for Google Chrome, Microsoft Edge, and Brave.
 - [sarcadass/granim.js](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations with this small javascript library.
 - [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client
@@ -3413,7 +3411,7 @@
 - [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
-- [okfn-brasil/querido-diario](https://github.com/okfn-brasil/querido-diario) - 📰 Brazilian government gazettes, accessible to everyone.
+- [okfn-brasil/querido-diario](https://github.com/okfn-brasil/querido-diario) - 📰 Diários oficiais brasileiros acessíveis a todos     |     📰 Brazilian government gazettes, accessible to everyone.
 - [cuducos/calculadora-do-cidadao](https://github.com/cuducos/calculadora-do-cidadao) - 💵 Tool for Brazilian Reais monetary adjustment/correction
 - [okfn-brasil/serenata-de-amor](https://github.com/okfn-brasil/serenata-de-amor) - 🕵 Artificial Intelligence for social control of public administration  |  ** Este repositório não recebe atualizações frequentes **
 - [donnemartin/viz](https://github.com/donnemartin/viz) - Visualize GitHub's most popular repos.  http://www.donnemartin.com/viz
@@ -3598,6 +3596,7 @@
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 - [huytd/kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
 - [adamsky/globe](https://github.com/adamsky/globe) - Interactive ASCII globe generator
@@ -3858,7 +3857,7 @@
 - [chakra-ui/ark](https://github.com/chakra-ui/ark) - A headless library for building reusable, scalable design systems that works for a wide range of JS frameworks.
 - [Leniolabs/ai-data-dashboard](https://github.com/Leniolabs/ai-data-dashboard) - 
 - [Leniolabs/promptree](https://github.com/Leniolabs/promptree) - ChatGPT spin-off combining git concepts!
-- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs. This project does not store and distribut
+- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. This project does not store and distribute copies of documents, but only provides indexing and searching.
 - [jooy2/vutron](https://github.com/jooy2/vutron) - 💚 Quick Start Templates for Vite + Electron + Vue 3 + Vuetify + TypeScript. Vutron is a preconfigured template for developing Electron cross-platform desktop apps. It uses Vue 3 and allows you to buil
 - [ElMassimo/iles](https://github.com/ElMassimo/iles) - 🏝 The joyful site generator
 - [yyx990803/vue-wordle](https://github.com/yyx990803/vue-wordle) - Wordle built with Vue, aka VVordle

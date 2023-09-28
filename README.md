@@ -1857,7 +1857,6 @@
 - [MEGAMINDMK/Php-Electronjs](https://github.com/MEGAMINDMK/Php-Electronjs) - A working php server with electronjs fully customizable & easy to use
 - [mglaman/conductor](https://github.com/mglaman/conductor) - A Composer user interface built using Electron.
 - [aj-techsoul/ELECTRON-4-PHP](https://github.com/aj-techsoul/ELECTRON-4-PHP) - An easiest way to use php in electron
-- [sadanandpai/sorting-visualizer](https://github.com/sadanandpai/sorting-visualizer) - Sorting Algorithms Visualizer
 - [amiroff/NextBook](https://github.com/amiroff/NextBook) - NextBook is quick and easy way to build technical books or documentation with markdown that run blazingly fast.
 - [pwambach/fat-file-finder](https://github.com/pwambach/fat-file-finder) - Electron app for finding large files on your filesystem. Build with React, Redux and ES6.
 - [decosoftware/deco-ide](https://github.com/decosoftware/deco-ide) - The React Native IDE
@@ -4374,6 +4373,7 @@
 - [MrHertal/react-native-twilio-phone](https://github.com/MrHertal/react-native-twilio-phone) - Twilio Voice React Native module.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [fmeringdal/nettu-meet](https://github.com/fmeringdal/nettu-meet) - Open source video conferencing system for tutors.
+- [sadanandpai/sorting-visualizer](https://github.com/sadanandpai/sorting-visualizer) - Sorting Algorithms Visualizer
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [fabiospampinato/vscode-todo-plus](https://github.com/fabiospampinato/vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology

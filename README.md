@@ -297,6 +297,7 @@
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 - [mscdex/sipster](https://github.com/mscdex/sipster) - A pjsip/pjsua2 binding for node.js
 - [Squirrel/Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) - An installation and update framework for Windows desktop apps
+- [bradtraversy/wordpair_generator](https://github.com/bradtraversy/wordpair_generator) - Flutter app based on the doc tutorial
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [cztomczak/phpdesktop](https://github.com/cztomczak/phpdesktop) - Develop desktop GUI applications using PHP, HTML5, JavaScript and SQLite
 
@@ -356,7 +357,7 @@
 - [CSS-Tricks/AnythingSlider](https://github.com/CSS-Tricks/AnythingSlider) - A jQuery Slider plugin for anything.
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [zachstronaut/quintessential-css-cube](https://github.com/zachstronaut/quintessential-css-cube) - .qube -- The Quintessential Responsive 3D CSS Cube
-- [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian
+- [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
 - [gadenbuie/tweet-conf-dash](https://github.com/gadenbuie/tweet-conf-dash) - A shiny twitter conference dashboard
 - [interglobalvision/432hz.audio](https://github.com/interglobalvision/432hz.audio) - 432hz.audio
 - [ondras/maslo](https://github.com/ondras/maslo) - Scalable Markdown-based HTML slide deck
@@ -458,7 +459,6 @@
 - [dart-lang/site-www](https://github.com/dart-lang/site-www) - Source for Dart website
 - [mjohnsullivan/flutter-by-example](https://github.com/mjohnsullivan/flutter-by-example) - A collection of simple, bare-bones Flutter apps that each demonstrate a concept
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-- [bradtraversy/wordpair_generator](https://github.com/bradtraversy/wordpair_generator) - Flutter app based on the doc tutorial
 - [thlorenz/ufo_2d](https://github.com/thlorenz/ufo_2d) - UFO game in flutter.
 - [jayjonas1996/flutter_notes](https://github.com/jayjonas1996/flutter_notes) - A note taking app in flutter mimicking Google Keep's design.
 - [shubie/dashboard](https://github.com/shubie/dashboard) - This is the first of our Flutter Thursday series. We will randomly pick designs or tasks from the internet every week and make flutter UI/apps.

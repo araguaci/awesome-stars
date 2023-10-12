@@ -800,7 +800,7 @@
 - [opentargets/opentargets.github.io](https://github.com/opentargets/opentargets.github.io) - Open Targets corporate website code using Jekyll
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [hermanzdosilovic/online-compiler](https://github.com/hermanzdosilovic/online-compiler) - Online compiler written in less than 200 lines of code.
-- [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
+- [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 - [cunhasbia/single-page-application](https://github.com/cunhasbia/single-page-application) - ✔️ a simple SPA that validates a login and shows the content page through javascript and DOM manipulation.
 - [Timoteoo/log-user-actions](https://github.com/Timoteoo/log-user-actions) - Basic app that logs to the database some things that the user do, such as login dates, amount of times that some user logged in...
 - [rocketseat-content/youtube-git-guia-pratico-iniciante](https://github.com/rocketseat-content/youtube-git-guia-pratico-iniciante) - 
@@ -2435,7 +2435,6 @@
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [awangga/Python-Artificial-Intelligence-Projects-for-Beginners](https://github.com/awangga/Python-Artificial-Intelligence-Projects-for-Beginners) - Python Artificial Intelligence Projects for Beginners, published by Packt
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [kishanrajput23/Awesome-Project-Collection](https://github.com/kishanrajput23/Awesome-Project-Collection) - This repository contains a lot of projects in various languages and domains.
 - [multimodalart/majesty-diffusion](https://github.com/multimodalart/majesty-diffusion) - Majesty Diffusion by @Dango233(@Dango233max) and @apolinario (@multimodalart)
@@ -2562,6 +2561,7 @@
 - [sirredbeard/Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
 - [iuricode/padroes-de-commits](https://github.com/iuricode/padroes-de-commits) - Padrões de commits
 - [codecon-dev/awesome-communities-and-events-tech-brazil](https://github.com/codecon-dev/awesome-communities-and-events-tech-brazil) - Uma curadoria de comunidades e eventos tech incríveis para você participar.
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
 - [styfle/awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) - 🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
@@ -3586,7 +3586,6 @@
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [tauri-apps/create-tauri-app](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold out a new tauri app project.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 - [Scille/parsec-cloud](https://github.com/Scille/parsec-cloud) - Open source Dropbox-like file sharing with full client encryption !
@@ -4013,6 +4012,7 @@
 - [adobe/spectrum-web-components](https://github.com/adobe/spectrum-web-components) - Spectrum Web Components
 - [ozanturhan/trend-repositories](https://github.com/ozanturhan/trend-repositories) - Github Trend Repositories
 - [RStankov/FocusedTask](https://github.com/RStankov/FocusedTask) - MacOS menu bar todo app built with Electron, React and Redux. It goals is to help you do deep work.
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [vandreleal/sentineo](https://github.com/vandreleal/sentineo) - 🌌 SentiNEO: Near-Earth Objects Viewer
 - [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.

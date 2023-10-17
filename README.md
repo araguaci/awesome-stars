@@ -1478,7 +1478,7 @@
 - [chinchang/cta.js](https://github.com/chinchang/cta.js) - Animate your 'action-to-effect' paths
 - [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [pat310/google-trends-api](https://github.com/pat310/google-trends-api) - An API layer on top of google trends
 - [chrisrzhou/react-globe](https://github.com/chrisrzhou/react-globe) - Create beautiful and interactive React + ThreeJS globe visualizations with ease.
 - [uinix-js/uinix-ui](https://github.com/uinix-js/uinix-ui) - A minimal framework-agnostic and configurable UI system to build UI systems. Your system your rules 🤘.

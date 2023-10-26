@@ -711,6 +711,7 @@
 - [johnpolacek/tweendeck](https://github.com/johnpolacek/tweendeck) - Next level animation for web presentations
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [kennedybarros/responsive-website-playstation](https://github.com/kennedybarros/responsive-website-playstation) - Responsive E-commerce Website PlayStation
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [GetStream/stream-react-example](https://github.com/GetStream/stream-react-example) - Use React and Redux to build your own feature-rich and scalable social network app! Visit cabin.getstream.io for an overview of all 8 tutorials and a live demo.
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
@@ -1219,7 +1220,7 @@
 - [benji6/andromeda](https://github.com/benji6/andromeda) - :musical_keyboard: Make Music In Your Browser!
 - [techlab/jquery-smartwizard](https://github.com/techlab/jquery-smartwizard) - The awesome jQuery step wizard plugin
 - [akitaonrails/akitando_episode_0118](https://github.com/akitaonrails/akitando_episode_0118) - examples to illustrate my YouTube channel's episode 118 about Databases
-- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
+- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, and services related to IPFS.
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS node.
 - [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
@@ -2546,7 +2547,7 @@
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [best-of-lists/best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
-- [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - A curated list of nostr projects and resources
+- [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [araguaci/game-of-thrones](https://github.com/araguaci/game-of-thrones) - 
 - [araguaci/ultimate-homem-aranha](https://github.com/araguaci/ultimate-homem-aranha) - 
@@ -3621,7 +3622,6 @@
 - [app-generator/django-soft-ui-dashboard](https://github.com/app-generator/django-soft-ui-dashboard) - Soft UI Dashboard - Open-source Django Dashboard | AppSeed
 - [twitter/opensource-website](https://github.com/twitter/opensource-website) - Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
 - [simeydotme/jQuery-ui-Slider-Pips](https://github.com/simeydotme/jQuery-ui-Slider-Pips) - Plugin for adding little 'pips' , 'floats' and labels to a slider.
-- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [mmistakes/jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic) - Your new Jekyll default theme.
 - [chocolatey/choco-theme](https://github.com/chocolatey/choco-theme) - The global theme for Chocolatey Software.
@@ -3847,7 +3847,7 @@
 - [araguaci/edge-functions-geolocation](https://github.com/araguaci/edge-functions-geolocation) - 
 - [SonarSource/SonarJS](https://github.com/SonarSource/SonarJS) - SonarSource Static Analyzer for JavaScript and TypeScript
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase.
-- [priyankarpal/ProjectsHut](https://github.com/priyankarpal/ProjectsHut) - Projectshut is an open source web app that enables users to freely publish their projects and create user profiles within the platform ✨🚀
+- [priyankarpal/projectshut](https://github.com/priyankarpal/projectshut) - Projectshut is an open source web app that enables users to freely publish their projects and create user profiles within the platform ✨🚀
 - [bigcapitalhq/bigcapital](https://github.com/bigcapitalhq/bigcapital) - 💵 Bigcapital is financial accounting with intelligent reporting for faster decision-making, an open-source alternative to Quickbooks, Xero, etc.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
 - [chakra-ui/ark](https://github.com/chakra-ui/ark) - A headless library for building reusable, scalable design systems that works for a wide range of JS frameworks.
@@ -4257,7 +4257,7 @@
 - [nuxt/image](https://github.com/nuxt/image) - Plug-and-play image optimization for Nuxt applications.
 - [js-works/shoelace-theme-designer](https://github.com/js-works/shoelace-theme-designer) - 
 - [fulls1z3/universal](https://github.com/fulls1z3/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, CLI scaffolding, dev/prod modes, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO,
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
 - [react-boilerplate/react-boilerplate-cra-template](https://github.com/react-boilerplate/react-boilerplate-cra-template) - :fire: Setup Create React App with React Boilerplate. Highly scalable & Best DX & Performance Focused & Best practices.
 - [alenaksu/json-viewer](https://github.com/alenaksu/json-viewer) - Web Component to visualize JSON data in a tree view
 - [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
@@ -4368,7 +4368,7 @@
 - [miaowing/nest-schedule](https://github.com/miaowing/nest-schedule) - A cron-like and not-cron-like job distributed scheduler for Nest.js by decorators.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [MrHertal/react-native-twilio-phone](https://github.com/MrHertal/react-native-twilio-phone) - Twilio Voice React Native module.
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [fmeringdal/nettu-meet](https://github.com/fmeringdal/nettu-meet) - Open source video conferencing system for tutors.
 - [sadanandpai/sorting-visualizer](https://github.com/sadanandpai/sorting-visualizer) - Sorting Algorithms Visualizer
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features

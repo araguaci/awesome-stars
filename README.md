@@ -519,7 +519,7 @@
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
 - [boojack/slash](https://github.com/boojack/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [DapperDox/dapperdox](https://github.com/DapperDox/dapperdox) - Beautiful, integrated, OpenAPI documentation.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
@@ -1125,7 +1125,7 @@
 - [danba340/todos-recoil](https://github.com/danba340/todos-recoil) - 
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [DaggieBlanqx/whatsappcloudapi_wrapper](https://github.com/DaggieBlanqx/whatsappcloudapi_wrapper) - An easy way to build Whatsapp Chatbots on top of the new Whatsapp Cloud API
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [unicef/material-slate](https://github.com/unicef/material-slate) - Rich text editor based on Slate for Material UI (React)
 - [unicef/react-org-chart](https://github.com/unicef/react-org-chart) - Component for displaying an org chart for a large organization. Supports lazy load and export.
 - [adisreyaj/portfolio](https://github.com/adisreyaj/portfolio) - My personal website and portfolio. Made with NextJs
@@ -1567,7 +1567,6 @@
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [cassidoo/shopify-react-astro](https://github.com/cassidoo/shopify-react-astro) - A demo of a Shopify site using Astro and React.
 - [iuccio/csvToJson](https://github.com/iuccio/csvToJson) - Convert CSV file to JSON
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [rosano/joybox](https://github.com/rosano/joybox) - A pinboard for audiovisual media.
 - [maykbrito/electron-desktop-template](https://github.com/maykbrito/electron-desktop-template) - 
 - [maykbrito/electron-desktop-custom-notion-omni](https://github.com/maykbrito/electron-desktop-custom-notion-omni) - Inject custom CSS to beautify Notion.so
@@ -4193,6 +4192,7 @@
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
 - [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [ansible/ansible-hub-ui](https://github.com/ansible/ansible-hub-ui) - Ansible Automation Hub UI
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript

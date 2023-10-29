@@ -380,7 +380,6 @@
 - [safak/youtube](https://github.com/safak/youtube) - 
 - [hugoalmeidahh/hugao-template-next-tailwindcss-ts](https://github.com/hugoalmeidahh/hugao-template-next-tailwindcss-ts) - 
 - [720kb/radiobox.css](https://github.com/720kb/radiobox.css) - :radio_button: Tiny set of pure CSS animations for your radio inputs. https://720kb.github.io/radiobox.css/
-- [olton/Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - Impressive component library for expressive web development! Build responsive projects on the web with the first front-end component library in Metro Style. And now there are even more opportunities e
 - [delprzemo/react-admin-template](https://github.com/delprzemo/react-admin-template) - Simple React admin template - Hooks, Redux, Bootstrap :white_check_mark: :metal:
 - [picturepan2/spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive and Modern CSS Framework
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
@@ -745,6 +744,7 @@
 - [jgraph/drawio-github](https://github.com/jgraph/drawio-github) - Drawio GitHub Integration
 - [vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
 - [vasturiano/globe.gl](https://github.com/vasturiano/globe.gl) - UI component for Globe Data Visualization using ThreeJS/WebGL
+- [microweber/microweber](https://github.com/microweber/microweber) - Drag and Drop Website Builder and CMS with E-commerce
 - [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos) - Coleção com links para desenvolvimento
 - [Decathlon/vitamin-web](https://github.com/Decathlon/vitamin-web) - Decathlon Design System UI components for web applications
 - [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
@@ -791,7 +791,6 @@
 - [facebookincubator/infima](https://github.com/facebookincubator/infima) - A UI framework that provides websites with the minimal CSS and JS needed to get started with building a modern responsive beautiful website
 - [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
-- [Nexmo/nexmo-developer](https://github.com/Nexmo/nexmo-developer) - Provides resources for developers using Nexmo API platforms
 - [falconmasters/menu-temario](https://github.com/falconmasters/menu-temario) - Código del tutorial: Como hacer un menú de navegación estilo temario
 - [bootflat/bootflat.github.io](https://github.com/bootflat/bootflat.github.io) - BOOTFLAT is an open source Flat UI KIT based on Bootstrap 3.3.0 CSS framework. It provides a faster, easier and less repetitive way for web developers to create elegant web apps.
 - [floydhub/Screenshot-to-code-backup](https://github.com/floydhub/Screenshot-to-code-backup) - Additional materials for https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/
@@ -1156,7 +1155,6 @@
 - [AKAspanion/ui-neumorphism](https://github.com/AKAspanion/ui-neumorphism) - 📕 React component library designed on the "new skeuomorphism" or "neumorphism" UI/UX trend.
 - [vizzuhq/vizzu-lib](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
 - [googlecodelabs/maps-platform-101-js](https://github.com/googlecodelabs/maps-platform-101-js) - 
-- [dialaabulkhail/my_portfolio](https://github.com/dialaabulkhail/my_portfolio) - 
 - [bootboxjs/bootbox](https://github.com/bootboxjs/bootbox) - Wrappers for JavaScript alert(), confirm() and other flexible dialogs using Twitter's bootstrap framework
 - [Bogdan-Lyashenko/js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
 - [jerosoler/Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
@@ -1471,7 +1469,6 @@
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 - [vvo/gifify](https://github.com/vvo/gifify) - 😻 Convert any video file to an optimized animated GIF.
-- [microweber/microweber](https://github.com/microweber/microweber) - Drag and Drop Website Builder and CMS with E-commerce
 - [panshak/accountill](https://github.com/panshak/accountill) - Fullstack open source Invoicing application made with MongoDB, Express, React & Nodejs (MERN)
 - [toptal/haste-server](https://github.com/toptal/haste-server) - open source pastebin written in node.js
 - [surmon-china/vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
@@ -1866,6 +1863,7 @@
 - [alexkim205/G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Suite as a desktop app. Made possible with Electron.
 - [pauloanalista/BotWhatsApp](https://github.com/pauloanalista/BotWhatsApp) - BOT para WhatsAPP Web
 - [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
+- [olton/Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - Impressive component library for expressive web development! Build responsive projects on the web with the first front-end component library in Metro Style. And now there are even more opportunities e
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [eddiesigner/sketch-map-generator](https://github.com/eddiesigner/sketch-map-generator) - Sketch plugin to fill a shape with a map generated from a given location using Google Maps and Mapbox
 - [googlemaps/v3-utility-library](https://github.com/googlemaps/v3-utility-library) - Utility libraries for Google Maps JavaScript API v3
@@ -2553,7 +2551,7 @@
 - [araguaci/vikings](https://github.com/araguaci/vikings) - 
 - [araguaci/liga-da-justica](https://github.com/araguaci/liga-da-justica) - 
 - [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 已迁移新仓库，此版本将不再维护
-- [abantes/bash4noobs](https://github.com/abantes/bash4noobs) - :mortar_board: Manual de sobrevivência do Linux Bash e Git com comandos mais usados no dia a dia como dev.
+- [roger-luiz/bash4noobs](https://github.com/roger-luiz/bash4noobs) - :mortar_board: Manual de sobrevivência do Linux Bash e Git com comandos mais usados no dia a dia como dev.
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and op
 - [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) - This repo contains samples that demonstrate the API used in Windows classic desktop applications.
@@ -2584,7 +2582,6 @@
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [binlist/data](https://github.com/binlist/data) - binlist.net data repo
-- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [obache/neatsrc](https://github.com/obache/neatsrc) - Just for me, not for you.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [Olanetsoft/awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) - This is a curated list of amazing hackathon projects
@@ -2919,7 +2916,7 @@
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [leafsphp/skeleton](https://github.com/leafsphp/skeleton) - A boiler-plate application for rapid development.
 - [leafsphp/leaf](https://github.com/leafsphp/leaf) - 🍁 The easiest way to create clean, simple but powerful web apps and APIs quickly
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. Cloud version available here -&gt; https://app.coolify.io
 - [shgysk8zer0/logos](https://github.com/shgysk8zer0/logos) - A collection of SVG logos
 - [hasinhayder/hydra](https://github.com/hasinhayder/hydra) - Hydra is a zero-config API boilerplate with Laravel 9x + Laravel Sanctum that comes with an excellent user and role management API out of the box
 - [taniarascia/laconia](https://github.com/taniarascia/laconia) - 🏺 ‎ A minimalist MVC framework.
@@ -3465,7 +3462,7 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [opengeos/leafmap](https://github.com/opengeos/leafmap) - A Python package for interactive mapping and geospatial analysis  with minimal coding in a Jupyter environment
 - [allenai/scholarphi](https://github.com/allenai/scholarphi) - An interactive PDF reader.
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites ha
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor
 - [IBM/MAX-Audio-Embedding-Generator](https://github.com/IBM/MAX-Audio-Embedding-Generator) - Generate embedding vectors from audio files
 - [mateustoin/Bittoin-Telegram-Bot](https://github.com/mateustoin/Bittoin-Telegram-Bot) - Bot para Telegram com diversas funcionalidades, com o intuito de se divertir e aproveitar utilidades para o dia a dia.
 - [Kilian/Trimage](https://github.com/Kilian/Trimage) - A cross-platform tool for optimizing PNG and JPG files.
@@ -3701,6 +3698,7 @@
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ WireGuard-Manager allows you to effortlessly set up and manage your own VPN in under a minute.
 - [plone/plone-backend](https://github.com/plone/plone-backend) - Plone backend Docker images using Python 3 and pip.
+- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [DamionGans/ubuntu-wsl2-systemd-script](https://github.com/DamionGans/ubuntu-wsl2-systemd-script) - [Does not work anymore!] Script to enable systemd support on current Ubuntu WSL2 images
 - [VitalPBX/vitalpbx_ha_call_center](https://github.com/VitalPBX/vitalpbx_ha_call_center) - VitalPBX High Availability for Call Centers
 - [fdaciuk/install-linux](https://github.com/fdaciuk/install-linux) - Softwares to install on Linux

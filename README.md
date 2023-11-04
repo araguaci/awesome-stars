@@ -1068,7 +1068,6 @@
 - [juliomrqz/nuxt-optimized-images](https://github.com/juliomrqz/nuxt-optimized-images) - 🌅🚀 Automatically optimizes images used in Nuxt.js projects (JPEG, PNG, SVG, WebP and GIF).
 - [arifszn/OneClick](https://github.com/arifszn/OneClick) - Navigate to your favorite actions on the websites you love with just one click.
 - [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create a dynamic portfolio by just providing your GitHub username.
-- [roots/acorn](https://github.com/roots/acorn) - Laravel components for WordPress plugins and themes
 - [ncase/anxiety](https://github.com/ncase/anxiety) - 
 - [ncase/loopy](https://github.com/ncase/loopy) - A tool for thinking in systems
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
@@ -2891,6 +2890,7 @@
 - [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
 - [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 9.0 blog application with Hotwire, Homestead, Horizon, Telescope and Pusher
 - [arifszn/ezfolio](https://github.com/arifszn/ezfolio) - Open Source Portfolio/Resume CMS built using Laravel, React and Ant Design.
+- [roots/acorn](https://github.com/roots/acorn) - Laravel components for WordPress plugins and themes
 - [reactphp/http](https://github.com/reactphp/http) - Event-driven, streaming HTTP client and server implementation for ReactPHP.
 - [Licoy/wordpress-theme-puock](https://github.com/Licoy/wordpress-theme-puock) - :art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh loading, etc.
 - [Intervention/image](https://github.com/Intervention/image) - PHP Image Manipulation
@@ -3611,7 +3611,7 @@
 - [shlinkio/shlink.io](https://github.com/shlinkio/shlink.io) - Shlink project website
 - [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 - [section-engineering-education/engineering-education](https://github.com/section-engineering-education/engineering-education) - “Section's Engineering Education (EngEd) Program is dedicated to offering a unique quality community experience for computer science university students."
-- [luxonauta/luxa](https://github.com/luxonauta/luxa) - A minimalist CSS framework.
+- [luxonauta/luxacss](https://github.com/luxonauta/luxacss) - A minimalist CSS framework.
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [jh3y/whirl](https://github.com/jh3y/whirl) - CSS loading animations with minimal effort!
 - [mbarker84/eleventy-parcel](https://github.com/mbarker84/eleventy-parcel) - 

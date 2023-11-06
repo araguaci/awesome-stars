@@ -1561,7 +1561,6 @@
 - [emmabostian/fem-design-systems](https://github.com/emmabostian/fem-design-systems) - 
 - [linkpreview/linkpreview](https://github.com/linkpreview/linkpreview) - Open Graph, Twitter Card, Oembed preview. Shows visual cards that mimic link previews in Social Media like facebook, twitter, vk and other sites that support link preview.
 - [somewebmedia/hc-offcanvas-nav](https://github.com/somewebmedia/hc-offcanvas-nav) - JavaScript library for creating toggled off-canvas multi-level navigations, allowing endless nesting of submenu elements, supporting swipe gestures, keyboard interactions and ARIA attributes.
-- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [cassidoo/shopify-react-astro](https://github.com/cassidoo/shopify-react-astro) - A demo of a Shopify site using Astro and React.
 - [iuccio/csvToJson](https://github.com/iuccio/csvToJson) - Convert CSV file to JSON
@@ -1814,7 +1813,7 @@
 - [liyasthomas/colorbook](https://github.com/liyasthomas/colorbook) - 🎨 Color schemes for UI design - Optimized for foreground, background, border, etc. https://liyasthomas.github.io/colorbook
 - [liyasthomas/marcdown](https://github.com/liyasthomas/marcdown) - 👻 Lightweight realtime markdown viewer and editor - Simple, clean and beautiful https://liyasthomas.github.io/marcdown
 - [johnpapa/lite-server](https://github.com/johnpapa/lite-server) - Lightweight node server
-- [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
+- [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
 - [bmadone/react-trello-clone](https://github.com/bmadone/react-trello-clone) - Simplified clone of Trello using React and Firebase
 - [rcdexta/react-event-timeline](https://github.com/rcdexta/react-event-timeline) - A responsive event timeline in React.js
 - [rcdexta/react-trello](https://github.com/rcdexta/react-trello) - Pluggable components to add a kanban board to your application
@@ -2665,7 +2664,7 @@
 - [alan-ai/alan-sdk-web](https://github.com/alan-ai/alan-sdk-web) - Actionable AI SDK for Web to enable text and voice conversations with actions  (JavaScript, React, Angular, Vue, Ember, Electron)
 - [yiisoft/docs](https://github.com/yiisoft/docs) - Various Yii 3.0 related documentation
 - [RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
-- [SimplifyJobs/Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships) - Collection of Summer 2023 & Summer 2024 tech internships!
+- [SimplifyJobs/Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships) - Collection of Summer 2024 tech internships!
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [merklefruit/SaaS4Devs](https://github.com/merklefruit/SaaS4Devs) - Awesome collection of content for developers trying to bootstrap their SaaS
@@ -3958,7 +3957,7 @@
 - [dastasoft/memory-game](https://github.com/dastasoft/memory-game) - Demo project to teach about Framer Motion animations on React projects.
 - [marakoss/sos-moto-app](https://github.com/marakoss/sos-moto-app) - SOS MOTO is a mobile application written in React Native that allows you to call a nearest contact from your GPS location to get a quick help. We have over 10k active users in Europe and steadily grow
 - [DoableDanny/NextJS-HarperDB-Task-Timer](https://github.com/DoableDanny/NextJS-HarperDB-Task-Timer) - Fullstack productivity timer app built with NextJS and HarperDB
-- [data-observe/datav](https://github.com/data-observe/datav) - 🦄 Fully Customizable and programmable observability platform.  🦄 Monitor your services using OpenTelemetry, eBPF and clickhouse. 🚀 Aggregate metrics on traces and logs to get a relevant view into busi
+- [observexio/observex](https://github.com/observexio/observex) - 🚀 Observe anything you want in your business and never miss any X factors .  🚀 One stop observability with powerful Grafana like UI, correlate deep into data.  💹 Get traces, logs and metrics from vari
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [danileao/permissions_users](https://github.com/danileao/permissions_users) - 
@@ -4189,6 +4188,7 @@
 - [wakatime/desktop](https://github.com/wakatime/desktop) - The Wakatime Desktop Application.
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
+- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.

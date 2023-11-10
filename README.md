@@ -1063,7 +1063,6 @@
 - [vdrmota/Social-Media-and-Contact-Info-Extractor](https://github.com/vdrmota/Social-Media-and-Contact-Info-Extractor) - Run this scraper for free: https://apify.com/vdrmota/contact-info-scraper
 - [lydiahallie/algo-data-structures](https://github.com/lydiahallie/algo-data-structures) - 🎉Common data structures and algorithms using JS.
 - [Phlow/feeling-responsive](https://github.com/Phlow/feeling-responsive) - »Feeling Responsive« is a free flexible theme for Jekyll built on Foundation framework. You can use it for your company site, as a portfolio or as a blog.
-- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [danjenkins/node-asterisk-ami](https://github.com/danjenkins/node-asterisk-ami) - Send and receive messages from the Asterisk Manager Interface via node.js
 - [vakila/functional-workshop](https://github.com/vakila/functional-workshop) - Intro to Functional Programming Workshop
 - [netlify-templates/nextjs-blog-theme](https://github.com/netlify-templates/nextjs-blog-theme) - A customizable Next.js and Tailwind blog starter. Designed by the Bejamas agency.
@@ -1455,7 +1454,7 @@
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [appium/appium-desktop](https://github.com/appium/appium-desktop) - Appium Server in Desktop GUIs for Mac, Windows, and Linux
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
-- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
+- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [nodeca/pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed
 - [nodeca/probe-image-size](https://github.com/nodeca/probe-image-size) - Get image size without full download. Supported image types: JPG, GIF, PNG, WebP, BMP, TIFF, SVG, PSD, ICO.
@@ -1849,7 +1848,7 @@
 - [cern-phone-apps/mobile-phone-app](https://github.com/cern-phone-apps/mobile-phone-app) - CERN Phone Mobile client. Multiplatform phone application compatible with Android and iOS.
 - [ionorg/ion-app-web](https://github.com/ionorg/ion-app-web) - ion web app
 - [voximplant/react-native-demo](https://github.com/voximplant/react-native-demo) - React Native Voximplant Demo
-- [socketio/engine.io-client](https://github.com/socketio/engine.io-client) - The engine used in the Socket.IO JavaScript client, which manages the low-level transports such as HTTP long-polling and WebSocket.
+- [socketio/engine.io-client](https://github.com/socketio/engine.io-client) - The engine used in the Socket.IO JavaScript client, which manages the low-level transports such as HTTP long-polling, WebSocket and WebTransport.
 - [parse-community/parse-server-example](https://github.com/parse-community/parse-server-example) - Example of Parse Server using the express framework.
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
@@ -3359,6 +3358,7 @@
 - [openai/DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E.
 - [geduldig/TwitterAPI](https://github.com/geduldig/TwitterAPI) - Minimal python wrapper for Twitter's REST and Streaming APIs
 - [rdegges/django-twilio](https://github.com/rdegges/django-twilio) - A simple library for building twilio-powered Django webapps.
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [tomitokko/20-python-projects](https://github.com/tomitokko/20-python-projects) - 
 - [alessandrolamberti/ocr_demo](https://github.com/alessandrolamberti/ocr_demo) - 
 - [aiogram/aiogram](https://github.com/aiogram/aiogram) - aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio
@@ -4579,7 +4579,7 @@
 - [briebug/cypress-schematic](https://github.com/briebug/cypress-schematic) - **⛔️  DEPRECATED** Add cypress to an Angular CLI project
 - [akopdev/ng-person](https://github.com/akopdev/ng-person) - A universal avatar component for Angular 2+ applications that generates truly unique colored letter avatar based on provided name.
 - [graphile/starter](https://github.com/graphile/starter) - Opinionated SaaS quick-start with pre-built user account and organization system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. Powered by PostGraphile, TypeScript, 
-- [stefanoslig/angular-ngrx-nx-realworld-example-app](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 17, NgRx 16, nrwl/nx 17
+- [stefanoslig/angular-ngrx-nx-realworld-example-app](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 17, NgRx 17, nrwl/nx 17
 - [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder) - Deploy your Angular app to netlify from CLI
 - [NileshPatel17/ng-multiselect-dropdown](https://github.com/NileshPatel17/ng-multiselect-dropdown) - Multiple Select Dropdown Component
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
@@ -4646,7 +4646,7 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [johnpapa/angular-preload-and-interceptors](https://github.com/johnpapa/angular-preload-and-interceptors) - 
-- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Git and Visual Editing
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [ARTHURPC03/GoFinancesWeb](https://github.com/ARTHURPC03/GoFinancesWeb) - Aplicação para gerenciar finanças, feito com React + TypeScript
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.

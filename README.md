@@ -972,6 +972,7 @@
 
 ## JavaScript 
 
+- [adrianhajdin/3D_portfolio](https://github.com/adrianhajdin/3D_portfolio) - Let's build a cool 3D website together! You'll learn how to make a portfolio with fun interactive parts, like a floating island and a fox that moves when you type. It'll allow you to show off your ski
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - The best free email forwarding for custom domains (Web Server)
 - [magneum/BloomBot](https://github.com/magneum/BloomBot) - Ⓒ𝐁𝐥𝐨𝐨𝐦𝐁𝐨𝐭🌻𝐌𝐮𝐥𝐭𝐢-𝐃𝐞𝐯𝐢𝐜𝐞: is a whatsapp user-bot with automation, moderation, music, games and 200+ commands!
 - [vitmalina/w2ui](https://github.com/vitmalina/w2ui) - UI widgets for modern apps. Data table, forms, toolbars, sidebar, tabs, tooltips, popups. All under 120kb (gzipped).
@@ -1933,7 +1934,7 @@
 - [jakezatecky/react-dual-listbox](https://github.com/jakezatecky/react-dual-listbox) - A feature-rich dual listbox for React.
 - [istvan-ujjmeszaros/bootstrap-duallistbox](https://github.com/istvan-ujjmeszaros/bootstrap-duallistbox) - Bootstrap Dual Listbox
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
-- [ImedAdel/automatic-gatsbyjs-app-landing-page](https://github.com/ImedAdel/automatic-gatsbyjs-app-landing-page) - Automatic GatsbyJS App Landing Page - Automatically generate iOS app landing page using GatsbyJS
+- [imedadel/automatic-gatsbyjs-app-landing-page](https://github.com/imedadel/automatic-gatsbyjs-app-landing-page) - Automatic GatsbyJS App Landing Page - Automatically generate iOS app landing page using GatsbyJS
 - [wonderfullandingpage/Technology-LandingPage](https://github.com/wonderfullandingpage/Technology-LandingPage) - A beautiful technology product website
 - [website-templates/design-studio_one-page-template](https://github.com/website-templates/design-studio_one-page-template) - Free responsive flat designed one page template
 - [wonderfullandingpage/mylandingpage](https://github.com/wonderfullandingpage/mylandingpage) - A react wonderful landingpage template
@@ -4779,7 +4780,7 @@
 - [GoodManWEN/GoodManWEN.github.io](https://github.com/GoodManWEN/GoodManWEN.github.io) - 📕 A website simulating linux system's GUI, using theme of Deepin distro. 网页模拟桌面
 - [creativetimofficial/vue-paper-dashboard](https://github.com/creativetimofficial/vue-paper-dashboard) - Creative Tim Paper Dashboard made for Vue
 - [harryho/vue-crm](https://github.com/harryho/vue-crm) - Simple reusable CRM built on Vue 2 PWA template and Vuetify UI
-- [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
+- [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3+Vite5+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
 - [swina/whoobe-one-studio](https://github.com/swina/whoobe-one-studio) - A visual component builder for TailwindCSS
 - [Kamona-WD/kui-laravel-jetstream](https://github.com/Kamona-WD/kui-laravel-jetstream) - Different UI for laravel/jetstream
 - [pratik227/quasar-qgrid](https://github.com/pratik227/quasar-qgrid) - QGrid is a Quasar App Extension.  It allows you to filter data for each column, Drag and Drop Rows and also allows you to filter data using header filters.

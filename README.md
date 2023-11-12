@@ -205,7 +205,7 @@
 - [obfuscar/obfuscar](https://github.com/obfuscar/obfuscar) - Open source obfuscation tool for .NET assemblies
 - [Tulpep/Active-Directory-Object-Picker](https://github.com/Tulpep/Active-Directory-Object-Picker) - The standard Active Directory object picker dialog for .NET
 - [AiursoftWeb/Infrastructures](https://github.com/AiursoftWeb/Infrastructures) - Mirror of: https://gitlab.aiursoft.cn/aiursoft/infrastructures
-- [AiursoftWeb/Kahla](https://github.com/AiursoftWeb/Kahla) - The server-side, home page, bot, and SDK repo for Kahla.
+- [AiursoftWeb/Kahla](https://github.com/AiursoftWeb/Kahla) - Mirror of https://gitlab.aiursoft.cn/aiursoft/Kahla
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [dotnet/ClangSharp](https://github.com/dotnet/ClangSharp) - Clang bindings for .NET written in C#
 - [peachpiecompiler/peachpie](https://github.com/peachpiecompiler/peachpie) - PeachPie - the PHP compiler and runtime for .NET and .NET Core
@@ -231,6 +231,7 @@
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [apache/mxnet](https://github.com/apache/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 - [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++
@@ -522,7 +523,6 @@
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [boojack/slash](https://github.com/boojack/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [DapperDox/dapperdox](https://github.com/DapperDox/dapperdox) - Beautiful, integrated, OpenAPI documentation.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
@@ -612,6 +612,7 @@
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [asticode/go-astilectron](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
 - [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 - [Velocidex/velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
@@ -1696,7 +1697,6 @@
 - [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [lukejacksonn/oceanwind](https://github.com/lukejacksonn/oceanwind) - Compiles tailwind shorthand into css at runtime. Succeeded by Twind.
 - [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
-- [bhj/KaraokeEternal](https://github.com/bhj/KaraokeEternal) - Open karaoke party system
 - [Temasys/AdapterJS](https://github.com/Temasys/AdapterJS) - AdapterJS Javascript Polyfill and Tools for WebRTC - Skylink WebRTC
 - [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [Mayank0255/Stackoverflow-Clone-Frontend](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend) - Clone project of a famous Q/A website for developers built using MySQL, Express, React, Node, Sequelize :globe_with_meridians:
@@ -2459,7 +2459,6 @@
 - [SimonMarquis/FCM-toolbox](https://github.com/SimonMarquis/FCM-toolbox) - 📲 Firebase Cloud Messaging toolbox
 - [owncloud/android](https://github.com/owncloud/android) - :phone: The ownCloud Android App
 - [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [frapontillo/EasyImage](https://github.com/frapontillo/EasyImage) - Library for picking pictures from gallery or camera
 - [android/compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
 - [android/uamp](https://github.com/android/uamp) - A sample audio app for Android
@@ -3869,7 +3868,7 @@
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer) - An all-round MQTT client that provides a structured topic overview
 - [brimdata/zui](https://github.com/brimdata/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠  Alternative to OpenAI GPTs & Your personal assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, Vertex
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share with u
 - [KYDronePilot/SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live geostationary weather satellite imagery for your desktop background
 - [wojtekmaj/date-utils](https://github.com/wojtekmaj/date-utils) - A collection of date-related utilities.
 - [orion3dgames/t5c](https://github.com/orion3dgames/t5c) - Building a open source multiplayer 3d rpg using babylon.js and colyseus
@@ -4269,6 +4268,7 @@
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [dineug/erd-editor](https://github.com/dineug/erd-editor) - Entity-Relationship Diagram Editor
 - [TowhidKashem/snapchat-clone](https://github.com/TowhidKashem/snapchat-clone) - 👻 A Snapchat clone built with React and Redux. Written in Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!
+- [bhj/KaraokeEternal](https://github.com/bhj/KaraokeEternal) - Open karaoke party system
 - [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) - 🔎 🏞 The original medium.com-inspired image zooming library for React (since 2016)
 - [infinitered/reactotron-core-ui](https://github.com/infinitered/reactotron-core-ui) - 
 - [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!

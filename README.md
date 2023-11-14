@@ -3542,7 +3542,6 @@
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [hexlet-basics/hexlet-basics](https://github.com/hexlet-basics/hexlet-basics) - Interactive Programming Courses
 - [fiedl/your_platform](https://github.com/fiedl/your_platform) - Administrative and social network platform for closed user groups.
-- [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG.
 - [kpumuk/meta-tags](https://github.com/kpumuk/meta-tags) - Search Engine Optimization (SEO) for Ruby on Rails applications.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [lucasgomide/videos-pt.br-tecnologia](https://github.com/lucasgomide/videos-pt.br-tecnologia) - Repositório de canais no Youtube BR sobre desenvolvimento
@@ -3728,6 +3727,7 @@
 - [fusionpbx/fusionpbx-install.sh](https://github.com/fusionpbx/fusionpbx-install.sh) - 
 - [ansible/ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applica
 - [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
+- [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG.
 - [andrius/asterisk](https://github.com/andrius/asterisk) - Asterisk PBX in Docker on Alpine Linux. Smallest Asterisk ever! ;)
 - [murilomagalhaes/vagrant-php-mssql](https://github.com/murilomagalhaes/vagrant-php-mssql) - A complete development environment for working with PHP and MS SQL Server. Based on Ubuntu 20.04 (Focal)
 - [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - 🤌🏻 Setup your MacOS for web development in few minutes.

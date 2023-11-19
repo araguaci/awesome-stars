@@ -445,7 +445,6 @@
 
 - [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB, Fastboot, and other Android tools on Linux, macOS, Chrome OS, and Windows
 - [syncfusion/flutter-examples](https://github.com/syncfusion/flutter-examples) - This repository contains the Syncfusion Flutter UI widgets examples and the guide to use them.
-- [darwin-morocho/flutter-facebook-auth](https://github.com/darwin-morocho/flutter-facebook-auth) - A flutter plugin to add login with facebook in your flutter app
 - [fluttertools/sidekick](https://github.com/fluttertools/sidekick) - A simple app to make Flutter development more delightful
 - [Roaa94/flutter_cool_toolbar](https://github.com/Roaa94/flutter_cool_toolbar) - 
 - [flutter-webrtc/flutter-webrtc-demo](https://github.com/flutter-webrtc/flutter-webrtc-demo) - Demo for flutter-webrtc
@@ -864,7 +863,7 @@
 - [tomsaleeba/test-data-site](https://github.com/tomsaleeba/test-data-site) - Various assets for testing websites (photos with EXIF, etc)
 - [tomsaleeba/browser-image-compression](https://github.com/tomsaleeba/browser-image-compression) - 
 - [JayKan/tabler-icons](https://github.com/JayKan/tabler-icons) - A set of over 550 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [coreui/coreui-free-angular-admin-template](https://github.com/coreui/coreui-free-angular-admin-template) - CoreUI Angular is free Angular 15 admin template based on Bootstrap 5
 - [deepu105/angular-clock](https://github.com/deepu105/angular-clock) - angular clock widget directive: Demo-
@@ -2026,7 +2025,6 @@
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [h5bp/create-html5-boilerplate](https://github.com/h5bp/create-html5-boilerplate) - npx quick start for html5-boilerplate
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [edankwan/quick-loader](https://github.com/edankwan/quick-loader) - quick-loader is an asset loader that loads everything
 - [aws-amplify/learn](https://github.com/aws-amplify/learn) - AWS Amplify Learn
 - [loiane/ext4-crud-mvc](https://github.com/loiane/ext4-crud-mvc) - BrazilJS Sample Project - Ext JS 4 CRUD MVC Example
@@ -2519,6 +2517,7 @@
 
 ## Objective-C 
 
+- [darwin-morocho/flutter-facebook-auth](https://github.com/darwin-morocho/flutter-facebook-auth) - A flutter plugin to add login with facebook in your flutter app
 - [yorkie/react-native-wechat](https://github.com/yorkie/react-native-wechat) - 🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)
 - [BelledonneCommunications/linphone-iphone](https://github.com/BelledonneCommunications/linphone-iphone) - Linphone is a free VoIP and video softphone based on the SIP protocol. Mirror of linphone-iphone (git://git.linphone.org/linphone-iphone.git)
 - [react-native-webrtc/react-native-voip-push-notification](https://github.com/react-native-webrtc/react-native-voip-push-notification) - React Native VoIP Push Notification - Currently iOS only
@@ -4453,6 +4452,7 @@
 - [ChristySchott/react-linkedin](https://github.com/ChristySchott/react-linkedin) - Clone do LinkedIn sendo desenvolvido em React
 - [rocketseat-content/youtube-clone-linkedin](https://github.com/rocketseat-content/youtube-clone-linkedin) - LinkedIn Feed UI Clone.
 - [allianz/ng-aquila](https://github.com/allianz/ng-aquila) - Angular UI Component library for the Open Insurance Platform
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [LauraBeatris/hotseat-api](https://github.com/LauraBeatris/hotseat-api) - Rest API of a barber shop application - Built with Express, TypeORM and Postgres
 - [LauraBeatris/gobarber-web](https://github.com/LauraBeatris/gobarber-web) - Manage appointments in barbershops - Built with React Native and Styled Components
 - [maykbrito/mini-video-me](https://github.com/maykbrito/mini-video-me) - 📹   A small webcam player focused on providing an easy way to add and control your webcam during recordings.

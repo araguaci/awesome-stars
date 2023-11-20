@@ -622,7 +622,6 @@
 - [apex/gh-polls](https://github.com/apex/gh-polls) - Polls for user feedback in GitHub issues
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
 - [docker/machine](https://github.com/docker/machine) - Machine management for a container-centric world
-- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
@@ -1328,7 +1327,6 @@
 - [supermedium/superframe](https://github.com/supermedium/superframe) - :package: A super collection of A-Frame components.
 - [supermedium/aframe-particleplayer-component](https://github.com/supermedium/aframe-particleplayer-component) - :sparkles: Play pre-simulated particle systems in A-Frame :boom:
 - [feross/simple-get](https://github.com/feross/simple-get) - Simplest way to make http get requests. Supports HTTPS, redirects, gzip/deflate, streams in &lt; 100 lines
-- [cezaraugusto/extension-create](https://github.com/cezaraugusto/extension-create) - (maintance) Create modern cross-browser extensions with no build configuration.
 - [cezaraugusto/You-Dont-Know-JS](https://github.com/cezaraugusto/You-Dont-Know-JS) - 📗📒 (PT-Br translation) JS Book Series.
 - [felipe-augusto/clean-code-javascript](https://github.com/felipe-augusto/clean-code-javascript) - Conceitos de Código Limpo adaptados em JavaScript (Tradução PT-BR)
 - [marcbruederlin/particles.js](https://github.com/marcbruederlin/particles.js) - A lightweight, dependency-free and responsive javascript plugin for particle backgrounds.
@@ -2485,7 +2483,7 @@
 - [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
 - [phuocng/frontend-tips](https://github.com/phuocng/frontend-tips) - Super tiny, quick tips, tricks and best practices of front-end development
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
-- [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
+- [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind, and Vercel.
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 - [wesbos/wesbos](https://github.com/wesbos/wesbos) - 
 - [styled-components/styled-components-website](https://github.com/styled-components/styled-components-website) - The styled-components website and documentation
@@ -4085,6 +4083,7 @@
 - [fkhadra/react-morphing-modal](https://github.com/fkhadra/react-morphing-modal) - React fullscreen modal with swag 😎
 - [fkhadra/react-contexify](https://github.com/fkhadra/react-contexify) - 👌 Add a context menu to your react app with ease
 - [hejny/Ukraine](https://github.com/hejny/Ukraine) - Help Ukraine - add ribbon with Ukraine flag into the website you manage, show the anti-war message to Russian users, or block them from your service.
+- [cezaraugusto/extension-create](https://github.com/cezaraugusto/extension-create) - (maintance) Create modern cross-browser extensions with no build configuration.
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in WebGL2
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [pablohen/covid](https://github.com/pablohen/covid) - Veja as estatísticas da Covid-19 de cada cidade do Brasil https://covid.pablohen.vercel.app.
@@ -4142,7 +4141,7 @@
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [Atyantik/react-pwa](https://github.com/Atyantik/react-pwa) - An upgradable boilerplate for Progressive web applications (PWA) with server side rendering, build with SEO in mind and achieving max page speed and optimized user experience.
-- [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Next.js stateless session utility using signed and encrypted cookies to store data. Also works with Express, and Node.js HTTP servers
+- [vvo/iron-session](https://github.com/vvo/iron-session) - 🛠 Secure, stateless, and cookie-based session library for JavaScript
 - [ritwickdey/vscode-live-server](https://github.com/ritwickdey/vscode-live-server) - Launch a development local Server with live reload feature for static & dynamic pages.
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [xlayers/xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design
@@ -4481,6 +4480,7 @@
 - [xieziyu/angular2-draggable](https://github.com/xieziyu/angular2-draggable) - Angular directive (for version &gt;= 2.x ) that makes the DOM element draggable and resizable
 - [Yamazaki93/MetroGit](https://github.com/Yamazaki93/MetroGit) - A git visualization tool that's more than just git
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
+- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website) - The Website and web infrastructure for learning TypeScript
 - [danrevah/ngx-pipes](https://github.com/danrevah/ngx-pipes) - ⚡️ Useful pipes for Angular with no external dependencies!
 - [softsimon/ngx-bootstrap-multiselect](https://github.com/softsimon/ngx-bootstrap-multiselect) - Angular 9+ Dropdown Multiselect Bootstrap

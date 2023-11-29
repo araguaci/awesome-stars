@@ -379,7 +379,7 @@
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
 - [spf13/hyde](https://github.com/spf13/hyde) - Port of Mdo's excellent theme to Hugo
 - [vorillaz/devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers
-- [maxogden/screencat](https://github.com/maxogden/screencat) - :cat2: webrtc screensharing electron app for mac os (Alpha)
+- [max-mapper/screencat](https://github.com/max-mapper/screencat) - :cat2: webrtc screensharing electron app for mac os (Alpha)
 - [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
 - [marcobrunodev/matching-game-live](https://github.com/marcobrunodev/matching-game-live) - 
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
@@ -522,7 +522,7 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
-- [boojack/slash](https://github.com/boojack/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily
+- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [DapperDox/dapperdox](https://github.com/DapperDox/dapperdox) - Beautiful, integrated, OpenAPI documentation.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
@@ -622,7 +622,6 @@
 - [apex/gh-polls](https://github.com/apex/gh-polls) - Polls for user feedback in GitHub issues
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
 - [docker/machine](https://github.com/docker/machine) - Machine management for a container-centric world
-- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
@@ -638,7 +637,6 @@
 
 ## HTML 
 
-- [azc5OQ/lemon-chat](https://github.com/azc5OQ/lemon-chat) - 
 - [google/docsy-example](https://github.com/google/docsy-example) - An example documentation site using the Docsy Hugo theme
 - [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
@@ -866,7 +864,7 @@
 - [JayKan/tabler-icons](https://github.com/JayKan/tabler-icons) - A set of over 550 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
-- [coreui/coreui-free-angular-admin-template](https://github.com/coreui/coreui-free-angular-admin-template) - CoreUI Angular is free Angular 15 admin template based on Bootstrap 5
+- [coreui/coreui-free-angular-admin-template](https://github.com/coreui/coreui-free-angular-admin-template) - CoreUI Angular is free Angular 17 admin template based on Bootstrap 5
 - [deepu105/angular-clock](https://github.com/deepu105/angular-clock) - angular clock widget directive: Demo-
 - [siddii/angular-timer](https://github.com/siddii/angular-timer) - re-usable/inter-operable AngularJS timer directive ⛺
 - [themesberg/neumorphism-ui-bootstrap](https://github.com/themesberg/neumorphism-ui-bootstrap) - Neumorphism inspired UI Kit: web components, sections and pages in neumorphic style built with Bootstrap CSS Framework
@@ -1194,7 +1192,6 @@
 - [LogRocket/redux-logger](https://github.com/LogRocket/redux-logger) - Logger for Redux
 - [yeoman/yo](https://github.com/yeoman/yo) - CLI tool for running Yeoman generators
 - [open-source-labs/Swell](https://github.com/open-source-labs/Swell) - Swell: API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL, gRPC, and tRPC..
-- [ringcentral/ringcentral-embeddable](https://github.com/ringcentral/ringcentral-embeddable) - RingCentral Embeddable widget
 - [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) - Detect Vue technologies running on a website ✨
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [kzahel/web-server-chrome](https://github.com/kzahel/web-server-chrome) - An HTTP Web Server for Chrome (chrome.sockets API)
@@ -1309,7 +1306,7 @@
 - [zombieFox/awesomeSheet](https://github.com/zombieFox/awesomeSheet) - Online Pathfinder Character Sheet
 - [zombieFox/hexagonTab](https://github.com/zombieFox/hexagonTab) - Hexagon bookmarks accented with a chosen colour. Customise the layout, style, background and bookmarks with hexagonTab.
 - [vonWolfehaus/von-grid](https://github.com/vonWolfehaus/von-grid) - Hexagonal & square tile grid system with three.js
-- [maxogden/hexbin](https://github.com/maxogden/hexbin) - community curated list of hexagon logos
+- [max-mapper/hexbin](https://github.com/max-mapper/hexbin) - community curated list of hexagon logos
 - [zya/apophenia](https://github.com/zya/apophenia) - you'll only see when you're looking. work in progress
 - [zya/beet.js](https://github.com/zya/beet.js) - Polyrhythmic Sequencer library for Web Audio API.
 - [aditya-r-m/twisty-polyhedra](https://github.com/aditya-r-m/twisty-polyhedra) - Permutation puzzles in shapes of the platonic solids with a generic polynomial time solver.
@@ -1964,8 +1961,8 @@
 - [h5o/h5o-js](https://github.com/h5o/h5o-js) - HTML5 outliner (JavaScript)
 - [Kilian/fromscratch](https://github.com/Kilian/fromscratch) - Autosaving Scratchpad. A simple but smart note-taking app
 - [Kilian/electron-to-chromium](https://github.com/Kilian/electron-to-chromium) - Provides a list of electron-to-chromium version mappings
-- [maxogden/extract-zip](https://github.com/maxogden/extract-zip) - Zip extraction written in pure JavaScript. Extracts a zip into a directory.
-- [maxogden/art-of-node](https://github.com/maxogden/art-of-node) - :snowflake: a short introduction to node.js
+- [max-mapper/extract-zip](https://github.com/max-mapper/extract-zip) - Zip extraction written in pure JavaScript. Extracts a zip into a directory.
+- [max-mapper/art-of-node](https://github.com/max-mapper/art-of-node) - :snowflake: a short introduction to node.js
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [microsoft/devops-project-samples](https://github.com/microsoft/devops-project-samples) - Sample applications for Azure DevOps Project
 - [webrtcHacks/adapter](https://github.com/webrtcHacks/adapter) - Shim to insulate apps from spec changes and prefix differences. Latest adapter.js release:
@@ -1983,7 +1980,7 @@
 - [WAClient/WALC](https://github.com/WAClient/WALC) - An unofficial WhatsApp Desktop client for linux systems.
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [tuhinpal/WhatsBot](https://github.com/tuhinpal/WhatsBot) - Modular Userbot for Whatsapp. Supports MultiDevice authentication on non persistent server.
-- [salesforce/lwc](https://github.com/salesforce/lwc) - :zap: LWC - A Blazing Fast, Enterprise-Grade Web Components Foundation
+- [salesforce/lwc](https://github.com/salesforce/lwc) - ⚡️ LWC - A Blazing Fast, Enterprise-Grade Web Components Foundation
 - [edumeet/edumeet](https://github.com/edumeet/edumeet) - edumeet - multiparty web-meetings using mediasoup and WebRTC
 - [ondras/wwwsqldesigner](https://github.com/ondras/wwwsqldesigner) - WWW SQL Designer, your online SQL diagramming tool
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
@@ -2786,7 +2783,6 @@
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
-- [leocavalcante/faq](https://github.com/leocavalcante/faq) - Answers for frequently asked questions
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [bradtraversy/A-to-Z-Resources-for-Students](https://github.com/bradtraversy/A-to-Z-Resources-for-Students) - Curated list of resources for college students :octocat: If you like give a :star:
 - [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
@@ -3564,6 +3560,7 @@
 ## Rust 
 
 - [harlanc/xiu](https://github.com/harlanc/xiu) - A simple, high performance and secure live media server in pure Rust (RTMP[cluster]/RTSP/WebRTC[whip/whep]/HTTP-FLV/HLS).🦀
+- [azc5OQ/lemon-chat](https://github.com/azc5OQ/lemon-chat) - 
 - [webrtc-rs/webrtc](https://github.com/webrtc-rs/webrtc) - A pure Rust implementation of WebRTC
 - [harlanc/rsfu](https://github.com/harlanc/rsfu) - A WebRTC SFU(Selective Forwarding Unit) in Rust.
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
@@ -3694,7 +3691,7 @@
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [centminmod/centminmod](https://github.com/centminmod/centminmod) - CentOS Shell menu based Nginx LEMP web stack auto installer (GPLv3 licensed)
 - [lukevers/mp4towebm](https://github.com/lukevers/mp4towebm) - Convert all mp4 files in current directory from mp4 to webm
-- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper Scripts
+- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [serverok/server-setup](https://github.com/serverok/server-setup) - Scripts for Debian/Ubuntu/CentOS server setup.
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
@@ -3820,7 +3817,7 @@
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format.
-- [haydenull/logseq-plugin-agenda](https://github.com/haydenull/logseq-plugin-agenda) - A calendar for logseq
+- [haydenull/logseq-plugin-agenda](https://github.com/haydenull/logseq-plugin-agenda) - A calendar, task manager and daily planner plugin for logseq
 - [amcharts/amcharts4](https://github.com/amcharts/amcharts4) - The most advanced amCharts charting library for JavaScript and TypeScript apps.
 - [lies-exposed/lies.exposed](https://github.com/lies-exposed/lies.exposed) - A chronological tracking of lies perpetrated against humanity.
 - [sodenn/2do-txt](https://github.com/sodenn/2do-txt) - todo.txt-compatible task manager
@@ -3867,7 +3864,7 @@
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer) - An all-round MQTT client that provides a structured topic overview
 - [brimdata/zui](https://github.com/brimdata/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your dumped files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your dumped files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you 
 - [KYDronePilot/SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live geostationary weather satellite imagery for your desktop background
 - [wojtekmaj/date-utils](https://github.com/wojtekmaj/date-utils) - A collection of date-related utilities.
 - [orion3dgames/t5c](https://github.com/orion3dgames/t5c) - Building a open source multiplayer 3d rpg using babylon.js and colyseus
@@ -3929,7 +3926,7 @@
 - [craftzdog/react-native-animated-todo](https://github.com/craftzdog/react-native-animated-todo) - Animated ToDo app built with React Native and Reanimated v2
 - [fonoster/webui](https://github.com/fonoster/webui) - The Web UI for Fonoster
 - [sanvishal/wrighter](https://github.com/sanvishal/wrighter) - Wrighter - A Powerful Markdown Blogger & A Writing Companion | write the (w)right way
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a modern Auth0 alternative for building identity infrastructure with minimal effort, for both your customers and their organizations.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Every app needs authentication and authorization. Logto is an Auth0 alternative designed for modern apps and SaaS products.
 - [shlinkio/shlink-web-client](https://github.com/shlinkio/shlink-web-client) - A React-based client application for Shlink
 - [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components
 - [naver/egjs-flicking](https://github.com/naver/egjs-flicking) - 🎠 ♻️ Everyday 30 million people experience. It's reliable, flexible and extendable carousel.
@@ -3962,7 +3959,7 @@
 - [dastasoft/memory-game](https://github.com/dastasoft/memory-game) - Demo project to teach about Framer Motion animations on React projects.
 - [marakoss/sos-moto-app](https://github.com/marakoss/sos-moto-app) - SOS MOTO is a mobile application written in React Native that allows you to call a nearest contact from your GPS location to get a quick help. We have over 10k active users in Europe and steadily grow
 - [DoableDanny/NextJS-HarperDB-Task-Timer](https://github.com/DoableDanny/NextJS-HarperDB-Task-Timer) - Fullstack productivity timer app built with NextJS and HarperDB
-- [xObserve/xObserve](https://github.com/xObserve/xObserve) - 🦄Production ready Observability , APM 🚀Observe everything you want in your business and never miss any X factors .   🚀 One stop observability with Grafana like UI,  more powerful and customizatble 💹 G
+- [xobserve/xobserve](https://github.com/xobserve/xobserve) - Observe any stack, any service and any data at anywhere,  using any UI style you prefer.
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [danileao/permissions_users](https://github.com/danileao/permissions_users) - 
@@ -3979,6 +3976,7 @@
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [redxzeta/Awesome-Adoption](https://github.com/redxzeta/Awesome-Adoption) - pet adoption near your area
+- [ringcentral/ringcentral-embeddable](https://github.com/ringcentral/ringcentral-embeddable) - RingCentral Embeddable widget
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [antfu/vitesse-lite](https://github.com/antfu/vitesse-lite) - ⛺️ Lightweight version of Vitesse
 - [antfu/vitesse-nuxt3](https://github.com/antfu/vitesse-nuxt3) - Vitesse for Nuxt 3 🏔💚⚡️
@@ -4457,7 +4455,7 @@
 - [LauraBeatris/gobarber-web](https://github.com/LauraBeatris/gobarber-web) - Manage appointments in barbershops - Built with React Native and Styled Components
 - [maykbrito/mini-video-me](https://github.com/maykbrito/mini-video-me) - 📹   A small webcam player focused on providing an easy way to add and control your webcam during recordings.
 - [rocketseat-content/youtube-clone-tesla-homepage](https://github.com/rocketseat-content/youtube-clone-tesla-homepage) - Tesla Homepage UI Clone
-- [owncloud/web](https://github.com/owncloud/web) - :dragon_face: Next generation frontend for ownCloud 10 and Infinite Scale
+- [owncloud/web](https://github.com/owncloud/web) - :dragon_face: Next generation frontend for ownCloud Infinite Scale
 - [parlametria/leggo-painel](https://github.com/parlametria/leggo-painel) - 
 - [parlametria/perfil-parlamentar](https://github.com/parlametria/perfil-parlamentar) - Compatibilidade entre eleitor e os candidatos a Deputado Federal com base na Agenda Brasil Sustentável
 - [fullcalendar/fullcalendar-workspace](https://github.com/fullcalendar/fullcalendar-workspace) - Premium full-sized drag & drop calendar & scheduler in JavaScript
@@ -4481,6 +4479,7 @@
 - [xieziyu/angular2-draggable](https://github.com/xieziyu/angular2-draggable) - Angular directive (for version &gt;= 2.x ) that makes the DOM element draggable and resizable
 - [Yamazaki93/MetroGit](https://github.com/Yamazaki93/MetroGit) - A git visualization tool that's more than just git
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
+- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website) - The Website and web infrastructure for learning TypeScript
 - [danrevah/ngx-pipes](https://github.com/danrevah/ngx-pipes) - ⚡️ Useful pipes for Angular with no external dependencies!
 - [softsimon/ngx-bootstrap-multiselect](https://github.com/softsimon/ngx-bootstrap-multiselect) - Angular 9+ Dropdown Multiselect Bootstrap
@@ -4614,7 +4613,7 @@
 - [iamhosseindhv/notistack](https://github.com/iamhosseindhv/notistack) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other
 - [troyanskiy/ngx-resource](https://github.com/troyanskiy/ngx-resource) - Resource (REST) Client for Angular 2
 - [komarovalexander/ka-table](https://github.com/komarovalexander/ka-table) - Lightweight MIT React Table component with Sorting, Filtering, Grouping, Virtualization, Editing and many more
-- [maxogden/menubar](https://github.com/maxogden/menubar) - ➖ high level way to create menubar desktop applications with electron
+- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [Sage/carbon](https://github.com/Sage/carbon) - Carbon by Sage | ReactJS UI Component Library
 - [esvit/ng-table](https://github.com/esvit/ng-table) - Simple table with sorting and filtering on AngularJS

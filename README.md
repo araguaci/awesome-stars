@@ -489,7 +489,7 @@
 - [docker-library/redis](https://github.com/docker-library/redis) - Docker Official Image packaging for Redis
 - [monicahq/docker](https://github.com/monicahq/docker) - docker image of Monica
 - [swoole/docker-swoole](https://github.com/swoole/docker-swoole) - 🏄 Official Docker Image of Swoole
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023)
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 
 ## EJS 
@@ -521,7 +521,7 @@
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
+- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [DapperDox/dapperdox](https://github.com/DapperDox/dapperdox) - Beautiful, integrated, OpenAPI documentation.
@@ -530,7 +530,7 @@
 - [gocopper/copper](https://github.com/gocopper/copper) - 🚀‏‏‎    ‎‏‏‎‏‏‎‎‎‎‎‎Copper is a Go toolkit complete with everything you need to build web apps.
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [openservicemesh/osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microser
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering team.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab for database DevOps
 - [CyCoreSystems/ari](https://github.com/CyCoreSystems/ari) - Golang Asterisk REST Interface (ARI) library
 - [flashmob/go-guerrilla](https://github.com/flashmob/go-guerrilla) - Mini SMTP server written in golang
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
@@ -806,7 +806,6 @@
 - [hermanzdosilovic/online-compiler](https://github.com/hermanzdosilovic/online-compiler) - Online compiler written in less than 200 lines of code.
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 - [cunhasbia/single-page-application](https://github.com/cunhasbia/single-page-application) - ✔️ a simple SPA that validates a login and shows the content page through javascript and DOM manipulation.
-- [Timoteoo/log-user-actions](https://github.com/Timoteoo/log-user-actions) - Basic app that logs to the database some things that the user do, such as login dates, amount of times that some user logged in...
 - [rocketseat-content/youtube-git-guia-pratico-iniciante](https://github.com/rocketseat-content/youtube-git-guia-pratico-iniciante) - 
 - [720kb/angular-socialshare](https://github.com/720kb/angular-socialshare) - Angular social share module, share urls and content on social networks such as facebook, google+, twitter, pinterest and more ... - http://720kb.github.io/angular-socialshare
 - [sindresorhus/screenfull](https://github.com/sindresorhus/screenfull) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
@@ -1647,7 +1646,7 @@
 - [mawie81/electron-window-state](https://github.com/mawie81/electron-window-state) - A library to store and restore window sizes and positions for your Electron app
 - [ykob/sketch-threejs](https://github.com/ykob/sketch-threejs) - Interactive sketches made with three.js.
 - [Kamona-WD/starter-dashboard-layout-vue](https://github.com/Kamona-WD/starter-dashboard-layout-vue) - Starter responsive dashboard layout using tailwindcss & vue 3 (vitejs)
-- [rodrigorgtic/image360viewer](https://github.com/rodrigorgtic/image360viewer) - 📱⚛ 🔄 The Image360Viewer has support for React Native CLI and Expo. This library allows the user to explore and have the freedom to view all product details in 360 degrees.
+- [orodrigogo/image360viewer](https://github.com/orodrigogo/image360viewer) - 📱⚛ 🔄 The Image360Viewer has support for React Native CLI and Expo. This library allows the user to explore and have the freedom to view all product details in 360 degrees.
 - [wagerfield/flat-surface-shader](https://github.com/wagerfield/flat-surface-shader) - Flat Surface Shader for rendering illuminated triangles
 - [reactioncommerce/reaction](https://github.com/reactioncommerce/reaction) - Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
@@ -1825,8 +1824,8 @@
 - [cunhasbia/to-do-list](https://github.com/cunhasbia/to-do-list) - to-do list application adapted by me, based on a simple project developed for studies during the Javascript Starter course offered by Rocketseat.
 - [cunhasbia/dragons-frontend](https://github.com/cunhasbia/dragons-frontend) - Dragons is a front end application developed with Reactjs that consumes data from Dragons API, and also consumes a login API for authentication to access the app.
 - [mayeaux/nodetube](https://github.com/mayeaux/nodetube) - Open-source YouTube alternative that offers video, audio and image uploads, livestreaming and built-in monetization
-- [rodrigorgtic/cactus-mobile](https://github.com/rodrigorgtic/cactus-mobile) - :iphone: Aplicativo em React Native com efeitos visuais e animações. :tada:
-- [rodrigorgtic/im-mobile](https://github.com/rodrigorgtic/im-mobile) - :iphone:    (WIP - :construction:) IM é um aplicativo mobile para os apaixonados por filmes. Com ele, é possível organizar seus filmes favoritos e marcar quais você já assistiu. É um projeto que eu cr
+- [orodrigogo/cactus-mobile](https://github.com/orodrigogo/cactus-mobile) - :iphone: Aplicativo em React Native com efeitos visuais e animações. :tada:
+- [orodrigogo/im-mobile](https://github.com/orodrigogo/im-mobile) - :iphone:    (WIP - :construction:) IM é um aplicativo mobile para os apaixonados por filmes. Com ele, é possível organizar seus filmes favoritos e marcar quais você já assistiu. É um projeto que eu cr
 - [filipedeschamps/video-maker](https://github.com/filipedeschamps/video-maker) - Projeto open source para fazer vídeos automatizados
 - [felipefialho/piano](https://github.com/felipefialho/piano) - 🎹 To play piano using CSS and JavaScript
 - [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites. http://browsersync.io
@@ -2388,7 +2387,7 @@
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [nadbm/react-datasheet](https://github.com/nadbm/react-datasheet) - Excel-like data grid (table) component for React
 - [dollarshaveclub/shave](https://github.com/dollarshaveclub/shave) - 💈 Shave is a 0 dep JS plugin that truncates text to fit within an element based on a set max-height  ✁
-- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [vdw/Tabslet](https://github.com/vdw/Tabslet) - Yet another jQuery plugin for tabs, lightweight, easy to use, mobile-friendly and with some extra features.
 - [qrohlf/trianglify](https://github.com/qrohlf/trianglify) - Algorithmically generated triangle art
 - [prashantchaudhary/ddslick](https://github.com/prashantchaudhary/ddslick) - A free light weight jQuery plugin that allows you to create a custom drop down with images and description.
@@ -3010,7 +3009,7 @@
 - [yiisoft/db-mssql](https://github.com/yiisoft/db-mssql) - MSSQL Server driver for Yii Database
 - [miladrahimi/phpcrypt](https://github.com/miladrahimi/phpcrypt) - Encryption, decryption, and password hashing tools for PHP projects
 - [miladrahimi/phprouter](https://github.com/miladrahimi/phprouter) - PhpRouter is a powerful, and very fast HTTP URL router for PHP projects
-- [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) - CryptoJS 3.x AES encryption/decryption on client side with Javascript and on server side with PHP
+- [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) - CryptoJS AES encryption/decryption on client side with Javascript and on server side with PHP
 - [phpseclib/phpseclib](https://github.com/phpseclib/phpseclib) - PHP Secure Communications Library
 - [ADOdb/ADOdb](https://github.com/ADOdb/ADOdb) - ADOdb is a PHP database class library that provides powerful abstractions for performing queries and managing databases. ADOdb also hides the differences between DB engines so you can easily switch th
 - [microsoft/msphpsql](https://github.com/microsoft/msphpsql) - Microsoft Drivers for PHP for SQL Server
@@ -3633,7 +3632,7 @@
 - [nasa/api-docs](https://github.com/nasa/api-docs) - api.nasa.gov
 - [compostrap/sidebar-menu](https://github.com/compostrap/sidebar-menu) - :page_with_curl: Simple and fast multi-level sidebar menu on Bootstrap (@twbs)
 - [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers
-- [rodrigorgtic/spiderman-frontend](https://github.com/rodrigorgtic/spiderman-frontend) - 🕷️ Front-end desenvolvido com a finalidade de estudos de responsividade, efeitos e boas práticas de criação de front-end.
+- [orodrigogo/spiderman-frontend](https://github.com/orodrigogo/spiderman-frontend) - 🕷️ Front-end desenvolvido com a finalidade de estudos de responsividade, efeitos e boas práticas de criação de front-end.
 - [hydecorp/hydejack](https://github.com/hydecorp/hydejack) - A boutique Jekyll theme for hackers, nerds, and academics
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 - [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design UI KIT
@@ -3698,7 +3697,7 @@
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [ryanoasis/public-bash-scripts](https://github.com/ryanoasis/public-bash-scripts) - Bash Scripts that I can share publicly
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
-- [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ WireGuard-Manager allows you to effortlessly set up and manage your own VPN in under a minute.
+- [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ WireGuard-Manager is an innovative tool designed to streamline the deployment and management of WireGuard VPNs. Emphasizing user-friendliness and security, it simplifies the complexities of VPN con
 - [plone/plone-backend](https://github.com/plone/plone-backend) - Plone backend Docker images using Python 3 and pip.
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [DamionGans/ubuntu-wsl2-systemd-script](https://github.com/DamionGans/ubuntu-wsl2-systemd-script) - [Does not work anymore!] Script to enable systemd support on current Ubuntu WSL2 images
@@ -3864,7 +3863,7 @@
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer) - An all-round MQTT client that provides a structured topic overview
 - [brimdata/zui](https://github.com/brimdata/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your dumped files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you 
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant ⚡️🤖 Chat with your files (PDF, CSV, ...)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share wi
 - [KYDronePilot/SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live geostationary weather satellite imagery for your desktop background
 - [wojtekmaj/date-utils](https://github.com/wojtekmaj/date-utils) - A collection of date-related utilities.
 - [orion3dgames/t5c](https://github.com/orion3dgames/t5c) - Building a open source multiplayer 3d rpg using babylon.js and colyseus
@@ -4072,7 +4071,7 @@
 - [GetStream/stream-chat-react](https://github.com/GetStream/stream-chat-react) - React Chat SDK ➜ Stream Chat 💬
 - [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A redesign of Nodejs.org built using Gatsby.js with React.js, TypeScript, and Remark.
 - [xmlking/ngx-starter-kit](https://github.com/xmlking/ngx-starter-kit) - :a: Angular :rocket: NestJS :monkey: Starter Kit
-- [rodrigorgtic/decode-savepass](https://github.com/rodrigorgtic/decode-savepass) - Aplicação utilizada na live decode sobre Criando um App utilizando armazenamento local no React Native.
+- [orodrigogo/decode-savepass](https://github.com/orodrigogo/decode-savepass) - Aplicação utilizada na live decode sobre Criando um App utilizando armazenamento local no React Native.
 - [oleksiikhr/vue-stripe-menu](https://github.com/oleksiikhr/vue-stripe-menu) - Creating a navigation menu with animations like on Stripe
 - [electron/update-electron-app](https://github.com/electron/update-electron-app) - 🌲 A drop-in module that adds autoUpdating capabilities to Electron apps
 - [ChangoMan/web3modal-example](https://github.com/ChangoMan/web3modal-example) - Example using web3modal and Next.js
@@ -4241,8 +4240,8 @@
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [electron-userland/electron-wix-msi](https://github.com/electron-userland/electron-wix-msi) - :dvd: Create traditional MSI installers for your Electron app
-- [rodrigorgtic/gobarber-web-ts](https://github.com/rodrigorgtic/gobarber-web-ts) - :computer: :iphone: Plataforma Web para barbeiros gerenciar seus clientes e agendamentos em ReactJs.
-- [rodrigorgtic/cookapp](https://github.com/rodrigorgtic/cookapp) - 
+- [orodrigogo/gobarber-web-ts](https://github.com/orodrigogo/gobarber-web-ts) - :computer: :iphone: Plataforma Web para barbeiros gerenciar seus clientes e agendamentos em ReactJs.
+- [orodrigogo/cookapp](https://github.com/orodrigogo/cookapp) - 
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [Rocketseat/umbriel](https://github.com/Rocketseat/umbriel) - 📪  Mail sending microservice with Node.js, TypeScript and MongoDB
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
@@ -4349,7 +4348,7 @@
 - [eduardorerick/letmeask](https://github.com/eduardorerick/letmeask) - Aplicação que me garantiu uma bolsa de estudos no Ignite! Desenvolvida durante a NLW com outras funcionalidades adicionadas por mim.
 - [moaijs/moai](https://github.com/moaijs/moai) - A React component library, where buttons look like buttons🗿
 - [Atom-Learning/components](https://github.com/Atom-Learning/components) - A collection of generic React components built using stitches, including components that cover layout, content, data collection, media and a host of other UI concerns.
-- [rodrigorgtic/minha-carteira-dashboard](https://github.com/rodrigorgtic/minha-carteira-dashboard) - :bar_chart: :chart_with_upwards_trend: Dashboard desenvolvido com ReactJs, TypeScript com boas práticas de desenvolvimento e performance.
+- [orodrigogo/minha-carteira-dashboard](https://github.com/orodrigogo/minha-carteira-dashboard) - :bar_chart: :chart_with_upwards_trend: Dashboard desenvolvido com ReactJs, TypeScript com boas práticas de desenvolvimento e performance.
 - [marconwillian/letmeask](https://github.com/marconwillian/letmeask) - Projeto desenvolvido na NextLevelWeek #Together.
 - [je4npw/LetMeAsk](https://github.com/je4npw/LetMeAsk) - Projeto para NLW - Rocketseat - feito em React - Instrutor dieegosf
 - [guilhermecapitao/letmeask](https://github.com/guilhermecapitao/letmeask) - This is a project developed during the Next Level Week Together, presented by Rocketseat during June 2021.
@@ -4634,7 +4633,7 @@
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive Database for JavaScript Applications https://rxdb.info/
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [google-home/smart-home-local](https://github.com/google-home/smart-home-local) - Local Home SDK sample
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.

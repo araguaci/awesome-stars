@@ -3277,6 +3277,7 @@
 
 ## Python 
 
+- [biglinux/bigbashview](https://github.com/biglinux/bigbashview) - BigBashView is a script to run Bash+HTML in a Desktop WebView.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [PyMySQL/mysqlclient](https://github.com/PyMySQL/mysqlclient) - MySQL database connector for Python (with Python 3 support)
 - [SociallyIneptWeeb/AICoverGen](https://github.com/SociallyIneptWeeb/AICoverGen) - A WebUI to create song covers with any RVC v2 trained AI voice from YouTube videos or audio files.
@@ -4012,7 +4013,7 @@
 - [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
 - [amilajack/erb-sqlite-example](https://github.com/amilajack/erb-sqlite-example) - An example of erb with native dependencies (sqlite3 in this case)
-- [vuepress/vuepress-next](https://github.com/vuepress/vuepress-next) - Repo for VuePress 2
+- [vuepress/vuepress-next](https://github.com/vuepress/vuepress-next) - VuePress Core
 - [daniloab/graphql-real-world-server](https://github.com/daniloab/graphql-real-world-server) - Nodejs GraphQL server that represents the talk built for Paraiba.js edition https://daniloab.github.io/graphql-real-world/#0
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex live web creation, free/libre no-code website builder, next gen Webflow for the static web

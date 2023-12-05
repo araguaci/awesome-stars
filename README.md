@@ -2534,7 +2534,7 @@
 - [alexanyernas/Biblioteca](https://github.com/alexanyernas/Biblioteca) - Colección de libros recomendados en formato PDF que he realizado para ti y así puedas mejorar tus habilidades como programador. Recuerda, siempre disfruta del aprendizaje.
 - [btw-so/open-source-alternatives](https://github.com/btw-so/open-source-alternatives) - List of open-source alternatives to everyday SaaS products.
 - [LaravelDaily/laravel-tips](https://github.com/LaravelDaily/laravel-tips) - Awesome tips for Laravel
-- [sirredbeard/Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
+- [sirredbeard/awesome-unix](https://github.com/sirredbeard/awesome-unix) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [araguaci/floripasupcamp.com.br](https://github.com/araguaci/floripasupcamp.com.br) - 🚧 working in progress 🚧
 - [araguaci/araguaci](https://github.com/araguaci/araguaci) - IMPEDIMENTUM BELLUM SEMPER B E   D O N E   G O D ' S   W I L L
 - [araguaci/lorentz-monitor](https://github.com/araguaci/lorentz-monitor) - 🚧 working in progress 🚧
@@ -2554,7 +2554,7 @@
 - [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and op
 - [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) - This repo contains samples that demonstrate the API used in Windows classic desktop applications.
 - [mishamosher/CentOS-WSL](https://github.com/mishamosher/CentOS-WSL) - A GitHub Actions automated CentOS RootFS to use with WSL
-- [sirredbeard/Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
+- [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
 - [iuricode/padroes-de-commits](https://github.com/iuricode/padroes-de-commits) - Padrões de commits
 - [codecon-dev/awesome-communities-and-events-tech-brazil](https://github.com/codecon-dev/awesome-communities-and-events-tech-brazil) - Uma curadoria de comunidades e eventos tech incríveis para você participar.
 - [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
@@ -3813,6 +3813,7 @@
 
 ## TypeScript 
 
+- [css-hooks/css-hooks](https://github.com/css-hooks/css-hooks) - Hook into advanced CSS features from native inline styles.
 - [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:

@@ -81,7 +81,7 @@
 
 - [paabloLC/astro-neumorphism](https://github.com/paabloLC/astro-neumorphism) - A simple and responsive template focused on the entire UI design style with neumorphism styles. Built with AstroJS, TypeScript, Preact, and styled with Tailwind CSS.
 - [Ultramarine-Linux/website](https://github.com/Ultramarine-Linux/website) - Website for the Ultramarine Linux Project made with Astro and TailwindCSS
-- [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 3.0 and Tailwind CSS. Astro starter theme.
+- [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme.
 - [livebook-dev/livebook.dev](https://github.com/livebook-dev/livebook.dev) - Landing page for Livebook
 - [CSS-Tricks/serverless](https://github.com/CSS-Tricks/serverless) - The Power of Serverless for Front-End Developers
 - [roadmapsh/next.roadmap.sh](https://github.com/roadmapsh/next.roadmap.sh) - Next version of roadmap.sh
@@ -116,7 +116,7 @@
 - [greensoftwarelab/Energy-Languages](https://github.com/greensoftwarelab/Energy-Languages) - The complete set of tools for energy consumption analysis of programming languages, using Computer Language Benchmark Game
 - [lurcher/unixODBC](https://github.com/lurcher/unixODBC) - The unixODBC Project goals are to develop and promote unixODBC to be the definitive standard for ODBC on non MS Windows platforms.
 - [sqlite/sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree
-- [nadirhamid/asterisk-audiofork](https://github.com/nadirhamid/asterisk-audiofork) - Forks a raw audio stream to a WS server
+- [nadirhamid/asterisk-audiofork](https://github.com/nadirhamid/asterisk-audiofork) - Stream Asterisk audio over Websockets
 - [WireGuard/wireguard-linux](https://github.com/WireGuard/wireguard-linux) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-linux
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [CoSMoSoftware/OBS-studio-webrtc](https://github.com/CoSMoSoftware/OBS-studio-webrtc) - This is a fork of OBS-studio with generic support for webrtc. It leverages the same webrtc implementation most browsers use.
@@ -486,7 +486,6 @@
 - [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) v8+ on Docker with Compose. Pre-configured out of the box to enable Logging, Metrics, APM, Alerting, ML, and SIEM features. Up with a Single Command.
 - [fam4r/docker-3cx](https://github.com/fam4r/docker-3cx) - Dockerfile (and compose) for 3CX https://www.3cx.com
 - [P3TERX/Aria2-Pro-Docker](https://github.com/P3TERX/Aria2-Pro-Docker) - Aria2 Pro | A perfect Aria2 Docker image | 更好用的 Aria2 Docker 容器镜像
-- [docker-library/redis](https://github.com/docker-library/redis) - Docker Official Image packaging for Redis
 - [monicahq/docker](https://github.com/monicahq/docker) - docker image of Monica
 - [swoole/docker-swoole](https://github.com/swoole/docker-swoole) - 🏄 Official Docker Image of Swoole
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023)
@@ -516,6 +515,7 @@
 
 ## Go 
 
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
@@ -637,6 +637,7 @@
 
 ## HTML 
 
+- [adeyosemanputra/pygoat](https://github.com/adeyosemanputra/pygoat) - intentionally vuln web Application Security in django
 - [google/docsy-example](https://github.com/google/docsy-example) - An example documentation site using the Docsy Hugo theme
 - [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
@@ -1674,7 +1675,7 @@
 - [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [trungdq88/github-explorer](https://github.com/trungdq88/github-explorer) - Progressive Web Apps experiment
 - [lwsjs/local-web-server](https://github.com/lwsjs/local-web-server) - A lean, modular web server for rapid full-stack development.
-- [gokulkrishh/qrcodescan.in](https://github.com/gokulkrishh/qrcodescan.in) - 📠 A simple, fast, and useful progressive web application.
+- [gokulkrishh/qrcodescan.in](https://github.com/gokulkrishh/qrcodescan.in) - QR Code Scanner is the fastest and most user-friendly web application.
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [AmruthPillai/ResumeOnTheWeb-Gatsby](https://github.com/AmruthPillai/ResumeOnTheWeb-Gatsby) - Everyone needs their own little spot on the interwebs, and this is mine. Welcome to my resume, on the web!
@@ -1698,7 +1699,6 @@
 - [manikandanraji/youtubeclone-frontend](https://github.com/manikandanraji/youtubeclone-frontend) - Youtube Clone Frontend (React + Redux)
 - [MattMcFarland/react-darkroom](https://github.com/MattMcFarland/react-darkroom) - An HTML5 Image Editing Component built with ReactJS
 - [kylewetton/image-compare-viewer](https://github.com/kylewetton/image-compare-viewer) - Compare before and after images, for grading and other retouching for instance. Vanilla JS, zero dependencies.
-- [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 - [yangshun/tree-node-cli](https://github.com/yangshun/tree-node-cli) - 🌲 Node.js library to list the contents of directories in a tree-like format, similar to the Linux tree command
 - [grab/front-end-guide](https://github.com/grab/front-end-guide) - 📚 Study guide and introduction to the modern front end stack.
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
@@ -2803,6 +2803,8 @@
 
 ## PHP 
 
+- [craftcms/cms](https://github.com/craftcms/cms) - Build bespoke content experiences with Craft.
+- [kartik-v/yii2-grid](https://github.com/kartik-v/yii2-grid) - Enhanced GridView with various utilities for Yii Framework 2.0
 - [cytopia/devilbox](https://github.com/cytopia/devilbox) - A modern Docker LAMP stack and MEAN stack for local development
 - [WyriHaximusNet/docker-php](https://github.com/WyriHaximusNet/docker-php) - Opinionated PHP Docker images
 - [area17/twill](https://github.com/area17/twill) - Twill is an open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible. Chat with us on Discord at https://discord.gg/cnWk
@@ -3250,7 +3252,7 @@
 - [MicrosoftDocs/windows-itpro-docs](https://github.com/MicrosoftDocs/windows-itpro-docs) - This repository is used for Windows client for IT Pro content on Microsoft Learn.
 - [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
-- [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10+.
+- [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [MicrosoftDocs/PowerShell-Docs](https://github.com/MicrosoftDocs/PowerShell-Docs) - The official PowerShell documentation sources
 - [dataplat/dbatools](https://github.com/dataplat/dbatools) - 🚀 SQL Server automation and instance migrations have never been safer, faster or freer
@@ -3276,6 +3278,7 @@
 
 ## Python 
 
+- [dpgaspar/Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome
 - [biglinux/bigbashview](https://github.com/biglinux/bigbashview) - BigBashView is a script to run Bash+HTML in a Desktop WebView.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [PyMySQL/mysqlclient](https://github.com/PyMySQL/mysqlclient) - MySQL database connector for Python (with Python 3 support)
@@ -3381,7 +3384,7 @@
 - [dogsheep/github-to-sqlite](https://github.com/dogsheep/github-to-sqlite) - Save data from GitHub to a SQLite database
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
@@ -3588,7 +3591,7 @@
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
@@ -3666,6 +3669,7 @@
 
 ## Shell 
 
+- [cyverse-vice/kasm-ubuntu](https://github.com/cyverse-vice/kasm-ubuntu) - Ubuntu Desktops running KASM VNC
 - [joglomedia/LEMPer](https://github.com/joglomedia/LEMPer) - LEMPer Stack is terminal-based LEMP / LNMP installer and manager for Debian & Ubuntu cloud or virtual server (vps) and on-premise (bare metal).
 - [kasmtech/workspaces-images](https://github.com/kasmtech/workspaces-images) - 
 - [kasmtech/workspaces-core-images](https://github.com/kasmtech/workspaces-core-images) - 
@@ -3726,7 +3730,7 @@
 - [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG.
 - [andrius/asterisk](https://github.com/andrius/asterisk) - Asterisk PBX in Docker on Alpine Linux. Smallest Asterisk ever! ;)
 - [murilomagalhaes/vagrant-php-mssql](https://github.com/murilomagalhaes/vagrant-php-mssql) - A complete development environment for working with PHP and MS SQL Server. Based on Ubuntu 20.04 (Focal)
-- [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - 🤌🏻 Setup your MacOS for web development in few minutes.
+- [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - Setup your MacOS for web development in few minutes.
 - [CrunchyData/crunchy-containers](https://github.com/CrunchyData/crunchy-containers) - Containers for Managing PostgreSQL on Kubernetes by Crunchy Data
 - [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
 - [codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart) - Guia rápido do WSL2 + Docker
@@ -3754,6 +3758,7 @@
 - [havfo/WEBRTC-to-SIP](https://github.com/havfo/WEBRTC-to-SIP) - Setup for a WEBRTC client and Kamailio server to call SIP clients
 - [teamatldocker/jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
+- [docker-library/redis](https://github.com/docker-library/redis) - Docker Official Image packaging for Redis
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [mmazzarolo/alfred-jira-search](https://github.com/mmazzarolo/alfred-jira-search) - An Alfred workflow to search for Jira tickets
@@ -3812,6 +3817,7 @@
 
 ## TypeScript 
 
+- [quenti-io/quenti](https://github.com/quenti-io/quenti) - The modern learning platform designed to let you study anything.
 - [css-hooks/css-hooks](https://github.com/css-hooks/css-hooks) - Hook into advanced CSS features from native inline styles.
 - [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
@@ -3959,7 +3965,7 @@
 - [dastasoft/memory-game](https://github.com/dastasoft/memory-game) - Demo project to teach about Framer Motion animations on React projects.
 - [marakoss/sos-moto-app](https://github.com/marakoss/sos-moto-app) - SOS MOTO is a mobile application written in React Native that allows you to call a nearest contact from your GPS location to get a quick help. We have over 10k active users in Europe and steadily grow
 - [DoableDanny/NextJS-HarperDB-Task-Timer](https://github.com/DoableDanny/NextJS-HarperDB-Task-Timer) - Fullstack productivity timer app built with NextJS and HarperDB
-- [xobserve/xobserve](https://github.com/xobserve/xobserve) - Observe any stack, any service and any data at anywhere,  using any UI style you prefer.
+- [xobserve/xobserve](https://github.com/xobserve/xobserve) - Observe any stack, any service and any data at anywhere,  using any UI style you prefer. Apache2.0 forever !
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [danileao/permissions_users](https://github.com/danileao/permissions_users) - 
@@ -4269,6 +4275,7 @@
 - [bhj/KaraokeEternal](https://github.com/bhj/KaraokeEternal) - Open karaoke party system
 - [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) - 🔎 🏞 The original medium.com-inspired image zooming library for React (since 2016)
 - [infinitered/reactotron-core-ui](https://github.com/infinitered/reactotron-core-ui) - 
+- [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 - [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [livekit/client-sdk-js](https://github.com/livekit/client-sdk-js) - LiveKit browser client SDK (javascript)

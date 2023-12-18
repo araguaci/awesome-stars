@@ -445,6 +445,7 @@
 
 ## Dart 
 
+- [naoxio/inner_breeze](https://github.com/naoxio/inner_breeze) - Guided breathing meditation app based on the Wim Hof breathing method.
 - [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB, Fastboot, and other Android tools on Linux, macOS, Chrome OS, and Windows
 - [syncfusion/flutter-examples](https://github.com/syncfusion/flutter-examples) - This repository contains the Syncfusion Flutter UI widgets examples and the guide to use them.
 - [fluttertools/sidekick](https://github.com/fluttertools/sidekick) - A simple app to make Flutter development more delightful
@@ -974,6 +975,7 @@
 
 ## JavaScript 
 
+- [stephanrauh/ngx-extended-pdf-viewer](https://github.com/stephanrauh/ngx-extended-pdf-viewer) - A full-blown PDF viewer for Angular 12, 13, 14, 15, and beyond
 - [adrianhajdin/3D_portfolio](https://github.com/adrianhajdin/3D_portfolio) - Let's build a cool 3D website together! You'll learn how to make a portfolio with fun interactive parts, like a floating island and a fox that moves when you type. It'll allow you to show off your ski
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.
 - [magneum/BloomBot](https://github.com/magneum/BloomBot) - Ⓒ𝐁𝐥𝐨𝐨𝐦𝐁𝐨𝐭🌻𝐌𝐮𝐥𝐭𝐢-𝐃𝐞𝐯𝐢𝐜𝐞: is a whatsapp user-bot with automation, moderation, music, games and 200+ commands!
@@ -1447,7 +1449,6 @@
 - [felixrieseberg/npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - :rocket: Upgrade npm on Windows
 - [patrickmonteiro/quasar-epub-reader](https://github.com/patrickmonteiro/quasar-epub-reader) - 📚 👓  An epub reader made with quasar framework and epubjs
 - [PDFTron/pdftron-document-search](https://github.com/PDFTron/pdftron-document-search) - Build search across multiple documents client-side in your file storage
-- [stephanrauh/ngx-extended-pdf-viewer](https://github.com/stephanrauh/ngx-extended-pdf-viewer) - A full-blown PDF viewer for Angular 12, 13, 14, 15, and beyond
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
 - [ether/ep_webrtc](https://github.com/ether/ep_webrtc) - Audio & Video chat for Etherpad - Video Conferencing with a focus on collaboration
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
@@ -3822,7 +3823,9 @@
 
 ## TypeScript 
 
-- [quenti-io/quenti](https://github.com/quenti-io/quenti) - The modern learning platform designed to let you study anything.
+- [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
+- [flathub/website](https://github.com/flathub/website) - Monorepo with website and API
+- [quenti-io/quenti](https://github.com/quenti-io/quenti) - The open source Quizlet alternative.
 - [css-hooks/css-hooks](https://github.com/css-hooks/css-hooks) - Hook into advanced CSS features from native inline styles.
 - [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
@@ -3934,7 +3937,6 @@
 - [dblens/app](https://github.com/dblens/app) - Database explorer for Mac, Windows & Linux
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [craftzdog/react-native-animated-todo](https://github.com/craftzdog/react-native-animated-todo) - Animated ToDo app built with React Native and Reanimated v2
-- [fonoster/webui](https://github.com/fonoster/webui) - The Web UI for Fonoster
 - [sanvishal/wrighter](https://github.com/sanvishal/wrighter) - Wrighter - A Powerful Markdown Blogger & A Writing Companion | write the (w)right way
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Every app needs authentication and authorization. Logto is an Auth0 alternative designed for modern apps and SaaS products.
 - [shlinkio/shlink-web-client](https://github.com/shlinkio/shlink-web-client) - A React-based client application for Shlink
@@ -4102,7 +4104,7 @@
 - [babel/website](https://github.com/babel/website) - :globe_with_meridians: The Babel documentation website
 - [typesense/docusaurus-theme-search-typesense](https://github.com/typesense/docusaurus-theme-search-typesense) - A fork of the awesome @docusaurus/theme-search-algolia library customized to work with Typesense
 - [iotaledger/iota-wiki](https://github.com/iotaledger/iota-wiki) - IOTA Wiki
-- [jahirfiquitiva/jahir.dev](https://github.com/jahirfiquitiva/jahir.dev) - My personal website 💎 – Built using Next.js, TypeScript, Tailwind CSS, MDX and contentlayer
+- [jahirfiquitiva/jahir.dev](https://github.com/jahirfiquitiva/jahir.dev) - My personal website ☻  –  Built using Next.js, TypeScript, Tailwind CSS, MDX and contentlayer
 - [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev) - My portfolio powered by Next.js, content sourced from Notion, styled with Tailwind CSS and deployed on Vercel. 🙌
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 - [jahirfiquitiva/world-holidays](https://github.com/jahirfiquitiva/world-holidays) - Get to know the upcoming worldwide holidays
@@ -4640,7 +4642,7 @@
 - [cornflourblue/jw-angular-pagination](https://github.com/cornflourblue/jw-angular-pagination) - A simple lightweight pagination component for Angular 2+ available on npm
 - [cornflourblue/angular2-registration-login-example](https://github.com/cornflourblue/angular2-registration-login-example) - Angular 2/5 User Registration and Login Example
 - [melcor76/reactangular](https://github.com/melcor76/reactangular) - How to use Angular Elements in React
-- [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
+- [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack

@@ -295,6 +295,7 @@
 - [google/earthenterprise](https://github.com/google/earthenterprise) - Google Earth Enterprise - Open Source
 - [grishka/libtgvoip](https://github.com/grishka/libtgvoip) - VoIP library for Telegram clients
 - [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [nodegui/nodegui-plugin-webview](https://github.com/nodegui/nodegui-plugin-webview) - [WIP] A NodeGui plugin that adds webview support
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
@@ -383,7 +384,6 @@
 - [spf13/hyde](https://github.com/spf13/hyde) - Port of Mdo's excellent theme to Hugo
 - [vorillaz/devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers
 - [max-mapper/screencat](https://github.com/max-mapper/screencat) - :cat2: webrtc screensharing electron app for mac os (Alpha)
-- [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
 - [marcobrunodev/matching-game-live](https://github.com/marcobrunodev/matching-game-live) - 
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [safak/youtube](https://github.com/safak/youtube) - 
@@ -447,6 +447,10 @@
 
 ## Dart 
 
+- [meditohq/medito-app](https://github.com/meditohq/medito-app) - The Medito app is a 100% free meditation app built with flutter. The app is available on Android and iOS.
+- [invoiceninja/admin-portal](https://github.com/invoiceninja/admin-portal) - Invoice Ninja: Desktop/mobile admin portal built with Flutter
+- [saber-notes/saber](https://github.com/saber-notes/saber) - A (work-in-progress) cross-platform libre handwritten notes app
+- [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
 - [Tarikul711/flutter-food-delivery-app-ui](https://github.com/Tarikul711/flutter-food-delivery-app-ui) - The food ordering & delivery application designed based on the real-life scenario. Anyone can use this code on their own purpose. If you are interested please make your contribution to the code.
 - [iampawan/VelocityX](https://github.com/iampawan/VelocityX) - A minimalist Flutter framework for rapidly building Flutter apps.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
@@ -523,6 +527,7 @@
 
 ## Go 
 
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -868,7 +873,7 @@
 - [tomsaleeba/test-data-site](https://github.com/tomsaleeba/test-data-site) - Various assets for testing websites (photos with EXIF, etc)
 - [tomsaleeba/browser-image-compression](https://github.com/tomsaleeba/browser-image-compression) - 
 - [JayKan/tabler-icons](https://github.com/JayKan/tabler-icons) - A set of over 550 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [coreui/coreui-free-angular-admin-template](https://github.com/coreui/coreui-free-angular-admin-template) - CoreUI Angular is free Angular 17 admin template based on Bootstrap 5
 - [deepu105/angular-clock](https://github.com/deepu105/angular-clock) - angular clock widget directive: Demo-
@@ -952,7 +957,6 @@
 - [jitsi/jitsi](https://github.com/jitsi/jitsi) - Jitsi is an audio/video and chat communicator that supports protocols such as SIP, XMPP/Jabber, IRC and many other useful features.
 - [react-native-webrtc/react-native-callkeep](https://github.com/react-native-webrtc/react-native-callkeep) - iOS CallKit framework and Android ConnectionService for React Native
 - [pmd/pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [apache/netbeans](https://github.com/apache/netbeans) - Apache NetBeans
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
@@ -980,6 +984,8 @@
 
 ## JavaScript 
 
+- [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys) - A privacy-first, open-source home assistant
+- [jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin) - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
 - [lukePeavey/quotable](https://github.com/lukePeavey/quotable) - Random Quotes API
 - [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 - [Netflix/falcor](https://github.com/Netflix/falcor) - A JavaScript library for efficient data fetching
@@ -1001,7 +1007,7 @@
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
 - [cube-js/awesome-tools](https://github.com/cube-js/awesome-tools) - Open-source list of awesome data visualization tools (e.g., charting libraries) for software developers 📊📈
 - [flot/flot](https://github.com/flot/flot) - Attractive JavaScript charts for jQuery
-- [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts) - Apache ECharts component for Vue.js.
+- [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts) - Apache ECharts™ component for Vue.js.
 - [preactjs/preact-cli](https://github.com/preactjs/preact-cli) - 😺 Your next Preact PWA starts in 30 seconds.
 - [kkoomen/pointless](https://github.com/kkoomen/pointless) - An endless drawing canvas desktop app made with Tauri (Rust) and React 🎨 ✍️
 - [EddieHubCommunity/gh-actions-html-table-generator](https://github.com/EddieHubCommunity/gh-actions-html-table-generator) - Read from a json file and write to the README
@@ -1764,6 +1770,7 @@
 - [fbsamples/f8app](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2017, powered by React Native and other Facebook open source projects.
 - [yeoman/generator-webapp](https://github.com/yeoman/generator-webapp) - A gulp.js generator for modern webapps
 - [adamschwartz/web.scraper.workers.dev](https://github.com/adamschwartz/web.scraper.workers.dev) - Scrape websites for text by CSS selector.
+- [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
 - [tomzaku/react-native-timeline-theme](https://github.com/tomzaku/react-native-timeline-theme) - 
 - [tomzaku/react-native-shimmer-placeholder](https://github.com/tomzaku/react-native-shimmer-placeholder) - Placeholder/ Skeleton of React Native
 - [marcobrunodev/curso-javascript-para-react](https://github.com/marcobrunodev/curso-javascript-para-react) - 
@@ -1788,7 +1795,7 @@
 - [rocketseat-content/masterclass-nodejs-sql](https://github.com/rocketseat-content/masterclass-nodejs-sql) - Código produzido durante o vídeo "Masterclass #01 - SQL no Node.js com Sequelize" no Youtube 🔥
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [rafaballerini/ReactHooks](https://github.com/rafaballerini/ReactHooks) - Um guia para entender os diferentes Hooks em React!
-- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [PactInteractive/image-downloader](https://github.com/PactInteractive/image-downloader) - Download images from the web more easily. A browser extension for Google Chrome, Microsoft Edge, and Brave.
 - [sarcadass/granim.js](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations with this small javascript library.
 - [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
@@ -1842,7 +1849,7 @@
 - [orodrigogo/im-mobile](https://github.com/orodrigogo/im-mobile) - :iphone:    (WIP - :construction:) IM é um aplicativo mobile para os apaixonados por filmes. Com ele, é possível organizar seus filmes favoritos e marcar quais você já assistiu. É um projeto que eu cr
 - [filipedeschamps/video-maker](https://github.com/filipedeschamps/video-maker) - Projeto open source para fazer vídeos automatizados
 - [felipefialho/piano](https://github.com/felipefialho/piano) - 🎹 To play piano using CSS and JavaScript
-- [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites. http://browsersync.io
+- [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites. https://browsersync.io
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [diego3g/electron-typescript-react](https://github.com/diego3g/electron-typescript-react) - :electron: An Electron boilerplate including TypeScript, React, Jest and ESLint.
 - [720kb/checkbox.css](https://github.com/720kb/checkbox.css) - :ballot_box_with_check: Tiny set of pure CSS animations for your checkbox input. https://720kb.github.io/checkbox.css/
@@ -2205,7 +2212,7 @@
 - [phonegap/phonegap-mobile-accessibility](https://github.com/phonegap/phonegap-mobile-accessibility) - PhoneGap plugin to expose mobile accessibility APIs.
 - [techiediaries/fake-api-jwt-json-server](https://github.com/techiediaries/fake-api-jwt-json-server) - A Fake API with JWT Authentication using json-server and jsonwebtoken
 - [grevory/angular-local-storage](https://github.com/grevory/angular-local-storage) - An AngularJS module that gives you access to the browsers local storage with cookie fallback
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [GoogleChromeLabs/preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin) - Please use https://github.com/vuejs/preload-webpack-plugin instead.
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
@@ -2255,7 +2262,6 @@
 - [andrewagain/calculator](https://github.com/andrewagain/calculator) - Simple calculator built with React
 - [BolajiAyodeji/face-detector](https://github.com/BolajiAyodeji/face-detector) - A PERN stack face detector app
 - [BolajiAyodeji/speech-to-text](https://github.com/BolajiAyodeji/speech-to-text) - Simple speech to text app built with React and IBM Watson.
-- [christiannwamba/crud-api-node](https://github.com/christiannwamba/crud-api-node) - 🛠️ End to end workshop on building, testing, CI, and deploying a CRUD API in Node.js
 - [homielab/audiobookapp](https://github.com/homielab/audiobookapp) - Audiobook mobile application accomplished with React Native and React ecosystem, just a single code base.
 - [ryanmcdermott/code-review-tips](https://github.com/ryanmcdermott/code-review-tips) - :microscope: Common problems to look for in a code review
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
@@ -2537,6 +2543,7 @@
 
 ## Others 
 
+- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [LerinaMM/importacoes_santa_catarina](https://github.com/LerinaMM/importacoes_santa_catarina) - Projeto elaborado através do desafio da Udata para realizar a análise de dados das importações da região sul do Brasil
 - [pmjones/php-history](https://github.com/pmjones/php-history) - A list of the years-of-introductions of notable (to me) PHP framework and library projects.
 - [JetBrains/php-timeline](https://github.com/JetBrains/php-timeline) - Notable events of PHP history
@@ -2817,6 +2824,9 @@
 
 ## PHP 
 
+- [emoncms/emoncms](https://github.com/emoncms/emoncms) - Web-app for processing, logging and visualising energy, temperature and other environmental data
+- [ampache/ampache](https://github.com/ampache/ampache) - A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere, using almost any internet enabled device.
+- [nfephp-org/sped-esocial](https://github.com/nfephp-org/sped-esocial) - API para comunicação com a Receita Federal, para atender aos requisitos do e-Social
 - [craftcms/cms](https://github.com/craftcms/cms) - Build bespoke content experiences with Craft.
 - [kartik-v/yii2-grid](https://github.com/kartik-v/yii2-grid) - Enhanced GridView with various utilities for Yii Framework 2.0
 - [cytopia/devilbox](https://github.com/cytopia/devilbox) - A modern Docker LAMP stack and MEAN stack for local development
@@ -2898,12 +2908,12 @@
 - [ivan-sincek/penetration-testing-cheat-sheet](https://github.com/ivan-sincek/penetration-testing-cheat-sheet) - Work in progress...
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
-- [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 9.0 blog application with Hotwire, Homestead, Horizon, Telescope and Pusher
+- [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 10.0 blog application with Hotwire, Horizon, Telescope, Sanctum, Breeze and Pusher
 - [arifszn/ezfolio](https://github.com/arifszn/ezfolio) - Open Source Portfolio/Resume CMS built using Laravel, React and Ant Design.
 - [roots/acorn](https://github.com/roots/acorn) - Laravel components for WordPress plugins and themes
 - [reactphp/http](https://github.com/reactphp/http) - Event-driven, streaming HTTP client and server implementation for ReactPHP.
 - [Licoy/wordpress-theme-puock](https://github.com/Licoy/wordpress-theme-puock) - :art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh loading, etc.
-- [Intervention/image](https://github.com/Intervention/image) - PHP Image Manipulation
+- [Intervention/image](https://github.com/Intervention/image) - PHP Image Processing
 - [solstice23/argon-theme](https://github.com/solstice23/argon-theme) - 📖 Argon - 一个轻盈、简洁的 WordPress 主题
 - [IPGeolocation/ip-geolocation-api-php](https://github.com/IPGeolocation/ip-geolocation-api-php) - IP Geolocation API PHP SDK
 - [opensourcepos/opensourcepos](https://github.com/opensourcepos/opensourcepos) - Open Source Point of Sale is a web based point of sale application written in PHP using CodeIgniter framework. It uses MySQL as the data back end and has a Bootstrap 3 based user interface.
@@ -3293,6 +3303,7 @@
 
 ## Python 
 
+- [OCA/l10n-brazil](https://github.com/OCA/l10n-brazil) - Localização brasileira oficial do Odoo.
 - [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops) - :sunglasses: A curated list of awesome MLOps tools
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
@@ -3840,9 +3851,11 @@
 
 ## TypeScript 
 
+- [nbd-wtf/nostr-tools](https://github.com/nbd-wtf/nostr-tools) - Tools for developing Nostr clients.
+- [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
-- [flathub/website](https://github.com/flathub/website) - Monorepo with website and API
+- [flathub-infra/website](https://github.com/flathub-infra/website) - Monorepo with website and API
 - [quenti-io/quenti](https://github.com/quenti-io/quenti) - The open source Quizlet alternative.
 - [css-hooks/css-hooks](https://github.com/css-hooks/css-hooks) - Hook into advanced CSS features from native inline styles.
 - [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.
@@ -3884,7 +3897,7 @@
 - [chakra-ui/ark](https://github.com/chakra-ui/ark) - A headless library for building reusable, scalable design systems that works for a wide range of JS frameworks.
 - [Leniolabs/ai-data-dashboard](https://github.com/Leniolabs/ai-data-dashboard) - 
 - [Leniolabs/promptree](https://github.com/Leniolabs/promptree) - ChatGPT spin-off combining git concepts!
-- [Millera0/private](https://github.com/Millera0/private) - This project has been deleted to avoid legal risks.
+- [zu1k/bs-core](https://github.com/zu1k/bs-core) - 
 - [jooy2/vutron](https://github.com/jooy2/vutron) - 💚 Quick Start Templates for Vite + Electron + Vue 3 + Vuetify + TypeScript. Vutron is a preconfigured template for developing Electron cross-platform desktop apps. It uses Vue 3 and allows you to buil
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 - [ElMassimo/iles](https://github.com/ElMassimo/iles) - 🏝 The joyful site generator
@@ -4736,6 +4749,7 @@
 
 ## Vue 
 
+- [stellarbeat/js-stellarbeat-frontend](https://github.com/stellarbeat/js-stellarbeat-frontend) - Visualize, inspect and simulate the nodes and organizations that make up the Stellar network.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [mattrothenberg/vue-overdrive](https://github.com/mattrothenberg/vue-overdrive) - Super easy magic-move transitions for Vue apps
 - [NicolaSpadari/vitauri](https://github.com/NicolaSpadari/vitauri) - Build tiny desktop apps with Tauri, Vite, Vue 3 and UnoCSS

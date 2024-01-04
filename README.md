@@ -48,6 +48,7 @@
 - [Perl](#perl)
 - [PostScript](#postscript)
 - [PowerShell](#powershell)
+- [Pug](#pug)
 - [Puppet](#puppet)
 - [Python](#python)
 - [R](#r)
@@ -101,6 +102,7 @@
 
 ## C 
 
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [paparazzi/paparazzi](https://github.com/paparazzi/paparazzi) - Paparazzi is a free and open-source hardware and software project for unmanned (air) vehicles. This is the main software repository.
 - [aperezdc/ngx-fancyindex](https://github.com/aperezdc/ngx-fancyindex) - Fancy indexes module for the Nginx web server
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -659,6 +661,8 @@
 
 ## HTML 
 
+- [JJMugenyi/myndmap](https://github.com/JJMugenyi/myndmap) - MyndMap: An AI-powered productivity tool designed to empower individuals with ADHD and boost focus and organization.
+- [automateyournetwork/mind_nmap](https://github.com/automateyournetwork/mind_nmap) - An automated network Mind Map utility build from markmap.js.org
 - [adeyosemanputra/pygoat](https://github.com/adeyosemanputra/pygoat) - intentionally vuln web Application Security in django
 - [google/docsy-example](https://github.com/google/docsy-example) - An example documentation site using the Docsy Hugo theme
 - [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
@@ -851,6 +855,7 @@
 - [code-nebula/chart-color-generator](https://github.com/code-nebula/chart-color-generator) - Automatically generate chart colors with Chart.js and D3 Scale Chromatic
 - [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt) - Test suites for Web platform specs — including WHATWG, W3C, and others
 - [wrappixel/material-pro-angular-lite](https://github.com/wrappixel/material-pro-angular-lite) - MaterialPro Angular Lite is high quality free angular material template / theme from WrapPixel. You can download and use for Personal as well as Commercial Projects. You can check pro version from bel
+- [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 - [jsor/lity](https://github.com/jsor/lity) - Lightweight, accessible and responsive lightbox.
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
@@ -993,6 +998,9 @@
 
 ## JavaScript 
 
+- [fdciabdul/Google-Trends-Keywords-Scraper](https://github.com/fdciabdul/Google-Trends-Keywords-Scraper) - Scraping Trends Keywords from Google ( All Country)
+- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https
+- [akabab/superhero-api](https://github.com/akabab/superhero-api) - Multiple universes superheroes open-source REST API
 - [dsuryd/dotNetify](https://github.com/dsuryd/dotNetify) - Simple, lightweight, yet powerful way to build real-time web apps.
 - [GTBitsOfGood/VolunTrack](https://github.com/GTBitsOfGood/VolunTrack) - Volunteer and Event Management Platform
 - [open-condo-software/condo](https://github.com/open-condo-software/condo) - Open source condominium management platform
@@ -1076,13 +1084,13 @@
 - [amzn/style-dictionary](https://github.com/amzn/style-dictionary) - A build system for creating cross-platform styles.
 - [reZach/my-budget](https://github.com/reZach/my-budget) - Free, open source offline cross-platform budgeting solution built with Electron.
 - [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
-- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [layer5io/layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [claudiajs/claudia-bot-builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for Facebook Messenger, Slack, Amazon Alexa, Skype, Telegram, Viber, Line, GroupMe, Kik and Twilio and deploy to AWS Lambda in minutes
 - [sanketbajoria/cloudconnect](https://github.com/sanketbajoria/cloudconnect) - Cloud aware client to connect ssh, sftp and rdp
 - [feross/studynotes.org](https://github.com/feross/studynotes.org) - ✏️ Learn faster. Study better.
 - [SteamDatabase/SteamTracking](https://github.com/SteamDatabase/SteamTracking) - 🕵 Tracking things, so you don't have to
+- [StartBootstrap/startbootstrap-stylish-portfolio](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio) - A stylish, one page, Bootstrap portfolio theme created by Start Bootstrap
 - [jlord/sheetdown](https://github.com/jlord/sheetdown) - :page_with_curl: :arrow_down: Convert a Google Spreadsheet into a Table in Markdown
 - [jlord/sheetsee-tables](https://github.com/jlord/sheetsee-tables) - Module for creating tables with sheetsee.js
 - [jlord/sheetsee.js](https://github.com/jlord/sheetsee.js) - :eyes: :chart_with_upwards_trend: Visualize Data from a Google Spreadsheet
@@ -1720,6 +1728,7 @@
 - [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
 - [Mango/slideout](https://github.com/Mango/slideout) - A touch slideout navigation menu for your mobile web apps.
 - [Semantic-Org/Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
+- [StartBootstrap/startbootstrap-simple-sidebar](https://github.com/StartBootstrap/startbootstrap-simple-sidebar) - An off canvas sidebar navigation Bootstrap HTML template created by Start Bootstrap
 - [javve/list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
 - [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [lukejacksonn/oceanwind](https://github.com/lukejacksonn/oceanwind) - Compiles tailwind shorthand into css at runtime. Succeeded by Twind.
@@ -2001,6 +2010,7 @@
 - [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 - [daltonmenezes/netflix-list-exporter](https://github.com/daltonmenezes/netflix-list-exporter) - :dizzy:‎‎‎‏‏‎ An Extension to export your lists from Netflix to Clipboard area and share it with your friends.
 - [vercel/hyper-site](https://github.com/vercel/hyper-site) - The official website for the Hyper terminal
+- [StartBootstrap/startbootstrap-bare](https://github.com/StartBootstrap/startbootstrap-bare) - A bare Bootstrap HTML starter template for rapid development - created by Start Bootstrap
 - [zhw2590582/SubPlayer](https://github.com/zhw2590582/SubPlayer) - :memo: SubPlayer is an online subtitle editor
 - [zhw2590582/WFPlayer](https://github.com/zhw2590582/WFPlayer) - :ocean: WFPlayer.js is an audio waveform generator
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
@@ -2451,6 +2461,7 @@
 
 ## Jupyter Notebook 
 
+- [macrae/comics-net](https://github.com/macrae/comics-net) - A deep learning utility for comic book covers
 - [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence
 - [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
@@ -2832,6 +2843,8 @@
 
 ## PHP 
 
+- [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel, Flutter and React
+- [beyondcode/expose](https://github.com/beyondcode/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
 - [H2-invent/jitsi-admin](https://github.com/H2-invent/jitsi-admin) - Organize and fully controll your jitsi meet meetings. Make your  meeting secure and be sure that only you and your fellows can join your meeting.
 - [emoncms/emoncms](https://github.com/emoncms/emoncms) - Web-app for processing, logging and visualising energy, temperature and other environmental data
 - [ampache/ampache](https://github.com/ampache/ampache) - A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere, using almost any internet enabled device.
@@ -3217,7 +3230,7 @@
 - [manoelcampos/retorno-boletophp](https://github.com/manoelcampos/retorno-boletophp) - Biblioteca em PHP 5.5+ para leitura de arquivos de retorno de títulos de cobrança de bancos brasileiros, para os padrões FEBRABAN CNAB240 e CNAB400 📃💵🐘
 - [CobreGratis/boletophp](https://github.com/CobreGratis/boletophp) - Projeto Código-Aberto de Sistema de Boletos bancários em PHP
 - [marcelgsantos/palestra-programacao-assincrona-com-php](https://github.com/marcelgsantos/palestra-programacao-assincrona-com-php) - Exemplos utilizados na palestra 'Introdução a Programação Assíncrona em PHP'
-- [mikecao/flight](https://github.com/mikecao/flight) - An extensible micro-framework for PHP
+- [flightphp/core](https://github.com/flightphp/core) - An extensible micro-framework for PHP
 - [mikecao/shorty](https://github.com/mikecao/shorty) - A simple URL shortener for PHP
 - [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
 - [ColorlibHQ/Sneaky-Restaurant](https://github.com/ColorlibHQ/Sneaky-Restaurant) - 
@@ -3299,12 +3312,21 @@
 - [adbertram/Random-PowerShell-Work](https://github.com/adbertram/Random-PowerShell-Work) - Random PowerShell Work
 - [mlocati/powershell-phpmanager](https://github.com/mlocati/powershell-phpmanager) - A PowerShell module to install/update PHP, PHP extensions and Composer on Windows
 
+## Pug 
+
+- [StartBootstrap/startbootstrap-resume](https://github.com/StartBootstrap/startbootstrap-resume) - A Bootstrap 4 resume/CV theme created by Start Bootstrap
+- [StartBootstrap/startbootstrap-creative](https://github.com/StartBootstrap/startbootstrap-creative) - A one page HTML theme for creatives by Start Bootstrap
+- [StartBootstrap/startbootstrap-agency](https://github.com/StartBootstrap/startbootstrap-agency) - A one page HTML theme for agencies created by Start Bootstrap
+- [StartBootstrap/startbootstrap-freelancer](https://github.com/StartBootstrap/startbootstrap-freelancer) - A flat design, one page, MIT licensed Bootstrap portfolio theme created by Start Bootstrap
+
 ## Puppet 
 
 - [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) - Generic Puppet module to manage PHP on many platforms
 
 ## Python 
 
+- [linto-ai/whisper-timestamped](https://github.com/linto-ai/whisper-timestamped) - Multilingual Automatic Speech Recognition with word-level timestamps and confidence
+- [automateyournetwork/uatu](https://github.com/automateyournetwork/uatu) - The Marvel Comic Universe API Transformed into Mind Maps
 - [jasonacox/Powerwall-Dashboard](https://github.com/jasonacox/Powerwall-Dashboard) - Grafana Dashboard for Tesla Powerwall
 - [OCA/l10n-brazil](https://github.com/OCA/l10n-brazil) - Localização brasileira oficial do Odoo.
 - [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops) - :sunglasses: A curated list of awesome MLOps tools
@@ -3351,7 +3373,7 @@
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [ml-tooling/opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
 - [whitphx/streamlit-stt-app](https://github.com/whitphx/streamlit-stt-app) - Real time web based Speech-to-Text app with Streamlit
-- [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs text-to-speech.
+- [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs Text to Speech.
 - [araguaci/o-dominio-de-si-mesmo](https://github.com/araguaci/o-dominio-de-si-mesmo) - Reflexões para vida. Compilado de temas e textos para reflexão pessoal
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [bonfy/github-trending](https://github.com/bonfy/github-trending) - Tracking the most popular Github repos, update daily(Python version)
@@ -3556,6 +3578,7 @@
 
 ## Ruby 
 
+- [busyloop/lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
 - [ElMassimo/vite_ruby](https://github.com/ElMassimo/vite_ruby) - ⚡️ Vite.js in Ruby, bringing joy to your JavaScript experience
 - [yeti-switch/yeti-web](https://github.com/yeti-switch/yeti-web) - Yeti admin interface. Opensource SIP SBC with billing.
 - [chromebrew/chromebrew](https://github.com/chromebrew/chromebrew) - Package manager for Chrome OS
@@ -3940,6 +3963,7 @@
 - [RafaelGoulartB/proffy](https://github.com/RafaelGoulartB/proffy) - 🚀 Project made to connect teachers to students. Made in Next Level Week #2 #NLW @Rocketseat
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
 - [getsentry/sentry-electron](https://github.com/getsentry/sentry-electron) - The official Sentry SDK for Electron
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
@@ -4590,6 +4614,7 @@
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [brazilian-utils/brazilian-utils](https://github.com/brazilian-utils/brazilian-utils) - Utils library for specific Brazilian businesses
 - [carbon-design-system/carbon-components-angular](https://github.com/carbon-design-system/carbon-components-angular) - An Angular implementation of the Carbon Design System for IBM.
+- [StartBootstrap/sb-clean-blog-angular](https://github.com/StartBootstrap/sb-clean-blog-angular) - Open sourced Bootstrap themed Angular 9 starter project.
 - [yeojz/otplib](https://github.com/yeojz/otplib) - :key: One Time Password (OTP) / 2FA for Node.js and Browser - Supports HOTP, TOTP and Google Authenticator
 - [CliffCrerar/ng-ionic-dynamic-form-demo](https://github.com/CliffCrerar/ng-ionic-dynamic-form-demo) - Dynamic form defined by data object called from a backend.
 - [ionic-team/ionic-conference-app](https://github.com/ionic-team/ionic-conference-app) - A conference app built with Ionic to demonstrate Ionic

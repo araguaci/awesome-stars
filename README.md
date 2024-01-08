@@ -327,6 +327,7 @@
 
 ## CSS 
 
+- [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 - [LemmyNet/lemmy-ui](https://github.com/LemmyNet/lemmy-ui) - The official web app for lemmy.
 - [sfxcode/nuxt3-primevue-starter](https://github.com/sfxcode/nuxt3-primevue-starter) - Build your VUE.js App with Nuxt3 . First Class PrimeVUE support. Formkit Validation included.
 - [sfxcode/vite-primevue-starter](https://github.com/sfxcode/vite-primevue-starter) - VUE 3 Starter project for using primevue 3 with Vite 3 - Pages, Layouts, Validation
@@ -821,7 +822,6 @@
 - [ionic-team/ionic-preview-app](https://github.com/ionic-team/ionic-preview-app) - The Ionic Component Demos
 - [GoogleChrome/developer.chrome.com](https://github.com/GoogleChrome/developer.chrome.com) - The frontend, backend, and content source code for developer.chrome.com
 - [GoogleChrome/devtools-docs](https://github.com/GoogleChrome/devtools-docs) - The legacy documentation for Chrome DevTools.
-- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 - [facebookincubator/infima](https://github.com/facebookincubator/infima) - A UI framework that provides websites with the minimal CSS and JS needed to get started with building a modern responsive beautiful website
 - [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
@@ -1102,7 +1102,7 @@
 - [PaulieScanlon/gatsby-theme-terminal](https://github.com/PaulieScanlon/gatsby-theme-terminal) - A zero component Gatsby theme for developers 🔋
 - [shopyo/shopcube](https://github.com/shopyo/shopcube) - Moved to https://github.com/Abdur-rahmaanJ/shopcube
 - [mattdesl/canvas-sketch](https://github.com/mattdesl/canvas-sketch) - [beta] A framework for making generative artwork in JavaScript and the browser.
-- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
+- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 - [vdrmota/actor-twitter-scraper](https://github.com/vdrmota/actor-twitter-scraper) - 
 - [vdrmota/Social-Media-and-Contact-Info-Extractor](https://github.com/vdrmota/Social-Media-and-Contact-Info-Extractor) - Run this scraper for free: https://apify.com/vdrmota/contact-info-scraper
@@ -2762,7 +2762,7 @@
 - [reactwg/react-18](https://github.com/reactwg/react-18) - Workgroup for React 18 release.
 - [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) - Awesome list of progressive web apps! (PR welcomed ;))
 - [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) - Boilerplates for mobile and web apps
-- [trungk18/front-end-editorial-style-guide](https://github.com/trungk18/front-end-editorial-style-guide) - A style guide on the standard format, spelling, and construction of commonly used words and phrases. For clarity and consistency of our internal and external communications – from our user interface t
+- [trungvose/front-end-editorial-style-guide](https://github.com/trungvose/front-end-editorial-style-guide) - A style guide on the standard format, spelling, and construction of commonly used words and phrases. For clarity and consistency of our internal and external communications – from our user interface t
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 - [frontendbr/open-source](https://github.com/frontendbr/open-source) - Quer uma ajuda para seu projeto? Crie uma issue!
 - [felipefialho/frontend-challenges](https://github.com/felipefialho/frontend-challenges) - A public list of open-source challenges from companies around the world
@@ -2966,7 +2966,7 @@
 - [leafsphp/leaf](https://github.com/leafsphp/leaf) - 🍁 The easiest way to create clean, simple but powerful web apps and APIs quickly
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [shgysk8zer0/logos](https://github.com/shgysk8zer0/logos) - A collection of SVG logos
-- [hasinhayder/hydra](https://github.com/hasinhayder/hydra) - Hydra is a zero-config API boilerplate with Laravel 9x + Laravel Sanctum that comes with an excellent user and role management API out of the box
+- [hasinhayder/hydra](https://github.com/hasinhayder/hydra) - Hydra is a zero-config API boilerplate with Laravel 10x + Laravel Sanctum that comes with an excellent user and role management API out of the box
 - [taniarascia/laconia](https://github.com/taniarascia/laconia) - 🏺 ‎ A minimalist MVC framework.
 - [spatie/simple-excel](https://github.com/spatie/simple-excel) - Read and write simple Excel and CSV files
 - [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie's Laravel Packages
@@ -4340,6 +4340,7 @@
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
 - [react-boilerplate/react-boilerplate-cra-template](https://github.com/react-boilerplate/react-boilerplate-cra-template) - :fire: Setup Create React App with React Boilerplate. Highly scalable & Best DX & Performance Focused & Best practices.
 - [alenaksu/json-viewer](https://github.com/alenaksu/json-viewer) - Web Component to visualize JSON data in a tree view
+- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [dineug/erd-editor](https://github.com/dineug/erd-editor) - Entity-Relationship Diagram Editor
 - [TowhidKashem/snapchat-clone](https://github.com/TowhidKashem/snapchat-clone) - 👻 A Snapchat clone built with React and Redux. Written in Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!
@@ -4407,7 +4408,7 @@
 - [birobirobiro/nlw-05-plantmanager](https://github.com/birobirobiro/nlw-05-plantmanager) - NLW#05 - PlantManager
 - [jos3s/nlw06-letmeask](https://github.com/jos3s/nlw06-letmeask) - Projeto da 6 NLW de React da @Rocketseat, desenvolvido utilizando Firebase, Styled-Components e Typescript.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-- [trungk18/angular-spotify](https://github.com/trungk18/angular-spotify) - Spotify client built with Angular 15, Nx Workspace, ngrx, TailwindCSS and ng-zorro
+- [trungvose/angular-spotify](https://github.com/trungvose/angular-spotify) - Spotify client built with Angular 15, Nx Workspace, ngrx, TailwindCSS and ng-zorro
 - [leandrowd/react-responsive-carousel](https://github.com/leandrowd/react-responsive-carousel) - React.js Responsive Carousel (with Swipe)
 - [getlift/lift](https://github.com/getlift/lift) - Expanding Serverless Framework beyond functions using the AWS CDK
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
@@ -4566,10 +4567,10 @@
 - [ng-bootstrap/ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular powered Bootstrap
 - [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM)
 - [salesforce/akita](https://github.com/salesforce/akita) - 🚀 State Management Tailored-Made for JS Applications
-- [trungk18/angular-tetris](https://github.com/trungk18/angular-tetris) - Tetris game built with Angular and Akita 🎮
+- [trungvose/angular-tetris](https://github.com/trungvose/angular-tetris) - Tetris game built with Angular and Akita 🎮
 - [mgechev/guess-angular](https://github.com/mgechev/guess-angular) - 
 - [guess-js/guess](https://github.com/guess-js/guess) - 🔮 Libraries & tools for enabling Machine Learning driven user-experiences on the web
-- [trungk18/jira-clone-angular](https://github.com/trungk18/jira-clone-angular) - A simplified Jira clone built with Angular, ng-zorro and Akita
+- [trungvose/jira-clone-angular](https://github.com/trungvose/jira-clone-angular) - A simplified Jira clone built with Angular, ng-zorro and Akita
 - [wKoza/ngx-upload](https://github.com/wKoza/ngx-upload) - Ngx-upload is an upload module for Angular Ivy ready
 - [nodegui/nodegui-starter](https://github.com/nodegui/nodegui-starter) - A starter repo for NodeGui projects
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_

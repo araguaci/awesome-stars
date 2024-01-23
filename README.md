@@ -3346,7 +3346,7 @@
 - [viniped/vidsender](https://github.com/viniped/vidsender) - A script designed to upload your audiovisual collections to Telegram
 - [linto-ai/whisper-timestamped](https://github.com/linto-ai/whisper-timestamped) - Multilingual Automatic Speech Recognition with word-level timestamps and confidence
 - [automateyournetwork/uatu](https://github.com/automateyournetwork/uatu) - The Marvel Comic Universe API Transformed into Mind Maps
-- [jasonacox/Powerwall-Dashboard](https://github.com/jasonacox/Powerwall-Dashboard) - Grafana Dashboard for Tesla Powerwall
+- [jasonacox/Powerwall-Dashboard](https://github.com/jasonacox/Powerwall-Dashboard) - Grafana Monitoring Dashboard for Tesla Solar and Powerwall Systems
 - [OCA/l10n-brazil](https://github.com/OCA/l10n-brazil) - Localização brasileira oficial do Odoo.
 - [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops) - :sunglasses: A curated list of awesome MLOps tools
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️

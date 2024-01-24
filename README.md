@@ -546,7 +546,7 @@
 - [ajaxray/geek-life](https://github.com/ajaxray/geek-life) - The Todo List / Task Manager for Geeks in command line
 - [pion/example-webrtc-applications](https://github.com/pion/example-webrtc-applications) - Examples of WebRTC applications that are large, or use 3rd party libraries
 - [flutter-webrtc/flutter-webrtc-server](https://github.com/flutter-webrtc/flutter-webrtc-server) - A simple WebRTC signaling server for flutter-webrtc.
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -1907,7 +1907,6 @@
 - [warengonzaga/daisy.js](https://github.com/warengonzaga/daisy.js) - 📢 MAINTENANCE MODE: Web animation javascript plugin for beautiful background particle systems. The Maintained and LTS version of popular Particleground.
 - [alexkim205/G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Suite as a desktop app. Made possible with Electron.
 - [pauloanalista/BotWhatsApp](https://github.com/pauloanalista/BotWhatsApp) - BOT para WhatsAPP Web
-- [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
 - [olton/Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - Impressive component library for expressive web development! Build responsive projects on the web with the first front-end component library in Metro Style. And now there are even more opportunities e
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [eddiesigner/sketch-map-generator](https://github.com/eddiesigner/sketch-map-generator) - Sketch plugin to fill a shape with a map generated from a given location using Google Maps and Mapbox
@@ -2778,6 +2777,7 @@
 - [accelerated-text/awesome-nlg](https://github.com/accelerated-text/awesome-nlg) - A curated list of resources dedicated to Natural Language Generation (NLG)
 - [brycejohnston/awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) - Open source technology for agriculture, farming, and gardening
 - [fabionoth/awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
+- [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
 - [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
 - [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - Awesome online talks and screencasts
 - [nordicgiant2/awesome-landing-page](https://github.com/nordicgiant2/awesome-landing-page) - A series of beautiful and practical landing page templates
@@ -3945,7 +3945,7 @@
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [araguaci/edge-functions-geolocation](https://github.com/araguaci/edge-functions-geolocation) - 
 - [SonarSource/SonarJS](https://github.com/SonarSource/SonarJS) - SonarSource Static Analyzer for JavaScript and TypeScript
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase.
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invo
 - [priyankarpal/projectshut](https://github.com/priyankarpal/projectshut) - Projectshut is an open source web app that enables users to freely publish their projects and create user profiles within the platform ✨🚀
 - [bigcapitalhq/bigcapital](https://github.com/bigcapitalhq/bigcapital) - 💵 Bigcapital is financial accounting with intelligent reporting for faster decision-making, an open-source alternative to Quickbooks, Xero, etc.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.

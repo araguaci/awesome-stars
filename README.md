@@ -3903,7 +3903,7 @@
 
 - [inlivedev/inlive-room](https://github.com/inlivedev/inlive-room) - Web conference call using WebRTC & inLive Hub API
 - [itsdrvgo/post-it](https://github.com/itsdrvgo/post-it) - A rip-off of popular social media apps.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
 - [github/local-action](https://github.com/github/local-action) - A simple utility for running and debugging a GitHub Action locally
 - [Vital-Utilities/Vital-Utilities](https://github.com/Vital-Utilities/Vital-Utilities) - Vital Utilities. Modern Windows Task Manager alternative with bells and whistles
 - [nbd-wtf/nostr-tools](https://github.com/nbd-wtf/nostr-tools) - Tools for developing Nostr clients.
@@ -4405,7 +4405,7 @@
 - [shmuelhizmi/web-desktop-environment](https://github.com/shmuelhizmi/web-desktop-environment) - a web-based cross-platform desktop environment
 - [qwefgh90/ng-terminal](https://github.com/qwefgh90/ng-terminal) - NgTerminal is a terminal component on Angular. the Ivy distribution's been released from v5.0.0.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [steelbrain/node-ssh](https://github.com/steelbrain/node-ssh) - SSH2 with Promises
 - [twilio/twilio-node](https://github.com/twilio/twilio-node) - Node.js helper library
 - [tediousjs/tedious](https://github.com/tediousjs/tedious) - Node TDS module for connecting to SQL Server databases.

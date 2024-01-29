@@ -2637,7 +2637,7 @@
 - [matthiasjost/dotnet-content-creators](https://github.com/matthiasjost/dotnet-content-creators) - ⚡A list of .NET content creators
 - [curated-intel/CTI-fundamentals](https://github.com/curated-intel/CTI-fundamentals) - A collection of papers, blogs, and resources that make up the quintessential aspects of cyber threat intelligence
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-- [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2023
+- [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2024
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [dendronhq/awesome-dendron](https://github.com/dendronhq/awesome-dendron) - A big list of Dendron docs, talks, tools, examples, articles, extensions, vaults, showcases, and more that the internet has to offer.
 - [themesberg/glass-ui](https://github.com/themesberg/glass-ui) - CSS UI library based on the glassmorphism design specifications
@@ -3028,7 +3028,6 @@
 - [nelmio/NelmioCorsBundle](https://github.com/nelmio/NelmioCorsBundle) - Adds CORS (Cross-Origin Resource Sharing) headers support in your Symfony application
 - [SuperPWA/Super-Progressive-Web-Apps](https://github.com/SuperPWA/Super-Progressive-Web-Apps) - SuperPWA helps to convert your WordPress website into Progressive Web Apps instantly. PWA (Progressive Web Apps) demo at : https://superpwa.com and Plugin :
 - [noncent/instagram-data-scraper](https://github.com/noncent/instagram-data-scraper) - Instagram Data Scraper, Instagram Web Scraper, Instagram Super Scraper is a PHP script which takes @user-name or #keywords as input and returns all information related to user or hash-tags e.g. likes,
-- [presentator/presentator](https://github.com/presentator/presentator) - Design presentation and collaboration platform
 - [samdark/sitemap](https://github.com/samdark/sitemap) - Sitemap and sitemap index builder
 - [samdark/yiipowered](https://github.com/samdark/yiipowered) - Yii powered websites showcase
 - [Plataformas-Cidadania/portalosc](https://github.com/Plataformas-Cidadania/portalosc) - 
@@ -3710,6 +3709,7 @@
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [snapshot-labs/snapshot-spaces](https://github.com/snapshot-labs/snapshot-spaces) - 
 - [LeCoupa/vuetimeline](https://github.com/LeCoupa/vuetimeline) - 🕵️‍♀️🕵️‍♂️ One easy-to-use component for Vue.js to build beautiful responsive timelines.
+- [presentator/presentator](https://github.com/presentator/presentator) - Design feedback and presentation platform
 - [ingram-projects/animxyz](https://github.com/ingram-projects/animxyz) - The first truly composable CSS animation library. Built for Vue, React, SCSS, and CSS, AnimXYZ will bring your website to life.
 - [Spiderpig86/Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the modern web.
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML

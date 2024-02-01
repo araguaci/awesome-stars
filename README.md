@@ -666,6 +666,8 @@
 
 ## HTML 
 
+- [jtrecenti/2024-verao-torch](https://github.com/jtrecenti/2024-verao-torch) - 
+- [jtrecenti/slides](https://github.com/jtrecenti/slides) - Minhas apresentações
 - [cassidoo/HTML-CSS-Tutorial](https://github.com/cassidoo/HTML-CSS-Tutorial) - Tutorial for HTML and CSS
 - [JJMugenyi/myndmap](https://github.com/JJMugenyi/myndmap) - MyndMap: An AI-powered productivity tool designed to empower individuals with ADHD and boost focus and organization.
 - [automateyournetwork/mind_nmap](https://github.com/automateyournetwork/mind_nmap) - An automated network Mind Map utility build from markmap.js.org
@@ -2227,7 +2229,7 @@
 - [jherr/chat-o-matic](https://github.com/jherr/chat-o-matic) - Example code for a real time chat system with GraphQL subscriptions
 - [Jejinketsu/CEP_Distance](https://github.com/Jejinketsu/CEP_Distance) - Aplicação em node para calcular a distância entre dois pontos, dado o CEP de cada um.
 - [mweststrate/relative-deps](https://github.com/mweststrate/relative-deps) - Installs local dependencies for optimal developer experience
-- [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
+- [orkestral/venom](https://github.com/orkestral/venom) - Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on 
 - [HelioSilva/Whatsapp-bot-NodeJS](https://github.com/HelioSilva/Whatsapp-bot-NodeJS) - Whatsapp bot para delivery de uma lanchonete usando NodeJS.
 - [nhn/toast-ui.doc](https://github.com/nhn/toast-ui.doc) - 
 - [CodAffection/Angular-7-Master-Detail-CRUD-with-Web-API](https://github.com/CodAffection/Angular-7-Master-Detail-CRUD-with-Web-API) - Angular 7 Master Detail CRUD with Web API
@@ -3068,7 +3070,7 @@
 - [catfan/Medoo](https://github.com/catfan/Medoo) - The lightweight PHP database framework to accelerate the development.
 - [yiisoft/db-mssql](https://github.com/yiisoft/db-mssql) - MSSQL Server driver for Yii Database
 - [miladrahimi/phpcrypt](https://github.com/miladrahimi/phpcrypt) - Encryption, decryption, and password hashing tools for PHP projects
-- [miladrahimi/phprouter](https://github.com/miladrahimi/phprouter) - PhpRouter is a powerful, and very fast HTTP URL router for PHP projects
+- [miladrahimi/phprouter](https://github.com/miladrahimi/phprouter) - PhpRouter is a full-featured yet very fast HTTP URL router for PHP projects
 - [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) - CryptoJS AES encryption/decryption on client side with Javascript and on server side with PHP
 - [phpseclib/phpseclib](https://github.com/phpseclib/phpseclib) - PHP Secure Communications Library
 - [ADOdb/ADOdb](https://github.com/ADOdb/ADOdb) - ADOdb is a PHP database class library that provides powerful abstractions for performing queries and managing databases. ADOdb also hides the differences between DB engines so you can easily switch th
@@ -3483,7 +3485,7 @@
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
 - [okfn-brasil/querido-diario](https://github.com/okfn-brasil/querido-diario) - 📰 Diários oficiais brasileiros acessíveis a todos     |     📰 Brazilian government gazettes, accessible to everyone.
 - [cuducos/calculadora-do-cidadao](https://github.com/cuducos/calculadora-do-cidadao) - 💵 Tool for Brazilian Reais monetary adjustment/correction
-- [okfn-brasil/serenata-de-amor](https://github.com/okfn-brasil/serenata-de-amor) - 🕵 Artificial Intelligence for social control of public administration  |  ** Este repositório não recebe atualizações frequentes **
+- [okfn-brasil/serenata-de-amor](https://github.com/okfn-brasil/serenata-de-amor) - 🕵 Artificial Intelligence for social control of public administration | **This repository does not receive frequent updates. Check out the README**
 - [donnemartin/viz](https://github.com/donnemartin/viz) - Visualize GitHub's most popular repos.  http://www.donnemartin.com/viz
 - [KanegaeGabriel/telegram-export-converter](https://github.com/KanegaeGabriel/telegram-export-converter) - Script to convert Telegram .html chat export files to easier to process .csv.
 - [siddheshshankar/Send-Email-Using-SMTP](https://github.com/siddheshshankar/Send-Email-Using-SMTP) - 

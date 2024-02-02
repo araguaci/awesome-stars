@@ -2427,7 +2427,6 @@
 - [nosir/obelisk.js](https://github.com/nosir/obelisk.js) - Build pixel isometric graphics with HTML5 canvas
 - [esteinborn/jquery-listnav](https://github.com/esteinborn/jquery-listnav) - Add a slick "letter-based" navigation bar to all of your lists. Click a letter to quickly filter the list to items that match that letter. Compatible with jQuery 3.0+ For previous versions of jQuery, 
 - [wagerfield/parallax](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device
-- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [nadbm/react-datasheet](https://github.com/nadbm/react-datasheet) - Excel-like data grid (table) component for React
 - [dollarshaveclub/shave](https://github.com/dollarshaveclub/shave) - 💈 Shave is a 0 dep JS plugin that truncates text to fit within an element based on a set max-height  ✁
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
@@ -2852,6 +2851,7 @@
 - [facundofarias/awesome-websockets](https://github.com/facundofarias/awesome-websockets) - A curated list of Websocket libraries and resources.
 - [ricardokovalski/links](https://github.com/ricardokovalski/links) - :books::link: Biblioteca de links úteis que todo desenvolvedor deveria possuir.
 - [Chris2011/nb-git-toolbar](https://github.com/Chris2011/nb-git-toolbar) - NetBeans Plugin which adds a toolbar for the common GIT actions
+- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 
 ## PHP 
 
@@ -3904,7 +3904,7 @@
 
 - [inlivedev/inlive-room](https://github.com/inlivedev/inlive-room) - Web conference call using WebRTC & inLive Hub API
 - [itsdrvgo/post-it](https://github.com/itsdrvgo/post-it) - A rip-off of popular social media apps.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 - [github/local-action](https://github.com/github/local-action) - A simple utility for running and debugging a GitHub Action locally
 - [Vital-Utilities/Vital-Utilities](https://github.com/Vital-Utilities/Vital-Utilities) - Vital Utilities. Modern Windows Task Manager alternative with bells and whistles
 - [nbd-wtf/nostr-tools](https://github.com/nbd-wtf/nostr-tools) - Tools for developing Nostr clients.
@@ -4302,8 +4302,8 @@
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [chicio/chicio.github.io](https://github.com/chicio/chicio.github.io) - :ghost: Fabrizio Duroni (me :smile:) personal website. Created using GatsbyJS, Styled Components, Typescript, tsParticles, GitHub pages, Github Actions, Upptime.
 - [airform/airform](https://github.com/airform/airform) - Functional HTML forms for Front-End Developers.
-- [ever-co/ever-demand](https://github.com/ever-co/ever-demand) - Ever® Demand™ - Open Commerce Platform for Collaborative, On-Demand and Sharing Economies
-- [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora - Open-Source Translation Management Platform
+- [ever-co/ever-demand](https://github.com/ever-co/ever-demand) - Ever® Demand™ - Open Commerce Platform
+- [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora™ - Open Translation Management Platform
 - [huytd/pomoday-v2](https://github.com/huytd/pomoday-v2) - A keyboard only task management web app
 - [ibitcy/eo-locale](https://github.com/ibitcy/eo-locale) - 🌏Internationalize React apps 👔Elegant lightweight library based on Internationalization API
 - [BetterTyped/react-zoom-pan-pinch](https://github.com/BetterTyped/react-zoom-pan-pinch) - 🖼 React library to support easy zoom, pan, pinch on various html dom elements like &lt;img&gt; and &lt;div&gt;

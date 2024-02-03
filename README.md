@@ -935,6 +935,7 @@
 
 ## Java 
 
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Infinitely scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.
 - [kermitt2/grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
 - [Netflix/zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 - [swagger-api/swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
@@ -1005,6 +1006,7 @@
 
 ## JavaScript 
 
+- [kurkle/chartjs-chart-sankey](https://github.com/kurkle/chartjs-chart-sankey) - Chart.js module for creating sankey diagrams
 - [bellingcat/ukraine-timemap](https://github.com/bellingcat/ukraine-timemap) - TimeMap instance for Civilian Harm in Ukraine
 - [coasys/ad4m](https://github.com/coasys/ad4m) - Agent-centric social network and interoperability dApp framework
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
@@ -3902,6 +3904,7 @@
 
 ## TypeScript 
 
+- [marcellejs/marcelle](https://github.com/marcellejs/marcelle) - An Interactive Machine Learning Toolkit
 - [inlivedev/inlive-room](https://github.com/inlivedev/inlive-room) - Web conference call using WebRTC & inLive Hub API
 - [itsdrvgo/post-it](https://github.com/itsdrvgo/post-it) - A rip-off of popular social media apps.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.

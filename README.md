@@ -908,7 +908,7 @@
 - [bradtraversy/mongochat](https://github.com/bradtraversy/mongochat) - Simple chat app using Mongo and websockets
 - [bradtraversy/chatcord](https://github.com/bradtraversy/chatcord) - Realtime chat app with rooms
 - [insign/mapa_Brasil_CSS](https://github.com/insign/mapa_Brasil_CSS) - Mapa do Brasil usando CSS (décadas atrás)
-- [jeandekairo/mapa-brasil-dinamico-svg](https://github.com/jeandekairo/mapa-brasil-dinamico-svg) - 🇧🇷 Mapa do Brasil - SVG
+- [jeanoliveirawork/mapa-brasil-dinamico-svg](https://github.com/jeanoliveirawork/mapa-brasil-dinamico-svg) - 🇧🇷 Mapa do Brasil - SVG
 - [vinitshahdeo/Quotter](https://github.com/vinitshahdeo/Quotter) - :robot: A Twitter bot which tweets random quotes with image and #hashtags :bird: :bell:
 - [chamkank/flask-chatterbot](https://github.com/chamkank/flask-chatterbot) - Simple boilerplate for ChatterBot using Flask
 - [madrobby/zepto](https://github.com/madrobby/zepto) - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API
@@ -1543,7 +1543,6 @@
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [kousun12/eternal](https://github.com/kousun12/eternal) - 👾~ music, eternal ~ 👾
 - [lucafalasco/SON](https://github.com/lucafalasco/SON) - ♫ Web-based music visualizer
-- [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~1.5KB routing for React and Preact. Nothing else but HOOKS.
 - [codex-team/codex.notes](https://github.com/codex-team/codex.notes) - WIP: crossplatform desktop notes application based on Electron and Editor.js
 - [molly/static-timeline-generator](https://github.com/molly/static-timeline-generator) - Create static timeline webpages.
 - [GoodManWEN/Programming-Language-Benchmarks-Visualization](https://github.com/GoodManWEN/Programming-Language-Benchmarks-Visualization) - Automaticlly updated language performance banchmarks in visualization. Data source from debian's the computer language benchmakrs game.
@@ -2334,7 +2333,7 @@
 - [carlosazaustre/vue-trello](https://github.com/carlosazaustre/vue-trello) - Trello clone with Vue.js for educational purposes
 - [bhushankummar/trello-node-api](https://github.com/bhushankummar/trello-node-api) - Trello NodeJS Wrapper
 - [norberteder/trello](https://github.com/norberteder/trello) - Use the Trello API from Node
-- [vasani-arpit/WBOT](https://github.com/vasani-arpit/WBOT) - A simple Web based BOT for WhatsApp™ in NodeJS 😜. Working as of 📅 Sep 14th, 2023
+- [vasani-arpit/WBOT](https://github.com/vasani-arpit/WBOT) - A simple Web based BOT for WhatsApp™ in NodeJS 😜. Working as of 📅 Feb 4th, 2024
 - [videosegments/videosegments](https://github.com/videosegments/videosegments) - Extension to skip unwanted content in videos
 - [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 - [request/request](https://github.com/request/request) - 🏊🏾 Simplified HTTP request client.
@@ -4254,6 +4253,7 @@
 - [martijnvwezel/muino-time-management](https://github.com/martijnvwezel/muino-time-management) - The Muino Time Management/ accounting tool for keeping track of your hours on projects and tasks.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
+- [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.1KB routing for React and Preact
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 - [kremalicious/portfolio](https://github.com/kremalicious/portfolio) - 👔 Portfolio thingy

@@ -514,7 +514,7 @@
 - [P3TERX/Aria2-Pro-Docker](https://github.com/P3TERX/Aria2-Pro-Docker) - Aria2 Pro | A perfect Aria2 Docker image | 更好用的 Aria2 Docker 容器镜像
 - [monicahq/docker](https://github.com/monicahq/docker) - docker image of Monica
 - [swoole/docker-swoole](https://github.com/swoole/docker-swoole) - 🏄 Official Docker Image of Swoole
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 
 ## EJS 
@@ -1024,7 +1024,7 @@
 - [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 - [Netflix/falcor](https://github.com/Netflix/falcor) - A JavaScript library for efficient data fetching
 - [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
-- [stephanrauh/ngx-extended-pdf-viewer](https://github.com/stephanrauh/ngx-extended-pdf-viewer) - A full-blown PDF viewer for Angular 12, 13, 14, 15, and beyond
+- [stephanrauh/ngx-extended-pdf-viewer](https://github.com/stephanrauh/ngx-extended-pdf-viewer) - A full-blown PDF viewer for Angular 16, 17, and beyond
 - [adrianhajdin/3D_portfolio](https://github.com/adrianhajdin/3D_portfolio) - Let's build a cool 3D website together! You'll learn how to make a portfolio with fun interactive parts, like a floating island and a fox that moves when you type. It'll allow you to show off your ski
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.
 - [magneum/BloomBot](https://github.com/magneum/BloomBot) - Ⓒ𝐁𝐥𝐨𝐨𝐦𝐁𝐨𝐭🌻𝐌𝐮𝐥𝐭𝐢-𝐃𝐞𝐯𝐢𝐜𝐞: is a whatsapp user-bot with automation, moderation, music, games and 200+ commands!
@@ -3966,7 +3966,7 @@
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer) - An all-round MQTT client that provides a structured topic overview
 - [brimdata/zui](https://github.com/brimdata/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [KYDronePilot/SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live geostationary weather satellite imagery for your desktop background
 - [wojtekmaj/date-utils](https://github.com/wojtekmaj/date-utils) - A collection of date-related utilities.
 - [orion3dgames/t5c](https://github.com/orion3dgames/t5c) - Building a open source multiplayer 3d rpg using babylon.js and colyseus

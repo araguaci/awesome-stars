@@ -376,6 +376,7 @@
 - [creativetimofficial/paper-dashboard-react](https://github.com/creativetimofficial/paper-dashboard-react) - 
 - [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
 - [Logan1x/bookMarks](https://github.com/Logan1x/bookMarks) - A reactjs project to store bookmarks 🔖
+- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [marvelapp/devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets
 - [CSS-Tricks/AnythingSlider](https://github.com/CSS-Tricks/AnythingSlider) - A jQuery Slider plugin for anything.
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
@@ -1684,7 +1685,7 @@
 - [dgtlmoon/awesome-selfhosted](https://github.com/dgtlmoon/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Rajesh-Royal/React-Js-Todo-App-with-firebase-auth](https://github.com/Rajesh-Royal/React-Js-Todo-App-with-firebase-auth) - TodoApp using ReactJS and Firebase | ReactJS, Material UI, Firebase, ExpressJS
 - [girliemac/fb-apiai-bot-demo](https://github.com/girliemac/fb-apiai-bot-demo) - A simple example of Facebook Chat Bot using API.ai
-- [terreng/simple-web-server](https://github.com/terreng/simple-web-server) - Create a local web server in just a few clicks with an easy to use interface. A continuation of Web Server for Chrome, built with Electron.
+- [terreng/simple-web-server](https://github.com/terreng/simple-web-server) - Create a local web server in just a few clicks with an easy to use interface. Built with Electron.
 - [electron-userland/electron-windows-store](https://github.com/electron-userland/electron-windows-store) - :package: Turn Electron Apps into Windows AppX Packages
 - [mawie81/electron-window-state](https://github.com/mawie81/electron-window-state) - A library to store and restore window sizes and positions for your Electron app
 - [ykob/sketch-threejs](https://github.com/ykob/sketch-threejs) - Interactive sketches made with three.js.
@@ -3706,7 +3707,6 @@
 - [presentator/presentator](https://github.com/presentator/presentator) - Design feedback and presentation platform
 - [ingram-projects/animxyz](https://github.com/ingram-projects/animxyz) - The first truly composable CSS animation library. Built for Vue, React, SCSS, and CSS, AnimXYZ will bring your website to life.
 - [Spiderpig86/Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the modern web.
-- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [nzbin/three-dots](https://github.com/nzbin/three-dots) - 🔮 CSS loading animations made with single element.
 - [nasa/api-docs](https://github.com/nasa/api-docs) - api.nasa.gov
 - [compostrap/sidebar-menu](https://github.com/compostrap/sidebar-menu) - :page_with_curl: Simple and fast multi-level sidebar menu on Bootstrap (@twbs)

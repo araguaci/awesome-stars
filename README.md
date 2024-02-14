@@ -545,7 +545,7 @@
 - [ajaxray/geek-life](https://github.com/ajaxray/geek-life) - The Todo List / Task Manager for Geeks in command line
 - [pion/example-webrtc-applications](https://github.com/pion/example-webrtc-applications) - Examples of WebRTC applications that are large, or use 3rd party libraries
 - [flutter-webrtc/flutter-webrtc-server](https://github.com/flutter-webrtc/flutter-webrtc-server) - A simple WebRTC signaling server for flutter-webrtc.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -3564,6 +3564,7 @@
 
 ## R 
 
+- [ipeaGIT/geobr](https://github.com/ipeaGIT/geobr) - Easy access to official spatial data sets of Brazil in R and Python
 - [briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) - A curated list of awesome network analysis resources.
 - [daattali/shinyscreenshot](https://github.com/daattali/shinyscreenshot) - 📷 Capture screenshots of entire pages or parts of pages in Shiny apps
 - [daattali/shinybrowser](https://github.com/daattali/shinybrowser) - 🌐 Find out information about a user's web browser in Shiny apps
@@ -3896,6 +3897,7 @@
 
 ## TypeScript 
 
+- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [marcellejs/marcelle](https://github.com/marcellejs/marcelle) - An Interactive Machine Learning Toolkit
 - [inlivedev/inlive-room](https://github.com/inlivedev/inlive-room) - Web conference call using WebRTC & inLive Hub API
 - [itsdrvgo/post-it](https://github.com/itsdrvgo/post-it) - A rip-off of popular social media apps.

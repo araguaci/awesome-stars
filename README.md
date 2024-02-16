@@ -1002,6 +1002,8 @@
 
 ## JavaScript 
 
+- [miragejs/miragejs](https://github.com/miragejs/miragejs) - A client-side server to build, test and share your JavaScript app
+- [jhildenbiddle/docsify-tabs](https://github.com/jhildenbiddle/docsify-tabs) - A docsify.js plugin for rendering tabbed content from markdown
 - [kurkle/chartjs-chart-sankey](https://github.com/kurkle/chartjs-chart-sankey) - Chart.js module for creating sankey diagrams
 - [bellingcat/ukraine-timemap](https://github.com/bellingcat/ukraine-timemap) - TimeMap instance for Civilian Harm in Ukraine
 - [coasys/ad4m](https://github.com/coasys/ad4m) - Agent-centric social network and interoperability dApp framework
@@ -1430,7 +1432,6 @@
 - [Elijas/auto-youtube-subscription-playlist-2](https://github.com/Elijas/auto-youtube-subscription-playlist-2) - Script automatically adds videos to playlists from Youtube channels and/or subscriptions (Youtube Collections alternative).
 - [s-kris/rey](https://github.com/s-kris/rey) - RE-imagined Youtube music player for web (& desktop)
 - [cookpete/react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
-- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [DIYgod/APlayer](https://github.com/DIYgod/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
 - [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
 - [videogular/videogular](https://github.com/videogular/videogular) - The HTML5 video player for AngularJS
@@ -2850,6 +2851,7 @@
 
 ## PHP 
 
+- [nfephp-org/sped-nfe](https://github.com/nfephp-org/sped-nfe) - API para geração e comunicação das NFe com as SEFAZ autorizadoras
 - [smalot/pdfparser](https://github.com/smalot/pdfparser) - PdfParser, a standalone PHP library, provides various tools to extract data from a PDF file.
 - [ladybirdweb/faveo-helpdesk](https://github.com/ladybirdweb/faveo-helpdesk) - Faveo Open source ticketing system build on Laravel framework
 - [renatomb/php_qrcode_pix](https://github.com/renatomb/php_qrcode_pix) - Implementação da geração de QRCode do Pix em PHP
@@ -3301,7 +3303,7 @@
 - [farag2/Utilities](https://github.com/farag2/Utilities) - Useful things
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
-- [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, releases notes, and more!
+- [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, release notes, and more!
 - [eizedev/PSItems](https://github.com/eizedev/PSItems) - A PowerShell module that finds files, file content, folders and their information in a really fast and easy way! Similiar to linux/unix find, grep and du commands.
 - [adbertram/PowerShell-A-Getting-Started-Guide-For-IT-Admins](https://github.com/adbertram/PowerShell-A-Getting-Started-Guide-For-IT-Admins) - 
 - [codaamok/PSShlink](https://github.com/codaamok/PSShlink) - An unofficial PowerShell module for Shlink (https://shlink.io), an open-source self-hosted and PHP-based URL shortener application
@@ -3334,6 +3336,7 @@
 
 ## Python 
 
+- [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [bonfy/leetcode](https://github.com/bonfy/leetcode) - :sparkles::v::sparkles:leetcode刷题 内附leetcode solution代码自动下载生成器（Leetcode solution auto generator)
 - [viniped/vidconverter](https://github.com/viniped/vidconverter) - 
@@ -3634,6 +3637,7 @@
 
 ## Rust 
 
+- [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - The Rust package registry
 - [redbadger/crux](https://github.com/redbadger/crux) - Cross-platform app development in Rust
 - [0-don/clippy](https://github.com/0-don/clippy) - Clipboard Manager built with Rust & Typescript
 - [chronotope/chrono](https://github.com/chronotope/chrono) - Date and time library for Rust
@@ -3897,6 +3901,7 @@
 
 ## TypeScript 
 
+- [leap-ai/headshots-starter](https://github.com/leap-ai/headshots-starter) - 
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [marcellejs/marcelle](https://github.com/marcellejs/marcelle) - An Interactive Machine Learning Toolkit
 - [inlivedev/inlive-room](https://github.com/inlivedev/inlive-room) - Web conference call using WebRTC & inLive Hub API
@@ -4219,6 +4224,7 @@
 - [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
 - [tjallingt/react-youtube](https://github.com/tjallingt/react-youtube) - react.js powered YouTube player component
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [araguaci/slidev](https://github.com/araguaci/slidev) - Presentation Slides for Developers (Beta)
 - [araguaci/botpress](https://github.com/araguaci/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
@@ -4846,7 +4852,7 @@
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [jordihales/hypercolor](https://github.com/jordihales/hypercolor) - A curated collection of beautiful premade gradients using default colors from the Tailwind palette as well as a selection of custom color gradients.
 - [zernonia/madewithsupabase](https://github.com/zernonia/madewithsupabase) - A collection of projects made with Supabase – Websites, Mobile Apps, SaaS, Plugins and more!
-- [logchimp/logchimp](https://github.com/logchimp/logchimp) - Track your customers feedback to build better products with LogChimp
+- [logchimp/logchimp](https://github.com/logchimp/logchimp) - Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work!
 - [karrot-dev/karrot-frontend](https://github.com/karrot-dev/karrot-frontend) - Karrot is a free and open-source tool for grassroots initiatives and groups of people that want to coordinate face-to-face activities on a local, autonomous and voluntary basis.
 - [nuxt/codesandbox-nuxt](https://github.com/nuxt/codesandbox-nuxt) - Starter template for CodeSandBox.io
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.

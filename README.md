@@ -1002,6 +1002,7 @@
 
 ## JavaScript 
 
+- [versatica/mediasoup-demo](https://github.com/versatica/mediasoup-demo) - mediasoup official demo application
 - [miragejs/miragejs](https://github.com/miragejs/miragejs) - A client-side server to build, test and share your JavaScript app
 - [jhildenbiddle/docsify-tabs](https://github.com/jhildenbiddle/docsify-tabs) - A docsify.js plugin for rendering tabbed content from markdown
 - [kurkle/chartjs-chart-sankey](https://github.com/kurkle/chartjs-chart-sankey) - Chart.js module for creating sankey diagrams
@@ -3494,7 +3495,7 @@
 - [mdibaiee/flappy-es](https://github.com/mdibaiee/flappy-es) - Flappy Bird AI using Evolution Strategies
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
-- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
+- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a framework for generative AI
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
@@ -3901,6 +3902,9 @@
 
 ## TypeScript 
 
+- [reach4help/reach4help](https://github.com/reach4help/reach4help) - We are Reach4Help: a tech nonprofit connecting people in need with volunteer help in 38+ countries across Canada, the US, Europe and Asia
+- [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
+- [onechiporenko/ember-models-table](https://github.com/onechiporenko/ember-models-table) - Table with pagination, sorting, filtering and much more
 - [leap-ai/headshots-starter](https://github.com/leap-ai/headshots-starter) - 
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [marcellejs/marcelle](https://github.com/marcellejs/marcelle) - An Interactive Machine Learning Toolkit
@@ -4815,6 +4819,8 @@
 
 ## Vue 
 
+- [tainacan/tainacan](https://github.com/tainacan/tainacan) - A flexible and powerful repository platform for WordPress
+- [openhab/website](https://github.com/openhab/website) - This repository contains the final artifacts from which the project website is served.
 - [fluidd-core/fluidd](https://github.com/fluidd-core/fluidd) - Fluidd, the klipper UI.
 - [stellarbeat/js-stellarbeat-frontend](https://github.com/stellarbeat/js-stellarbeat-frontend) - Visualize, inspect and simulate the nodes and organizations that make up the Stellar network.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js

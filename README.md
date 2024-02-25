@@ -1004,6 +1004,8 @@
 
 ## JavaScript 
 
+- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent )
+- [zhuyingda/webster](https://github.com/zhuyingda/webster) - a reliable high-level web crawling & scraping framework for Node.js.
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [versatica/mediasoup-demo](https://github.com/versatica/mediasoup-demo) - mediasoup official demo application
 - [miragejs/miragejs](https://github.com/miragejs/miragejs) - A client-side server to build, test and share your JavaScript app
@@ -2855,6 +2857,9 @@
 
 ## PHP 
 
+- [jae-jae/QueryList](https://github.com/jae-jae/QueryList) - :spider: The progressive PHP crawler framework!  优雅的渐进式PHP采集框架。
+- [crwlrsoft/crawler](https://github.com/crwlrsoft/crawler) - Library for Rapid (Web) Crawler and Scraper Development
+- [adinan-cenci/climatempo-api](https://github.com/adinan-cenci/climatempo-api) - Uma api para previsão de tempo escrita em PHP
 - [nfephp-org/sped-nfe](https://github.com/nfephp-org/sped-nfe) - API para geração e comunicação das NFe com as SEFAZ autorizadoras
 - [smalot/pdfparser](https://github.com/smalot/pdfparser) - PdfParser, a standalone PHP library, provides various tools to extract data from a PDF file.
 - [ladybirdweb/faveo-helpdesk](https://github.com/ladybirdweb/faveo-helpdesk) - Faveo Open source ticketing system build on Laravel framework

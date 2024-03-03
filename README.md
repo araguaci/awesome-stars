@@ -191,7 +191,7 @@
 - [TelegramBots/Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - .NET Client for Telegram Bot API
 - [chocolatey/ChocolateyGUI](https://github.com/chocolatey/ChocolateyGUI) - A delicious GUI for Chocolatey
 - [aspose-words/Aspose.Words-for-.NET](https://github.com/aspose-words/Aspose.Words-for-.NET) - Aspose.Words for .NET examples, plugins and showcases
-- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
+- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
 - [planetarium/NineChronicles](https://github.com/planetarium/NineChronicles) - Unity client application for Nine Chronicles, a fully decentralized idle RPG powered by the community.
 - [inexorabletash/travellermap](https://github.com/inexorabletash/travellermap) - The source code to TravellerMap.com

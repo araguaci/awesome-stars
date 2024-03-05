@@ -838,7 +838,6 @@
 - [OpenHypervideo/FieldTrip](https://github.com/OpenHypervideo/FieldTrip) - Open Source Web Documentary - https://fieldtrip.berlin
 - [opentargets/opentargets.github.io](https://github.com/opentargets/opentargets.github.io) - Open Targets corporate website code using Jekyll
 - [hermanzdosilovic/online-compiler](https://github.com/hermanzdosilovic/online-compiler) - Online compiler written in less than 200 lines of code.
-- [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 - [cunhasbia/single-page-application](https://github.com/cunhasbia/single-page-application) - ✔️ a simple SPA that validates a login and shows the content page through javascript and DOM manipulation.
 - [rocketseat-content/youtube-git-guia-pratico-iniciante](https://github.com/rocketseat-content/youtube-git-guia-pratico-iniciante) - 
 - [720kb/angular-socialshare](https://github.com/720kb/angular-socialshare) - Angular social share module, share urls and content on social networks such as facebook, google+, twitter, pinterest and more ... - http://720kb.github.io/angular-socialshare
@@ -1046,7 +1045,7 @@
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
 - [cube-js/awesome-tools](https://github.com/cube-js/awesome-tools) - Open-source list of awesome data visualization tools (e.g., charting libraries) for software developers 📊📈
 - [flot/flot](https://github.com/flot/flot) - Attractive JavaScript charts for jQuery
-- [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts) - Apache ECharts™ component for Vue.js.
+- [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts) - Vue.js component for Apache ECharts™.
 - [preactjs/preact-cli](https://github.com/preactjs/preact-cli) - 😺 Your next Preact PWA starts in 30 seconds.
 - [kkoomen/pointless](https://github.com/kkoomen/pointless) - An endless drawing canvas desktop app made with Tauri (Rust) and React 🎨 ✍️
 - [EddieHubCommunity/gh-actions-html-table-generator](https://github.com/EddieHubCommunity/gh-actions-html-table-generator) - Read from a json file and write to the README
@@ -1863,6 +1862,7 @@
 - [rcdexta/react-event-timeline](https://github.com/rcdexta/react-event-timeline) - A responsive event timeline in React.js
 - [rcdexta/react-trello](https://github.com/rcdexta/react-trello) - Pluggable components to add a kanban board to your application
 - [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
+- [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.

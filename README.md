@@ -826,7 +826,6 @@
 - [ionic-team/ionic-preview-app](https://github.com/ionic-team/ionic-preview-app) - The Ionic Component Demos
 - [GoogleChrome/developer.chrome.com](https://github.com/GoogleChrome/developer.chrome.com) - The frontend, backend, and content source code for developer.chrome.com
 - [GoogleChrome/devtools-docs](https://github.com/GoogleChrome/devtools-docs) - The legacy documentation for Chrome DevTools.
-- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 - [facebookincubator/infima](https://github.com/facebookincubator/infima) - A UI framework that provides websites with the minimal CSS and JS needed to get started with building a modern responsive beautiful website
 - [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
@@ -3343,6 +3342,7 @@
 
 ## Python 
 
+- [obss/sahi](https://github.com/obss/sahi) - Framework agnostic sliced/tiled inference + interactive ui + error analysis plots
 - [dermasmid/scrapetube](https://github.com/dermasmid/scrapetube) - A YouTube scraper for scraping channels, playlists, and searching 🔎
 - [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
@@ -3544,7 +3544,7 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [opengeos/leafmap](https://github.com/opengeos/leafmap) - A Python package for interactive mapping and geospatial analysis  with minimal coding in a Jupyter environment
 - [allenai/scholarphi](https://github.com/allenai/scholarphi) - An interactive PDF reader.
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
 - [IBM/MAX-Audio-Embedding-Generator](https://github.com/IBM/MAX-Audio-Embedding-Generator) - Generate embedding vectors from audio files
 - [mateustoin/Bittoin-Telegram-Bot](https://github.com/mateustoin/Bittoin-Telegram-Bot) - Bot para Telegram com diversas funcionalidades, com o intuito de se divertir e aproveitar utilidades para o dia a dia.
 - [Kilian/Trimage](https://github.com/Kilian/Trimage) - A cross-platform tool for optimizing PNG and JPG files.
@@ -3988,7 +3988,7 @@
 - [pdfme/pdfme](https://github.com/pdfme/pdfme) - A TypeScript based PDF generator library, made with React.
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
 - [mckaywrigley/chatbot-ui-lite](https://github.com/mckaywrigley/chatbot-ui-lite) - A simple chatbot starter kit for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS.
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat app for everyone.
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
 - [apideck-io/next-starter-kit](https://github.com/apideck-io/next-starter-kit) - A boilerplate for bootstrapping new projects with Next.js, TypeScript, Tailwind CSS, ESLint, Prettier, Jest, and React testing Library.
 - [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code
 - [vercel-labs/next-fetch](https://github.com/vercel-labs/next-fetch) - Intuitive data fetching for Next.js
@@ -4386,6 +4386,7 @@
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
 - [react-boilerplate/react-boilerplate-cra-template](https://github.com/react-boilerplate/react-boilerplate-cra-template) - :fire: Setup Create React App with React Boilerplate. Highly scalable & Best DX & Performance Focused & Best practices.
 - [alenaksu/json-viewer](https://github.com/alenaksu/json-viewer) - Web Component to visualize JSON data in a tree view
+- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [dineug/erd-editor](https://github.com/dineug/erd-editor) - Entity-Relationship Diagram Editor
 - [TowhidKashem/snapchat-clone](https://github.com/TowhidKashem/snapchat-clone) - 👻 A Snapchat clone built with React and Redux. Written in Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!

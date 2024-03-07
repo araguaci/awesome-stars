@@ -3042,7 +3042,7 @@
 - [jublo/codebird-php](https://github.com/jublo/codebird-php) - Easy access to the Twitter REST API, Direct Messages API, Account Activity API, TON (Object Nest) API and Twitter Ads API — all from one PHP library.
 - [crater-invoice/crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
 - [spatie/Mailcoach](https://github.com/spatie/Mailcoach) - A self-hosted email list manager - in a modern jacket.
-- [rezaamini-ir/laravel-easypanel](https://github.com/rezaamini-ir/laravel-easypanel) - A beautiful and flexible admin panel creator based on Livewire for Laravel
+- [reziamini/laravel-easypanel](https://github.com/reziamini/laravel-easypanel) - A beautiful and flexible admin panel creator based on Livewire for Laravel
 - [jeremykenedy/laravel-dashboard](https://github.com/jeremykenedy/laravel-dashboard) - This is an example of Spatie Laravel Dashboard using Livewire and package components. This example has all settings extended to the `dashboard.php` config file and the `.env` file. This example uses m
 - [westacks/telebot](https://github.com/westacks/telebot) - Easy way to create Telegram bots in PHP
 - [laravel/lumen](https://github.com/laravel/lumen) - The Laravel Lumen Framework.

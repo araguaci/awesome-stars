@@ -1003,6 +1003,7 @@
 
 ## JavaScript 
 
+- [balajmarius/commit4](https://github.com/balajmarius/commit4) - 🎮 Winner of Game Off 2017.
 - [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent )
 - [zhuyingda/webster](https://github.com/zhuyingda/webster) - a reliable high-level web crawling & scraping framework for Node.js.
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
@@ -3918,6 +3919,7 @@
 
 ## TypeScript 
 
+- [balajmarius/svg2jsx](https://github.com/balajmarius/svg2jsx) - 🍃 Transform SVG to valid JSX.
 - [ruilisi/fortune-sheet](https://github.com/ruilisi/fortune-sheet) - A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets
 - [flixlix/power-flow-card-plus](https://github.com/flixlix/power-flow-card-plus) - A power distribution card inspired by the official Energy Distribution card for Home Assistant
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
@@ -4842,6 +4844,8 @@
 
 ## Vue 
 
+- [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
+- [antfu/talks](https://github.com/antfu/talks) - Slides & code for my talks
 - [araguaci/supremos-erros](https://github.com/araguaci/supremos-erros) - Decisões Inconstitucionais do STF
 - [araguaci/satiagraha](https://github.com/araguaci/satiagraha) - Operação Satiagraha: Os bastidores da maior operação já feita pela Policia Federal
 - [tainacan/tainacan](https://github.com/tainacan/tainacan) - A flexible and powerful repository platform for WordPress

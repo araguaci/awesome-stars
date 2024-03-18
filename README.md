@@ -80,7 +80,7 @@
 ## Astro 
 
 - [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) - list of free stuff for developer
-- [naoxio/evotico](https://github.com/naoxio/evotico) - Streamlining secure, efficient electronic voting for organizations and communities, fostering global empowerment.
+- [naoxio/ukuvota](https://github.com/naoxio/ukuvota) - Quick tool for collaborative score voting to find consensus in a group.
 - [paabloLC/astro-neumorphism](https://github.com/paabloLC/astro-neumorphism) - A simple and responsive template focused on the entire UI design style with neumorphism styles. Built with AstroJS, TypeScript, Preact, and styled with Tailwind CSS.
 - [Ultramarine-Linux/website](https://github.com/Ultramarine-Linux/website) - Website for the Ultramarine Linux Project made with Astro and TailwindCSS
 - [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2023: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
@@ -667,6 +667,7 @@
 
 ## HTML 
 
+- [araguaci/awesome-stars](https://github.com/araguaci/awesome-stars) - A curated list of my GitHub stars!
 - [araguaci/ervas-a-z](https://github.com/araguaci/ervas-a-z) - ervas e suas aplicações de A a Z
 - [sillasgonzaga/livro_intro_r](https://github.com/sillasgonzaga/livro_intro_r) - Livro - Ciência de Dados com o R: Introdução
 - [thegeeklab/hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc) - Hugo theme made for documentation
@@ -1008,6 +1009,7 @@
 
 ## JavaScript 
 
+- [paperswithcode/ai-deadlines](https://github.com/paperswithcode/ai-deadlines) - :alarm_clock: AI conference deadline countdowns
 - [google/eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) - A high performance blog template for the 11ty static site generator.
 - [camilatigre/listamaravilhosaopensource](https://github.com/camilatigre/listamaravilhosaopensource) - Lista com links de projetos open-source para os níveis: iniciante, intermediário e avançado. Dividido por linguagem e idiomas!
 - [rapid-sensemaking-framework/cosense](https://github.com/rapid-sensemaking-framework/cosense) - MVP for MacOS released! - The rapid sensemaking framework desktop application. working name CoSense
@@ -2504,6 +2506,7 @@
 
 ## Kotlin 
 
+- [FossifyOrg/Calendar](https://github.com/FossifyOrg/Calendar) - A simple calendar with events, customizable widgets and no ads.
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 - [JetBrains/lets-plot](https://github.com/JetBrains/lets-plot) - Multiplatform plotting library based on the Grammar of Graphics
 - [VirgilSecurity/chat-back4app-android](https://github.com/VirgilSecurity/chat-back4app-android) - (Works!) A simple Back4App Android application based on Virgil E3Kit that demonstrates how the end-to-end encryption works.
@@ -2588,8 +2591,8 @@
 
 ## Others 
 
+- [araguaci/12regrasparavida](https://github.com/araguaci/12regrasparavida) - 
 - [surjithctly/web3forms-docs](https://github.com/surjithctly/web3forms-docs) - Web3Forms Documentation (gitbook)
-- [araguaci/mentes-perigosas](https://github.com/araguaci/mentes-perigosas) - No mundo, aproximadamente 4% da população sofre desse tipo de transtorno de personalidade.
 - [araguaci/hatevaom](https://github.com/araguaci/hatevaom) - 
 - [backend-br/vagas](https://github.com/backend-br/vagas) - Espaço para a divulgação de vagas para desenvolvedores backend via issues do Github.
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
@@ -3958,7 +3961,7 @@
 - [Vital-Utilities/Vital-Utilities](https://github.com/Vital-Utilities/Vital-Utilities) - Vital Utilities. Modern Windows Task Manager alternative with bells and whistles
 - [nbd-wtf/nostr-tools](https://github.com/nbd-wtf/nostr-tools) - Tools for developing Nostr clients.
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [flathub-infra/website](https://github.com/flathub-infra/website) - Monorepo with website and API
 - [quenti-io/quenti](https://github.com/quenti-io/quenti) - The open source Quizlet alternative.
@@ -4868,6 +4871,7 @@
 
 - [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [antfu/talks](https://github.com/antfu/talks) - Slides & code for my talks
+- [araguaci/mentes-perigosas](https://github.com/araguaci/mentes-perigosas) - No mundo, aproximadamente 4% da população sofre desse tipo de transtorno de personalidade.
 - [araguaci/supremos-erros](https://github.com/araguaci/supremos-erros) - Decisões Inconstitucionais do STF
 - [araguaci/satiagraha](https://github.com/araguaci/satiagraha) - Operação Satiagraha: Os bastidores da maior operação já feita pela Policia Federal
 - [tainacan/tainacan](https://github.com/tainacan/tainacan) - A flexible and powerful repository platform for WordPress

@@ -883,7 +883,6 @@
 - [parlametria/relatorio-financiamento](https://github.com/parlametria/relatorio-financiamento) - Scripts e dados para a construção do relatório de participação de sócios de empresas no financiamento de campanhas em 2018 do Parlametria
 - [parlametria/leggoR](https://github.com/parlametria/leggoR) - Acesso, tradução e modelos usando dados do congresso nacional
 - [HubSpot/cms-theme-boilerplate](https://github.com/HubSpot/cms-theme-boilerplate) - A straight-forward starting point for building a great website on the HubSpot CMS
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker's Documentation
 - [djaiss/mapsicon](https://github.com/djaiss/mapsicon) - A free collection of maps for every country in the world, available in 11 sizes or in SVG.
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation
 - [zenorocha/voice-elements](https://github.com/zenorocha/voice-elements) - :speaker: Web Component wrapper to the Web Speech API, that allows you to do voice recognition and speech synthesis using Polymer
@@ -1012,6 +1011,7 @@
 
 ## JavaScript 
 
+- [MadobyPy/MadobyWeb](https://github.com/MadobyPy/MadobyWeb) - Terminal-inspired, clean, feature-rich and customizable browser start page for geeks. Has built-in editor for customizing.
 - [paperswithcode/ai-deadlines](https://github.com/paperswithcode/ai-deadlines) - :alarm_clock: AI conference deadline countdowns
 - [google/eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) - A high performance blog template for the 11ty static site generator.
 - [camilatigre/listamaravilhosaopensource](https://github.com/camilatigre/listamaravilhosaopensource) - Lista com links de projetos open-source para os níveis: iniciante, intermediário e avançado. Dividido por linguagem e idiomas!
@@ -2575,6 +2575,7 @@
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
 - [raphamorim/awesome-canvas](https://github.com/raphamorim/awesome-canvas) - A curated list of awesome HTML5 Canvas with examples, related articles and posts.
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
+- [docker/docs](https://github.com/docker/docs) - Source repo for Docker's Documentation
 
 ## Nunjucks 
 
@@ -2595,6 +2596,7 @@
 
 ## Others 
 
+- [araguaci/os-quatro-compromissos](https://github.com/araguaci/os-quatro-compromissos) - 
 - [araguaci/12regrasparavida](https://github.com/araguaci/12regrasparavida) - 
 - [surjithctly/web3forms-docs](https://github.com/surjithctly/web3forms-docs) - Web3Forms Documentation (gitbook)
 - [araguaci/hatevaom](https://github.com/araguaci/hatevaom) - 
@@ -2880,6 +2882,7 @@
 
 ## PHP 
 
+- [kbsali/php-redmine-api](https://github.com/kbsali/php-redmine-api) - A simple PHP Redmine API client, Object Oriented
 - [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
 - [ecamp/ecamp3](https://github.com/ecamp/ecamp3) - eCamp v3 is a web-based app for camp and course planning. The application is specialized for camps and courses of youth associations and for Y+S offers in the sport of camp sports/trekking.
 - [thephpleague/omnipay](https://github.com/thephpleague/omnipay) - A framework agnostic, multi-gateway payment processing library for PHP 5.6+
@@ -3373,6 +3376,7 @@
 
 ## Python 
 
+- [thombashi/sqlitebiter](https://github.com/thombashi/sqlitebiter) - A CLI tool to convert CSV / Excel / HTML / JSON / Jupyter Notebook / LDJSON / LTSV / Markdown / SQLite / SSV / TSV / Google-Sheets to a SQLite database file.
 - [fineanmol/Hacktoberfest2023](https://github.com/fineanmol/Hacktoberfest2023) - Make your first Pull Request on Hacktoberfest 2023. Don't forget to spread love and if you like give us a ⭐️
 - [aip-dev/site-generator](https://github.com/aip-dev/site-generator) - Static site generator for aip.dev and forks.
 - [microsoft/ClimaX](https://github.com/microsoft/ClimaX) - Foundation model for weather & climate
@@ -3415,7 +3419,7 @@
 - [saharmor/whisper-playground](https://github.com/saharmor/whisper-playground) - Build real time speech2text web apps using OpenAI's Whisper https://openai.com/blog/whisper/
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [dunossauro/fastapi-do-zero](https://github.com/dunossauro/fastapi-do-zero) - Curso básico de FastAPI
-- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - Web apps in pure Python.
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - Web apps in pure Python. 🐍
 - [GreaterWMS/GreaterWMS](https://github.com/GreaterWMS/GreaterWMS) - This Inventory management system is the currently Ford Asia Pacific after-sales logistics warehousing supply chain process . After I leave Ford , I start this project . You can share your vacant wareh
 - [DadosAbertosDeFeira/iac](https://github.com/DadosAbertosDeFeira/iac) - Plataforma de Infrastructure as Code do Dados Abertos de Feira 🛠
 - [nvuillam/github-dependents-info](https://github.com/nvuillam/github-dependents-info) - Collect information about dependencies between a github repo and other repositories. Results available in JSON, markdown and badge
@@ -3437,7 +3441,7 @@
 - [bonfy/github-trending](https://github.com/bonfy/github-trending) - Tracking the most popular Github repos, update daily(Python version)
 - [araguaci/all-notes-skills](https://github.com/araguaci/all-notes-skills) - 
 - [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
-- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) - 🪩 Create Disco Diffusion artworks in one line
 - [thygate/stable-diffusion-webui-depthmap-script](https://github.com/thygate/stable-diffusion-webui-depthmap-script) - High Resolution Depth Maps for Stable Diffusion WebUI
@@ -3946,6 +3950,12 @@
 
 ## TypeScript 
 
+- [vinothpandian/react-sketch-canvas](https://github.com/vinothpandian/react-sketch-canvas) - Freehand vector drawing component for React using SVG as canvas 🖌️
+- [tomalaforge/angular-challenges](https://github.com/tomalaforge/angular-challenges) - Set of Angular challenges to practise and train on Angular
+- [JulianCataldo/web-garden](https://github.com/JulianCataldo/web-garden) - Building blocks for making progressive and future-proof websites. Components collection features Astro, HTML, SCSS, JS, TS… Configurations features ESLint, Prettier, Stylelint…
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
+- [araguaci/rotadoceu](https://github.com/araguaci/rotadoceu) - 
+- [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
 - [etherCorps/SK-Redis-SessionManager](https://github.com/etherCorps/SK-Redis-SessionManager) - Redis integration in SvelteKit for Session Management
 - [ocodista/trampar-de-casa](https://github.com/ocodista/trampar-de-casa) - Apoiamos o trabalho remoto e divulgamos vagas semanalmente para inscritos.
@@ -3986,7 +3996,7 @@
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
 - [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as desktop application. all in one place, cross-platform!
 - [timothymiller/t4-app](https://github.com/timothymiller/t4-app) - A powerful cross-platform UI toolkit for building actually native iOS, Android, macOS, Windows, Linux, and Progressive Web Apps with React (Native).
-- [Kanaries/graphic-walker](https://github.com/Kanaries/graphic-walker) - An open source alternative to Tableau. Easily embedded in any web apps.
+- [Kanaries/graphic-walker](https://github.com/Kanaries/graphic-walker) - An open source alternative to Tableau. Embeddable visual analytic
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
 - [grid-js/gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
 - [CyCraft/pepicons](https://github.com/CyCraft/pepicons) - 🥤 An awesome icon pack of retro icons for your apps and websites.

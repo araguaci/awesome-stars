@@ -250,7 +250,6 @@
 ## C++ 
 
 - [WinMerge/winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [roc-streaming/roc-toolkit](https://github.com/roc-streaming/roc-toolkit) - Real-time audio streaming over the network.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
@@ -556,6 +555,7 @@
 - [ajaxray/geek-life](https://github.com/ajaxray/geek-life) - The Todo List / Task Manager for Geeks in command line
 - [pion/example-webrtc-applications](https://github.com/pion/example-webrtc-applications) - Examples of WebRTC applications that are large, or use 3rd party libraries
 - [flutter-webrtc/flutter-webrtc-server](https://github.com/flutter-webrtc/flutter-webrtc-server) - A simple WebRTC signaling server for flutter-webrtc.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -1018,6 +1018,7 @@
 
 ## JavaScript 
 
+- [thumbsup/thumbsup](https://github.com/thumbsup/thumbsup) - Generate static HTML photo / video galleries
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS!
 - [anuraghazra/anuraghazra.github.io](https://github.com/anuraghazra/anuraghazra.github.io) - My Portfolio Site | Made With @Gatsbyjs
 - [MadobyPy/MadobyWeb](https://github.com/MadobyPy/MadobyWeb) - Terminal-inspired, clean, feature-rich and customizable browser start page for geeks. Has built-in editor for customizing.
@@ -2228,7 +2229,6 @@
 - [GoogleCloudPlatform/nodejs-docs-samples](https://github.com/GoogleCloudPlatform/nodejs-docs-samples) - Node.js samples for Google Cloud Platform products.
 - [CleverProgrammer/c9_flask_portfolio_app](https://github.com/CleverProgrammer/c9_flask_portfolio_app) - Flask Portfolio App for students @ Clever Programmer
 - [tbreuss/eventbus](https://github.com/tbreuss/eventbus) - :bus: Dead simple ES6-ready JavaScript EventBus
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [guilhermerodz/rocketseat-bootcamp-7-gobarber-web](https://github.com/guilhermerodz/rocketseat-bootcamp-7-gobarber-web) - Front-end of the main App developed at the RocketSeat GoStack Bootcamp.
 - [guilhermerodz/guilhermerodz.me](https://github.com/guilhermerodz/guilhermerodz.me) - My personal blog and website.
 - [tomastrajan/angular-js-es6-testing-example](https://github.com/tomastrajan/angular-js-es6-testing-example) - Enhanced testing of Angular JS 1.X applications using ES6 modules
@@ -2608,6 +2608,7 @@
 
 ## Others 
 
+- [mtahiraslan/data-analyst-roadmap](https://github.com/mtahiraslan/data-analyst-roadmap) - Based on my own experience, I think this roadmap will answer all the questions of how to become a data analyst from zero, which technologies and programming languages are better to know, what kind of 
 - [trimstray/the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
 - [thomasbnt/awesome-web-monetization](https://github.com/thomasbnt/awesome-web-monetization) - 🕶️ Stuffs about Web Monetization. Packages, articles, documentation links and others tools.
 - [araguaci/os-quatro-compromissos](https://github.com/araguaci/os-quatro-compromissos) - 
@@ -2896,6 +2897,7 @@
 
 ## PHP 
 
+- [oroinc/crm-application](https://github.com/oroinc/crm-application) - OroCRM - an open-source Customer Relationship Management application.
 - [kbsali/php-redmine-api](https://github.com/kbsali/php-redmine-api) - A simple PHP Redmine API client, Object Oriented
 - [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
 - [ecamp/ecamp3](https://github.com/ecamp/ecamp3) - eCamp v3 is a web-based app for camp and course planning. The application is specialized for camps and courses of youth associations and for Y+S offers in the sport of camp sports/trekking.
@@ -3437,7 +3439,7 @@
 - [saharmor/whisper-playground](https://github.com/saharmor/whisper-playground) - Build real time speech2text web apps using OpenAI's Whisper https://openai.com/blog/whisper/
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [dunossauro/fastapi-do-zero](https://github.com/dunossauro/fastapi-do-zero) - Curso básico de FastAPI
-- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - Web apps in pure Python. 🐍
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [GreaterWMS/GreaterWMS](https://github.com/GreaterWMS/GreaterWMS) - This Inventory management system is the currently Ford Asia Pacific after-sales logistics warehousing supply chain process . After I leave Ford , I start this project . You can share your vacant wareh
 - [DadosAbertosDeFeira/iac](https://github.com/DadosAbertosDeFeira/iac) - Plataforma de Infrastructure as Code do Dados Abertos de Feira 🛠
 - [nvuillam/github-dependents-info](https://github.com/nvuillam/github-dependents-info) - Collect information about dependencies between a github repo and other repositories. Results available in JSON, markdown and badge
@@ -3645,7 +3647,7 @@
 
 ## ReScript 
 
-- [mobily/stacks](https://github.com/mobily/stacks) - ⚡ A set of useful components to help you build and maintain React Native (Web too) layouts with ease.
+- [grapp-dev/stacks](https://github.com/grapp-dev/stacks) - ⚡ A set of useful components to help you build and maintain React Native (Web too) layouts with ease.
 
 ## Rich Text Format 
 
@@ -3970,6 +3972,7 @@
 
 ## TypeScript 
 
+- [araguaci/astro-portifolio-artesdosul](https://github.com/araguaci/astro-portifolio-artesdosul) - 
 - [sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin.
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [psychic-api/rag-stack](https://github.com/psychic-api/rag-stack) - 🤖 Deploy a private ChatGPT alternative hosted within your VPC. 🔮 Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and 
@@ -4763,6 +4766,7 @@
 - [googleapis/repo-automation-bots](https://github.com/googleapis/repo-automation-bots) - A collection of bots, based on probot, for performing common maintenance tasks across the open-source repos managed by Google on GitHub.
 - [donmccasland/nodejs-docker](https://github.com/donmccasland/nodejs-docker) - The Node.js Docker image used by Google App Engine Flexible.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [guilhermerodz/rocketseat-nextjs-skylab](https://github.com/guilhermerodz/rocketseat-nextjs-skylab) - Rocketseat Skylab Homepage UI clone made with Next.js and Chakra UI
 - [angular-extensions/model](https://github.com/angular-extensions/model) - Angular Model - Simple state management with minimalist API, one way data flow, multiple model support and immutable data exposed as RxJS Observable.
 - [bithost-gmbh/ngx-mat-select-search](https://github.com/bithost-gmbh/ngx-mat-select-search) - Angular component providing an input field for searching / filtering MatSelect options of the Angular Material library.

@@ -79,6 +79,7 @@
 
 ## Astro 
 
+- [araguaci/rosario-em-latim](https://github.com/araguaci/rosario-em-latim) - Rosário em Latim com o Papa Bento XVI
 - [satnaing/astro-paper](https://github.com/satnaing/astro-paper) - A minimal, accessible and SEO-friendly Astro blog theme
 - [bholmesdev/whiteboard-the-web](https://github.com/bholmesdev/whiteboard-the-web) - Homepage for my infamous #whiteboardtheweb twitter videos ✨
 - [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) - list of free stuff for developer
@@ -86,6 +87,7 @@
 - [paabloLC/astro-neumorphism](https://github.com/paabloLC/astro-neumorphism) - A simple and responsive template focused on the entire UI design style with neumorphism styles. Built with AstroJS, TypeScript, Preact, and styled with Tailwind CSS.
 - [Ultramarine-Linux/website](https://github.com/Ultramarine-Linux/website) - Website for the Ultramarine Linux Project made with Astro and TailwindCSS
 - [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2023: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
+- [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme.
 - [livebook-dev/livebook.dev](https://github.com/livebook-dev/livebook.dev) - Landing page for Livebook
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [CSS-Tricks/serverless](https://github.com/CSS-Tricks/serverless) - The Power of Serverless for Front-End Developers
@@ -549,6 +551,7 @@
 
 ## Go 
 
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [Gitart/GO-SIMPLE](https://github.com/Gitart/GO-SIMPLE) - These are simple examples for useful daily use in your projects.
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
@@ -678,6 +681,7 @@
 
 ## HTML 
 
+- [paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
 - [araguaci/autoindex](https://github.com/araguaci/autoindex) - A better looking directory listing for apache.
 - [araguaci/artesdosul.github.io](https://github.com/araguaci/artesdosul.github.io) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://artesdosul.github.io/
 - [araguaci/bootstrap-gallery](https://github.com/araguaci/bootstrap-gallery) - ✠ Brasil pela Liberdade ✠
@@ -1024,12 +1028,13 @@
 
 ## JavaScript 
 
+- [codecombat/codecombat](https://github.com/codecombat/codecombat) - Game for learning how to code.
 - [new-data-services/tailwindcss-animated](https://github.com/new-data-services/tailwindcss-animated) - Extended animation utilities for Tailwind CSS
 - [araguaci/o-imbecil-coletivo](https://github.com/araguaci/o-imbecil-coletivo) - next.js WebViewer is a JavaScript PDF library that lets you start adding accurate, reliable, and fast document processing capabilities to your web application.
 - [wri/gfw](https://github.com/wri/gfw) - Global Forest Watch: An online, global, near-real time forest monitoring tool
 - [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 - [thumbsup/thumbsup](https://github.com/thumbsup/thumbsup) - Generate static HTML photo / video galleries
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS!
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable!
 - [anuraghazra/anuraghazra.github.io](https://github.com/anuraghazra/anuraghazra.github.io) - My Portfolio Site | Made With @Gatsbyjs
 - [MadobyPy/MadobyWeb](https://github.com/MadobyPy/MadobyWeb) - Terminal-inspired, clean, feature-rich and customizable browser start page for geeks. Has built-in editor for customizing.
 - [paperswithcode/ai-deadlines](https://github.com/paperswithcode/ai-deadlines) - :alarm_clock: AI conference deadline countdowns
@@ -2862,7 +2867,7 @@
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - 🔣 A collection of GitHub issue, pull request and security templates
 - [CollabCodeTech/backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - A public list of open-source challenges from jobs around the world
-- [gdcmarinho/awesome-project](https://github.com/gdcmarinho/awesome-project) - 📎 A curated list of awesome project development links
+- [gdcmarinho/awesome-project](https://github.com/gdcmarinho/awesome-project) - A curated list of awesome project development links
 - [anabastos/awesome-pesquisa](https://github.com/anabastos/awesome-pesquisa) - Curated list of research content in portuguese
 - [frontendbr/forum](https://github.com/frontendbr/forum) - :beer: Portando discussões feitas em grupos (Facebook, Google Groups, Slack, Disqus) para o GitHub Discussions
 - [afonsopacifer/awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox) - :eyeglasses: A curated list of CSS Flexible Box Layout Module or only Flexbox.
@@ -2912,7 +2917,6 @@
 
 - [filamentphp/filament](https://github.com/filamentphp/filament) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
 - [LibreBooking/app](https://github.com/LibreBooking/app) - Repository for the last open source version of Booked Scheduler. The "develop" branch contains the most current working code of the project and should be considered beta. The "master" branch is the mo
-- [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [oroinc/crm-application](https://github.com/oroinc/crm-application) - OroCRM - an open-source Customer Relationship Management application.
 - [kbsali/php-redmine-api](https://github.com/kbsali/php-redmine-api) - A simple PHP Redmine API client, Object Oriented
@@ -3989,6 +3993,8 @@
 
 ## TypeScript 
 
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [nehu3n/lk3](https://github.com/nehu3n/lk3) - Fast, easy and free URL shortener.
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 - [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter) - Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...
@@ -4007,7 +4013,7 @@
 - [araguaci/rotadoceu](https://github.com/araguaci/rotadoceu) - 
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
-- [carlosjorger/vue-fluid-dnd](https://github.com/carlosjorger/vue-fluid-dnd) - A vue3 drag and drop library to sort all kind of lists. ⭐️ Star to support our work!
+- [carlosjorger/vue-fluid-dnd](https://github.com/carlosjorger/vue-fluid-dnd) - A Vue 3 drag and drop library to sort all kind of lists. ⭐️ Star to support our work!
 - [etherCorps/SK-Redis-SessionManager](https://github.com/etherCorps/SK-Redis-SessionManager) - Redis integration in SvelteKit for Session Management
 - [ocodista/trampar-de-casa](https://github.com/ocodista/trampar-de-casa) - Apoiamos o trabalho remoto e divulgamos vagas semanalmente para inscritos.
 - [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github China/Global User Ranking, Global Warehouse Star Ranking (Github Action is automatically updated daily).
@@ -4090,7 +4096,7 @@
 - [orion3dgames/t5c](https://github.com/orion3dgames/t5c) - Building a open source multiplayer 3d rpg using babylon.js and colyseus
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [pdfme/pdfme](https://github.com/pdfme/pdfme) - A TypeScript based PDF generator library, made with React.
-- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - Generative AI suite powered by state-of-the-art LLMs. Bundling AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - Generative AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, cod
 - [mckaywrigley/chatbot-ui-lite](https://github.com/mckaywrigley/chatbot-ui-lite) - A simple chatbot starter kit for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS.
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
 - [apideck-io/next-starter-kit](https://github.com/apideck-io/next-starter-kit) - A boilerplate for bootstrapping new projects with Next.js, TypeScript, Tailwind CSS, ESLint, Prettier, Jest, and React testing Library.
@@ -4939,7 +4945,9 @@
 
 ## Vue 
 
+- [suplere/vitesse-quasar-nhost-template](https://github.com/suplere/vitesse-quasar-nhost-template) - NHost + Vitesse + Quasar template
 - [jainism-portal/jainaagam](https://github.com/jainism-portal/jainaagam) - A beautiful multilingual voluminous database of all 45 Jain Aagam - the supreme Prakrit language scriptures of Jainism - by @ManasMadrecha 🙏🏻 https://aagam.jainism.info
+- [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [antfu/talks](https://github.com/antfu/talks) - Slides & code for my talks
 - [araguaci/mentes-perigosas](https://github.com/araguaci/mentes-perigosas) - No mundo, aproximadamente 4% da população sofre desse tipo de transtorno de personalidade.

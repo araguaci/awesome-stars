@@ -79,6 +79,7 @@
 
 ## Astro 
 
+- [delucis/astro-badge](https://github.com/delucis/astro-badge) - Badges for Astro projects
 - [araguaci/rosario-em-latim](https://github.com/araguaci/rosario-em-latim) - Rosário em Latim com o Papa Bento XVI
 - [satnaing/astro-paper](https://github.com/satnaing/astro-paper) - A minimal, accessible and SEO-friendly Astro blog theme
 - [bholmesdev/whiteboard-the-web](https://github.com/bholmesdev/whiteboard-the-web) - Homepage for my infamous #whiteboardtheweb twitter videos ✨
@@ -455,7 +456,7 @@
 ## Clojure 
 
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 
 ## CoffeeScript 
@@ -1028,6 +1029,9 @@
 
 ## JavaScript 
 
+- [cloudinary/cloudinary_npm](https://github.com/cloudinary/cloudinary_npm) - Cloudinary NPM for node.js integration
+- [aberkow/a11y-menu](https://github.com/aberkow/a11y-menu) - 
+- [delucis/astro-embed](https://github.com/delucis/astro-embed) - Low-JavaScript embed components for Astro websites
 - [codecombat/codecombat](https://github.com/codecombat/codecombat) - Game for learning how to code.
 - [new-data-services/tailwindcss-animated](https://github.com/new-data-services/tailwindcss-animated) - Extended animation utilities for Tailwind CSS
 - [araguaci/o-imbecil-coletivo](https://github.com/araguaci/o-imbecil-coletivo) - next.js WebViewer is a JavaScript PDF library that lets you start adding accurate, reliable, and fast document processing capabilities to your web application.
@@ -2510,6 +2514,7 @@
 
 ## Jupyter Notebook 
 
+- [digitalinnovationone/dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source) - ⚠LEIA A ISSUE FIXADA! Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One.
 - [muhamuttaqien/AI-Lab](https://github.com/muhamuttaqien/AI-Lab) - 🔬 Absolutely comfort lab for me to work around with my own AIs and to empirically observe how powerful and impactful these technologies are. I do love these technologies!
 - [carefree0910/carefree-creator](https://github.com/carefree0910/carefree-creator) - AI magics meet Infinite draw board.
 - [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - A powerful data & AI notebook templates catalog: prompts, plugins, models, workflow automation, analytics, code snippets - following the IMO framework to be searchable and reusable in any context.
@@ -2567,6 +2572,7 @@
 
 ## MDX 
 
+- [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish.
 - [tesourofieis/tesourofieis](https://github.com/tesourofieis/tesourofieis) - Espaço dedicado à oração, exposição e preservação das santas tradições da Igreja.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [PaulieScanlon/paulie-dev-2019](https://github.com/PaulieScanlon/paulie-dev-2019) - A Content Rich SSG Gatsby Website with Serverless Functions and SSR
@@ -3427,7 +3433,7 @@
 - [akretion/nfelib](https://github.com/akretion/nfelib) - nfelib - bindings Python para e ler e gerir XML de NF-e, NFS-e nacional, CT-e, MDF-e, BP-e
 - [obss/sahi](https://github.com/obss/sahi) - Framework agnostic sliced/tiled inference + interactive ui + error analysis plots
 - [dermasmid/scrapetube](https://github.com/dermasmid/scrapetube) - A YouTube scraper for scraping channels, playlists, and searching 🔎
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app building platform. It has the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into one 
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. It has the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into o
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [bonfy/leetcode](https://github.com/bonfy/leetcode) - :sparkles::v::sparkles:leetcode刷题 内附leetcode solution代码自动下载生成器（Leetcode solution auto generator)
 - [viniped/vidconverter](https://github.com/viniped/vidconverter) - 
@@ -3764,7 +3770,7 @@
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 - [huytd/kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
 - [adamsky/globe](https://github.com/adamsky/globe) - Interactive ASCII globe generator
-- [G07cha/pomodoro](https://github.com/G07cha/pomodoro) - Desktop time management tool
+- [G07cha/pomodoro](https://github.com/G07cha/pomodoro) - A classic time management tool in your menubar
 - [grsoares21/video-silence-cutter](https://github.com/grsoares21/video-silence-cutter) - A Rust script to split and/or trim out silence sections from videos. Needs FFmpeg. WIP
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [mozilla/application-services](https://github.com/mozilla/application-services) - Firefox Application Services
@@ -3926,7 +3932,7 @@
 - [node-red/node-red-docker](https://github.com/node-red/node-red-docker) - Repository for all things Node-RED and Docker related
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [agnoster/agnoster-zsh-theme](https://github.com/agnoster/agnoster-zsh-theme) - A ZSH theme designed to disclose information contextually, with a powerline aesthetic
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [sparanoid/live-dl](https://github.com/sparanoid/live-dl) - Monitor and download live streams from YouTube
 - [symblai/getting-started-samples](https://github.com/symblai/getting-started-samples) - Code samples to Get started quickly with Symbl's Voice SDK and APIs: Node.js, JavaScript, WebSockets, & PSTN.
 - [ekondayan/docker-3cx](https://github.com/ekondayan/docker-3cx) - Running 3CX under docker. 3CX is a PBX with video conferencing and live chat functions.
@@ -3993,6 +3999,9 @@
 
 ## TypeScript 
 
+- [chearon/dropflow](https://github.com/chearon/dropflow) - A CSS layout engine
+- [ag-grid/ag-charts](https://github.com/ag-grid/ag-charts) - AG Charts is a fully-featured and highly customizable JavaScript charting library. The professional choice for developers building enterprise applications
+- [evilmartians/oklch-picker](https://github.com/evilmartians/oklch-picker) - Color Picker for LCH
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [nehu3n/lk3](https://github.com/nehu3n/lk3) - Fast, easy and free URL shortener.
@@ -4840,7 +4849,7 @@
 - [loiane/mslearn-functions-angular](https://github.com/loiane/mslearn-functions-angular) - 
 - [loiane/angular-bootstrap-example](https://github.com/loiane/angular-bootstrap-example) - 
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [angular/components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
 - [JayKan/angular2-instagram](https://github.com/JayKan/angular2-instagram) - :fire:Instagram like photo filter playground built with Angular2 (Web | Desktop)
 - [mgechev/angular-seed](https://github.com/mgechev/angular-seed) - 🌱 [Deprecated] Extensible, reliable, modular, PWA ready starter project for Angular (2 and beyond) with statically typed build and AoT compilation
@@ -4945,6 +4954,7 @@
 
 ## Vue 
 
+- [rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer) - A local UI tool for visualizing your Tailwind CSS configuration file.
 - [suplere/vitesse-quasar-nhost-template](https://github.com/suplere/vitesse-quasar-nhost-template) - NHost + Vitesse + Quasar template
 - [jainism-portal/jainaagam](https://github.com/jainism-portal/jainaagam) - A beautiful multilingual voluminous database of all 45 Jain Aagam - the supreme Prakrit language scriptures of Jainism - by @ManasMadrecha 🙏🏻 https://aagam.jainism.info
 - [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.

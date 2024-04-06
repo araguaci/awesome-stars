@@ -79,6 +79,7 @@
 
 ## Astro 
 
+- [Lissy93/git-in](https://github.com/Lissy93/git-in) - 🫶 "git" into opensource. A roadmap and set of guides to help you get started with open source
 - [delucis/astro-badge](https://github.com/delucis/astro-badge) - Badges for Astro projects
 - [araguaci/rosario-em-latim](https://github.com/araguaci/rosario-em-latim) - Rosário em Latim com o Papa Bento XVI
 - [satnaing/astro-paper](https://github.com/satnaing/astro-paper) - A minimal, accessible and SEO-friendly Astro blog theme
@@ -682,6 +683,7 @@
 
 ## HTML 
 
+- [bumbeishvili/org-chart](https://github.com/bumbeishvili/org-chart) - Highly customizable org chart.  Integrations  available for Angular, React, Vue
 - [paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
 - [araguaci/autoindex](https://github.com/araguaci/autoindex) - A better looking directory listing for apache.
 - [araguaci/artesdosul.github.io](https://github.com/araguaci/artesdosul.github.io) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://artesdosul.github.io/
@@ -854,7 +856,6 @@
 - [GoogleChrome/developer.chrome.com](https://github.com/GoogleChrome/developer.chrome.com) - The frontend, backend, and content source code for developer.chrome.com
 - [GoogleChrome/devtools-docs](https://github.com/GoogleChrome/devtools-docs) - The legacy documentation for Chrome DevTools.
 - [facebookincubator/infima](https://github.com/facebookincubator/infima) - A UI framework that provides websites with the minimal CSS and JS needed to get started with building a modern responsive beautiful website
-- [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [falconmasters/menu-temario](https://github.com/falconmasters/menu-temario) - Código del tutorial: Como hacer un menú de navegación estilo temario
 - [bootflat/bootflat.github.io](https://github.com/bootflat/bootflat.github.io) - BOOTFLAT is an open source Flat UI KIT based on Bootstrap 3.3.0 CSS framework. It provides a faster, easier and less repetitive way for web developers to create elegant web apps.
@@ -1029,6 +1030,7 @@
 
 ## JavaScript 
 
+- [BasicPrimitives/javascript](https://github.com/BasicPrimitives/javascript) - Basic Primitives Diagrams for JavaScript - data visualization components library that implements organizational chart and multi-parent dependency diagrams, contains implementations of JavaScript Contr
 - [cloudinary/cloudinary_npm](https://github.com/cloudinary/cloudinary_npm) - Cloudinary NPM for node.js integration
 - [aberkow/a11y-menu](https://github.com/aberkow/a11y-menu) - 
 - [delucis/astro-embed](https://github.com/delucis/astro-embed) - Low-JavaScript embed components for Astro websites
@@ -1797,6 +1799,7 @@
 - [yangshun/tree-node-cli](https://github.com/yangshun/tree-node-cli) - 🌲 Node.js library to list the contents of directories in a tree-like format, similar to the Linux tree command
 - [grab/front-end-guide](https://github.com/grab/front-end-guide) - 📚 Study guide and introduction to the modern front end stack.
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
+- [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [igorescobar/jQuery-Mask-Plugin](https://github.com/igorescobar/jQuery-Mask-Plugin) - A jQuery Plugin to make masks on form fields and HTML elements.
@@ -2290,7 +2293,6 @@
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [davidtheclark/react-aria-menubutton](https://github.com/davidtheclark/react-aria-menubutton) - A fully accessible, easily themeable, React-powered menu button
 - [zillow/react-slider](https://github.com/zillow/react-slider) - Accessible, CSS agnostic, slider component for React.
-- [react-tags/react-tags](https://github.com/react-tags/react-tags) - A fantastically simple tagging component for your projects
 - [xudafeng/autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - ⚛️ Auto Responsive Layout Library For React
 - [gpietro/react-numpad](https://github.com/gpietro/react-numpad) - A numpad for number, date and time, built with and for React.
 - [freiksenet/react-calendar](https://github.com/freiksenet/react-calendar) - A modular toolkit to build calendar-related things in React
@@ -2348,7 +2350,6 @@
 - [LeanKit-Labs/lux.js](https://github.com/LeanKit-Labs/lux.js) - Flux-based architecture for using ReactJS at LeanKit
 - [explooosion/browndust-share](https://github.com/explooosion/browndust-share) - This website is for browndust formation sharing
 - [tediousjs/node-mssql](https://github.com/tediousjs/node-mssql) - Microsoft SQL Server client for Node.js
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [EmailThis/extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) - ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -3966,6 +3967,7 @@
 
 ## Svelte 
 
+- [Lissy93/my-website](https://github.com/Lissy93/my-website) - ✨ My personal homepage. A developer portfolio site that aggregates all your projects, blog posts, and stats in one place
 - [Merkie/freespeech](https://github.com/Merkie/freespeech) - A free program designed to help the non-verbal.
 - [carbon-design-system/carbon-components-svelte](https://github.com/carbon-design-system/carbon-components-svelte) - Svelte implementation of the Carbon Design System
 - [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
@@ -3999,6 +4001,7 @@
 
 ## TypeScript 
 
+- [araguaci/ayrtonsenna-memories](https://github.com/araguaci/ayrtonsenna-memories) - No dia 1 de maio de 1994, há 30 anos, Ayrton Senna deixa um legadohistórico. O piloto brasileiro foi vítima de um despiste fatal do GP San Marino, em Ímola, um acidente que mudou para sempre a Fórmula
 - [chearon/dropflow](https://github.com/chearon/dropflow) - A CSS layout engine
 - [ag-grid/ag-charts](https://github.com/ag-grid/ag-charts) - AG Charts is a fully-featured and highly customizable JavaScript charting library. The professional choice for developers building enterprise applications
 - [evilmartians/oklch-picker](https://github.com/evilmartians/oklch-picker) - Color Picker for LCH
@@ -4856,6 +4859,7 @@
 - [SinghDigamber/angular-http-observables](https://github.com/SinghDigamber/angular-http-observables) - Angular 13 Observables tutorial - Manage HTTP response with RxJS observables and operators, build a live country search module from scratch.
 - [johnpapa/angular-event-view-cli](https://github.com/johnpapa/angular-event-view-cli) - Angular Demo with a Little bit of a lot of features
 - [johnpapa/vscode-angular-snippets](https://github.com/johnpapa/vscode-angular-snippets) - Angular Snippets for VS Code
+- [react-tags/react-tags](https://github.com/react-tags/react-tags) - A fantastically simple tagging component for your projects
 - [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [aeagle/react-spaces](https://github.com/aeagle/react-spaces) - React components that allow you to divide a page or container into nestable anchored, scrollable and resizable spaces.
 - [konvajs/react-konva](https://github.com/konvajs/react-konva) - React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
@@ -4888,6 +4892,7 @@
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [google-home/smart-home-local](https://github.com/google-home/smart-home-local) - Local Home SDK sample
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️

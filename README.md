@@ -67,6 +67,7 @@
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
+- [Twig](#twig)
 - [TypeScript](#typescript)
 - [VBScript](#vbscript)
 - [Vala](#vala)
@@ -169,6 +170,8 @@
 
 ## C# # 
 
+- [fullstackhero/dotnet-webapi-starter-kit](https://github.com/fullstackhero/dotnet-webapi-starter-kit) - production grade .net 8 webapi starter kit with multitenancy support and clean code. 🔥
+- [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire) - An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required
 - [Jcparkyn/nodexr](https://github.com/Jcparkyn/nodexr) - Graphical regular expression editor
 - [microsoft/devhome](https://github.com/microsoft/devhome) - The new Dev Home experience for Windows!
 - [WebVella/WebVella-ERP](https://github.com/WebVella/WebVella-ERP) - Free and open-source pluggable ERP and CRM software based on ASP.NET Core 5, RazorPages and PostgreSQL . Targets Linux or Windows as host OS.
@@ -253,6 +256,7 @@
 
 ## C++ 
 
+- [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
 - [WinMerge/winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
 - [roc-streaming/roc-toolkit](https://github.com/roc-streaming/roc-toolkit) - Real-time audio streaming over the network.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
@@ -340,6 +344,7 @@
 
 ## CSS 
 
+- [araguaci/ayrtonsenna-magic](https://github.com/araguaci/ayrtonsenna-magic) - 30 ANOS DA PASSAGEM DE AYRTON SENNA DA SILVA (34 ANOS)
 - [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 - [madrilene/eleventy-excellent](https://github.com/madrilene/eleventy-excellent) - Eleventy starter based on the workflow suggested by Andy Bell's buildexcellentwebsit.es.
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
@@ -555,6 +560,7 @@
 
 ## Go 
 
+- [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [Gitart/GO-SIMPLE](https://github.com/Gitart/GO-SIMPLE) - These are simple examples for useful daily use in your projects.
@@ -685,6 +691,7 @@
 
 ## HTML 
 
+- [epfl-si/epfl-theme-elements](https://github.com/epfl-si/epfl-theme-elements) - EPFL Web 2018 Styleguide based on Elements
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [midudev/javascript-100-proyectos](https://github.com/midudev/javascript-100-proyectos) - 100 proyectos de JavaScript con código y vídeos. ¡Gratis!
 - [bumbeishvili/org-chart](https://github.com/bumbeishvili/org-chart) - Highly customizable org chart.  Integrations  available for Angular, React, Vue
@@ -1034,6 +1041,8 @@
 
 ## JavaScript 
 
+- [rupali-codes/Task-manager](https://github.com/rupali-codes/Task-manager) - This Task manager will help you to keep you on track and to follow your daily routine. You can add your daily tasks and take notes for different things, also you can remove them once you're done with 
+- [participedia/api](https://github.com/participedia/api) - Website and API for Participedia V3
 - [gre/gl-react](https://github.com/gre/gl-react) - gl-react – React library to write and compose WebGL shaders
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [primefaces/primeflex](https://github.com/primefaces/primeflex) - PrimeFlex is a lightweight responsive CSS utility library to accompany Prime UI libraries and static webpages as well
@@ -1402,6 +1411,7 @@
 - [ahmadawais/WPGulp](https://github.com/ahmadawais/WPGulp) - An advanced Gulp workflow for WordPress development with extensive documentation. Used by 40,000+ themes and plugins.
 - [amilajack/js-algorithms](https://github.com/amilajack/js-algorithms) - A collection of algorithms written in javascript
 - [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
+- [chocolatey/choco-theme](https://github.com/chocolatey/choco-theme) - The global theme for Chocolatey Software.
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [brave/browser-laptop](https://github.com/brave/browser-laptop) - [DEPRECATED] Please see https://github.com/brave/brave-browser for the current version of Brave
 - [stelace/stelace](https://github.com/stelace/stelace) - Open-source marketplace backend in Node.js, empowering Web platforms with Search API, Automation, Auth, Headless CMS… ⚡ :computer:
@@ -1921,7 +1931,7 @@
 - [rcdexta/react-event-timeline](https://github.com/rcdexta/react-event-timeline) - A responsive event timeline in React.js
 - [rcdexta/react-trello](https://github.com/rcdexta/react-trello) - Pluggable components to add a kanban board to your application
 - [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
-- [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
+- [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
@@ -2639,6 +2649,8 @@
 
 ## Others 
 
+- [araguaci/timeline-c19biow](https://github.com/araguaci/timeline-c19biow) - 
+- [araguaci/ong-no-brasil-gsoros](https://github.com/araguaci/ong-no-brasil-gsoros) - 
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [RamiKrispin/Introduction-to-Docker](https://github.com/RamiKrispin/Introduction-to-Docker) - (WIP) Getting started with Docker - An introduction to Docker with data science and engineering applications
 - [techiescamp/devops-tools](https://github.com/techiescamp/devops-tools) - Curated List of Best DevOps Tools
@@ -2787,7 +2799,7 @@
 - [RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
 - [SimplifyJobs/Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships) - Collection of Summer 2024 tech internships!
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [merklefruit/SaaS4Devs](https://github.com/merklefruit/SaaS4Devs) - Awesome collection of content for developers trying to bootstrap their SaaS
 - [syxanash/awesome-web-desktops](https://github.com/syxanash/awesome-web-desktops) - Websites, web apps, portfolios which look like desktop operating systems
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
@@ -3810,7 +3822,6 @@
 - [simeydotme/jQuery-ui-Slider-Pips](https://github.com/simeydotme/jQuery-ui-Slider-Pips) - Plugin for adding little 'pips' , 'floats' and labels to a slider.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [mmistakes/jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic) - Your new Jekyll default theme.
-- [chocolatey/choco-theme](https://github.com/chocolatey/choco-theme) - The global theme for Chocolatey Software.
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [snapshot-labs/snapshot-spaces](https://github.com/snapshot-labs/snapshot-spaces) - 
 - [LeCoupa/vuetimeline](https://github.com/LeCoupa/vuetimeline) - 🕵️‍♀️🕵️‍♂️ One easy-to-use component for Vue.js to build beautiful responsive timelines.
@@ -3978,6 +3989,7 @@
 
 ## Svelte 
 
+- [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams
 - [Lissy93/my-website](https://github.com/Lissy93/my-website) - ✨ My personal homepage. A developer portfolio site that aggregates all your projects, blog posts, and stats in one place
 - [Merkie/freespeech](https://github.com/Merkie/freespeech) - A free program designed to help the non-verbal.
 - [carbon-design-system/carbon-components-svelte](https://github.com/carbon-design-system/carbon-components-svelte) - Svelte implementation of the Carbon Design System
@@ -4010,8 +4022,13 @@
 
 - [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
 
+## Twig 
+
+- [epfl-si/elements](https://github.com/epfl-si/elements) - Charte graphique Web EPFL
+
 ## TypeScript 
 
+- [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub) - LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work. These resources include links to free software, libraries, frameworks, and 
 - [flydelabs/flyde](https://github.com/flydelabs/flyde) - ⚡️⚡️⚡️ Open-source, visual programming for developers. Includes a VS Code extension, integrates with existing TypeScript code, browser and Node.js.
 - [RocketCommunicationsInc/astro](https://github.com/RocketCommunicationsInc/astro) - Astro UXDS is a collection of guidelines, patterns and components for designing space-based user interface applications.
 - [midudev/esland-web](https://github.com/midudev/esland-web) - Web de los premios Esland para fines didácticos
@@ -4052,7 +4069,7 @@
 - [reach4help/reach4help](https://github.com/reach4help/reach4help) - We are Reach4Help: a tech nonprofit connecting people in need with volunteer help in 38+ countries across Canada, the US, Europe and Asia
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [onechiporenko/ember-models-table](https://github.com/onechiporenko/ember-models-table) - Table with pagination, sorting, filtering and much more
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. It has the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into o
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [astriaai/headshots-starter](https://github.com/astriaai/headshots-starter) - 
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [marcellejs/marcelle](https://github.com/marcellejs/marcelle) - An Interactive Machine Learning Toolkit
@@ -4145,7 +4162,7 @@
 - [pixiebrix/pixiebrix-extension](https://github.com/pixiebrix/pixiebrix-extension) - PixieBrix browser extension
 - [RafaelGoulartB/proffy](https://github.com/RafaelGoulartB/proffy) - 🚀 Project made to connect teachers to students. Made in Next Level Week #2 #NLW @Rocketseat
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
+- [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
 - [getsentry/sentry-electron](https://github.com/getsentry/sentry-electron) - The official Sentry SDK for Electron
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
@@ -4341,7 +4358,7 @@
 - [fkhadra/react-morphing-modal](https://github.com/fkhadra/react-morphing-modal) - React fullscreen modal with swag 😎
 - [fkhadra/react-contexify](https://github.com/fkhadra/react-contexify) - 👌 Add a context menu to your react app with ease
 - [hejny/Ukraine](https://github.com/hejny/Ukraine) - Help Ukraine - add ribbon with Ukraine flag into the website you manage, show the anti-war message to Russian users, or block them from your service.
-- [cezaraugusto/extension-create](https://github.com/cezaraugusto/extension-create) - 🧩 Create cross-browser extensions with no build configuration.
+- [cezaraugusto/extension](https://github.com/cezaraugusto/extension) - 🧩 Create cross-browser extensions with no build configuration.
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in WebGL2
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [pablohen/covid](https://github.com/pablohen/covid) - Veja as estatísticas da Covid-19 de cada cidade do Brasil https://covid.pablohen.vercel.app.
@@ -4524,7 +4541,7 @@
 - [nuxt/image](https://github.com/nuxt/image) - Plug-and-play image optimization for Nuxt applications.
 - [js-works/shoelace-theme-designer](https://github.com/js-works/shoelace-theme-designer) - 
 - [fulls1z3/universal](https://github.com/fulls1z3/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, CLI scaffolding, dev/prod modes, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO,
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. CURRENTLY LIVE ON KICKSTARTER! 👇👇👇
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME. WE ARE LIVE ON KICKSTARTER! 👇👇👇
 - [grapp-dev/stacks](https://github.com/grapp-dev/stacks) - A set of components for building layouts in React Native. Powered by React Native Unistyles.
 - [react-boilerplate/react-boilerplate-cra-template](https://github.com/react-boilerplate/react-boilerplate-cra-template) - :fire: Setup Create React App with React Boilerplate. Highly scalable & Best DX & Performance Focused & Best practices.
 - [alenaksu/json-viewer](https://github.com/alenaksu/json-viewer) - Web Component to visualize JSON data in a tree view
@@ -4976,6 +4993,7 @@
 
 ## Vue 
 
+- [themeselection/vue-cheatsheet](https://github.com/themeselection/vue-cheatsheet) - The one and only Vue cheatsheet you will ever need.
 - [henripar/scrollbar](https://github.com/henripar/scrollbar) - Simple online scrollbar editor
 - [rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer) - A local UI tool for visualizing your Tailwind CSS configuration file.
 - [suplere/vitesse-quasar-nhost-template](https://github.com/suplere/vitesse-quasar-nhost-template) - NHost + Vitesse + Quasar template

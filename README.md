@@ -80,6 +80,7 @@
 
 ## Astro 
 
+- [araguaci/ayrtonsenna-inmemoriam](https://github.com/araguaci/ayrtonsenna-inmemoriam) - 30 anos da passagem de Aryon Senna que inspirou muitos e continua inspirando gerações, está no coração de todos nós.
 - [midudev/porfolio.dev](https://github.com/midudev/porfolio.dev) - Ejemplo de porfolio para programadores y desarrolladores
 - [Lissy93/git-in](https://github.com/Lissy93/git-in) - 🫶 "git" into opensource. A roadmap and set of guides to help you get started with open source
 - [delucis/astro-badge](https://github.com/delucis/astro-badge) - Badges for Astro projects
@@ -4034,6 +4035,7 @@
 
 ## TypeScript 
 
+- [mebjas/html5-qrcode](https://github.com/mebjas/html5-qrcode) - A cross platform HTML5 QR code reader. See end to end implementation at: https://scanapp.org
 - [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub) - LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work. These resources include links to free software, libraries, frameworks, and 
 - [flydelabs/flyde](https://github.com/flydelabs/flyde) - ⚡️⚡️⚡️ Open-source, visual programming for developers. Includes a VS Code extension, integrates with existing TypeScript code, browser and Node.js.
 - [RocketCommunicationsInc/astro](https://github.com/RocketCommunicationsInc/astro) - Astro UXDS is a collection of guidelines, patterns and components for designing space-based user interface applications.

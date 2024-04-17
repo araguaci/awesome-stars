@@ -1043,6 +1043,8 @@
 
 ## JavaScript 
 
+- [araguaci/artesdosul](https://github.com/araguaci/artesdosul) - This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+- [araguaci/yo-webapp-earth](https://github.com/araguaci/yo-webapp-earth) - Work In Progress. For meditation with Tzolkin Noosfera http://gaia.artesdosul.com/
 - [palewire/news-homepages](https://github.com/palewire/news-homepages) - An open-source archive that gathers, saves, shares and analyzes news homepages
 - [hrbrmstr/pewpew](https://github.com/hrbrmstr/pewpew) - :star: :star: :star: Build your own IP Attack Maps with SOUND!
 - [rupali-codes/Task-manager](https://github.com/rupali-codes/Task-manager) - This Task manager will help you to keep you on track and to follow your daily routine. You can add your daily tasks and take notes for different things, also you can remove them once you're done with 
@@ -1308,7 +1310,7 @@
 - [algolia/places](https://github.com/algolia/places) - :globe_with_meridians: Turn any &lt;input&gt; into an address autocomplete
 - [YosephKS/solana-defi-dashboard](https://github.com/YosephKS/solana-defi-dashboard) - This repository contains tutorial for building simple Solana DeFi Dashboard dApp with Moralis.
 - [victoria-lo/TAPI](https://github.com/victoria-lo/TAPI) - Full Node.js demo REST API for tea built for the Node.js MongoDB Beginner Series at lo-victoria.com/series/nodejs-rest-api
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is a lightweight HTML5 game engine with many features and no depenencies. 🚂 Choo-Choo!
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is a HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
 - [AnyChart/GraphicsJS](https://github.com/AnyChart/GraphicsJS) - A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology.
 - [Two9A/jsGB](https://github.com/Two9A/jsGB) - JavaScript emulation of the GameBoy console
 - [telerik/kendo-ui-core](https://github.com/telerik/kendo-ui-core) - An HTML5, jQuery-based widget library for building modern web apps.
@@ -3622,7 +3624,7 @@
 - [mdibaiee/flappy-es](https://github.com/mdibaiee/flappy-es) - Flappy Bird AI using Evolution Strategies
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
-- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a framework for generative AI
+- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
@@ -4141,7 +4143,7 @@
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 - [ElMassimo/iles](https://github.com/ElMassimo/iles) - 🏝 The joyful site generator
 - [yyx990803/vue-wordle](https://github.com/yyx990803/vue-wordle) - Wordle built with Vue, aka VVordle
-- [lightdash/lightdash](https://github.com/lightdash/lightdash) - Open source BI for teams that move fast ⚡️
+- [lightdash/lightdash](https://github.com/lightdash/lightdash) - Self-serve BI to 10x your data team ⚡️
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [bestofjs/bestofjs](https://github.com/bestofjs/bestofjs) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website

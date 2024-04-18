@@ -703,7 +703,7 @@
 - [araguaci/bootstrap-gallery](https://github.com/araguaci/bootstrap-gallery) - ✠ Brasil pela Liberdade ✠
 - [DivinumOfficium/divinum-officium](https://github.com/DivinumOfficium/divinum-officium) - The Divinum Officium Project: Traditional Roman Missal and Breviary Texts
 - [araguaci/awesome-stars](https://github.com/araguaci/awesome-stars) - A curated list of my GitHub stars!
-- [araguaci/ervas-a-z](https://github.com/araguaci/ervas-a-z) - ervas e suas aplicações de A a Z
+- [araguaci/ervas-a-z](https://github.com/araguaci/ervas-a-z) - 🚧 working in progress 🚧 ervas e suas aplicações de A a Z
 - [sillasgonzaga/livro_intro_r](https://github.com/sillasgonzaga/livro_intro_r) - Livro - Ciência de Dados com o R: Introdução
 - [thegeeklab/hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc) - Hugo theme made for documentation
 - [jtrecenti/2024-verao-torch](https://github.com/jtrecenti/2024-verao-torch) - 
@@ -1043,6 +1043,7 @@
 
 ## JavaScript 
 
+- [sitek94/pocket-globe-app](https://github.com/sitek94/pocket-globe-app) - Use the draggable and zoomable globe to explore the countries of the world.
 - [araguaci/artesdosul](https://github.com/araguaci/artesdosul) - This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 - [araguaci/yo-webapp-earth](https://github.com/araguaci/yo-webapp-earth) - Work In Progress. For meditation with Tzolkin Noosfera http://gaia.artesdosul.com/
 - [palewire/news-homepages](https://github.com/palewire/news-homepages) - An open-source archive that gathers, saves, shares and analyzes news homepages

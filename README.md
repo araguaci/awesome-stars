@@ -571,7 +571,7 @@
 - [ajaxray/geek-life](https://github.com/ajaxray/geek-life) - The Todo List / Task Manager for Geeks in command line
 - [pion/example-webrtc-applications](https://github.com/pion/example-webrtc-applications) - Examples of WebRTC applications that are large, or use 3rd party libraries
 - [flutter-webrtc/flutter-webrtc-server](https://github.com/flutter-webrtc/flutter-webrtc-server) - A simple WebRTC signaling server for flutter-webrtc.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -1043,6 +1043,9 @@
 
 ## JavaScript 
 
+- [araguaci/bikedeboa](https://github.com/araguaci/bikedeboa) - A (Progressive) Web App to find, map and review bike parkings in the cities of Brazil.
+- [bikedeboa/bikedeboa](https://github.com/bikedeboa/bikedeboa) - A (Progressive) Web App to find, map and review bike parkings in the cities of Brazil.
+- [cmdalbem/ciclomapa](https://github.com/cmdalbem/ciclomapa) - Beautiful, interactive & open bike maps of Brazilian cities. Powered by OpenStreetMap.
 - [sitek94/pocket-globe-app](https://github.com/sitek94/pocket-globe-app) - Use the draggable and zoomable globe to explore the countries of the world.
 - [araguaci/artesdosul](https://github.com/araguaci/artesdosul) - This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 - [araguaci/yo-webapp-earth](https://github.com/araguaci/yo-webapp-earth) - Work In Progress. For meditation with Tzolkin Noosfera http://gaia.artesdosul.com/
@@ -4041,6 +4044,7 @@
 
 ## TypeScript 
 
+- [StaticJsCMS/static-cms](https://github.com/StaticJsCMS/static-cms) - A Git-based CMS for Static Site Generators
 - [nodecg/nodecg](https://github.com/nodecg/nodecg) - Create broadcast graphics using Node.js and a browser
 - [flethy/flethy](https://github.com/flethy/flethy) - 
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
@@ -4921,7 +4925,7 @@
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [Sage/carbon](https://github.com/Sage/carbon) - Carbon by Sage | ReactJS UI Component Library
 - [esvit/ng-table](https://github.com/esvit/ng-table) - Simple table with sorting and filtering on AngularJS
-- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [nodegui/react-nodegui](https://github.com/nodegui/react-nodegui) - Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
 - [capacitor-community/electron](https://github.com/capacitor-community/electron) - Deploy your Capacitor apps to Linux, Mac, and Windows desktops, with the Electron platform! 🖥️
 - [srinivastamada/new-ionic-angular](https://github.com/srinivastamada/new-ionic-angular) - 
@@ -5008,6 +5012,7 @@
 
 ## Vue 
 
+- [araguaci/as-seis-licoes-ludwig-von-mises](https://github.com/araguaci/as-seis-licoes-ludwig-von-mises) - O presente livro reflete plenamente a posição fundamental do autor, que lhe valeu – e ainda lhe vale – a admiração dos discípulos e os insultos dos adversários.
 - [themeselection/vue-cheatsheet](https://github.com/themeselection/vue-cheatsheet) - The one and only Vue cheatsheet you will ever need.
 - [henripar/scrollbar](https://github.com/henripar/scrollbar) - Simple online scrollbar editor
 - [rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer) - A local UI tool for visualizing your Tailwind CSS configuration file.

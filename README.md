@@ -670,7 +670,7 @@
 - [ionorg/ion-avp](https://github.com/ionorg/ion-avp) - Audio/Video Processing Service
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
@@ -2673,6 +2673,8 @@
 
 ## Others 
 
+- [Alexandrogschafer/Programacao-Geoprocessamento](https://github.com/Alexandrogschafer/Programacao-Geoprocessamento) - 
+- [Alexandrogschafer/Spatial-Database](https://github.com/Alexandrogschafer/Spatial-Database) - 
 - [oshliaer/google-apps-script-awesome-list](https://github.com/oshliaer/google-apps-script-awesome-list) - The usual list of links to interesting resources for Google Apps Script
 - [MikaeI/metallicss](https://github.com/MikaeI/metallicss) - Adaptable metallic finish for CSS
 - [araguaci/twitterfilesbrazil](https://github.com/araguaci/twitterfilesbrazil) - Brazil's Twitter Files: Independent Revelations on Online Censorship.
@@ -3363,7 +3365,7 @@
 - [cosenary/Instagram-PHP-API](https://github.com/cosenary/Instagram-PHP-API) - An easy-to-use PHP Class for accessing Instagram's API.
 - [postaddictme/instagram-php-scraper](https://github.com/postaddictme/instagram-php-scraper) - Get account information, photos, videos, stories and comments.
 - [php-api-clients/twitter](https://github.com/php-api-clients/twitter) - :bird: Async first Twitter client
-- [ammarfaizi2/php-integral-obfuscator](https://github.com/ammarfaizi2/php-integral-obfuscator) - PHP Integral Obfuscator
+- [ammarfaizi/php-integral-obfuscator](https://github.com/ammarfaizi/php-integral-obfuscator) - PHP Integral Obfuscator
 - [gabrielrcouto/php-convnet](https://github.com/gabrielrcouto/php-convnet) - Pure PHP Convolutional Neural Network
 - [ben-xo/dir2cast](https://github.com/ben-xo/dir2cast) - Turn a directory of MP3s into a podcast - automatically.
 - [ben-xo/sslscrobbler](https://github.com/ben-xo/sslscrobbler) - Serato ScratchLive! / Serato DJ Scrobbler and Twitter bot
@@ -4822,7 +4824,7 @@
 - [trungvose/jira-clone-angular](https://github.com/trungvose/jira-clone-angular) - A simplified Jira clone built with Angular, ng-zorro and Akita
 - [wKoza/ngx-upload](https://github.com/wKoza/ngx-upload) - Ngx-upload is an upload module for Angular Ivy ready
 - [nodegui/nodegui-starter](https://github.com/nodegui/nodegui-starter) - A starter repo for NodeGui projects
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode
 - [PatrickJS/angular-hmr](https://github.com/PatrickJS/angular-hmr) - :fire: Angular Hot Module Replacement for Hot Module Reloading
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
@@ -5036,7 +5038,7 @@
 
 ## Vue 
 
-- [openivity/openivity.github.io](https://github.com/openivity/openivity.github.io) - Interactive tool to view (with OpenStreetMap view), edit, convert and combine multiple FIT, GPX and TCX activity files. 100% client-site power!
+- [openivity/openivity.github.io](https://github.com/openivity/openivity.github.io) - Interactive analytic tool to view (with OpenStreetMap), edit, convert and combine multiple FIT, GPX and TCX activity files. 100% client-site power!
 - [araguaci/as-seis-licoes-ludwig-von-mises](https://github.com/araguaci/as-seis-licoes-ludwig-von-mises) - O presente livro reflete plenamente a posição fundamental do autor, que lhe valeu – e ainda lhe vale – a admiração dos discípulos e os insultos dos adversários.
 - [themeselection/vue-cheatsheet](https://github.com/themeselection/vue-cheatsheet) - The one and only Vue cheatsheet you will ever need.
 - [henripar/scrollbar](https://github.com/henripar/scrollbar) - Simple online scrollbar editor

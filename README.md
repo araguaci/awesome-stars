@@ -2556,7 +2556,7 @@
 
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [leonardodiasdatascientist/Votacao2oTurno](https://github.com/leonardodiasdatascientist/Votacao2oTurno) - 
-- [digitalinnovationone/dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source) - ⚠LEIA A ISSUE FIXADA! Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One.
+- [digitalinnovationone/dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source) - Repositório do lab "Contribuindo em um Projeto Open Source no GitHub" da Digital Innovation One.
 - [muhamuttaqien/AI-Lab](https://github.com/muhamuttaqien/AI-Lab) - 🔬 Absolutely comfort lab for me to work around with my own AIs and to empirically observe how powerful and impactful these technologies are. I do love these technologies!
 - [carefree0910/carefree-creator](https://github.com/carefree0910/carefree-creator) - AI magics meet Infinite draw board.
 - [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - A powerful data & AI notebook templates catalog: prompts, plugins, models, workflow automation, analytics, code snippets - following the IMO framework to be searchable and reusable in any context.
@@ -3365,7 +3365,7 @@
 - [cosenary/Instagram-PHP-API](https://github.com/cosenary/Instagram-PHP-API) - An easy-to-use PHP Class for accessing Instagram's API.
 - [postaddictme/instagram-php-scraper](https://github.com/postaddictme/instagram-php-scraper) - Get account information, photos, videos, stories and comments.
 - [php-api-clients/twitter](https://github.com/php-api-clients/twitter) - :bird: Async first Twitter client
-- [ammarfaizi/php-integral-obfuscator](https://github.com/ammarfaizi/php-integral-obfuscator) - PHP Integral Obfuscator
+- [ammarfaizi2/php-integral-obfuscator](https://github.com/ammarfaizi2/php-integral-obfuscator) - PHP Integral Obfuscator
 - [gabrielrcouto/php-convnet](https://github.com/gabrielrcouto/php-convnet) - Pure PHP Convolutional Neural Network
 - [ben-xo/dir2cast](https://github.com/ben-xo/dir2cast) - Turn a directory of MP3s into a podcast - automatically.
 - [ben-xo/sslscrobbler](https://github.com/ben-xo/sslscrobbler) - Serato ScratchLive! / Serato DJ Scrobbler and Twitter bot
@@ -4119,7 +4119,7 @@
 - [marcellejs/marcelle](https://github.com/marcellejs/marcelle) - An Interactive Machine Learning Toolkit
 - [inlivedev/inlive-room](https://github.com/inlivedev/inlive-room) - Web conference call using WebRTC & inLive Hub API
 - [itsdrvgo/post-it](https://github.com/itsdrvgo/post-it) - A rip-off of popular social media apps.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
 - [github/local-action](https://github.com/github/local-action) - A simple utility for running and debugging a GitHub Action locally
 - [Vital-Utilities/Vital-Utilities](https://github.com/Vital-Utilities/Vital-Utilities) - Vital Utilities. Modern Windows Task Manager alternative with bells and whistles
 - [nbd-wtf/nostr-tools](https://github.com/nbd-wtf/nostr-tools) - Tools for developing Nostr clients.
@@ -4402,7 +4402,7 @@
 - [fkhadra/react-morphing-modal](https://github.com/fkhadra/react-morphing-modal) - React fullscreen modal with swag 😎
 - [fkhadra/react-contexify](https://github.com/fkhadra/react-contexify) - 👌 Add a context menu to your react app with ease
 - [hejny/Ukraine](https://github.com/hejny/Ukraine) - Help Ukraine - add ribbon with Ukraine flag into the website you manage, show the anti-war message to Russian users, or block them from your service.
-- [cezaraugusto/extension](https://github.com/cezaraugusto/extension) - 🧩 Create cross-browser extensions with no build configuration.
+- [cezaraugusto/extension](https://github.com/cezaraugusto/extension) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in WebGL2
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [pablohen/covid](https://github.com/pablohen/covid) - Veja as estatísticas da Covid-19 de cada cidade do Brasil https://covid.pablohen.vercel.app.

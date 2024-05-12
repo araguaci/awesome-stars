@@ -80,6 +80,7 @@
 
 ## Astro 
 
+- [araguaci/solarstorm](https://github.com/araguaci/solarstorm) - SOLAR STORM G5 Extreme Conditions Reached - 10/11/12 May 2024
 - [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
 - [araguaci/astro-showcase](https://github.com/araguaci/astro-showcase) - 🚧 working in progress 🚧
 - [araguaci/astro-power-blog](https://github.com/araguaci/astro-power-blog) - 🚧 working in progress 🚧

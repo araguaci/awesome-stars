@@ -205,7 +205,7 @@
 - [renatogroffe/ASPNETCore6-REST_API-JWT-Postman_ContagemAcessos](https://github.com/renatogroffe/ASPNETCore6-REST_API-JWT-Postman_ContagemAcessos) - Exemplo de implementação de testes de uma API REST criada com .NET 6 (e protegida com autenticação via JWT) para contagem de acessos utilizando Postman + Newman. Inclui Dockerfile com build desta apli
 - [wixtoolset/wix](https://github.com/wixtoolset/wix) - WiX Toolset Code
 - [MvvmCross/MvvmCross](https://github.com/MvvmCross/MvvmCross) - The .NET MVVM framework for cross-platform solutions, including Android, iOS, MacCatalyst, macOS, tvOS, WPF, WinUI
-- [nager/Nager.Date](https://github.com/nager/Nager.Date) - :earth_americas: Worldwide holiday (REST API), NuGet or docker container
+- [nager/Nager.Date](https://github.com/nager/Nager.Date) - Worldwide holidays (REST API), NuGet or docker container :earth_americas:
 - [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studi
 - [TelegramBots/Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - .NET Client for Telegram Bot API
 - [chocolatey/ChocolateyGUI](https://github.com/chocolatey/ChocolateyGUI) - A delicious GUI for Chocolatey
@@ -2830,7 +2830,7 @@
 - [araguaci/cronograma-para-a-t1ran1a](https://github.com/araguaci/cronograma-para-a-t1ran1a) - Cronograma para Tirania
 - [araguaci/olavo-de-carvalho](https://github.com/araguaci/olavo-de-carvalho) - 🚧 working in progress 🚧
 - [ilmoi/awesome-solana-nfts](https://github.com/ilmoi/awesome-solana-nfts) - A curated list of Solana NFT protocols, repos & community tools
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [engineerapart/TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) - Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!
 - [nuxt/framework](https://github.com/nuxt/framework) - Old repo of Nuxt 3 framework, now on nuxt/nuxt
 - [merchizm/Todoiva](https://github.com/merchizm/Todoiva) - Todoiva is a stylish non-competitive electron app that moves smoothly along its own line.
@@ -4079,6 +4079,10 @@
 
 ## TypeScript 
 
+- [sim51/react-sigma](https://github.com/sim51/react-sigma) - Sigma React component
+- [gephi/gephi-lite](https://github.com/gephi/gephi-lite) - A web-based, lighter version of Gephi
+- [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
+- [loopbackio/loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
 - [SRX-OSS/VS-Code-Theme-Portfolio](https://github.com/SRX-OSS/VS-Code-Theme-Portfolio) - Visual Studio Code Themed Developer Portfolio
 - [4Furki4/Meme-Generator](https://github.com/4Furki4/Meme-Generator) - Meme Generator where you can generate memes and share them with your friends
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!

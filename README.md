@@ -268,7 +268,7 @@
 - [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
 - [WinMerge/winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
 - [roc-streaming/roc-toolkit](https://github.com/roc-streaming/roc-toolkit) - Real-time audio streaming over the network.
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [apache/mxnet](https://github.com/apache/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
@@ -574,6 +574,7 @@
 
 ## Go 
 
+- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastr
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
@@ -707,6 +708,7 @@
 
 ## HTML 
 
+- [Buildstarted/linksfordevs](https://github.com/Buildstarted/linksfordevs) - A curated list of sources of development information including c#, c++, and other dev related links.
 - [cruip/cruip-tutorials](https://github.com/cruip/cruip-tutorials) - A repository of Cruip's guides & tutorials in HTML made with HTML, Tailwind CSS and Alpine.js
 - [EasyFrontendHQ/html-tailwindcss-components](https://github.com/EasyFrontendHQ/html-tailwindcss-components) - Free TailwindCSS HTML UI Components - built to create landing pages and websites. Easyfrontend UI components are free and open-source. show your support and love, don't forget to give us a star 🌟
 - [github/training-kit](https://github.com/github/training-kit) - Open source courseware for Git and GitHub
@@ -2689,6 +2691,7 @@
 
 ## Others 
 
+- [Bullas/ajudadev-rs](https://github.com/Bullas/ajudadev-rs) - Lista de iniciativas para ajudar o Rio Grande do Sul que precisam de voluntários
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
 - [Alexandrogschafer/Programacao-Geoprocessamento](https://github.com/Alexandrogschafer/Programacao-Geoprocessamento) - 
 - [Alexandrogschafer/Spatial-Database](https://github.com/Alexandrogschafer/Spatial-Database) - 
@@ -3569,6 +3572,7 @@
 - [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs Text to Speech.
 - [araguaci/o-dominio-de-si-mesmo](https://github.com/araguaci/o-dominio-de-si-mesmo) - Reflexões para vida. Compilado de temas e textos para reflexão pessoal
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [bonfy/github-trending](https://github.com/bonfy/github-trending) - Tracking the most popular Github repos, update daily(Python version)
 - [araguaci/all-notes-skills](https://github.com/araguaci/all-notes-skills) - 
 - [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
@@ -3669,7 +3673,7 @@
 - [InstaPy/instapy-quickstart](https://github.com/InstaPy/instapy-quickstart) - 💨 Simply get InstaPy up and running in minutes.
 - [mdibaiee/flappy-es](https://github.com/mdibaiee/flappy-es) - Flappy Bird AI using Evolution Strategies
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -4057,7 +4061,7 @@
 - [carbon-design-system/carbon-components-svelte](https://github.com/carbon-design-system/carbon-components-svelte) - Svelte implementation of the Carbon Design System
 - [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
 - [itswadesh/svelte-commerce](https://github.com/itswadesh/svelte-commerce) - The open-source storefront for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. The API approach also allows you to merge Svelte Commerce with any third-party tool like 
-- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind.
+- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A complete design system and component solution, built on Tailwind.
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
 - [sveltejs/realworld](https://github.com/sveltejs/realworld) - SvelteKit implementation of the RealWorld app
 - [simeydotme/svelte-range-slider-pips](https://github.com/simeydotme/svelte-range-slider-pips) - Multi-Thumb, Accessible, Beautiful Range Slider with Pips
@@ -4090,7 +4094,9 @@
 
 ## TypeScript 
 
-- [hudy9x/namviek](https://github.com/hudy9x/namviek) - A free task management with ai support for small startup
+- [SOS-RS/frontend](https://github.com/SOS-RS/frontend) - Auxílio RS: Projetos de Resposta a Emergências por Chuvas e Alagamentos
+- [SOS-RS/backend](https://github.com/SOS-RS/backend) - Auxílio RS: Projetos de Resposta a Emergências por Chuvas e Alagamentos
+- [hudy9x/namviek](https://github.com/hudy9x/namviek) - The open-source project manager for tiny teams
 - [Flexget/webui](https://github.com/Flexget/webui) - The FlexGet Web UI
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [subhadeeproy3902/BloxAI](https://github.com/subhadeeproy3902/BloxAI) - Craft flowcharts and diagrams effortlessly with Blox AI. Seamlessly create visuals and rich documentation, collaborate with your team, and enjoy secure sharing. Start visualizing your ideas today!
@@ -4218,7 +4224,6 @@
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer) - An all-round MQTT client that provides a structured topic overview
 - [brimdata/zui](https://github.com/brimdata/zui) - Zui is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [KYDronePilot/SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live geostationary weather satellite imagery for your desktop background
 - [wojtekmaj/date-utils](https://github.com/wojtekmaj/date-utils) - A collection of date-related utilities.
 - [orion3dgames/t5c](https://github.com/orion3dgames/t5c) - Building a open source multiplayer 3d rpg using babylon.js and colyseus
@@ -4696,7 +4701,7 @@
 - [birobirobiro/nlw-06-gameplay](https://github.com/birobirobiro/nlw-06-gameplay) - This is a project developed during the Next Level Week Together, presented by Rocketseat during June 2021.
 - [birobirobiro/nlw-05-plantmanager](https://github.com/birobirobiro/nlw-05-plantmanager) - NLW#05 - PlantManager
 - [jos3s/nlw06-letmeask](https://github.com/jos3s/nlw06-letmeask) - Projeto da 6 NLW de React da @Rocketseat, desenvolvido utilizando Firebase, Styled-Components e Typescript.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [trungvose/angular-spotify](https://github.com/trungvose/angular-spotify) - Spotify client built with Angular 15, Nx Workspace, ngrx, TailwindCSS and ng-zorro
 - [leandrowd/react-responsive-carousel](https://github.com/leandrowd/react-responsive-carousel) - React.js Responsive Carousel (with Swipe)
 - [getlift/lift](https://github.com/getlift/lift) - Expanding Serverless Framework beyond functions using the AWS CDK

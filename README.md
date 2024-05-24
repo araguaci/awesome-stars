@@ -1096,7 +1096,7 @@
 - [wri/gfw](https://github.com/wri/gfw) - Global Forest Watch: An online, global, near-real time forest monitoring tool
 - [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 - [thumbsup/thumbsup](https://github.com/thumbsup/thumbsup) - Generate static HTML photo / video galleries
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Web OS! Free, Open-Source, and Self-Hostable.
 - [anuraghazra/anuraghazra.github.io](https://github.com/anuraghazra/anuraghazra.github.io) - My Portfolio Site | Made With @Gatsbyjs
 - [MadobyPy/MadobyWeb](https://github.com/MadobyPy/MadobyWeb) - Terminal-inspired, clean, feature-rich and customizable browser start page for geeks. Has built-in editor for customizing.
 - [paperswithcode/ai-deadlines](https://github.com/paperswithcode/ai-deadlines) - :alarm_clock: AI conference deadline countdowns
@@ -2664,6 +2664,7 @@
 
 ## Markdown 
 
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [jestenough/learning](https://github.com/jestenough/learning) - public wiki-like repository with useful links
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
@@ -4054,6 +4055,7 @@
 
 ## Svelte 
 
+- [araguaci/suntzu](https://github.com/araguaci/suntzu) - Sun Tzu Quotes
 - [techniq/layerchart](https://github.com/techniq/layerchart) - Composable Svelte chart components to build a wide range of visualizations
 - [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
 - [Lissy93/my-website](https://github.com/Lissy93/my-website) - ✨ My personal homepage. A developer portfolio site that aggregates all your projects, blog posts, and stats in one place

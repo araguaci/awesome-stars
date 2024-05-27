@@ -655,7 +655,7 @@
 - [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
 - [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [moul/depviz](https://github.com/moul/depviz) - 👓 dependency visualizer for GitHub & GitLab (a.k.a., "auto-roadmap")
@@ -1062,6 +1062,7 @@
 
 ## JavaScript 
 
+- [Exifly/ApiVault](https://github.com/Exifly/ApiVault) - Your gateway to a world of public APIs.
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
 - [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.
 - [artesdosul/Awesome-Design-Tools](https://github.com/artesdosul/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
@@ -2693,6 +2694,7 @@
 
 ## Others 
 
+- [impressivewebs/frontend-feeds](https://github.com/impressivewebs/frontend-feeds) - An up to date list of RSS feeds for front-end developers.
 - [Bullas/ajudadev-rs](https://github.com/Bullas/ajudadev-rs) - Lista de iniciativas para ajudar o Rio Grande do Sul que precisam de voluntários
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
 - [Alexandrogschafer/Programacao-Geoprocessamento](https://github.com/Alexandrogschafer/Programacao-Geoprocessamento) - 
@@ -3502,7 +3504,7 @@
 - [jacebrowning/memegen](https://github.com/jacebrowning/memegen) - The free and open source API to generate memes.
 - [peaceiris/mkdocs-material-boilerplate](https://github.com/peaceiris/mkdocs-material-boilerplate) - MkDocs Material Boilerplate (Starter Kit) - Deploy documentation to hosting platforms (Netlify, GitHub Pages, GitLab Pages, and AWS Amplify Console) with Docker, pipenv, and GitHub Actions.
 - [argosopentech/argos-translate](https://github.com/argosopentech/argos-translate) - Open-source offline translation library written in Python
-- [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams
+- [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
@@ -4097,6 +4099,7 @@
 
 ## TypeScript 
 
+- [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Pipelines
 - [SOS-RS/frontend](https://github.com/SOS-RS/frontend) - Auxílio RS: Projetos de Resposta a Emergências por Chuvas e Alagamentos
 - [SOS-RS/backend](https://github.com/SOS-RS/backend) - Auxílio RS: Projetos de Resposta a Emergências por Chuvas e Alagamentos
 - [hudy9x/namviek](https://github.com/hudy9x/namviek) - The open-source project manager for tiny teams
@@ -5083,6 +5086,7 @@
 
 ## Vue 
 
+- [bohr-io/bohr-io](https://github.com/bohr-io/bohr-io) - A primeira plataforma serverless brasileira
 - [openivity/openivity.github.io](https://github.com/openivity/openivity.github.io) - Interactive analytic tool to view (with OpenStreetMap), edit, convert and combine multiple FIT, GPX and TCX activity files. 100% client-side power! (WebAssembly)
 - [araguaci/as-seis-licoes-ludwig-von-mises](https://github.com/araguaci/as-seis-licoes-ludwig-von-mises) - O presente livro reflete plenamente a posição fundamental do autor, que lhe valeu – e ainda lhe vale – a admiração dos discípulos e os insultos dos adversários.
 - [themeselection/vue-cheatsheet](https://github.com/themeselection/vue-cheatsheet) - The one and only Vue cheatsheet you will ever need.

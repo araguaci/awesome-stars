@@ -183,7 +183,7 @@
 - [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire) - An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required
 - [Jcparkyn/nodexr](https://github.com/Jcparkyn/nodexr) - Graphical regular expression editor
 - [microsoft/devhome](https://github.com/microsoft/devhome) - The new Dev Home experience for Windows!
-- [WebVella/WebVella-ERP](https://github.com/WebVella/WebVella-ERP) - Free and open-source pluggable ERP and CRM software based on ASP.NET Core 5, RazorPages and PostgreSQL . Targets Linux or Windows as host OS.
+- [WebVella/WebVella-ERP](https://github.com/WebVella/WebVella-ERP) - Free and open-source pluggable ERP and CRM software based on ASP.NET Core 8, RazorPages and PostgreSQL . Targets Linux or Windows as host OS.
 - [lilianedng/MetaVi](https://github.com/lilianedng/MetaVi) - MetaVi, a private video sharing platform for creative businesses, artist to upload and browse contents securely.
 - [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
 - [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
@@ -353,6 +353,7 @@
 
 ## CSS 
 
+- [elipapa/markdown-cv](https://github.com/elipapa/markdown-cv) - a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
 - [araguaci/quote-of-the-day](https://github.com/araguaci/quote-of-the-day) - Quote of the Day is a small introductory project on the use of APIs
 - [fppcnc/quote-of-the-day](https://github.com/fppcnc/quote-of-the-day) - Quote of the Day is a small introductory project on the use of APIs
 - [Naereen/Nginx-Fancyindex-Theme](https://github.com/Naereen/Nginx-Fancyindex-Theme) - A :iphone: responsive theme for Nginx Fancyindex module :wrench:. Minimal, modern and simple. ☀ Light & 😎 Dark themes. Comes with a search form :mag_right:, aims to handle thousands of files without a
@@ -708,6 +709,7 @@
 
 ## HTML 
 
+- [gethyas/doks](https://github.com/gethyas/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
 - [dawidolko/Github-Badges-Achievements](https://github.com/dawidolko/Github-Badges-Achievements) - A collection of all Achievements available on GitHub profile | Full list of GitHub profile badges and achievements |
 - [Buildstarted/linksfordevs](https://github.com/Buildstarted/linksfordevs) - A curated list of sources of development information including c#, c++, and other dev related links.
 - [cruip/cruip-tutorials](https://github.com/cruip/cruip-tutorials) - A repository of Cruip's guides & tutorials in HTML made with HTML, Tailwind CSS and Alpine.js
@@ -715,7 +717,6 @@
 - [github/training-kit](https://github.com/github/training-kit) - Open source courseware for Git and GitHub
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization implementing a layered grammar of graphics
 - [epfl-si/epfl-theme-elements](https://github.com/epfl-si/epfl-theme-elements) - EPFL Web 2018 Styleguide based on Elements
-- [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [midudev/javascript-100-proyectos](https://github.com/midudev/javascript-100-proyectos) - 100 proyectos de JavaScript con código y vídeos. ¡Gratis!
 - [bumbeishvili/org-chart](https://github.com/bumbeishvili/org-chart) - Highly customizable org chart.  Integrations  available for Angular, React, Vue
 - [paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
@@ -1063,6 +1064,8 @@
 
 ## JavaScript 
 
+- [sharafdin/yonode](https://github.com/sharafdin/yonode) - The Node.js Toolkit for Rapid Development.
+- [ashutosh1919/masterPortfolio](https://github.com/ashutosh1919/masterPortfolio) - 🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.
 - [metriport/metriport](https://github.com/metriport/metriport) - Metriport is an open-source universal API for healthcare data.
 - [Exifly/ApiVault](https://github.com/Exifly/ApiVault) - Your gateway to a world of public APIs.
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
@@ -1085,6 +1088,7 @@
 - [hrbrmstr/pewpew](https://github.com/hrbrmstr/pewpew) - :star: :star: :star: Build your own IP Attack Maps with SOUND!
 - [rupali-codes/Task-manager](https://github.com/rupali-codes/Task-manager) - This Task manager will help you to keep you on track and to follow your daily routine. You can add your daily tasks and take notes for different things, also you can remove them once you're done with 
 - [participedia/api](https://github.com/participedia/api) - Website and API for Participedia V3
+- [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [gre/gl-react](https://github.com/gre/gl-react) - gl-react – React library to write and compose WebGL shaders
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [primefaces/primeflex](https://github.com/primefaces/primeflex) - PrimeFlex is a lightweight responsive CSS utility library to accompany Prime UI libraries and static webpages as well
@@ -1112,7 +1116,7 @@
 - [hanakamer/mp3-player](https://github.com/hanakamer/mp3-player) - 🎧 mp3 player
 - [ksky521/nodeppt](https://github.com/ksky521/nodeppt) - This is probably the best web presentation tool so far!
 - [balajmarius/commit4](https://github.com/balajmarius/commit4) - 🎮 Winner of Game Off 2017.
-- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent )
+- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴脚本集 ユーザースクリプト集 Коллекция пользовательских скриптов
 - [zhuyingda/webster](https://github.com/zhuyingda/webster) - a reliable high-level web crawling & scraping framework for Node.js.
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [versatica/mediasoup-demo](https://github.com/versatica/mediasoup-demo) - mediasoup official demo application
@@ -2999,6 +3003,7 @@
 
 ## PHP 
 
+- [Torann/laravel-geoip](https://github.com/Torann/laravel-geoip) - Determine the geographical location of website visitors based on their IP addresses.
 - [Admidio/admidio](https://github.com/Admidio/admidio) - Admidio is a free open source user management system for websites of organizations and groups. The system has a flexible role model so that it’s possible to reflect the structure and permissions of yo
 - [KateMorley/grid](https://github.com/KateMorley/grid) - Source code for National Grid: Live at https://grid.iamkate.com/
 - [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly.
@@ -4102,6 +4107,11 @@
 
 ## TypeScript 
 
+- [interactivethings/swiss-maps](https://github.com/interactivethings/swiss-maps) - Swiss geodata as TopoJSON
+- [saas-js/saas-ui](https://github.com/saas-js/saas-ui) - The React component library for startups, built with Chakra UI.
+- [bra1nDump/show-me-chatgpt-plugin](https://github.com/bra1nDump/show-me-chatgpt-plugin) - Create and edit diagrams in ChatGPT
+- [iamsurajchahar/Json_Tree](https://github.com/iamsurajchahar/Json_Tree) - 🌳 Json Tree: Visualize JSON data in graph 📈 and tree 🌲 forms. Simplify, explore, and customize effortlessly. Lightning-fast ⚡️ rendering, browser-friendly 🌐, and developer-ready 🛠️. Empower your data 
+- [BUMBAIYA/jsontree](https://github.com/BUMBAIYA/jsontree) - Visualize JSON data format as a tree or graph
 - [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - TypeScript API generator via Swagger scheme
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Pipelines
 - [SOS-RS/frontend](https://github.com/SOS-RS/frontend) - Auxílio RS: Projetos de Resposta a Emergências por Chuvas e Alagamentos
@@ -4157,7 +4167,7 @@
 - [araguaci/rotadoceu](https://github.com/araguaci/rotadoceu) - 
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
-- [carlosjorger/vue-fluid-dnd](https://github.com/carlosjorger/vue-fluid-dnd) - A drag and drop library for Vue 3🌿
+- [carlosjorger/vue-fluid-dnd](https://github.com/carlosjorger/vue-fluid-dnd) - A drag and drop🤜🫳library for Vue 3🌿
 - [etherCorps/SK-Redis-SessionManager](https://github.com/etherCorps/SK-Redis-SessionManager) - Redis integration in SvelteKit for Session Management
 - [ocodista/trampar-de-casa](https://github.com/ocodista/trampar-de-casa) - Apoiamos o trabalho remoto e divulgamos vagas semanalmente para inscritos.
 - [balajmarius/svg2jsx](https://github.com/balajmarius/svg2jsx) - 🍃 Transform SVG to valid JSX.
@@ -4967,7 +4977,7 @@
 - [stefanoslig/angular-ngrx-nx-realworld-example-app](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 17, NgRx 17, nrwl/nx 17
 - [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder) - Deploy your Angular app to netlify from CLI
 - [NileshPatel17/ng-multiselect-dropdown](https://github.com/NileshPatel17/ng-multiselect-dropdown) - Multiple Select Dropdown Component
-- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
+- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue 
 - [cornflourblue/angular-9-jwt-refresh-tokens](https://github.com/cornflourblue/angular-9-jwt-refresh-tokens) - Angular 9 - JWT Authentication with Refresh Tokens
 - [gregjacobs/js-to-ts-converter](https://github.com/gregjacobs/js-to-ts-converter) - Small utility to fix common js-&gt;ts issues in order to assist in migrating a codebase
 - [nrwl/nx-console](https://github.com/nrwl/nx-console) - Nx Console is the user interface for Nx & Lerna.
@@ -5091,7 +5101,7 @@
 ## Vue 
 
 - [bohr-io/bohr-io](https://github.com/bohr-io/bohr-io) - A primeira plataforma serverless brasileira
-- [openivity/openivity.github.io](https://github.com/openivity/openivity.github.io) - Interactive analytic tool to view (with OpenStreetMap), edit, convert and combine multiple FIT, GPX and TCX activity files. 100% client-side power! (WebAssembly)
+- [openivity/openivity.github.io](https://github.com/openivity/openivity.github.io) - An open-source fitness analytic platform offering data visualization (with OpenStreetMap), edit, convert, and combine multiple FIT, GPX, and TCX activity files. 100% client-side power! (WebAssembly)
 - [araguaci/as-seis-licoes-ludwig-von-mises](https://github.com/araguaci/as-seis-licoes-ludwig-von-mises) - O presente livro reflete plenamente a posição fundamental do autor, que lhe valeu – e ainda lhe vale – a admiração dos discípulos e os insultos dos adversários.
 - [themeselection/vue-cheatsheet](https://github.com/themeselection/vue-cheatsheet) - The one and only Vue cheatsheet you will ever need.
 - [henripar/scrollbar](https://github.com/henripar/scrollbar) - Simple online scrollbar editor

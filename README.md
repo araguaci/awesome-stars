@@ -583,7 +583,6 @@
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [Gitart/GO-SIMPLE](https://github.com/Gitart/GO-SIMPLE) - These are simple examples for useful daily use in your projects.
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [ajaxray/geek-life](https://github.com/ajaxray/geek-life) - The Todo List / Task Manager for Geeks in command line
 - [pion/example-webrtc-applications](https://github.com/pion/example-webrtc-applications) - Examples of WebRTC applications that are large, or use 3rd party libraries
@@ -846,6 +845,7 @@
 - [vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
 - [vasturiano/globe.gl](https://github.com/vasturiano/globe.gl) - UI component for Globe Data Visualization using ThreeJS/WebGL
 - [microweber/microweber](https://github.com/microweber/microweber) - Drag and Drop Website Builder and CMS with E-commerce
+- [chinchang/cta.js](https://github.com/chinchang/cta.js) - Animate your 'action-to-effect' paths
 - [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos) - Coleção com links para desenvolvimento
 - [Decathlon/vitamin-web](https://github.com/Decathlon/vitamin-web) - Decathlon Design System UI components for web applications
 - [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
@@ -1064,6 +1064,7 @@
 
 ## JavaScript 
 
+- [polonel/trudesk](https://github.com/polonel/trudesk) - :coffee: :seedling: Trudesk is an open-source help desk/ticketing solution.
 - [sharafdin/yonode](https://github.com/sharafdin/yonode) - The Node.js Toolkit for Rapid Development.
 - [ashutosh1919/masterPortfolio](https://github.com/ashutosh1919/masterPortfolio) - 🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.
 - [metriport/metriport](https://github.com/metriport/metriport) - Metriport is an open-source universal API for healthcare data.
@@ -1639,7 +1640,6 @@
 - [panshak/accountill](https://github.com/panshak/accountill) - Fullstack open source Invoicing application made with MongoDB, Express, React & Nodejs (MERN)
 - [toptal/haste-server](https://github.com/toptal/haste-server) - open source pastebin written in node.js
 - [surmon-china/vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
-- [chinchang/cta.js](https://github.com/chinchang/cta.js) - Animate your 'action-to-effect' paths
 - [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
@@ -3507,6 +3507,8 @@
 
 ## Python 
 
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [dawidolko/Programming-Python](https://github.com/dawidolko/Programming-Python) - Tasks studies - laboratory
 - [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
 - [jacebrowning/memegen](https://github.com/jacebrowning/memegen) - The free and open source API to generate memes.
@@ -4164,6 +4166,7 @@
 - [vinothpandian/react-sketch-canvas](https://github.com/vinothpandian/react-sketch-canvas) - Freehand vector drawing component for React using SVG as canvas 🖌️
 - [tomalaforge/angular-challenges](https://github.com/tomalaforge/angular-challenges) - Set of Angular challenges to practise and train on Angular
 - [JulianCataldo/web-garden](https://github.com/JulianCataldo/web-garden) - Building blocks for making progressive and future-proof websites. Components collection features Astro, HTML, SCSS, JS, TS… Configurations features ESLint, Prettier, Stylelint…
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [araguaci/rotadoceu](https://github.com/araguaci/rotadoceu) - 
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
@@ -5100,6 +5103,7 @@
 
 ## Vue 
 
+- [dd3v/favbox](https://github.com/dd3v/favbox) - ❤️FavBox is a browser extension that simplifies and improves bookmark management, without relying on external cloud storage or third-party services
 - [bohr-io/bohr-io](https://github.com/bohr-io/bohr-io) - A primeira plataforma serverless brasileira
 - [openivity/openivity.github.io](https://github.com/openivity/openivity.github.io) - An open-source fitness analytic platform offering data visualization (with OpenStreetMap), edit, convert, and combine multiple FIT, GPX, and TCX activity files. 100% client-side power! (WebAssembly)
 - [araguaci/as-seis-licoes-ludwig-von-mises](https://github.com/araguaci/as-seis-licoes-ludwig-von-mises) - O presente livro reflete plenamente a posição fundamental do autor, que lhe valeu – e ainda lhe vale – a admiração dos discípulos e os insultos dos adversários.

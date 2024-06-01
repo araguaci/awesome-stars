@@ -708,6 +708,7 @@
 
 ## HTML 
 
+- [araguaci/it-journey](https://github.com/araguaci/it-journey) - From zero to hero collection of docs, tools, scripts, and information to support your IT journey
 - [gethyas/doks](https://github.com/gethyas/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
 - [dawidolko/Github-Badges-Achievements](https://github.com/dawidolko/Github-Badges-Achievements) - A collection of all Achievements available on GitHub profile | Full list of GitHub profile badges and achievements |
 - [Buildstarted/linksfordevs](https://github.com/Buildstarted/linksfordevs) - A curated list of sources of development information including c#, c++, and other dev related links.
@@ -1064,6 +1065,8 @@
 
 ## JavaScript 
 
+- [actions/create-github-app-token](https://github.com/actions/create-github-app-token) - GitHub Action for creating a GitHub App Installation Access Token
+- [actions/javascript-action](https://github.com/actions/javascript-action) - Create a JavaScript Action with tests, linting, workflow, publishing, and versioning
 - [polonel/trudesk](https://github.com/polonel/trudesk) - :coffee: :seedling: Trudesk is an open-source help desk/ticketing solution.
 - [sharafdin/yonode](https://github.com/sharafdin/yonode) - The Node.js Toolkit for Rapid Development.
 - [ashutosh1919/masterPortfolio](https://github.com/ashutosh1919/masterPortfolio) - 🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.
@@ -1254,7 +1257,7 @@
 - [devpleno/junta-vagas](https://github.com/devpleno/junta-vagas) - 
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [Alexoid1/Super-heroes](https://github.com/Alexoid1/Super-heroes) - SuperHeroes is a web application that shows stats about All SuperHeroes and Villains from all universes. Built with React and Redux and fetches data from a standard API and FirebaseStore also authenti
-- [utsavbhattarai007/Toolkit](https://github.com/utsavbhattarai007/Toolkit) - 
+- [utsavdotdev/Toolkit](https://github.com/utsavdotdev/Toolkit) - 
 - [prismicio-community/nextjs-starter-prismic-multi-language](https://github.com/prismicio-community/nextjs-starter-prismic-multi-language) - Multi-language project with Next.js & Prismic
 - [asciimath/asciimathml](https://github.com/asciimath/asciimathml) - A new home for asciimathml
 - [yustarandomname/svelte-supabase-quickstart](https://github.com/yustarandomname/svelte-supabase-quickstart) - This is a project to quickstart your development with supabase combined with the svelte framework
@@ -2148,7 +2151,7 @@
 - [furcan/KioskBoard](https://github.com/furcan/KioskBoard) - KioskBoard - A pure JavaScript library for using virtual keyboards.
 - [ServeRest/ServeRest](https://github.com/ServeRest/ServeRest) - APIs REST simulando loja virtual para servir de estudo de testes de API de forma manual ou automatizada
 - [captainwz/svg-3d-builder](https://github.com/captainwz/svg-3d-builder) - an elaborate tool to create 3d model with svg
-- [mozilla/Spoke](https://github.com/mozilla/Spoke) - Easily create custom 3D environments
+- [Hubs-Foundation/Spoke](https://github.com/Hubs-Foundation/Spoke) - Easily create custom 3D environments
 - [aholachek/mobile-first-animation](https://github.com/aholachek/mobile-first-animation) - Gesture-driven animation on the mobile web (React Conf 2019)
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [AndrewMayes/Linktree-Clone](https://github.com/AndrewMayes/Linktree-Clone) - Clone of Linktree using the MERN stack
@@ -2700,6 +2703,8 @@
 
 ## Others 
 
+- [araguaci/geoengineering-patents](https://github.com/araguaci/geoengineering-patents) - 
+- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [impressivewebs/frontend-feeds](https://github.com/impressivewebs/frontend-feeds) - An up to date list of RSS feeds for front-end developers.
 - [Bullas/ajudadev-rs](https://github.com/Bullas/ajudadev-rs) - Lista de iniciativas para ajudar o Rio Grande do Sul que precisam de voluntários
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
@@ -2914,7 +2919,7 @@
 - [perifacode/conteudo-gratuito](https://github.com/perifacode/conteudo-gratuito) - 📌 Conteúdos gratuitos compartilhados pela comunidade.
 - [Ballerini-Server/git-tutorial](https://github.com/Ballerini-Server/git-tutorial) - This repository is meant to help you learn Git.
 - [reactwg/react-18](https://github.com/reactwg/react-18) - Workgroup for React 18 release.
-- [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) - Awesome list of progressive web apps! (PR welcomed ;))
+- [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) - Awesome list of progressive web apps!
 - [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) - Boilerplates for mobile and web apps
 - [trungvose/front-end-editorial-style-guide](https://github.com/trungvose/front-end-editorial-style-guide) - A style guide on the standard format, spelling, and construction of commonly used words and phrases. For clarity and consistency of our internal and external communications – from our user interface t
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
@@ -3880,6 +3885,8 @@
 
 ## SCSS 
 
+- [araguaci/cheatsheets](https://github.com/araguaci/cheatsheets) - Cheatsheets for web development - devhints.io
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [araguaci/jekyllfolio](https://github.com/araguaci/jekyllfolio) - 
 - [docura/docura](https://github.com/docura/docura) - 📖 A modular Hugo theme to build your next documentation site
 - [ForEvolve/bootstrap-dark](https://github.com/ForEvolve/bootstrap-dark) - Bootstrap 4 dark theme that supports togging dark/light themes as well. There is no fluff, it changes the color of Bootstrap and that's it, no new thing to learn or unlearn, just Bootstrap, but Dark!
@@ -4109,6 +4116,7 @@
 
 ## TypeScript 
 
+- [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [interactivethings/swiss-maps](https://github.com/interactivethings/swiss-maps) - Swiss geodata as TopoJSON
 - [saas-js/saas-ui](https://github.com/saas-js/saas-ui) - The React component library for startups, built with Chakra UI.
 - [bra1nDump/show-me-chatgpt-plugin](https://github.com/bra1nDump/show-me-chatgpt-plugin) - Create and edit diagrams in ChatGPT

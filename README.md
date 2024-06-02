@@ -1065,6 +1065,7 @@
 
 ## JavaScript 
 
+- [statichunt/statichunt](https://github.com/statichunt/statichunt) - Statichunt is a free open-source Jamstack directory that lists hundreds of themes, starters, and resources for static sites.
 - [actions/create-github-app-token](https://github.com/actions/create-github-app-token) - GitHub Action for creating a GitHub App Installation Access Token
 - [actions/javascript-action](https://github.com/actions/javascript-action) - Create a JavaScript Action with tests, linting, workflow, publishing, and versioning
 - [polonel/trudesk](https://github.com/polonel/trudesk) - :coffee: :seedling: Trudesk is an open-source help desk/ticketing solution.
@@ -3008,6 +3009,7 @@
 
 ## PHP 
 
+- [dejurin/php-google-translate-for-free](https://github.com/dejurin/php-google-translate-for-free) - Library for free use Google Translator. With attempts connecting on failure and array support.
 - [Torann/laravel-geoip](https://github.com/Torann/laravel-geoip) - Determine the geographical location of website visitors based on their IP addresses.
 - [Admidio/admidio](https://github.com/Admidio/admidio) - Admidio is a free open source user management system for websites of organizations and groups. The system has a flexible role model so that it’s possible to reflect the structure and permissions of yo
 - [KateMorley/grid](https://github.com/KateMorley/grid) - Source code for National Grid: Live at https://grid.iamkate.com/
@@ -4116,6 +4118,7 @@
 
 ## TypeScript 
 
+- [araguaci/bestofjs-webui](https://github.com/araguaci/bestofjs-webui) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [interactivethings/swiss-maps](https://github.com/interactivethings/swiss-maps) - Swiss geodata as TopoJSON
 - [saas-js/saas-ui](https://github.com/saas-js/saas-ui) - The React component library for startups, built with Chakra UI.

@@ -306,6 +306,7 @@
 - [RHVoice/RHVoice](https://github.com/RHVoice/RHVoice) - a free and open source speech synthesizer for Russian and other languages
 - [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
 - [CGAL/cgal](https://github.com/CGAL/cgal) - The public CGAL repository, see the README below
+- [felipecastrosales/CalculatorBMI](https://github.com/felipecastrosales/CalculatorBMI) - A simple Calculator BMI develop with Flutter.
 - [BelledonneCommunications/linphone-desktop](https://github.com/BelledonneCommunications/linphone-desktop) - Linphone is a free VoIP and video softphone based on the SIP protocol. Mirror of git://git.linphone.org/linphone-desktop.git
 - [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
 - [amov-lab/Prometheus](https://github.com/amov-lab/Prometheus) - Open source software for autonomous drones.
@@ -513,7 +514,6 @@
 - [flutter-webrtc/flutter-webrtc-demo](https://github.com/flutter-webrtc/flutter-webrtc-demo) - Demo for flutter-webrtc
 - [flutter-webrtc/dart-sip-ua](https://github.com/flutter-webrtc/dart-sip-ua) - A dart-lang version of the SIP UA stack.
 - [felipecastrosales/app_filmes](https://github.com/felipecastrosales/app_filmes) - 🎥 Aplicativo de Filmes com Flutter usando a API - TMDB para a consulta de dados. Desenvolvido na 04ª Edição da #DartWeek, de @RodrigoRahman. 🔥
-- [felipecastrosales/CalculatorBMI](https://github.com/felipecastrosales/CalculatorBMI) - A simple Calculator BMI develop with Flutter.
 - [thelazyindian/Tasks](https://github.com/thelazyindian/Tasks) - A clone of Google Tasks app made from scratch with flutter. WIP.
 - [FilledStacks/flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials) - The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
 - [felipecastrosales/DevQuiz](https://github.com/felipecastrosales/DevQuiz) - Dev.Quiz  👨‍💻 | Rocketseat 💜 - NLW 05 👩‍🚀
@@ -1070,6 +1070,7 @@
 
 ## JavaScript 
 
+- [araguaci/OrgChart](https://github.com/araguaci/OrgChart) - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.
 - [araguaci/hexagonTab](https://github.com/araguaci/hexagonTab) - Hexagon bookmarks accented with a chosen colour. Customise the layout, style, background and bookmarks with hexagonTab.
 - [araguaci/rss-feed-to-markdown](https://github.com/araguaci/rss-feed-to-markdown) - 
 - [OfficeDev/Office-Add-in-samples](https://github.com/OfficeDev/Office-Add-in-samples) - Code samples for Office Add-in development on the Microsoft 365 platform.
@@ -2715,6 +2716,7 @@
 
 ## Others 
 
+- [yWorks/yfiles-for-html-demos](https://github.com/yWorks/yfiles-for-html-demos) - The source code demos for the yFiles for HTML diagramming library
 - [artesdosul/showcase](https://github.com/artesdosul/showcase) - 
 - [araguaci/ajudadev-rs](https://github.com/araguaci/ajudadev-rs) - Lista de iniciativas para ajudar o Rio Grande do Sul que precisam de voluntários
 - [araguaci/geoengineering-patents](https://github.com/araguaci/geoengineering-patents) - 

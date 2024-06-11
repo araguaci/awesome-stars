@@ -8,6 +8,7 @@
 - [Astro](#astro)
 - [Batchfile](#batchfile)
 - [Bicep](#bicep)
+- [Bikeshed](#bikeshed)
 - [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
@@ -114,6 +115,10 @@
 ## Bicep 
 
 - [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
+
+## Bikeshed 
+
+- [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts) - CSS Working Group Editor Drafts
 
 ## Blade 
 
@@ -1070,6 +1075,7 @@
 
 ## JavaScript 
 
+- [arthuro555/GDevelop](https://github.com/arthuro555/GDevelop) - :video_game: GDevelop is an open-source, cross-platform game engine designed to be used by everyone.
 - [araguaci/OrgChart](https://github.com/araguaci/OrgChart) - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.
 - [araguaci/hexagonTab](https://github.com/araguaci/hexagonTab) - Hexagon bookmarks accented with a chosen colour. Customise the layout, style, background and bookmarks with hexagonTab.
 - [araguaci/rss-feed-to-markdown](https://github.com/araguaci/rss-feed-to-markdown) - 

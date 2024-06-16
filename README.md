@@ -715,6 +715,7 @@
 
 ## HTML 
 
+- [JanHerca/urantiapedia](https://github.com/JanHerca/urantiapedia) - Urantia Book wiki encyclopedia
 - [araguaci/cronologia-operacoes-eua](https://github.com/araguaci/cronologia-operacoes-eua) - Cronologia das operações militares dos Estados Unidos
 - [araguaci/divinum-officium](https://github.com/araguaci/divinum-officium) - The Divinum Officium Project: Traditional Roman Missal and Breviary Texts
 - [araguaci/it-journey](https://github.com/araguaci/it-journey) - From zero to hero collection of docs, tools, scripts, and information to support your IT journey
@@ -1087,6 +1088,7 @@
 - [sharafdin/yonode](https://github.com/sharafdin/yonode) - The Node.js Toolkit for Rapid Development.
 - [ashutosh1919/masterPortfolio](https://github.com/ashutosh1919/masterPortfolio) - 🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.
 - [metriport/metriport](https://github.com/metriport/metriport) - Metriport is an open-source universal API for healthcare data.
+- [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - TypeScript API generator via Swagger scheme
 - [Exifly/ApiVault](https://github.com/Exifly/ApiVault) - Your gateway to a world of public APIs.
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
 - [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.
@@ -4150,6 +4152,9 @@
 
 ## TypeScript 
 
+- [vitalets/google-translate-api](https://github.com/vitalets/google-translate-api) - A free and unlimited API for Google Translate :dollar: :no_entry_sign:
+- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
+- [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [Yummygum/flagpack-core](https://github.com/Yummygum/flagpack-core) - Flagpack contains 250+ flag icons to easily use within your code project.
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [penxio/penx](https://github.com/penxio/penx) - PenX is a cross-platform productivity App built on open-source and Web3.
@@ -4169,7 +4174,6 @@
 - [bra1nDump/show-me-chatgpt-plugin](https://github.com/bra1nDump/show-me-chatgpt-plugin) - Create and edit diagrams in ChatGPT
 - [iamsurajchahar/Json_Tree](https://github.com/iamsurajchahar/Json_Tree) - 🌳 Json Tree: Visualize JSON data in graph 📈 and tree 🌲 forms. Simplify, explore, and customize effortlessly. Lightning-fast ⚡️ rendering, browser-friendly 🌐, and developer-ready 🛠️. Empower your data 
 - [BUMBAIYA/jsontree](https://github.com/BUMBAIYA/jsontree) - Visualize JSON data format as a tree or graph
-- [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - TypeScript API generator via Swagger scheme
 - [SOS-RS/frontend](https://github.com/SOS-RS/frontend) - Auxílio RS: Projetos de Resposta a Emergências por Chuvas e Alagamentos
 - [SOS-RS/backend](https://github.com/SOS-RS/backend) - Auxílio RS: Projetos de Resposta a Emergências por Chuvas e Alagamentos
 - [hudy9x/namviek](https://github.com/hudy9x/namviek) - The open-source project manager for tiny teams
@@ -4491,7 +4495,7 @@
 - [antfu-collective/vitesse-webext](https://github.com/antfu-collective/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [antfu/vue-starport](https://github.com/antfu/vue-starport) - 🛰 Shared component across routes with animations
 - [LekoArts/figma-theme-ui](https://github.com/LekoArts/figma-theme-ui) - Convert a Theme UI config to Figma Styles
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The commerce platform with customization in its DNA.
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [EtherealEngine/etherealengine](https://github.com/EtherealEngine/etherealengine) - iR Engine - Bringing us together on the open social spatial web. 🤖 🚀 👓 🕹️ 🧑🏿‍🚀
 - [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app) - 💅 A fast and ready-to-go with a well-thought-out structure Electron app boilerplate with ReactJS, TypeScript, CSS / SASS modules, Electron Vite, Eslint, Prettier, GitHub Action releases and more.

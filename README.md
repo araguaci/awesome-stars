@@ -1076,6 +1076,7 @@
 
 ## JavaScript 
 
+- [araguaci/healing-sound-of-the-earth](https://github.com/araguaci/healing-sound-of-the-earth) - O Som Curativo da Terra (The healing sound of the earth)
 - [arthuro555/GDevelop](https://github.com/arthuro555/GDevelop) - :video_game: GDevelop is an open-source, cross-platform game engine designed to be used by everyone.
 - [araguaci/OrgChart](https://github.com/araguaci/OrgChart) - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.
 - [araguaci/hexagonTab](https://github.com/araguaci/hexagonTab) - Hexagon bookmarks accented with a chosen colour. Customise the layout, style, background and bookmarks with hexagonTab.
@@ -3868,7 +3869,7 @@
 
 - [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconference system written in rust
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
-- [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Pipelines
+- [streamdal/streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Privacy
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.

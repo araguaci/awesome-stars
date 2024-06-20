@@ -1033,7 +1033,6 @@
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [codenameone/CodenameOne](https://github.com/codenameone/CodenameOne) - Cross-platform framework for building truly native mobile apps with Java or Kotlin. Write Once Run Anywhere support for iOS, Android, Desktop & Web.
 - [benwtrent/janus-gateway-android](https://github.com/benwtrent/janus-gateway-android) - This is an API wrapper that utilizes the native WebRTC build and is made to ease communication with the janus-gateway
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [Piasy/BigImageViewer](https://github.com/Piasy/BigImageViewer) - Big image viewer supporting pan and zoom, with very little memory usage and full featured image loading choices. Powered by Subsampling Scale Image View, Fresco, Glide, and Picasso. Even with gif and 
 - [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 - [cesardeazevedo/react-native-collapsing-toolbar](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - react-native wrapper for android CollapsingToolbarLayout
@@ -1077,6 +1076,7 @@
 
 ## JavaScript 
 
+- [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [araguaci/healing-sound-of-the-earth](https://github.com/araguaci/healing-sound-of-the-earth) - O Som Curativo da Terra (The healing sound of the earth)
 - [arthuro555/GDevelop](https://github.com/arthuro555/GDevelop) - :video_game: GDevelop is an open-source, cross-platform game engine designed to be used by everyone.
 - [araguaci/OrgChart](https://github.com/araguaci/OrgChart) - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.
@@ -1768,7 +1768,6 @@
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 - [sindresorhus/electron-store](https://github.com/sindresorhus/electron-store) - Simple data persistence for your Electron app or module - Save and load user preferences, app state, cache, etc
-- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [WWBN/AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
 - [wyc/semantic-ui-react-todos](https://github.com/wyc/semantic-ui-react-todos) - The ReactJS/Redux Todo List Example with Semantic UI Components
 - [callmecavs/layzr.js](https://github.com/callmecavs/layzr.js) - A modern lazy loading library for images.
@@ -4155,6 +4154,8 @@
 
 ## TypeScript 
 
+- [inovex/scrumlr.io](https://github.com/inovex/scrumlr.io) - Webapp for collaborative online retrospectives
+- [JoshuaKGoldberg/TypeStat](https://github.com/JoshuaKGoldberg/TypeStat) - Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫
 - [araguaci/malvadofavorito](https://github.com/araguaci/malvadofavorito) - Índices e resultados do último governo e atual administração.  Muitas informações não chegam ao público porque existe muito               financiamento para acobertamento e propaganda.
 - [vitalets/google-translate-api](https://github.com/vitalets/google-translate-api) - A free and unlimited API for Google Translate :dollar: :no_entry_sign:
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
@@ -4503,7 +4504,7 @@
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [EtherealEngine/etherealengine](https://github.com/EtherealEngine/etherealengine) - iR Engine - Bringing us together on the open social spatial web. 🤖 🚀 👓 🕹️ 🧑🏿‍🚀
 - [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app) - 💅 A fast and ready-to-go with a well-thought-out structure Electron app boilerplate with ReactJS, TypeScript, CSS / SASS modules, Electron Vite, Eslint, Prettier, GitHub Action releases and more.
-- [zowe/zowe-explorer-vscode](https://github.com/zowe/zowe-explorer-vscode) - Visual Studio Code Plug-in for Zowe, which lets users interact with z/OS data sets on a remote mainframe instance. Powered by Zowe CLI.
+- [zowe/zowe-explorer-vscode](https://github.com/zowe/zowe-explorer-vscode) - Visual Studio Code Extension for Zowe, which lets users interact with z/OS Data Sets, Unix System Services, and Jobs on a remote mainframe instance. Powered by Zowe SDKs.
 - [ngx-rocket/generator-ngx-rocket](https://github.com/ngx-rocket/generator-ngx-rocket) - :rocket: Extensible Angular 14+ enterprise-grade project generator
 - [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk) - Matrix SDK for React Javascript
 - [element-hq/element-desktop](https://github.com/element-hq/element-desktop) - A glossy Matrix collaboration client for desktop.
@@ -4637,6 +4638,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [PrairieLearn/PrairieLearn](https://github.com/PrairieLearn/PrairieLearn) - Online problem-driving learning system
 - [maximegris/typescript-express-sequelize](https://github.com/maximegris/typescript-express-sequelize) - Easily bootstrap your NodeJS project with Express, Sequelize and Typescript :+1:
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [itgalaxy/favicons](https://github.com/itgalaxy/favicons) - Favicons generator for Node.js
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 - [sindresorhus/electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for Electron apps and modules
@@ -4663,6 +4665,7 @@
 - [Splidejs/splide](https://github.com/Splidejs/splide) - Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.
 - [Splidejs/splide-extension-intersection](https://github.com/Splidejs/splide-extension-intersection) - The extension for controlling the slider when it enters or exits the viewport.
 - [nasa/harmony](https://github.com/nasa/harmony) - Application for providing services for Earth observation data in the cloud using standards-based APIs
+- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [maykbrito/ts-proxy-server](https://github.com/maykbrito/ts-proxy-server) - Boilerplate API proxy server to hide API keys, adding rate limit and cache. See it working at https://github.com/maykbrito/openweather-example
 - [maykbrito/openweather-example](https://github.com/maykbrito/openweather-example) - test to using the API proxy server template &gt;&gt; https://github.com/maykbrito/ts-proxy-server
 - [Vestride/react-stacked-elements](https://github.com/Vestride/react-stacked-elements) - Toggle the visibility of two elements without removing them from the document layout

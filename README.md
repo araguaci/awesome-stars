@@ -194,8 +194,8 @@
 - [WebVella/WebVella-ERP](https://github.com/WebVella/WebVella-ERP) - Free and open-source pluggable ERP and CRM software based on ASP.NET Core 8, RazorPages and PostgreSQL . Targets Linux or Windows as host OS.
 - [lilianedng/MetaVi](https://github.com/lilianedng/MetaVi) - MetaVi, a private video sharing platform for creative businesses, artist to upload and browse contents securely.
 - [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
-- [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
-- [abpframework/abp](https://github.com/abpframework/abp) - Open Source Web Application Framework for ASP.NET Core. Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET and the ASP.NET Core platforms.
+- [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
+- [abpframework/abp](https://github.com/abpframework/abp) - Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infra
 - [aspnetboilerplate/aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate - Web Application Framework
 - [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
 - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
@@ -543,7 +543,7 @@
 - [CaiJimmy/hugo-theme-stack-starter](https://github.com/CaiJimmy/hugo-theme-stack-starter) - A quickstart template to create a Hugo blog using hugo-theme-stack
 - [microsoft/mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Server in Docker resources
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy.
-- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱 (Let's Fighting Against Dictatorship)
+- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱 (Let's Fight Against Dictatorship)
 - [Urigo/angular-meteor](https://github.com/Urigo/angular-meteor) - Angular and Meteor - The perfect stack
 - [RocketChat/Docker.Official.Image](https://github.com/RocketChat/Docker.Official.Image) - Docker hub - community managed image
 - [geerlingguy/docker-centos7-ansible](https://github.com/geerlingguy/docker-centos7-ansible) - CentOS 7 Docker container for Ansible playbook and role testing.
@@ -664,6 +664,7 @@
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
 - [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [moul/depviz](https://github.com/moul/depviz) - 👓 dependency visualizer for GitHub & GitLab (a.k.a., "auto-roadmap")
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
@@ -715,10 +716,10 @@
 
 ## HTML 
 
-- [araguaci/jekyll-theme-chirpy](https://github.com/araguaci/jekyll-theme-chirpy) - A minimal, responsive, and powerful Jekyll theme for presenting professional writing
+- [araguaci/noprincipiooverbo](https://github.com/araguaci/noprincipiooverbo) - A minimal, responsive, and powerful Jekyll theme for presenting professional writing
 - [araguaci/sabedoria-suntzu](https://github.com/araguaci/sabedoria-suntzu) - Sabedoria Sun Tzu
 - [JanHerca/urantiapedia](https://github.com/JanHerca/urantiapedia) - Urantia Book wiki encyclopedia
-- [araguaci/cronologia-operacoes-eua](https://github.com/araguaci/cronologia-operacoes-eua) - Cronologia das operações militares dos Estados Unidos
+- [araguaci/cronologia-operacoes-eua](https://github.com/araguaci/cronologia-operacoes-eua) - Cronologia das operações militares dos Estados Unidos https://tinyurl.com/operacoes-eua
 - [araguaci/divinum-officium](https://github.com/araguaci/divinum-officium) - The Divinum Officium Project: Traditional Roman Missal and Breviary Texts
 - [araguaci/it-journey](https://github.com/araguaci/it-journey) - From zero to hero collection of docs, tools, scripts, and information to support your IT journey
 - [gethyas/doks](https://github.com/gethyas/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
@@ -965,7 +966,7 @@
 - [tomsaleeba/browser-image-compression](https://github.com/tomsaleeba/browser-image-compression) - 
 - [JayKan/tabler-icons](https://github.com/JayKan/tabler-icons) - A set of over 550 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
-- [coreui/coreui-free-angular-admin-template](https://github.com/coreui/coreui-free-angular-admin-template) - CoreUI Angular is free Angular 17 admin template based on Bootstrap 5
+- [coreui/coreui-free-angular-admin-template](https://github.com/coreui/coreui-free-angular-admin-template) - CoreUI Angular is free Angular 18 admin template based on Bootstrap 5
 - [deepu105/angular-clock](https://github.com/deepu105/angular-clock) - angular clock widget directive: Demo-
 - [siddii/angular-timer](https://github.com/siddii/angular-timer) - re-usable/inter-operable AngularJS timer directive ⛺
 - [themesberg/neumorphism-ui-bootstrap](https://github.com/themesberg/neumorphism-ui-bootstrap) - Neumorphism inspired UI Kit: web components, sections and pages in neumorphic style built with Bootstrap CSS Framework
@@ -1076,6 +1077,7 @@
 
 ## JavaScript 
 
+- [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [araguaci/healing-sound-of-the-earth](https://github.com/araguaci/healing-sound-of-the-earth) - O Som Curativo da Terra (The healing sound of the earth)
 - [arthuro555/GDevelop](https://github.com/arthuro555/GDevelop) - :video_game: GDevelop is an open-source, cross-platform game engine designed to be used by everyone.
@@ -2666,6 +2668,7 @@
 
 ## MDX 
 
+- [astrolicious/astro-tips.dev](https://github.com/astrolicious/astro-tips.dev) - The place for content that goes beyond the official docs, for all Astronauts!
 - [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish.
 - [tesourofieis/tesourofieis](https://github.com/tesourofieis/tesourofieis) - Espaço dedicado à oração, exposição e preservação das santas tradições da Igreja.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -4154,6 +4157,7 @@
 
 ## TypeScript 
 
+- [SimeonGriggs/tints.dev](https://github.com/SimeonGriggs/tints.dev) - 10-color Palette Generator and API for Tailwind CSS
 - [inovex/scrumlr.io](https://github.com/inovex/scrumlr.io) - Webapp for collaborative online retrospectives
 - [JoshuaKGoldberg/TypeStat](https://github.com/JoshuaKGoldberg/TypeStat) - Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫
 - [araguaci/malvadofavorito](https://github.com/araguaci/malvadofavorito) - Índices e resultados do último governo e atual administração.  Muitas informações não chegam ao público porque existe muito               financiamento para acobertamento e propaganda.
@@ -4638,7 +4642,6 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [PrairieLearn/PrairieLearn](https://github.com/PrairieLearn/PrairieLearn) - Online problem-driving learning system
 - [maximegris/typescript-express-sequelize](https://github.com/maximegris/typescript-express-sequelize) - Easily bootstrap your NodeJS project with Express, Sequelize and Typescript :+1:
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [itgalaxy/favicons](https://github.com/itgalaxy/favicons) - Favicons generator for Node.js
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 - [sindresorhus/electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for Electron apps and modules
@@ -4902,7 +4905,7 @@
 - [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript.
 - [dancancro/great-big-example-application](https://github.com/dancancro/great-big-example-application) - A full-stack example app built with JHipster, Spring Boot, Kotlin, Angular 4, ngrx, and Webpack
 - [reach/reach-ui](https://github.com/reach/reach-ui) - The Accessible Foundation for React Apps and Design Systems
-- [leather-wallet/desktop](https://github.com/leather-wallet/desktop) - Manage STX tokens and Stacking
+- [leather-io/desktop](https://github.com/leather-io/desktop) - Manage STX tokens and Stacking
 - [kata-ai/aksara-ui](https://github.com/kata-ai/aksara-ui) - Aksara Design System, from Kata.ai.
 - [contentful/contentful.js](https://github.com/contentful/contentful.js) - JavaScript library for Contentful's Delivery API (node & browser)
 - [LauraBeatris/floripamais](https://github.com/LauraBeatris/floripamais) - Website of the Floripa+ organization - built with Next.js and integrated with Strapi CMS

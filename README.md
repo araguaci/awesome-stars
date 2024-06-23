@@ -716,7 +716,7 @@
 
 ## HTML 
 
-- [araguaci/noprincipiooverbo](https://github.com/araguaci/noprincipiooverbo) - A minimal, responsive, and powerful Jekyll theme for presenting professional writing
+- [araguaci/noprincipiooverbo](https://github.com/araguaci/noprincipiooverbo) - In Principio Verbum. No princípio era o Verbo. Contemplando a origem e o propósito da existência
 - [araguaci/sabedoria-suntzu](https://github.com/araguaci/sabedoria-suntzu) - Sabedoria Sun Tzu
 - [JanHerca/urantiapedia](https://github.com/JanHerca/urantiapedia) - Urantia Book wiki encyclopedia
 - [araguaci/cronologia-operacoes-eua](https://github.com/araguaci/cronologia-operacoes-eua) - Cronologia das operações militares dos Estados Unidos https://tinyurl.com/operacoes-eua
@@ -4157,6 +4157,7 @@
 
 ## TypeScript 
 
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [SimeonGriggs/tints.dev](https://github.com/SimeonGriggs/tints.dev) - 10-color Palette Generator and API for Tailwind CSS
 - [inovex/scrumlr.io](https://github.com/inovex/scrumlr.io) - Webapp for collaborative online retrospectives
 - [JoshuaKGoldberg/TypeStat](https://github.com/JoshuaKGoldberg/TypeStat) - Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫
@@ -5045,7 +5046,7 @@
 - [briebug/cypress-schematic](https://github.com/briebug/cypress-schematic) - **⛔️  DEPRECATED** Add cypress to an Angular CLI project
 - [akopdev/ng-person](https://github.com/akopdev/ng-person) - A universal avatar component for Angular 2+ applications that generates truly unique colored letter avatar based on provided name.
 - [graphile/starter](https://github.com/graphile/starter) - Opinionated SaaS quick-start with pre-built user account and organization system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. Powered by PostGraphile, TypeScript, 
-- [stefanoslig/angular-ngrx-nx-realworld-example-app](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 17, NgRx 17, nrwl/nx 17
+- [stefanoslig/angular-ngrx-nx-realworld-example-app](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 18, NgRx 18, nrwl/nx 18
 - [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder) - Deploy your Angular app to netlify from CLI
 - [NileshPatel17/ng-multiselect-dropdown](https://github.com/NileshPatel17/ng-multiselect-dropdown) - Multiple Select Dropdown Component
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue 

@@ -716,6 +716,7 @@
 
 ## HTML 
 
+- [araguaci/inprincipioverbum.github.io](https://github.com/araguaci/inprincipioverbum.github.io) - No princípio era o Verbo. Contemplando a origem e o propósito da existência.
 - [araguaci/noprincipiooverbo](https://github.com/araguaci/noprincipiooverbo) - In Principio Verbum. No princípio era o Verbo. Contemplando a origem e o propósito da existência
 - [araguaci/sabedoria-suntzu](https://github.com/araguaci/sabedoria-suntzu) - Sabedoria Sun Tzu
 - [JanHerca/urantiapedia](https://github.com/JanHerca/urantiapedia) - Urantia Book wiki encyclopedia
@@ -1077,6 +1078,7 @@
 
 ## JavaScript 
 
+- [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
 - [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [araguaci/healing-sound-of-the-earth](https://github.com/araguaci/healing-sound-of-the-earth) - O Som Curativo da Terra (The healing sound of the earth)
@@ -3138,7 +3140,7 @@
 - [googleworkspace/php-samples](https://github.com/googleworkspace/php-samples) - PHP samples for Google Workspace APIs
 - [ribafs/apostilas](https://github.com/ribafs/apostilas) - Apostilas sobre diversos assuntos: PHP, PDO, MySQL, PHPOO, MVC, mobile, scratch, git, github, docker, vps, alpine linux, segurança na wev, servidores, etc
 - [osTicket/osTicket](https://github.com/osTicket/osTicket) - The osTicket open source ticketing system official project repository, for versions 1.8 and later
-- [Laravel-Lang/publisher](https://github.com/Laravel-Lang/publisher) - Publisher lang files for the Laravel Framework, Jetstream, Fortify, Cashier, Spark, Nova and UI from Laravel-Lang/lang.
+- [Laravel-Lang/publisher](https://github.com/Laravel-Lang/publisher) - Publisher provides functionality for working with application localization
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 126 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
 - [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) - Open Source eCommerce Application on top of Symfony
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Framework on Symfony
@@ -4157,6 +4159,7 @@
 
 ## TypeScript 
 
+- [philschmid/clipper.js](https://github.com/philschmid/clipper.js) - HTML to Markdown converter and crawler.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [SimeonGriggs/tints.dev](https://github.com/SimeonGriggs/tints.dev) - 10-color Palette Generator and API for Tailwind CSS
 - [inovex/scrumlr.io](https://github.com/inovex/scrumlr.io) - Webapp for collaborative online retrospectives
@@ -4659,8 +4662,8 @@
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [chicio/chicio.github.io](https://github.com/chicio/chicio.github.io) - :ghost: Fabrizio Duroni (me :smile:) personal website. Created using GatsbyJS, Styled Components, Typescript, tsParticles, GitHub pages, Github Actions, Upptime.
 - [airform/airform](https://github.com/airform/airform) - Functional HTML forms for Front-End Developers.
-- [ever-co/ever-demand](https://github.com/ever-co/ever-demand) - Ever® Demand™ - Open Commerce Platform
-- [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora™ - Open Translation Management Platform
+- [ever-co/ever-demand](https://github.com/ever-co/ever-demand) - Ever® Demand™ - Open Commerce Platform - https://everdemand.co
+- [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora™ - Open Translation Management Platform - https://traduora.co
 - [huytd/pomoday-v2](https://github.com/huytd/pomoday-v2) - A keyboard only task management web app
 - [ibitcy/eo-locale](https://github.com/ibitcy/eo-locale) - 🌏Internationalize React apps 👔Elegant lightweight library based on Internationalization API
 - [BetterTyped/react-zoom-pan-pinch](https://github.com/BetterTyped/react-zoom-pan-pinch) - 🖼 React library to support easy zoom, pan, pinch on various html dom elements like &lt;img&gt; and &lt;div&gt;
@@ -4814,7 +4817,7 @@
 - [alexandrecorazza/podcastr](https://github.com/alexandrecorazza/podcastr) - :headphones: Plataforma de podcast
 - [marcusmaialima/nlw-letmeask](https://github.com/marcusmaialima/nlw-letmeask) - Projeto desenvolvido na NLW da Rocketseat
 - [eduardorerick/letmeask](https://github.com/eduardorerick/letmeask) - Aplicação que me garantiu uma bolsa de estudos no Ignite! Desenvolvida durante a NLW com outras funcionalidades adicionadas por mim.
-- [moaijs/moai](https://github.com/moaijs/moai) - A React component library, where buttons look like buttons🗿
+- [thien-do/moai](https://github.com/thien-do/moai) - A React component library, where buttons look like buttons🗿
 - [Atom-Learning/components](https://github.com/Atom-Learning/components) - A collection of generic React components built using stitches, including components that cover layout, content, data collection, media and a host of other UI concerns.
 - [orodrigogo/minha-carteira-dashboard](https://github.com/orodrigogo/minha-carteira-dashboard) - :bar_chart: :chart_with_upwards_trend: Dashboard desenvolvido com ReactJs, TypeScript com boas práticas de desenvolvimento e performance.
 - [marconwillian/letmeask](https://github.com/marconwillian/letmeask) - Projeto desenvolvido na NextLevelWeek #Together.
@@ -4950,7 +4953,7 @@
 - [danrevah/ngx-pipes](https://github.com/danrevah/ngx-pipes) - ⚡️ Useful pipes for Angular with no external dependencies!
 - [softsimon/ngx-bootstrap-multiselect](https://github.com/softsimon/ngx-bootstrap-multiselect) - Angular 9+ Dropdown Multiselect Bootstrap
 - [ng-bootstrap/ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular powered Bootstrap
-- [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM)
+- [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
 - [salesforce/akita](https://github.com/salesforce/akita) - 🚀 State Management Tailored-Made for JS Applications
 - [trungvose/angular-tetris](https://github.com/trungvose/angular-tetris) - Tetris game built with Angular and Akita 🎮
 - [mgechev/guess-angular](https://github.com/mgechev/guess-angular) - 

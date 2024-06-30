@@ -376,7 +376,7 @@
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
 - [codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
 - [creativetimofficial/tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
-- [araguaci/jekyll-my-stars](https://github.com/araguaci/jekyll-my-stars) - Build Jekyll site with GitBook style!
+- [araguaci/awesome-jekyll](https://github.com/araguaci/awesome-jekyll) - Build Jekyll site with GitBook style!
 - [Binnette/homebank-converter](https://github.com/Binnette/homebank-converter) - A web app to convert an export bank file to compatible Homebank csv file.
 - [turretcss/turretcss](https://github.com/turretcss/turretcss) - Turret is a styles and browser behaviour normalisation framework for rapid development of responsive and accessible websites.
 - [l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
@@ -717,6 +717,7 @@
 
 ## HTML 
 
+- [caravo-way/aprenda-japones](https://github.com/caravo-way/aprenda-japones) - Uma coleção de artigos sobre como aprender japonês.  Tudo aqui é compilado, organizado, traduzido e ordenado de forma a facilitar a vida de quem prefere seguir um roteiro passo a passo, principalmente
 - [araguaci/inprincipioverbum.github.io](https://github.com/araguaci/inprincipioverbum.github.io) - No princípio era o Verbo. Contemplando a origem e o propósito da existência.
 - [araguaci/noprincipiooverbo](https://github.com/araguaci/noprincipiooverbo) - In Principio Verbum. No princípio era o Verbo. Contemplando a origem e o propósito da existência
 - [araguaci/sabedoria-suntzu](https://github.com/araguaci/sabedoria-suntzu) - Sabedoria Sun Tzu
@@ -1003,6 +1004,7 @@
 
 ## JSON 
 
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN
 
 ## Java 
@@ -2712,7 +2714,6 @@
 - [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
 - [raphamorim/awesome-canvas](https://github.com/raphamorim/awesome-canvas) - A curated list of awesome HTML5 Canvas with examples, related articles and posts.
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [docker/docs](https://github.com/docker/docs) - Source repo for Docker's Documentation
 
 ## Nunjucks 

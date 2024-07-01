@@ -197,7 +197,7 @@
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [abpframework/abp](https://github.com/abpframework/abp) - Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infra
 - [aspnetboilerplate/aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate - Web Application Framework
-- [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
+- [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 9 preview-5, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
 - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
@@ -1082,6 +1082,7 @@
 
 ## JavaScript 
 
+- [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
 - [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
 - [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
@@ -3930,6 +3931,7 @@
 
 ## SCSS 
 
+- [byanko55/jekyll-professional-resume](https://github.com/byanko55/jekyll-professional-resume) - A simple, modern, and professional resume template built for jekyll
 - [araguaci/cheatsheets](https://github.com/araguaci/cheatsheets) - Cheatsheets for web development - devhints.io
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [araguaci/jekyllfolio](https://github.com/araguaci/jekyllfolio) - 
@@ -4163,6 +4165,7 @@
 
 ## TypeScript 
 
+- [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service
 - [philschmid/clipper.js](https://github.com/philschmid/clipper.js) - HTML to Markdown converter and crawler.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [SimeonGriggs/tints.dev](https://github.com/SimeonGriggs/tints.dev) - 10-color Palette Generator and API for Tailwind CSS
@@ -5222,7 +5225,7 @@
 - [araguaci/ponerologia-psicopatas-no-poder](https://github.com/araguaci/ponerologia-psicopatas-no-poder) - ** É assim que um grupo relativamente pequeno de líderes psicopáticos destrói a alma de uma nação. **
 - [araguaci/drogavermelha](https://github.com/araguaci/drogavermelha) - “A fraude e as drogas são os nossos dois primeiros escalões estratégicos na guerra contra o capitalismo.” NIKITA KHRUSHCHEV, 1963
 - [araguaci/ikigai](https://github.com/araguaci/ikigai) - Os segredos dos japoneses para uma vida longa e feliz
-- [araguaci/os-5-carteis](https://github.com/araguaci/os-5-carteis) - 
+- [araguaci/os-5-carteis](https://github.com/araguaci/os-5-carteis) - Os 5 Cartéis Que Governam a América e o Mundo
 - [araguaci/a-esperanca-estilhacada](https://github.com/araguaci/a-esperanca-estilhacada) - O que aconteceu exatamente? Como pôde acontecer? Qual terá sido a gênese da inverossímil seqüência de escândalos? Quem são e o que pensam os personagens do drama? Como será o rosto do Brasil redesenha
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [henripar/gradientos](https://github.com/henripar/gradientos) - Gradientos makes it easy to choose gradients.

@@ -202,7 +202,7 @@
 - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
 - [sipsorcery-org/sipsorcery](https://github.com/sipsorcery-org/sipsorcery) - A WebRTC, SIP and VoIP library for C# and .NET. Designed for real-time communications apps.
@@ -372,7 +372,6 @@
 - [madrilene/eleventy-excellent](https://github.com/madrilene/eleventy-excellent) - Eleventy starter based on the workflow suggested by Andy Bell's buildexcellentwebsit.es.
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 - [LemmyNet/lemmy-ui](https://github.com/LemmyNet/lemmy-ui) - The official web app for lemmy.
-- [sfxcode/nuxt3-primevue-starter](https://github.com/sfxcode/nuxt3-primevue-starter) - Build your VUE.js App with Nuxt3 . First Class PrimeVUE support. Formkit Validation included.
 - [sfxcode/vite-primevue-starter](https://github.com/sfxcode/vite-primevue-starter) - VUE 3 Starter project for using primevue 3 with Vite 3 - Pages, Layouts, Validation
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
 - [codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
@@ -1084,6 +1083,7 @@
 
 ## JavaScript 
 
+- [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
 - [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
 - [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
@@ -2390,7 +2390,7 @@
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [GoogleChromeLabs/preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin) - Please use https://github.com/vuejs/preload-webpack-plugin instead.
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [davidtheclark/react-aria-menubutton](https://github.com/davidtheclark/react-aria-menubutton) - A fully accessible, easily themeable, React-powered menu button
 - [zillow/react-slider](https://github.com/zillow/react-slider) - Accessible, CSS agnostic, slider component for React.
 - [xudafeng/autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - ⚛️ Auto Responsive Layout Library For React
@@ -2615,6 +2615,8 @@
 
 ## Jupyter Notebook 
 
+- [camenduru/text-to-video-synthesis-colab](https://github.com/camenduru/text-to-video-synthesis-colab) - Text To Video Synthesis Colab
+- [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
 - [araguaci/dio-lab-open-source](https://github.com/araguaci/dio-lab-open-source) - ⚠LEIA A ISSUE FIXADA! Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One.
 - [tomasonjo/blogs](https://github.com/tomasonjo/blogs) - Jupyter notebooks that support my graph data science blog posts at https://bratanic-tomaz.medium.com/
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
@@ -2738,6 +2740,7 @@
 
 ## Others 
 
+- [araguaci/showcase](https://github.com/araguaci/showcase) - 
 - [AUTOMATIC1111/stable-diffusion-webui-extensions](https://github.com/AUTOMATIC1111/stable-diffusion-webui-extensions) - Extension index for stable-diffusion-webui
 - [yWorks/yfiles-for-html-demos](https://github.com/yWorks/yfiles-for-html-demos) - The source code demos for the yFiles for HTML diagramming library
 - [artesdosul/showcase](https://github.com/artesdosul/showcase) - 
@@ -3552,6 +3555,11 @@
 
 ## Python 
 
+- [ashleykleynhans/civitai-downloader](https://github.com/ashleykleynhans/civitai-downloader) - Python script to download models from CIVITAI using an API key
+- [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
+- [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
+- [deforum-art/sd-webui-deforum](https://github.com/deforum-art/sd-webui-deforum) - Deforum extension for AUTOMATIC1111's Stable Diffusion webui
+- [neulab/prompt2model](https://github.com/neulab/prompt2model) - prompt2model - Generate Deployable Models from Natural Language Instructions
 - [theyosh/TerrariumPI](https://github.com/theyosh/TerrariumPI) - Home automated terrarium/aquarium or other enclosed environment with a Raspberry Pi
 - [VoltaML/voltaML-fast-stable-diffusion](https://github.com/VoltaML/voltaML-fast-stable-diffusion) - Beautiful and Easy to use Stable Diffusion WebUI
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
@@ -3786,7 +3794,6 @@
 - [IBM/MAX-Audio-Embedding-Generator](https://github.com/IBM/MAX-Audio-Embedding-Generator) - Generate embedding vectors from audio files
 - [mateustoin/Bittoin-Telegram-Bot](https://github.com/mateustoin/Bittoin-Telegram-Bot) - Bot para Telegram com diversas funcionalidades, com o intuito de se divertir e aproveitar utilidades para o dia a dia.
 - [Kilian/Trimage](https://github.com/Kilian/Trimage) - A cross-platform tool for optimizing PNG and JPG files.
-- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [Helsinki-NLP/Opus-MT](https://github.com/Helsinki-NLP/Opus-MT) - Open neural machine translation models and web services
 - [EnableSecurity/sipvicious](https://github.com/EnableSecurity/sipvicious) - SIPVicious OSS is a VoIP security testing toolset. It helps security teams, QA and developers test SIP-based VoIP systems and applications. This toolset is useful in simulating VoIP hacking attacks ag
@@ -4003,6 +4010,7 @@
 
 ## Shell 
 
+- [ashleykleynhans/stable-diffusion-docker](https://github.com/ashleykleynhans/stable-diffusion-docker) - Docker image for Stable Diffusion WebUI with ControlNet, After Detailer, Dreambooth, Deforum and ReActor extensions, as well as Kohya_ss and ComfyUI
 - [shvchk/fallout-grub-theme](https://github.com/shvchk/fallout-grub-theme) - Fallout GRUB theme
 - [Lissy93/dotfiles](https://github.com/Lissy93/dotfiles) - 🧰 ~ • My Đotfiles
 - [RamiKrispin/vscode-python](https://github.com/RamiKrispin/vscode-python) - A Tutorial for Setting Python Development Environment with VScode and Docker
@@ -4212,7 +4220,7 @@
 - [4Furki4/Meme-Generator](https://github.com/4Furki4/Meme-Generator) - Meme Generator where you can generate memes and share them with your friends
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
 - [ArtifexSoftware/mupdf.js](https://github.com/ArtifexSoftware/mupdf.js) - JavaScript bindings for MuPDF
-- [akash-network/cloudmos](https://github.com/akash-network/cloudmos) - Deploy docker containers on the Akash Network
+- [akash-network/console](https://github.com/akash-network/console) - Deploy docker containers on the Akash Network
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
@@ -4901,6 +4909,7 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [start-javascript/sb-admin-material](https://github.com/start-javascript/sb-admin-material) - Simple Dashboard Admin App built using Angular 9 and Material 2.
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [team-telnyx/webrtc](https://github.com/team-telnyx/webrtc) - SDK for Telnyx's WebRTC platform
 - [tokyapp/toky-phone-js-sdk](https://github.com/tokyapp/toky-phone-js-sdk) - The Toky Phone JS SDK is a WebRTC Javascript library providing an abstraction to the Toky phone system, including its main features
 - [thenaim/ionic-tk-social-network](https://github.com/thenaim/ionic-tk-social-network) - Ionic 5 - social network starter project
@@ -4989,7 +4998,7 @@
 - [aurelia/aurelia](https://github.com/aurelia/aurelia) - Aurelia 2, a standards-based, front-end framework designed for high-performing, ambitious applications.
 - [angular/universal](https://github.com/angular/universal) - Server-side rendering and Prerendering for Angular
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [ccontrols/storybook-5-controls-starter](https://github.com/ccontrols/storybook-5-controls-starter) - 
 - [ccontrols/storybook-6-controls-starter](https://github.com/ccontrols/storybook-6-controls-starter) - 
@@ -5206,6 +5215,7 @@
 - [fluidd-core/fluidd](https://github.com/fluidd-core/fluidd) - Fluidd, the klipper UI.
 - [stellarbeat/js-stellarbeat-frontend](https://github.com/stellarbeat/js-stellarbeat-frontend) - Visualize, inspect and simulate the nodes and organizations that make up the Stellar network.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [sfxcode/nuxt3-primevue-starter](https://github.com/sfxcode/nuxt3-primevue-starter) - Build your VUE.js App with Nuxt3 . First Class PrimeVUE 4 support. Formkit Validation included.
 - [mattrothenberg/vue-overdrive](https://github.com/mattrothenberg/vue-overdrive) - Super easy magic-move transitions for Vue apps
 - [NicolaSpadari/vitauri](https://github.com/NicolaSpadari/vitauri) - Build tiny desktop apps with Tauri, Vite, Vue 3 and UnoCSS
 - [Akryum/guijs](https://github.com/Akryum/guijs) - 🐣️ The app that makes your #devlife easier.

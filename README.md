@@ -186,6 +186,7 @@
 
 ## C# # 
 
+- [ikas-mc/ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) - Add Custom Context Menu For Windows11
 - [aspose-cells/Aspose.Cells-for-.NET](https://github.com/aspose-cells/Aspose.Cells-for-.NET) - Aspose.Cells for .NET examples, plugins and showcases
 - [bhoogter/VB6TocSharp](https://github.com/bhoogter/VB6TocSharp) - Free converter from VB6 to C#.  See README for quick-start.  See Wiki for more information.
 - [fullstackhero/dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) - Production Grade Cloud-Ready .NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.
@@ -364,6 +365,7 @@
 
 ## CSS 
 
+- [hegde-atri/arch-wiki](https://github.com/hegde-atri/arch-wiki) - Helpful guide for getting started with arch linux
 - [elipapa/markdown-cv](https://github.com/elipapa/markdown-cv) - a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
 - [araguaci/quote-of-the-day](https://github.com/araguaci/quote-of-the-day) - Quote of the Day is a small introductory project on the use of APIs
 - [fppcnc/quote-of-the-day](https://github.com/fppcnc/quote-of-the-day) - Quote of the Day is a small introductory project on the use of APIs
@@ -1083,6 +1085,7 @@
 
 ## JavaScript 
 
+- [wbotelhos/raty](https://github.com/wbotelhos/raty) - :star2: Raty - A Star Rating Plugin
 - [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
 - [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
@@ -3518,6 +3521,7 @@
 
 ## PowerShell 
 
+- [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows e
 - [farag2/Utilities](https://github.com/farag2/Utilities) - Useful things
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
@@ -4175,6 +4179,8 @@
 
 ## TypeScript 
 
+- [taqui-786/Portfolio](https://github.com/taqui-786/Portfolio) - A Simple Portfolio made with Nextjs and Shadcn UI
+- [joschan21/digitalhippo](https://github.com/joschan21/digitalhippo) - A Modern Fullstack E-Commerce Marketplace for Digital Products
 - [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service
 - [philschmid/clipper.js](https://github.com/philschmid/clipper.js) - HTML to Markdown converter and crawler.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
@@ -5286,7 +5292,7 @@
 - [GoodManWEN/GoodManWEN.github.io](https://github.com/GoodManWEN/GoodManWEN.github.io) - 📕 A website simulating linux system's GUI, using theme of Deepin distro. 网页模拟桌面
 - [creativetimofficial/vue-paper-dashboard](https://github.com/creativetimofficial/vue-paper-dashboard) - Creative Tim Paper Dashboard made for Vue
 - [harryho/vue-crm](https://github.com/harryho/vue-crm) - Simple reusable CRM built on Vue 2 PWA template and Vuetify UI
-- [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 🔥 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
+- [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
 - [swina/whoobe-one-studio](https://github.com/swina/whoobe-one-studio) - A visual component builder for TailwindCSS
 - [Kamona-WD/kui-laravel-jetstream](https://github.com/Kamona-WD/kui-laravel-jetstream) - Different UI for laravel/jetstream
 - [pratik227/quasar-qgrid](https://github.com/pratik227/quasar-qgrid) - QGrid is a Quasar App Extension.  It allows you to filter data for each column, Drag and Drop Rows and also allows you to filter data using header filters.

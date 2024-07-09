@@ -720,6 +720,7 @@
 
 ## HTML 
 
+- [programminghistorian/jekyll](https://github.com/programminghistorian/jekyll) - Jekyll-based static site for The Programming Historian
 - [caravo-way/aprenda-japones](https://github.com/caravo-way/aprenda-japones) - Uma coleção de artigos sobre como aprender japonês.  Tudo aqui é compilado, organizado, traduzido e ordenado de forma a facilitar a vida de quem prefere seguir um roteiro passo a passo, principalmente
 - [araguaci/inprincipioverbum.github.io](https://github.com/araguaci/inprincipioverbum.github.io) - No princípio era o Verbo. Contemplando a origem e o propósito da existência.
 - [araguaci/noprincipiooverbo](https://github.com/araguaci/noprincipiooverbo) - In Principio Verbum. No princípio era o Verbo. Contemplando a origem e o propósito da existência
@@ -2618,6 +2619,7 @@
 
 ## Jupyter Notebook 
 
+- [tensorflow/docs-l10n](https://github.com/tensorflow/docs-l10n) - Translations of TensorFlow documentation
 - [camenduru/text-to-video-synthesis-colab](https://github.com/camenduru/text-to-video-synthesis-colab) - Text To Video Synthesis Colab
 - [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
 - [araguaci/dio-lab-open-source](https://github.com/araguaci/dio-lab-open-source) - ⚠LEIA A ISSUE FIXADA! Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One.
@@ -2770,7 +2772,6 @@
 - [surjithctly/web3forms-docs](https://github.com/surjithctly/web3forms-docs) - Web3Forms Documentation (gitbook)
 - [araguaci/hatevaom](https://github.com/araguaci/hatevaom) - 
 - [backend-br/vagas](https://github.com/backend-br/vagas) - Espaço para a divulgação de vagas para desenvolvedores backend via issues do Github.
-- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [LerinaMM/importacoes_santa_catarina](https://github.com/LerinaMM/importacoes_santa_catarina) - Projeto elaborado através do desafio da Udata para realizar a análise de dados das importações da região sul do Brasil
 - [pmjones/php-history](https://github.com/pmjones/php-history) - A list of the years-of-introductions of notable (to me) PHP framework and library projects.
 - [JetBrains/php-timeline](https://github.com/JetBrains/php-timeline) - Notable events of PHP history
@@ -3559,6 +3560,7 @@
 
 ## Python 
 
+- [israel-dryer/ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap) - A supercharged theme extension for tkinter that enables on-demand modern flat style themes inspired by Bootstrap.
 - [ashleykleynhans/civitai-downloader](https://github.com/ashleykleynhans/civitai-downloader) - Python script to download models from CIVITAI using an API key
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
@@ -3950,7 +3952,7 @@
 - [araguaci/jekyllfolio](https://github.com/araguaci/jekyllfolio) - 
 - [docura/docura](https://github.com/docura/docura) - 📖 A modular Hugo theme to build your next documentation site
 - [ForEvolve/bootstrap-dark](https://github.com/ForEvolve/bootstrap-dark) - Bootstrap 4 dark theme that supports togging dark/light themes as well. There is no fluff, it changes the color of Bootstrap and that's it, no new thing to learn or unlearn, just Bootstrap, but Dark!
-- [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS)
+- [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS) - All you have to do is fork this r
 - [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11+).
 - [jmlemetayer/abba](https://github.com/jmlemetayer/abba) - Apache Bootstrap & Bootswatch Autoindex
 - [app-generator/flask-soft-ui-dashboard](https://github.com/app-generator/flask-soft-ui-dashboard) - Soft UI Dashboard - Open-source Flask Dashboard | AppSeed
@@ -4019,6 +4021,7 @@
 - [RamiKrispin/vscode-python](https://github.com/RamiKrispin/vscode-python) - A Tutorial for Setting Python Development Environment with VScode and Docker
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [pion/awesome-pion](https://github.com/pion/awesome-pion) - A curated list of awesome things related to Pion
+- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [0x90/kali-scripts](https://github.com/0x90/kali-scripts) - Some usefull scripts for KaliLinux
 - [cyverse-vice/kasm-ubuntu](https://github.com/cyverse-vice/kasm-ubuntu) - Ubuntu Desktops running KASM VNC
 - [joglomedia/LEMPer](https://github.com/joglomedia/LEMPer) - LEMPer Stack is terminal-based LEMP / LNMP installer and manager for Debian & Ubuntu cloud or virtual server (vps) and on-premise (bare metal).
@@ -4863,7 +4866,7 @@
 - [miaowing/nest-schedule](https://github.com/miaowing/nest-schedule) - A cron-like and not-cron-like job distributed scheduler for Nest.js by decorators.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [MrHertal/react-native-twilio-phone](https://github.com/MrHertal/react-native-twilio-phone) - Twilio Voice React Native module.
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [fmeringdal/nettu-meet](https://github.com/fmeringdal/nettu-meet) - Open source video conferencing system for tutors.
 - [sadanandpai/algo-visualizers](https://github.com/sadanandpai/algo-visualizers) - Algorithms Visualizers
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features

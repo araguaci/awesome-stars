@@ -35,17 +35,17 @@ Get your SaaS up and running in no time with this list of free and affordable to
 
 ## Guide
 This guide is aimed at guiding you through the whole journey of building your own startup based on my learnings of growing my own startup Pallyy.
-- [Introduction](guide/introduction) - Backstory and what you'll learn.
-- [Saving a Buffer](guide/saving-a-buffer) - Go all-in, or as a side project?
+- [Introduction](https://github.com/timb-103/saas-starter-stack/blob/main/guide/introduction) - Backstory and what you'll learn.
+- [Saving a Buffer](https://github.com/timb-103/saas-starter-stack/blob/main/guide/saving-a-buffer) - Go all-in, or as a side project?
 
 ## Interviews
-Learn even more from reading interviews from SaaS founders with at least $500 MRR. Coming soon. To submit an interview, read the [guidelines](interviews/guidelines).
-- [Talknotes](interviews/talknotes) - AI note taking app by Nico Jeannen doing $3.5K MRR.
-- [Gliglish](interviews/gliglish) - Learn languages with AI by Fabien Snauwaert doing $8K MRR.
-- [Plausible](interviews/plausible) - Website analytics by Marko Sarik and Uku doing over $100K MRR.
-- [PDFai](interviews/pdfai) - Chat with PDF tool by Damon Chen doing over $50K MRR.
-- [Publer](interviews/publer) - Social scheduling platform by Ervin Kalemi doing $170K MRR.
-- [Simple Analytics](interviews/simple-analytics) - Privacy-friendly analytics doing $30K MRR.
+Learn even more from reading interviews from SaaS founders with at least $500 MRR. Coming soon. To submit an interview, read the [guidelines](https://github.com/timb-103/saas-starter-stack/blob/main/interviews/guidelines).
+- [Talknotes](https://github.com/timb-103/saas-starter-stack/blob/main/interviews/talknotes) - AI note taking app by Nico Jeannen doing $3.5K MRR.
+- [Gliglish](https://github.com/timb-103/saas-starter-stack/blob/main/interviews/gliglish) - Learn languages with AI by Fabien Snauwaert doing $8K MRR.
+- [Plausible](https://github.com/timb-103/saas-starter-stack/blob/main/interviews/plausible) - Website analytics by Marko Sarik and Uku doing over $100K MRR.
+- [PDFai](https://github.com/timb-103/saas-starter-stack/blob/main/interviews/pdfai) - Chat with PDF tool by Damon Chen doing over $50K MRR.
+- [Publer](https://github.com/timb-103/saas-starter-stack/blob/main/interviews/publer) - Social scheduling platform by Ervin Kalemi doing $170K MRR.
+- [Simple Analytics](https://github.com/timb-103/saas-starter-stack/blob/main/interviews/simple-analytics) - Privacy-friendly analytics doing $30K MRR.
 
 ## Tools
 ### Code
@@ -183,4 +183,4 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 
 ## Contribute
 Contributions are always welcome!
-Please read the [contribution guidelines](contributing) first.
+Please read the [contribution guidelines](https://github.com/timb-103/saas-starter-stack/blob/main/contributing.md) first.

@@ -199,7 +199,7 @@
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [abpframework/abp](https://github.com/abpframework/abp) - Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infra
 - [aspnetboilerplate/aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate - Web Application Framework
-- [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 9 preview-5, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
+- [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 9 preview-6, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
 - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
@@ -1086,6 +1086,7 @@
 
 ## JavaScript 
 
+- [araguaci/abusofederal](https://github.com/araguaci/abusofederal) - Fatos absurdos e não democráticos que não são evidenciados na mídia...
 - [wbotelhos/raty](https://github.com/wbotelhos/raty) - :star2: Raty - A Star Rating Plugin
 - [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
@@ -1144,8 +1145,9 @@
 - [wri/gfw](https://github.com/wri/gfw) - Global Forest Watch: An online, global, near-real time forest monitoring tool
 - [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 - [thumbsup/thumbsup](https://github.com/thumbsup/thumbsup) - Generate static HTML photo / video galleries
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Web OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [anuraghazra/anuraghazra.github.io](https://github.com/anuraghazra/anuraghazra.github.io) - My Portfolio Site | Made With @Gatsbyjs
+- [araguaci/os-quatro-compromissos](https://github.com/araguaci/os-quatro-compromissos) - O livro da Filosofia Tolteca. Um guia prático para a liberdade pessoal.
 - [MadobyPy/MadobyWeb](https://github.com/MadobyPy/MadobyWeb) - Terminal-inspired, clean, feature-rich and customizable browser start page for geeks. Has built-in editor for customizing.
 - [paperswithcode/ai-deadlines](https://github.com/paperswithcode/ai-deadlines) - :alarm_clock: AI conference deadline countdowns
 - [google/eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) - A high performance blog template for the 11ty static site generator.
@@ -2744,6 +2746,7 @@
 
 ## Others 
 
+- [araguaci/lockdowns](https://github.com/araguaci/lockdowns) - "Lockdowns são o maior erro de saúde pública já cometido na história."  Prof. Martin Kulldorff, professor de medicina da Univ. de Harvard.
 - [araguaci/showcase](https://github.com/araguaci/showcase) - 
 - [AUTOMATIC1111/stable-diffusion-webui-extensions](https://github.com/AUTOMATIC1111/stable-diffusion-webui-extensions) - Extension index for stable-diffusion-webui
 - [yWorks/yfiles-for-html-demos](https://github.com/yWorks/yfiles-for-html-demos) - The source code demos for the yFiles for HTML diagramming library
@@ -2766,7 +2769,6 @@
 - [mtahiraslan/data-analyst-roadmap](https://github.com/mtahiraslan/data-analyst-roadmap) - Based on my own experience, I think this roadmap will answer all the questions of how to become a data analyst from zero, which technologies and programming languages are better to know, what kind of 
 - [trimstray/the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
 - [thomasbnt/awesome-web-monetization](https://github.com/thomasbnt/awesome-web-monetization) - 🕶️ Stuffs about Web Monetization. Packages, articles, documentation links and others tools.
-- [araguaci/os-quatro-compromissos](https://github.com/araguaci/os-quatro-compromissos) - 
 - [araguaci/12regrasparavida](https://github.com/araguaci/12regrasparavida) - 
 - [surjithctly/web3forms-docs](https://github.com/surjithctly/web3forms-docs) - Web3Forms Documentation (gitbook)
 - [araguaci/hatevaom](https://github.com/araguaci/hatevaom) - 
@@ -3952,7 +3954,7 @@
 - [araguaci/jekyllfolio](https://github.com/araguaci/jekyllfolio) - 
 - [docura/docura](https://github.com/docura/docura) - 📖 A modular Hugo theme to build your next documentation site
 - [ForEvolve/bootstrap-dark](https://github.com/ForEvolve/bootstrap-dark) - Bootstrap 4 dark theme that supports togging dark/light themes as well. There is no fluff, it changes the color of Bootstrap and that's it, no new thing to learn or unlearn, just Bootstrap, but Dark!
-- [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS) - All you have to do is fork this r
+- [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS) ✨
 - [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11+).
 - [jmlemetayer/abba](https://github.com/jmlemetayer/abba) - Apache Bootstrap & Bootswatch Autoindex
 - [app-generator/flask-soft-ui-dashboard](https://github.com/app-generator/flask-soft-ui-dashboard) - Soft UI Dashboard - Open-source Flask Dashboard | AppSeed
@@ -4182,6 +4184,7 @@
 
 ## TypeScript 
 
+- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [taqui-786/Portfolio](https://github.com/taqui-786/Portfolio) - A Simple Portfolio made with Nextjs and Shadcn UI
 - [joschan21/digitalhippo](https://github.com/joschan21/digitalhippo) - A Modern Fullstack E-Commerce Marketplace for Digital Products
 - [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service
@@ -5201,6 +5204,7 @@
 
 ## Vue 
 
+- [araguaci/partido-das-sombras](https://github.com/araguaci/partido-das-sombras) - Do Partido das Sombras ao Governo Clandestino. ~~DAVID HOROWITZ
 - [HoceineEl/nike-website](https://github.com/HoceineEl/nike-website) - a simple nike website using VueJs3 && Tailwindcss
 - [enpitsuLin/tres-the-aviator](https://github.com/enpitsuLin/tres-the-aviator) - The Aviator game built with TresJS and three.js r163
 - [dd3v/favbox](https://github.com/dd3v/favbox) - ❤️FavBox is a browser extension that simplifies and improves bookmark management, without relying on external cloud storage or third-party services

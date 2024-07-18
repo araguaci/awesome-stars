@@ -722,6 +722,8 @@
 
 ## HTML 
 
+- [waldenn/conzept](https://github.com/waldenn/conzept) - conzept - topic exploration system
+- [araguaci/floripasurfclub.github.io](https://github.com/araguaci/floripasurfclub.github.io) - Estamos localizados no espaço Barra Beach Floripa, um lugar super especial, com todo o suporte para receber turistas, perfeito para você curtir o verão em família ou com os amigos na Barra da Lagoa.
 - [programminghistorian/jekyll](https://github.com/programminghistorian/jekyll) - Jekyll-based static site for The Programming Historian
 - [caravo-way/aprenda-japones](https://github.com/caravo-way/aprenda-japones) - Uma coleção de artigos sobre como aprender japonês.  Tudo aqui é compilado, organizado, traduzido e ordenado de forma a facilitar a vida de quem prefere seguir um roteiro passo a passo, principalmente
 - [araguaci/inprincipioverbum.github.io](https://github.com/araguaci/inprincipioverbum.github.io) - No princípio era o Verbo. Contemplando a origem e o propósito da existência.
@@ -1530,7 +1532,7 @@
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [angular-ui/ui-grid](https://github.com/angular-ui/ui-grid) - UI Grid: an Angular Data Grid
 - [timgit/pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Node.js using PostgreSQL like a boss
-- [araguaci/timeline-surf-santa-catarina](https://github.com/araguaci/timeline-surf-santa-catarina) - 🚧 working in progress 🚧
+- [araguaci/timeline-surf-santa-catarina](https://github.com/araguaci/timeline-surf-santa-catarina) - 🚧 working in progress 🚧Linha do Tempo de eventos relacionados ao Surf em Santa Catarina
 - [diego3g/video-to-reels](https://github.com/diego3g/video-to-reels) - Automatically edit videos to post on Instagram Reels
 - [ErickWendel/semana-javascript-expert06](https://github.com/ErickWendel/semana-javascript-expert06) - JS Expert Week 6.0 Classes - Spotify Radio
 - [ozanturhan/webrtc-nestjs-react-example](https://github.com/ozanturhan/webrtc-nestjs-react-example) - WebRTC Multi-Peer Example With React & NestJS

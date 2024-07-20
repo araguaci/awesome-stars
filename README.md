@@ -409,7 +409,7 @@
 - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [olton/Metro4-React](https://github.com/olton/Metro4-React) - Metro 4 for ReactJS. Build impressive responsive, mobile-first projects on the web with the first front-end component library in Metro Style and not only.
-- [araguaci/patria-amada-brasil](https://github.com/araguaci/patria-amada-brasil) - Motivado pelo desprezo da nossa imprensa com as melhorias conquistadas neste novo governo, resolvi montar este projeto com as principais conquistas e entregas que não são notícia na imprensa.
+- [araguaci/patria-amada-brasil](https://github.com/araguaci/patria-amada-brasil) - Motivado pelo desprezo da nossa imprensa com melhorias conquistadas e não divulgadas, resolvi montar este projeto com as principais conquistas e entregas que não são notícia na imprensa.
 - [sayhelloelijah/say-codeplayer](https://github.com/sayhelloelijah/say-codeplayer) - say-codeplayer is a toy code editor (ie. JSFiddle) with the ability to render HTML, CSS, and JS.
 - [adamschwartz/magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician.
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation
@@ -1056,7 +1056,7 @@
 - [react-native-webrtc/react-native-incall-manager](https://github.com/react-native-webrtc/react-native-incall-manager) - Handling media-routes/sensors/events during a audio/video chat on React Native
 - [VoiSmart/pjsip-android](https://github.com/VoiSmart/pjsip-android) - SIP Service for Android based on PJSIP
 - [hazelcast/hazelcast](https://github.com/hazelcast/hazelcast) - Hazelcast is a unified real-time data platform combining stream processing with a fast data store, allowing customers to act instantly on data-in-motion for real-time insights.
-- [bkdev98/react-native-incoming-call](https://github.com/bkdev98/react-native-incoming-call) - React Native module to display custom incoming call activity for Android, since iOS we have VoIP.
+- [bkdev98/react-native-incoming-call](https://github.com/bkdev98/react-native-incoming-call) - Display custom incoming call activity on Android
 - [zxing/zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 - [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
 - [airbnb/lottie-android](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS, Web, and React Native
@@ -3571,6 +3571,7 @@
 
 ## Python 
 
+- [estruyf/unicorn-busy-server](https://github.com/estruyf/unicorn-busy-server) - Simple busy light server for Raspberry Pi Zero and Pimoroni Unicorn Hat
 - [israel-dryer/ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap) - A supercharged theme extension for tkinter that enables on-demand modern flat style themes inspired by Bootstrap.
 - [ashleykleynhans/civitai-downloader](https://github.com/ashleykleynhans/civitai-downloader) - Python script to download models from CIVITAI using an API key
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
@@ -4194,6 +4195,7 @@
 
 ## TypeScript 
 
+- [araguaci/taxad](https://github.com/araguaci/taxad) - Plunct plact zum, acabei de taxar mais um...
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [taqui-786/Portfolio](https://github.com/taqui-786/Portfolio) - A Simple Portfolio made with Nextjs and Shadcn UI
 - [joschan21/digitalhippo](https://github.com/joschan21/digitalhippo) - A Modern Fullstack E-Commerce Marketplace for Digital Products
@@ -4377,7 +4379,7 @@
 - [frappe/books](https://github.com/frappe/books) - Free Accounting Software
 - [hodgef/apiker](https://github.com/hodgef/apiker) - 🔼 Create Serverless APIs with Cloudflare Workers, Durable Objects & Wrangler
 - [epicweb-dev/react-hooks](https://github.com/epicweb-dev/react-hooks) - Learn React Hooks! 🎣 ⚛
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [karolkozer/planby](https://github.com/karolkozer/planby) - 
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [pixiebrix/pixiebrix-extension](https://github.com/pixiebrix/pixiebrix-extension) - PixieBrix browser extension

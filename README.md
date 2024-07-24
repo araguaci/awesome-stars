@@ -723,6 +723,7 @@
 
 ## HTML 
 
+- [araguaci/cronologia-operacoes-eua](https://github.com/araguaci/cronologia-operacoes-eua) - Cronologia das operações militares dos Estados Unidos https://tinyurl.com/operacoes-eua
 - [araguaci/floripa-surf-club-surf-school-360](https://github.com/araguaci/floripa-surf-club-surf-school-360) - 🏄‍♀️ Base Floripa Surf Club Surf School 360 🌊 Praia da Barra da Lagoa - Florianópolis - Santa Catarina - Brasil 🌎 Ao lado do Projeto Tamar
 - [waldenn/conzept](https://github.com/waldenn/conzept) - conzept - topic exploration system
 - [araguaci/floripasurfclub.github.io](https://github.com/araguaci/floripasurfclub.github.io) - Estamos localizados no espaço Barra Beach Floripa, um lugar super especial, com todo o suporte para receber turistas, perfeito para você curtir o verão em família ou com os amigos na Barra da Lagoa.
@@ -732,7 +733,6 @@
 - [araguaci/noprincipiooverbo](https://github.com/araguaci/noprincipiooverbo) - In Principio Verbum. No princípio era o Verbo. Contemplando a origem e o propósito da existência
 - [araguaci/sabedoria-suntzu](https://github.com/araguaci/sabedoria-suntzu) - Sabedoria Sun Tzu
 - [JanHerca/urantiapedia](https://github.com/JanHerca/urantiapedia) - Urantia Book wiki encyclopedia
-- [araguaci/cronologia-operacoes-eua](https://github.com/araguaci/cronologia-operacoes-eua) - Cronologia das operações militares dos Estados Unidos https://tinyurl.com/operacoes-eua
 - [araguaci/divinum-officium](https://github.com/araguaci/divinum-officium) - The Divinum Officium Project: Traditional Roman Missal and Breviary Texts
 - [araguaci/it-journey](https://github.com/araguaci/it-journey) - From zero to hero collection of docs, tools, scripts, and information to support your IT journey
 - [gethyas/doks](https://github.com/gethyas/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
@@ -1091,6 +1091,7 @@
 
 ## JavaScript 
 
+- [pislagz/spacex-live](https://github.com/pislagz/spacex-live) - SpaceX-Live is a complex tool built to observe and find out about SpaceX upcoming and previous orbital missions. It provides a whole range of data such as missions crews, payloads and more. Made with 
 - [araguaci/sereis-como-deuses](https://github.com/araguaci/sereis-como-deuses) - A soberania nacional está em risco se não é o povo que decide o destino da nação.
 - [PranavBarthwal/cosmoXplore](https://github.com/PranavBarthwal/cosmoXplore) - CosmoXplore, where the celestial canvas unfolds its mysteries before your eyes. Immerse yourself in a cosmic odyssey, as we harness the power of NASA's API to bring you a symphony of space resources.
 - [araguaci/abusofederal](https://github.com/araguaci/abusofederal) - Fatos absurdos e não democráticos que não são evidenciados na mídia...
@@ -2612,7 +2613,7 @@
 - [metafizzy/flickity](https://github.com/metafizzy/flickity) - :leaves: Touch, responsive, flickable carousels
 - [desandro/imagesloaded](https://github.com/desandro/imagesloaded) - :camera: JavaScript is all like "You images done yet or what?"
 - [xplsv/obsidian](https://github.com/xplsv/obsidian) - javascript/webgl demo
-- [MozillaReality/sechelt](https://github.com/MozillaReality/sechelt) - A virtual reality fly through of a 3D landscape, built with Three.js and Cinema 4D.
+- [MozillaReality/sechelt](https://github.com/MozillaReality/sechelt) - INACTIVE - A virtual reality fly through of a 3D landscape, built with Three.js and Cinema 4D.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 
 ## Jsonnet 
@@ -2756,6 +2757,7 @@
 
 ## Others 
 
+- [araguaci/brasileiros-pocoto](https://github.com/araguaci/brasileiros-pocoto) - Brasileiros Pocotó
 - [araguaci/lockdowns](https://github.com/araguaci/lockdowns) - "Lockdowns são o maior erro de saúde pública já cometido na história."  Prof. Martin Kulldorff, professor de medicina da Univ. de Harvard.
 - [araguaci/showcase](https://github.com/araguaci/showcase) - 
 - [AUTOMATIC1111/stable-diffusion-webui-extensions](https://github.com/AUTOMATIC1111/stable-diffusion-webui-extensions) - Extension index for stable-diffusion-webui
@@ -3662,7 +3664,7 @@
 - [ml-tooling/opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
 - [whitphx/streamlit-stt-app](https://github.com/whitphx/streamlit-stt-app) - Real time web based Speech-to-Text app with Streamlit
 - [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs Text to Speech.
-- [araguaci/o-dominio-de-si-mesmo](https://github.com/araguaci/o-dominio-de-si-mesmo) - Reflexões para vida. Compilado de temas e textos para reflexão pessoal
+- [araguaci/o-dominio-de-si-mesmo](https://github.com/araguaci/o-dominio-de-si-mesmo) - Reflexões para vida. Compilado de temas e textos para reflexão pessoal https://odominiodesimesmo.netlify.app/
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [bonfy/github-trending](https://github.com/bonfy/github-trending) - Tracking the most popular Github repos, update daily(Python version)
@@ -4216,7 +4218,7 @@
 - [penxio/penx](https://github.com/penxio/penx) - PenX is a cross-platform productivity App built on open-source and Web3.
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 - [araguaci/code-like-a-journalist](https://github.com/araguaci/code-like-a-journalist) - A free and open-source online course for anyone interested in data analysis and data visualization with JavaScript/TypeScript.
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Use LLM evals to improve your app's quality and catch problems. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with comman
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Redteaming, pentesting, vulnerability scanning for LLMs. Improve your app's quality and catch problems. Compare performance of GPT, Claude, Gemini, Llama, and more
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
 - [btpf/Alexandria](https://github.com/btpf/Alexandria) - A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript
 - [Tresjs/tres](https://github.com/Tresjs/tres) - Declarative ThreeJS using Vue Components

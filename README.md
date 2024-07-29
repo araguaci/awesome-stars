@@ -366,6 +366,7 @@
 
 ## CSS 
 
+- [araguaci/viacrucis](https://github.com/araguaci/viacrucis) - A Via Sacra é uma das mais antigas formas de se meditar a Paixão de Cristo. A expressão vem do latim e significa “caminho sagrado”: literalmente falando, nada mais é que o trajeto percorrido por Nosso
 - [hegde-atri/arch-wiki](https://github.com/hegde-atri/arch-wiki) - Helpful guide for getting started with arch linux
 - [elipapa/markdown-cv](https://github.com/elipapa/markdown-cv) - a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
 - [araguaci/quote-of-the-day](https://github.com/araguaci/quote-of-the-day) - Quote of the Day is a small introductory project on the use of APIs
@@ -1091,6 +1092,7 @@
 
 ## JavaScript 
 
+- [maxboeck/emergency-site](https://github.com/maxboeck/emergency-site) - A template for emergency information websites
 - [pislagz/spacex-live](https://github.com/pislagz/spacex-live) - SpaceX-Live is a complex tool built to observe and find out about SpaceX upcoming and previous orbital missions. It provides a whole range of data such as missions crews, payloads and more. Made with 
 - [araguaci/sereis-como-deuses](https://github.com/araguaci/sereis-como-deuses) - A soberania nacional está em risco se não é o povo que decide o destino da nação.
 - [PranavBarthwal/cosmoXplore](https://github.com/PranavBarthwal/cosmoXplore) - CosmoXplore, where the celestial canvas unfolds its mysteries before your eyes. Immerse yourself in a cosmic odyssey, as we harness the power of NASA's API to bring you a symphony of space resources.
@@ -3908,6 +3910,7 @@
 
 ## Rust 
 
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconference system written in rust
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
@@ -3961,6 +3964,7 @@
 
 ## SCSS 
 
+- [maxboeck/mxb](https://github.com/maxboeck/mxb) - Personal Website built with Eleventy
 - [byanko55/jekyll-professional-resume](https://github.com/byanko55/jekyll-professional-resume) - A simple, modern, and professional resume template built for jekyll
 - [araguaci/cheatsheets](https://github.com/araguaci/cheatsheets) - Cheatsheets for web development - devhints.io
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io

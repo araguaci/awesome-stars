@@ -1092,6 +1092,7 @@
 
 ## JavaScript 
 
+- [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
 - [maxboeck/emergency-site](https://github.com/maxboeck/emergency-site) - A template for emergency information websites
 - [pislagz/spacex-live](https://github.com/pislagz/spacex-live) - SpaceX-Live is a complex tool built to observe and find out about SpaceX upcoming and previous orbital missions. It provides a whole range of data such as missions crews, payloads and more. Made with 
 - [araguaci/sereis-como-deuses](https://github.com/araguaci/sereis-como-deuses) - A soberania nacional está em risco se não é o povo que decide o destino da nação.
@@ -2760,6 +2761,7 @@
 
 ## Others 
 
+- [EddieHubCommunity/open-source-practice](https://github.com/EddieHubCommunity/open-source-practice) - Repo for you to raise a Pull Request for practice
 - [araguaci/brasileiros-pocoto](https://github.com/araguaci/brasileiros-pocoto) - Brasileiros Pocotó
 - [araguaci/lockdowns](https://github.com/araguaci/lockdowns) - "Lockdowns são o maior erro de saúde pública já cometido na história."  Prof. Martin Kulldorff, professor de medicina da Univ. de Harvard.
 - [araguaci/showcase](https://github.com/araguaci/showcase) - 
@@ -4160,6 +4162,7 @@
 
 ## Svelte 
 
+- [EddieHubCommunity/good-first-issue-finder](https://github.com/EddieHubCommunity/good-first-issue-finder) - Issue-Crawler for GitHub based on Sveltekit
 - [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!
 - [araguaci/suntzu](https://github.com/araguaci/suntzu) - Sun Tzu Quotes
 - [techniq/layerchart](https://github.com/techniq/layerchart) - Composable Svelte chart components to build a wide range of visualizations
@@ -4202,6 +4205,8 @@
 
 ## TypeScript 
 
+- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
+- [williamtroup/Heat.js](https://github.com/williamtroup/Heat.js) - 🌞 A lightweight JavaScript library that generates customizable heat maps, charts, and statistics to visualize date-based activity and trends.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [araguaci/taxad](https://github.com/araguaci/taxad) - Plunct plact zum, acabei de taxar mais um...
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
@@ -4219,7 +4224,7 @@
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [Yummygum/flagpack-core](https://github.com/Yummygum/flagpack-core) - Flagpack contains 250+ flag icons to easily use within your code project.
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
-- [penxio/penx](https://github.com/penxio/penx) - PenX is a cross-platform productivity App built on open-source and Web3.
+- [0xzio/penx](https://github.com/0xzio/penx) - The space for web3 creator.
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 - [araguaci/code-like-a-journalist](https://github.com/araguaci/code-like-a-journalist) - A free and open-source online course for anyone interested in data analysis and data visualization with JavaScript/TypeScript.
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Redteaming, pentesting, vulnerability scanning for LLMs. Improve your app's quality and catch problems. Compare performance of GPT, Claude, Gemini, Llama, and more

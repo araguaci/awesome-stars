@@ -28,6 +28,7 @@
 - [HTML](#html)
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
+- [Haxe](#haxe)
 - [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -36,6 +37,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Less](#less)
+- [Liquid](#liquid)
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
@@ -1012,6 +1014,10 @@
 - [sharkdp/yinsh](https://github.com/sharkdp/yinsh) - A web-based version of the board game Yinsh
 - [aviaviavi/toodles](https://github.com/aviaviavi/toodles) - Project management directly from the TODOs in your codebase
 
+## Haxe 
+
+- [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) - Free, cross-platform 2D game engine powered by Haxe and OpenFL
+
 ## JSON 
 
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
@@ -1092,6 +1098,7 @@
 
 ## JavaScript 
 
+- [LLNL/llnl.github.io](https://github.com/LLNL/llnl.github.io) - Public home for LLNL software catalog
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
 - [maxboeck/emergency-site](https://github.com/maxboeck/emergency-site) - A template for emergency information websites
 - [pislagz/spacex-live](https://github.com/pislagz/spacex-live) - SpaceX-Live is a complex tool built to observe and find out about SpaceX upcoming and previous orbital missions. It provides a whole range of data such as missions crews, payloads and more. Made with 
@@ -1332,7 +1339,7 @@
 - [craftzdog/p5-wave-visualization](https://github.com/craftzdog/p5-wave-visualization) - p5 sketch visualizing the sound of waves of the sea recorded at Yuigahama in Kamakura, which is processed with FFT.
 - [VitalPBX/click2call](https://github.com/VitalPBX/click2call) - This is a simple example to demonstrate how to implement click2call feature using VitalPBX API.
 - [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 8k and 60fps, compatible with all browsers and platforms.
-- [miroslavpejic85/mirotalksfu](https://github.com/miroslavpejic85/mirotalksfu) - 🏆 WebRTC - SFU - Simple, Secure, Scalable Real-Time Video Conferences Up to 4k, compatible with all browsers and platforms.
+- [miroslavpejic85/mirotalksfu](https://github.com/miroslavpejic85/mirotalksfu) - 🏆 WebRTC - SFU - Simple, Secure, Scalable Real-Time Video Conferences Up to 8k, compatible with all browsers and platforms.
 - [InnovateAsterisk/Browser-Phone](https://github.com/InnovateAsterisk/Browser-Phone) - A fully featured browser based WebRTC SIP phone for Asterisk
 - [meetecho/janode](https://github.com/meetecho/janode) - A Node.js adapter for the Janus WebRTC server
 - [meetecho/simple-whip-server](https://github.com/meetecho/simple-whip-server) - Simple WHIP Server (based on the Janus WebRTC Server)
@@ -2686,6 +2693,10 @@
 - [publify/publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails.
 - [antirek/owo-phone.js](https://github.com/antirek/owo-phone.js) - simple sip.js based webphone
 
+## Liquid 
+
+- [HaxeFlixel/haxeflixel.com](https://github.com/HaxeFlixel/haxeflixel.com) - haxeflixel.com docpad/11ty source
+
 ## Lua 
 
 - [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
@@ -3580,6 +3591,7 @@
 
 ## Python 
 
+- [araguaci/github-trending](https://github.com/araguaci/github-trending) - Tracking the most popular Github repos, update daily(Python version)
 - [estruyf/unicorn-busy-server](https://github.com/estruyf/unicorn-busy-server) - Simple busy light server for Raspberry Pi Zero and Pimoroni Unicorn Hat
 - [israel-dryer/ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap) - A supercharged theme extension for tkinter that enables on-demand modern flat style themes inspired by Bootstrap.
 - [ashleykleynhans/civitai-downloader](https://github.com/ashleykleynhans/civitai-downloader) - Python script to download models from CIVITAI using an API key
@@ -4729,7 +4741,7 @@
 - [maykbrito/ts-proxy-server](https://github.com/maykbrito/ts-proxy-server) - Boilerplate API proxy server to hide API keys, adding rate limit and cache. See it working at https://github.com/maykbrito/openweather-example
 - [maykbrito/openweather-example](https://github.com/maykbrito/openweather-example) - test to using the API proxy server template &gt;&gt; https://github.com/maykbrito/ts-proxy-server
 - [Vestride/react-stacked-elements](https://github.com/Vestride/react-stacked-elements) - Toggle the visibility of two elements without removing them from the document layout
-- [pd4d10/hashmd](https://github.com/pd4d10/hashmd) - Hackable Markdown Editor and Viewer
+- [pd4d10/hashmd](https://github.com/pd4d10/hashmd) - Hackable Markdown Editor and Viewer (WIP)
 - [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [shikijs/twoslash](https://github.com/shikijs/twoslash) - You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples
@@ -5265,7 +5277,7 @@
 - [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
 - [araguaci/a-arte-de-alcancar-uma-vida-plena](https://github.com/araguaci/a-arte-de-alcancar-uma-vida-plena) - Por meio de suas tradições, filosofias e a prática das mais variadas artes, os japoneses encontraram o contentamento.
 - [araguaci/por-que-lutamos](https://github.com/araguaci/por-que-lutamos) - Faz um diagnóstico da situação atual e propõe um programa de resistência, reconquista e regeneração. Ele oferece a perspectiva de uma alternativa racial e revolucionária para a atual civilização decad
-- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
+- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3、Shadcn UI、vite and TypeScript. It's fast！
 - [Hanziness/FocusTide](https://github.com/Hanziness/FocusTide) - Modern and customizable productivity timer app that runs in your browser.
 - [mayur091193/quasar-shopping](https://github.com/mayur091193/quasar-shopping) - Free and Open source eCommerce UI template written in Vue.js/Quasar
 - [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup) - Planning universitaire réalisé en Nuxt.js

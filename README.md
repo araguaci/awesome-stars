@@ -4060,7 +4060,7 @@
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [0x90/kali-scripts](https://github.com/0x90/kali-scripts) - Some usefull scripts for KaliLinux
 - [cyverse-vice/kasm-ubuntu](https://github.com/cyverse-vice/kasm-ubuntu) - Ubuntu Desktops running KASM VNC
-- [joglomedia/LEMPer](https://github.com/joglomedia/LEMPer) - LEMPer Stack is terminal-based LEMP / LNMP ( Linux, Nginx, MariaDB, PostgreSQL, MongoDB, Redis, Memcache, PHP, Secure FTP ) installer and virtual host manager for Debian & Ubuntu cloud or virtual serv
+- [joglomedia/LEMPer](https://github.com/joglomedia/LEMPer) - LEMPer Stack is terminal-based LEMP / LNMP ( Linux, Nginx, MariaDB, PostgreSQL, MongoDB, Redis, Memcache, PHP, Secure FTP ) auto installer and virtual host manager for Debian & Ubuntu cloud or virtual
 - [kasmtech/workspaces-images](https://github.com/kasmtech/workspaces-images) - 
 - [kasmtech/workspaces-core-images](https://github.com/kasmtech/workspaces-core-images) - 
 - [linuxeye/lnmp](https://github.com/linuxeye/lnmp) - LEMP stack/LAMP stack/LNMP stack  installation scripts for CentOS/Redhat Debian and Ubuntu

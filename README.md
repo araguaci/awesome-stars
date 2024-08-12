@@ -613,7 +613,6 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
-- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted links shortener and sharing platform. Save and share your links very easily
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [DapperDox/dapperdox](https://github.com/DapperDox/dapperdox) - Beautiful, integrated, OpenAPI documentation.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
@@ -3982,6 +3981,7 @@
 
 ## SCSS 
 
+- [LukyVj/family.scss](https://github.com/LukyVj/family.scss) - Family.scss is a set of Sass mixins which will help you to manage the style of :nth-child'ified elements, in an easy way.
 - [maxboeck/mxb](https://github.com/maxboeck/mxb) - Personal Website built with Eleventy
 - [byanko55/jekyll-professional-resume](https://github.com/byanko55/jekyll-professional-resume) - A simple, modern, and professional resume template built for jekyll
 - [araguaci/cheatsheets](https://github.com/araguaci/cheatsheets) - Cheatsheets for web development - devhints.io
@@ -4377,6 +4377,7 @@
 - [Leniolabs/promptree](https://github.com/Leniolabs/promptree) - ChatGPT spin-off combining git concepts!
 - [zu1k/bs-core](https://github.com/zu1k/bs-core) - Easy and blazing-fast book searcher, create and search your private library.
 - [jooy2/vutron](https://github.com/jooy2/vutron) - 💚 Quick Start Templates for Vite + Electron + Vue 3 + Vuetify + TypeScript. Vutron is a preconfigured template for developing Electron cross-platform desktop apps. It uses Vue 3 and allows you to buil
+- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted links shortener and sharing platform. Save and share your links very easily
 - [ElMassimo/iles](https://github.com/ElMassimo/iles) - 🏝 The joyful site generator
 - [yyx990803/vue-wordle](https://github.com/yyx990803/vue-wordle) - Wordle built with Vue, aka VVordle
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - Self-serve BI to 10x your data team ⚡️

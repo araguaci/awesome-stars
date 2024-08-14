@@ -415,7 +415,6 @@
 - [araguaci/patria-amada-brasil](https://github.com/araguaci/patria-amada-brasil) - Motivado pelo desprezo da nossa imprensa com melhorias conquistadas e não divulgadas, resolvi montar este projeto com as principais conquistas e entregas que não são notícia na imprensa.
 - [sayhelloelijah/say-codeplayer](https://github.com/sayhelloelijah/say-codeplayer) - say-codeplayer is a toy code editor (ie. JSFiddle) with the ability to render HTML, CSS, and JS.
 - [adamschwartz/magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician.
-- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation
 - [codrops/GlitchSlideshow](https://github.com/codrops/GlitchSlideshow) - A slideshow that uses a CSS glitch effect for slide transitions.
 - [araguaci/floripasurfclub-reviews](https://github.com/araguaci/floripasurfclub-reviews) - AVALIAÇÕES - FLORIPA SURF CLUB SURF SCHOOL 🌊 A ESCOLA QUE ENSINA EM ONDAS PERFEITAS PARA INICIANTES 🌊 www.floripasurfclub.com - @floripasurfcluboficial
 - [denehyg/reveal.js-toolbar](https://github.com/denehyg/reveal.js-toolbar) - Toolbar plugin for reveal.js
@@ -1098,6 +1097,7 @@
 
 ## JavaScript 
 
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [MishanPoudel/Windows11-3.0](https://github.com/MishanPoudel/Windows11-3.0) - Experience the look and feel of Windows 11 directly in your browser with this web-based clone. Enjoy a similar user interface and functionality.
 - [LLNL/llnl.github.io](https://github.com/LLNL/llnl.github.io) - Public home for LLNL software catalog
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
@@ -1758,7 +1758,7 @@
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [adaltas/node-csv-docs](https://github.com/adaltas/node-csv-docs) - Website for the csv projects
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
+- [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 - [novnc/websockify-js](https://github.com/novnc/websockify-js) - JavaScript WebSocket to TCP bridge
 - [ovh/manager](https://github.com/ovh/manager) - OVHcloud Control Panel
 - [Xantios/cockpit-docker](https://github.com/Xantios/cockpit-docker) - Just a fork
@@ -2432,7 +2432,7 @@
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [ziishaned/dumper.js](https://github.com/ziishaned/dumper.js) - A better and pretty variable inspector for your Node.js applications
-- [coreui/coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template) - CoreUI React is a free React admin template based on Bootstrap 5
+- [coreui/coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template) - Open source admin template based on Bootstrap 5 and React.js
 - [Molunerfinn/vue-koa-demo](https://github.com/Molunerfinn/vue-koa-demo) - :beginner:A simple full stack demo(CSR & SSR & Docker Support) written by Vue2 & Koa2(Koa1 verson also completed)
 - [riktar/jkanban](https://github.com/riktar/jkanban) - Vanilla Javascript plugin for manage kanban boards
 - [mstijak/tdo](https://github.com/mstijak/tdo) - Keyboard driven, hackable TODO list
@@ -2716,6 +2716,7 @@
 - [GetStream/stream-chat-react](https://github.com/GetStream/stream-chat-react) - React Chat SDK ➜ Stream Chat 💬
 - [chocolatey/docs](https://github.com/chocolatey/docs) - https://docs.chocolatey.org - new docs website
 - [jakejarvis/jarv.is](https://github.com/jakejarvis/jarv.is) - 🏡 My humble abode on the World Wide Web
+- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation
 - [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
 - [phuocng/frontend-tips](https://github.com/phuocng/frontend-tips) - Super tiny, quick tips, tricks and best practices of front-end development
@@ -3594,6 +3595,7 @@
 
 ## Python 
 
+- [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [araguaci/github-trending](https://github.com/araguaci/github-trending) - Tracking the most popular Github repos, update daily(Python version)
 - [estruyf/unicorn-busy-server](https://github.com/estruyf/unicorn-busy-server) - Simple busy light server for Raspberry Pi Zero and Pimoroni Unicorn Hat
 - [israel-dryer/ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap) - A supercharged theme extension for tkinter that enables on-demand modern flat style themes inspired by Bootstrap.
@@ -3751,7 +3753,7 @@
 - [dunossauro/live-de-python](https://github.com/dunossauro/live-de-python) - Repositório das lives de python semanais
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [dogsheep/github-to-sqlite](https://github.com/dogsheep/github-to-sqlite) - Save data from GitHub to a SQLite database
-- [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
+- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
@@ -4301,7 +4303,7 @@
 - [araguaci/astro-portifolio-artesdosul](https://github.com/araguaci/astro-portifolio-artesdosul) - 
 - [sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin.
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
-- [psychic-api/rag-stack](https://github.com/psychic-api/rag-stack) - 🤖 Deploy a private ChatGPT alternative hosted within your VPC. 🔮 Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and 
+- [finic-ai/rag-stack](https://github.com/finic-ai/rag-stack) - 🤖 Deploy a private ChatGPT alternative hosted within your VPC. 🔮 Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and 
 - [okfn/opendataeditor](https://github.com/okfn/opendataeditor) - The Open Data Editor (ODE) is a no-code application to explore, validate and publish data in a simple way. Forever free and open source project powered by the Frictionless Framework.
 - [brattonross/windy-radix-palette](https://github.com/brattonross/windy-radix-palette) - Bring Radix Colors to Tailwind CSS
 - [vinothpandian/react-sketch-canvas](https://github.com/vinothpandian/react-sketch-canvas) - Freehand vector drawing component for React using SVG as canvas 🖌️
@@ -5281,7 +5283,7 @@
 - [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
 - [araguaci/a-arte-de-alcancar-uma-vida-plena](https://github.com/araguaci/a-arte-de-alcancar-uma-vida-plena) - Por meio de suas tradições, filosofias e a prática das mais variadas artes, os japoneses encontraram o contentamento.
 - [araguaci/por-que-lutamos](https://github.com/araguaci/por-que-lutamos) - Faz um diagnóstico da situação atual e propõe um programa de resistência, reconquista e regeneração. Ele oferece a perspectiva de uma alternativa racial e revolucionária para a atual civilização decad
-- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3、Shadcn UI、vite and TypeScript. It's fast！
+- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern Vue admin panel built with Vue 3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
 - [Hanziness/FocusTide](https://github.com/Hanziness/FocusTide) - Modern and customizable productivity timer app that runs in your browser.
 - [mayur091193/quasar-shopping](https://github.com/mayur091193/quasar-shopping) - Free and Open source eCommerce UI template written in Vue.js/Quasar
 - [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup) - Planning universitaire réalisé en Nuxt.js

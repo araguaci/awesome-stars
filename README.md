@@ -2325,7 +2325,7 @@
 - [angular/upgrade-builds](https://github.com/angular/upgrade-builds) - @angular/upgrade build artifacts
 - [angular/service-worker-builds](https://github.com/angular/service-worker-builds) - Build artifacts for @angular/service-worker
 - [dorny/typescript-intro](https://github.com/dorny/typescript-intro) - Presentation and demo projects about TypeScript - https://dorny.github.io/typescript-intro
-- [brown-ccv/ccv-website](https://github.com/brown-ccv/ccv-website) - CCV Hugo Website
+- [brown-ccv/ccv-website-hugo](https://github.com/brown-ccv/ccv-website-hugo) - CCV Hugo Website
 - [brown-ccv/alex-recommends](https://github.com/brown-ccv/alex-recommends) - Github Action to run Alex on PRs
 - [mdn/mdn-storybook](https://github.com/mdn/mdn-storybook) - UI components for MDN Web Docs
 - [Pomax/lib-font](https://github.com/Pomax/lib-font) - This library adds a new Font() object to the JavaScript toolbox, similar to new Image() for images
@@ -3939,7 +3939,7 @@
 - [redbadger/crux](https://github.com/redbadger/crux) - Cross-platform app development in Rust
 - [0-don/clippy](https://github.com/0-don/clippy) - Clipboard Manager built with Rust & Typescript
 - [chronotope/chrono](https://github.com/chronotope/chrono) - Date and time library for Rust
-- [vercel/turbo](https://github.com/vercel/turbo) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [harlanc/xiu](https://github.com/harlanc/xiu) - A simple,high performance and secure live media server in pure Rust (RTMP[cluster]/RTSP/WebRTC[whip/whep]/HTTP-FLV/HLS).🦀
 - [azc5OQ/lemon-chat](https://github.com/azc5OQ/lemon-chat) - 
 - [webrtc-rs/webrtc](https://github.com/webrtc-rs/webrtc) - A pure Rust implementation of WebRTC
@@ -4505,7 +4505,7 @@
 - [ringcentral/ringcentral-embeddable](https://github.com/ringcentral/ringcentral-embeddable) - RingCentral Embeddable widget
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [antfu-collective/vitesse-lite](https://github.com/antfu-collective/vitesse-lite) - ⛺️ Lightweight version of Vitesse
-- [antfu-collective/vitesse-nuxt3](https://github.com/antfu-collective/vitesse-nuxt3) - Vitesse for Nuxt 3 🏔💚⚡️
+- [antfu-collective/vitesse-nuxt](https://github.com/antfu-collective/vitesse-nuxt) - Vitesse for Nuxt 3 🏔💚⚡️
 - [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
 - [caoxiemeihao/electron-vite-boilerplate](https://github.com/caoxiemeihao/electron-vite-boilerplate) - 📚 Really simple Electron + Vite boilerplate.
 - [samuelmeuli/mini-diary](https://github.com/samuelmeuli/mini-diary) - 📘 Simple and secure journal app
@@ -5035,7 +5035,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode
 - [PatrickJS/angular-hmr](https://github.com/PatrickJS/angular-hmr) - :fire: Angular Hot Module Replacement for Hot Module Reloading
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [rocketseat-content/youtube-challenge-ui-kit](https://github.com/rocketseat-content/youtube-challenge-ui-kit) - 
 - [infinitered/flipper-plugin-reactotron](https://github.com/infinitered/flipper-plugin-reactotron) - A plugin for the Flipper desktop application
 - [oblador/react-native-performance](https://github.com/oblador/react-native-performance) - 📐 Monitor and measure React Native performance

@@ -179,7 +179,7 @@
 - [baresip/baresip](https://github.com/baresip/baresip) - Baresip is a modular SIP User-Agent with audio and video support
 - [devkitPro/3ds-examples](https://github.com/devkitPro/3ds-examples) - Examples for 3DS using devkitARM, libctru, citro3d and citro2d
 - [Yuriy-Svetlov/compress-images](https://github.com/Yuriy-Svetlov/compress-images) - Minify size your images. Image compression with extension: jpg/jpeg, svg, png, gif. NodeJs
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [Imagick/imagick](https://github.com/Imagick/imagick) - 🌈 The Imagick PHP extension 🌈
 - [jedisct1/libsodium-php](https://github.com/jedisct1/libsodium-php) - The PHP extension for libsodium.
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
@@ -379,7 +379,7 @@
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 - [LemmyNet/lemmy-ui](https://github.com/LemmyNet/lemmy-ui) - The official web app for lemmy.
 - [sfxcode/vite-primevue-starter](https://github.com/sfxcode/vite-primevue-starter) - VUE 3 Starter project for using primevue 3 with Vite 3 - Pages, Layouts, Validation
-- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
+- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
 - [codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
 - [creativetimofficial/tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 - [araguaci/awesome-jekyll](https://github.com/araguaci/awesome-jekyll) - Build Jekyll site with GitBook style!
@@ -2875,7 +2875,6 @@
 - [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) - :pager: Links to others' solutions to Projects (https://github.com/karan/Projects/)
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [Kollate/truegit-test](https://github.com/Kollate/truegit-test) - A sample blog powered by Truegit
-- [jeromedalbert/real-world-react-apps](https://github.com/jeromedalbert/real-world-react-apps) - Real world React apps and their open source codebases for developers to learn from
 - [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier
 - [AakashRao-dev/cheatsheets-for-developers](https://github.com/AakashRao-dev/cheatsheets-for-developers) - 📊 Get all of my CSS Cheatsheets from here which I have created & shared on twitter. Thanks for the support. 💜
 - [karrot-dev/karrot-frontend](https://github.com/karrot-dev/karrot-frontend) - We migrated to https://codeberg.org/karrot/karrot-frontend
@@ -3650,7 +3649,7 @@
 - [dpgaspar/Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome
 - [biglinux/bigbashview](https://github.com/biglinux/bigbashview) - BigBashView is a script to run Bash+HTML in a Desktop WebView.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [PyMySQL/mysqlclient](https://github.com/PyMySQL/mysqlclient) - MySQL database connector for Python (with Python 3 support)
+- [PyMySQL/mysqlclient](https://github.com/PyMySQL/mysqlclient) - MySQL/MariaDB connector for Python
 - [SociallyIneptWeeb/AICoverGen](https://github.com/SociallyIneptWeeb/AICoverGen) - A WebUI to create song covers with any RVC v2 trained AI voice from YouTube videos or audio files.
 - [runpod/runpod-python](https://github.com/runpod/runpod-python) - 🐍 | Python library for RunPod API and serverless worker SDK.
 - [pndurette/gTTS](https://github.com/pndurette/gTTS) - Python library and CLI tool to interface with Google Translate's text-to-speech API

@@ -1204,7 +1204,7 @@
 - [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
 - [stephanrauh/ngx-extended-pdf-viewer](https://github.com/stephanrauh/ngx-extended-pdf-viewer) - A full-blown PDF viewer for Angular 16, 17, and beyond
 - [adrianhajdin/3D_portfolio](https://github.com/adrianhajdin/3D_portfolio) - Let's build a cool 3D website together! You'll learn how to make a portfolio with fun interactive parts, like a floating island and a fox that moves when you type. It'll allow you to show off your ski
-- [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.
+- [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.  All-in-one alternative to Gmail + Mailchimp + Sendgrid.
 - [magneum/BloomBot](https://github.com/magneum/BloomBot) - Ⓒ𝐁𝐥𝐨𝐨𝐦𝐁𝐨𝐭🌻𝐌𝐮𝐥𝐭𝐢-𝐃𝐞𝐯𝐢𝐜𝐞: is a whatsapp user-bot with automation, moderation, music, games and 200+ commands!
 - [vitmalina/w2ui](https://github.com/vitmalina/w2ui) - UI widgets for modern apps. Data table, forms, toolbars, sidebar, tabs, tooltips, popups. All under 120kb (gzipped).
 - [adobe-webplatform/Snap.svg](https://github.com/adobe-webplatform/Snap.svg) - The JavaScript library for modern SVG graphics.
@@ -3113,7 +3113,7 @@
 - [ladybirdweb/faveo-helpdesk](https://github.com/ladybirdweb/faveo-helpdesk) - Faveo Open source ticketing system build on Laravel framework
 - [renatomb/php_qrcode_pix](https://github.com/renatomb/php_qrcode_pix) - Implementação da geração de QRCode do Pix em PHP
 - [kalkun-sms/Kalkun](https://github.com/kalkun-sms/Kalkun) - Open Source Web based SMS Manager
-- [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel, Flutter and React
+- [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel
 - [beyondcode/expose](https://github.com/beyondcode/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
 - [H2-invent/jitsi-admin](https://github.com/H2-invent/jitsi-admin) - Organize and fully controll your jitsi meet meetings. Make your  meeting secure and be sure that only you and your fellows can join your meeting.
 - [emoncms/emoncms](https://github.com/emoncms/emoncms) - Web-app for processing, logging and visualising energy, temperature and other environmental data
@@ -4246,7 +4246,7 @@
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 - [araguaci/code-like-a-journalist](https://github.com/araguaci/code-like-a-journalist) - A free and open-source online course for anyone interested in data analysis and data visualization with JavaScript/TypeScript.
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command 
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / DeepSeek),Knowledge Base(file upload / kno
 - [btpf/Alexandria](https://github.com/btpf/Alexandria) - A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript
 - [Tresjs/tres](https://github.com/Tresjs/tres) - Declarative ThreeJS using Vue Components
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
@@ -5247,6 +5247,7 @@
 
 ## Vue 
 
+- [frappe/helpdesk](https://github.com/frappe/helpdesk) - Modern, Streamlined, Free and Open Source Customer Service Software
 - [araguaci/partido-das-sombras](https://github.com/araguaci/partido-das-sombras) - Do Partido das Sombras ao Governo Clandestino. ~~DAVID HOROWITZ
 - [HoceineEl/nike-website](https://github.com/HoceineEl/nike-website) - a simple nike website using VueJs3 && Tailwindcss
 - [enpitsuLin/tres-the-aviator](https://github.com/enpitsuLin/tres-the-aviator) - The Aviator game built with TresJS and three.js r163

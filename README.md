@@ -106,6 +106,7 @@
 - [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme.
 - [livebook-dev/livebook.dev](https://github.com/livebook-dev/livebook.dev) - Landing page for Livebook
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+- [hzoo/hopeinsource.com](https://github.com/hzoo/hopeinsource.com) - 🙏 Hope In Source podcast site (+ transcripts)
 - [CSS-Tricks/serverless](https://github.com/CSS-Tricks/serverless) - The Power of Serverless for Front-End Developers
 - [roadmapsh/deprecated-version](https://github.com/roadmapsh/deprecated-version) - Next version of roadmap.sh
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
@@ -181,7 +182,7 @@
 - [baresip/baresip](https://github.com/baresip/baresip) - Baresip is a modular SIP User-Agent with audio and video support
 - [devkitPro/3ds-examples](https://github.com/devkitPro/3ds-examples) - Examples for 3DS using devkitARM, libctru, citro3d and citro2d
 - [Yuriy-Svetlov/compress-images](https://github.com/Yuriy-Svetlov/compress-images) - Minify size your images. Image compression with extension: jpg/jpeg, svg, png, gif. NodeJs
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [Imagick/imagick](https://github.com/Imagick/imagick) - 🌈 The Imagick PHP extension 🌈
 - [jedisct1/libsodium-php](https://github.com/jedisct1/libsodium-php) - The PHP extension for libsodium.
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
@@ -190,6 +191,7 @@
 
 ## C# # 
 
+- [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking
 - [ikas-mc/ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) - Add Custom Context Menu For Windows11
 - [aspose-cells/Aspose.Cells-for-.NET](https://github.com/aspose-cells/Aspose.Cells-for-.NET) - Aspose.Cells for .NET examples, plugins and showcases
 - [bhoogter/VB6TocSharp](https://github.com/bhoogter/VB6TocSharp) - Free converter from VB6 to C#.  See README for quick-start.  See Wiki for more information.
@@ -1455,6 +1457,7 @@
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS Kubo and IPFS Desktop
 - [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
+- [bagisto/laravel-pwa](https://github.com/bagisto/laravel-pwa) - Transform your website like Mobile Application while having full functionality of the website using Laravel PWA
 - [UniversityOfHelsinkiCS/mobvita](https://github.com/UniversityOfHelsinkiCS/mobvita) - Revita frontend v2
 - [rexxars/react-hexagon](https://github.com/rexxars/react-hexagon) - React component that renders a hexagon using SVG. Supports background images, links, SVG content, click handlers and more.
 - [sidorares/node-mysql2](https://github.com/sidorares/node-mysql2) - :zap: fast mysqljs/mysql compatible mysql driver for node.js
@@ -1545,7 +1548,7 @@
 - [glennreyes/react-countup](https://github.com/glennreyes/react-countup) - 💫 A configurable React component wrapper around CountUp.js
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [angular-ui/ui-grid](https://github.com/angular-ui/ui-grid) - UI Grid: an Angular Data Grid
-- [timgit/pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Node.js using PostgreSQL like a boss
+- [timgit/pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Postgres from Node.js like a boss
 - [araguaci/timeline-surf-santa-catarina](https://github.com/araguaci/timeline-surf-santa-catarina) - 🚧 working in progress 🚧Linha do Tempo de eventos relacionados ao Surf em Santa Catarina
 - [diego3g/video-to-reels](https://github.com/diego3g/video-to-reels) - Automatically edit videos to post on Instagram Reels
 - [ErickWendel/semana-javascript-expert06](https://github.com/ErickWendel/semana-javascript-expert06) - JS Expert Week 6.0 Classes - Spotify Radio
@@ -1570,8 +1573,6 @@
 - [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js
 - [WordPress/dashicons](https://github.com/WordPress/dashicons) - Dashicons, the WordPress admin icon font. For the official resource, please see the WordPress Developer Hub.
 - [brunos3d/Calculator-React](https://github.com/brunos3d/Calculator-React) - 🖥 REACT.JS - Uma simples calculadora amigável feita em React.
-- [BlinkTagInc/gtfs-to-html](https://github.com/BlinkTagInc/gtfs-to-html) - Build human readable transit timetables as HTML or PDF from GTFS.
-- [hzoo/hopeinsource.com](https://github.com/hzoo/hopeinsource.com) - 🙏 Hope In Source podcast site (+ transcripts)
 - [magenta/lofi-player](https://github.com/magenta/lofi-player) - 🔥 Virtual room in your browser that lets you play with the Lo-Fi VIBE and relax
 - [as-ideas/add-to-homescreen-react](https://github.com/as-ideas/add-to-homescreen-react) - A React component providing add-to-home-screen functionality for different platforms
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
@@ -2413,7 +2414,7 @@
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [GoogleChromeLabs/preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin) - Please use https://github.com/vuejs/preload-webpack-plugin instead.
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [davidtheclark/react-aria-menubutton](https://github.com/davidtheclark/react-aria-menubutton) - A fully accessible, easily themeable, React-powered menu button
 - [zillow/react-slider](https://github.com/zillow/react-slider) - Accessible, CSS agnostic, slider component for React.
 - [xudafeng/autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - ⚛️ Auto Responsive Layout Library For React
@@ -2556,7 +2557,7 @@
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [rocketseat-content/youtube-cli-node-gluegun](https://github.com/rocketseat-content/youtube-cli-node-gluegun) - Código produzido durante o vídeo "Criando uma CLI com NodeJS e Gluegun"
 - [rocketseat-content/youtube-react-native-nubank](https://github.com/rocketseat-content/youtube-react-native-nubank) - Código do vídeo replicando a interface do Nubank com React Native
-- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Use AWS Lambda and other managed cloud services to build apps that auto-scale, cost nothing when idle, and boast radically low maintenance.
+- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
 - [benfoxall/node-samples](https://github.com/benfoxall/node-samples) - Node samples for G Suite APIs.
 - [Vonage/vonage-node-code-snippets](https://github.com/Vonage/vonage-node-code-snippets) - NodeJS code examples for using Vonage
 - [tellform/tellform](https://github.com/tellform/tellform) - ✏️ Free Opensource Alternative to TypeForm or Google Forms ⛺
@@ -2774,6 +2775,7 @@
 
 ## Others 
 
+- [mjebrahimi/Awesome-Microservices-DotNet](https://github.com/mjebrahimi/Awesome-Microservices-DotNet) - 💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET
 - [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig) - Guide for getting a gig as a tech student.
 - [EddieHubCommunity/open-source-practice](https://github.com/EddieHubCommunity/open-source-practice) - Repo for you to raise a Pull Request for practice
 - [araguaci/brasileiros-pocoto](https://github.com/araguaci/brasileiros-pocoto) - Brasileiros Pocotó
@@ -3279,7 +3281,7 @@
 - [araguaci/floripasupcamp](https://github.com/araguaci/floripasupcamp) - Club de Aventura, gestao, aula, surf, supsurf, aluguel, suptour, equipamento, qualidade, seguranca, consultoria, treinamento, evento turistico, roteiro ambiental e gastronomico.
 - [deployphp/deployer](https://github.com/deployphp/deployer) - The PHP deployment tool with support for popular frameworks out of the box
 - [nelmio/NelmioCorsBundle](https://github.com/nelmio/NelmioCorsBundle) - Adds CORS (Cross-Origin Resource Sharing) headers support in your Symfony application
-- [SuperPWA/Super-Progressive-Web-Apps](https://github.com/SuperPWA/Super-Progressive-Web-Apps) - SuperPWA helps to convert your WordPress website into Progressive Web Apps instantly. PWA (Progressive Web Apps) demo at : https://superpwa.com and Plugin :
+- [SuperPWA/super-progressive-web-apps](https://github.com/SuperPWA/super-progressive-web-apps) - SuperPWA helps to convert your WordPress website into Progressive Web Apps instantly. PWA (Progressive Web Apps) demo at : https://superpwa.com and Plugin :
 - [noncent/instagram-data-scraper](https://github.com/noncent/instagram-data-scraper) - Instagram Data Scraper, Instagram Web Scraper, Instagram Super Scraper is a PHP script which takes @user-name or #keywords as input and returns all information related to user or hash-tags e.g. likes,
 - [samdark/sitemap](https://github.com/samdark/sitemap) - Sitemap and sitemap index builder
 - [samdark/yiipowered](https://github.com/samdark/yiipowered) - Yii powered websites showcase
@@ -4242,7 +4244,7 @@
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [Yummygum/flagpack-core](https://github.com/Yummygum/flagpack-core) - Flagpack contains 250+ flag icons to easily use within your code project.
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
-- [0xzio/penx](https://github.com/0xzio/penx) - The space for web3 creators (alternative to mirror.xyz)
+- [penxio/penx](https://github.com/penxio/penx) - The space for web3 creators (alternative to mirror.xyz)
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 - [araguaci/code-like-a-journalist](https://github.com/araguaci/code-like-a-journalist) - A free and open-source online course for anyone interested in data analysis and data visualization with JavaScript/TypeScript.
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command 
@@ -4312,7 +4314,7 @@
 - [JulianCataldo/web-garden](https://github.com/JulianCataldo/web-garden) - Building blocks for making progressive and future-proof websites. Components collection features Astro, HTML, SCSS, JS, TS… Configurations features ESLint, Prettier, Stylelint…
 - [araguaci/rotadoceu](https://github.com/araguaci/rotadoceu) - 
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
-- [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
+- [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [carlosjorger/vue-fluid-dnd](https://github.com/carlosjorger/vue-fluid-dnd) - A drag and drop🤜🫳library for Vue 3🌿
 - [etherCorps/SK-Redis-SessionManager](https://github.com/etherCorps/SK-Redis-SessionManager) - Redis integration in SvelteKit for Session Management
 - [ocodista/trampar-de-casa](https://github.com/ocodista/trampar-de-casa) - Apoiamos o trabalho remoto e divulgamos vagas semanalmente para inscritos.
@@ -4615,6 +4617,7 @@
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [pablohen/covid](https://github.com/pablohen/covid) - Veja as estatísticas da Covid-19 de cada cidade do Brasil https://covid.pablohen.vercel.app.
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
+- [BlinkTagInc/gtfs-to-html](https://github.com/BlinkTagInc/gtfs-to-html) - Build human readable transit timetables as HTML or PDF from GTFS.
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [babel/website](https://github.com/babel/website) - :globe_with_meridians: The Babel documentation website
 - [typesense/docusaurus-theme-search-typesense](https://github.com/typesense/docusaurus-theme-search-typesense) - A fork of the awesome @docusaurus/theme-search-algolia library customized to work with Typesense
@@ -4761,7 +4764,7 @@
 - [churchtools/churchtools-js-client](https://github.com/churchtools/churchtools-js-client) - JavaScript client to easily access the ChurchTools REST-API
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Archived web app of Mattermost. Moved to the monorepo: https://github.com/mattermost/mattermost
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+- [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [Vagr9K/gatsby-advanced-starter](https://github.com/Vagr9K/gatsby-advanced-starter) - A high performance skeleton starter for GatsbyJS with an advanced feature set.
 - [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization opti
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
@@ -5139,7 +5142,7 @@
 - [loiane/mslearn-functions-angular](https://github.com/loiane/mslearn-functions-angular) - 
 - [loiane/angular-bootstrap-example](https://github.com/loiane/angular-bootstrap-example) - 
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [angular/components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
 - [JayKan/angular2-instagram](https://github.com/JayKan/angular2-instagram) - :fire:Instagram like photo filter playground built with Angular2 (Web | Desktop)
 - [mgechev/angular-seed](https://github.com/mgechev/angular-seed) - 🌱 [Deprecated] Extensible, reliable, modular, PWA ready starter project for Angular (2 and beyond) with statically typed build and AoT compilation
@@ -5234,7 +5237,7 @@
 
 ## Vala 
 
-- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist and Nextcloud support designed for GNU/Linux 🚀
+- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist & Nextcloud support designed for GNU/Linux 🚀
 - [pdfpc/pdfpc](https://github.com/pdfpc/pdfpc) - A presenter console with multi-monitor support for PDF files.
 
 ## Vim Script 
@@ -5312,7 +5315,6 @@
 - [nuxt/codesandbox-nuxt](https://github.com/nuxt/codesandbox-nuxt) - Starter template for CodeSandBox.io
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [metalsadman/quasar-laravel](https://github.com/metalsadman/quasar-laravel) - Cloned from https://github.com/impxd/laravel-quasar-pwa-template
-- [bagisto/laravel-pwa](https://github.com/bagisto/laravel-pwa) - Transform your website like Mobile Application while having full functionality of the website using Laravel PWA
 - [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX
 - [AykutSarac/chatify](https://github.com/AykutSarac/chatify) - 💬 Realtime Chat application made with Vue 3, Fastify and WebSocket.
 - [peterroe/Rss-Reader](https://github.com/peterroe/Rss-Reader) - Desktop Rss reader, based on Vue3 and tauri-app, free and open source

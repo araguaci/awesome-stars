@@ -728,6 +728,7 @@
 
 ## HTML 
 
+- [rse/vdon-call](https://github.com/rse/vdon-call) - Remote Caller Ingest for Live Video Productions with VDO.Ninja & OBS Studio
 - [araguaci/cronologia-operacoes-eua](https://github.com/araguaci/cronologia-operacoes-eua) - Cronologia das operações militares dos Estados Unidos https://tinyurl.com/operacoes-eua
 - [araguaci/floripa-surf-club-surf-school-360](https://github.com/araguaci/floripa-surf-club-surf-school-360) - 🏄‍♀️ Base Floripa Surf Club Surf School 360 🌊 Praia da Barra da Lagoa - Florianópolis - Santa Catarina - Brasil 🌎 Ao lado do Projeto Tamar
 - [waldenn/conzept](https://github.com/waldenn/conzept) - conzept - topic exploration system

@@ -967,7 +967,6 @@
 - [parlametria/leggoR](https://github.com/parlametria/leggoR) - Acesso, tradução e modelos usando dados do congresso nacional
 - [HubSpot/cms-theme-boilerplate](https://github.com/HubSpot/cms-theme-boilerplate) - A straight-forward starting point for building a great website on the HubSpot CMS
 - [djaiss/mapsicon](https://github.com/djaiss/mapsicon) - A free collection of maps for every country in the world, available in 11 sizes or in SVG.
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation
 - [zenorocha/voice-elements](https://github.com/zenorocha/voice-elements) - :speaker: Web Component wrapper to the Web Speech API, that allows you to do voice recognition and speech synthesis using Polymer
 - [mdn/interactive-examples](https://github.com/mdn/interactive-examples) - Home of the MDN live code editor interactive examples
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
@@ -2842,7 +2841,6 @@
 - [codecon-dev/awesome-communities-and-events-tech-brazil](https://github.com/codecon-dev/awesome-communities-and-events-tech-brazil) - Uma curadoria de comunidades e eventos tech incríveis para você participar.
 - [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
 - [styfle/awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) - 🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop
-- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [vanities/GPU-Passthrough-Arch-Linux-to-Windows10](https://github.com/vanities/GPU-Passthrough-Arch-Linux-to-Windows10) - GPU Passthrough and virt-manager walkthrough
 - [free-educa/free-livros](https://github.com/free-educa/free-livros) - Educação é um direito de todos
 - [kzu/VocabularioTeologiaBiblica](https://github.com/kzu/VocabularioTeologiaBiblica) - Repositorio del Vocabulario de Teologia Biblica
@@ -3431,6 +3429,7 @@
 - [spatie/calendar-links](https://github.com/spatie/calendar-links) - Generate add to calendar links for Google, iCal and other calendar systems
 - [jasonlewis/expressive-date](https://github.com/jasonlewis/expressive-date) - A fluent extension to PHPs DateTime class.
 - [mrprompt/ponto-api](https://github.com/mrprompt/ponto-api) - Um sistema simples para controle de horas
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation
 - [oidc-wp/openid-connect-generic](https://github.com/oidc-wp/openid-connect-generic) - WordPress plugin to provide an OpenID Connect Generic client
 - [daggerhart/Slim-Skeleton](https://github.com/daggerhart/Slim-Skeleton) - Slim Framework 4 Skeleton Application
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool

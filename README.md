@@ -2708,6 +2708,7 @@
 
 ## Lua 
 
+- [alpinelinux/docker-alpine](https://github.com/alpinelinux/docker-alpine) - Official Alpine Linux Docker image. Win at minimalism!
 - [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
@@ -4603,7 +4604,6 @@
 - [LekoArts/figma-theme-ui](https://github.com/LekoArts/figma-theme-ui) - Convert a Theme UI config to Figma Styles
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The commerce platform with customization in its DNA.
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
-- [EtherealEngine/etherealengine](https://github.com/EtherealEngine/etherealengine) - iR Engine - Bringing us together on the open social spatial web. 🤖 🚀 👓 🕹️ 🧑🏿‍🚀
 - [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app) - 💅 A fast and ready-to-go with a well-thought-out structure Electron app boilerplate with ReactJS, TypeScript, CSS / SASS modules, Electron Vite, Eslint, Prettier, GitHub Action releases and more.
 - [zowe/zowe-explorer-vscode](https://github.com/zowe/zowe-explorer-vscode) - Visual Studio Code Extension for Zowe, which lets users interact with z/OS Data Sets, Unix System Services, and Jobs on a remote mainframe instance. Powered by Zowe SDKs.
 - [ngx-rocket/generator-ngx-rocket](https://github.com/ngx-rocket/generator-ngx-rocket) - :rocket: Extensible Angular 14+ enterprise-grade project generator

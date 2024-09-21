@@ -193,6 +193,7 @@
 
 ## C# # 
 
+- [yanpitangui/dotnet-api-boilerplate](https://github.com/yanpitangui/dotnet-api-boilerplate) - A Dotnet 8.0 WebApi template project. MediatR, Swagger, Mapper, Serilog and more implemented.
 - [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking
 - [ikas-mc/ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) - Add Custom Context Menu For Windows11
 - [aspose-cells/Aspose.Cells-for-.NET](https://github.com/aspose-cells/Aspose.Cells-for-.NET) - Aspose.Cells for .NET examples, plugins and showcases
@@ -523,7 +524,7 @@
 - [Tarikul711/flutter-food-delivery-app-ui](https://github.com/Tarikul711/flutter-food-delivery-app-ui) - The food ordering & delivery application designed based on the real-life scenario. Anyone can use this code on their own purpose. If you are interested please make your contribution to the code.
 - [iampawan/VelocityX](https://github.com/iampawan/VelocityX) - A minimalist Flutter framework for rapidly building Flutter apps.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-- [naoxio/inner_breeze](https://github.com/naoxio/inner_breeze) - Guided breathing meditation app based on the Wim Hof breathing method.
+- [naoxio/inbreeze](https://github.com/naoxio/inbreeze) - Guided breathing meditation app based on the Wim Hof breathing method.
 - [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB, Fastboot, and other Android tools on Linux, macOS, Chrome OS, and Windows
 - [syncfusion/flutter-examples](https://github.com/syncfusion/flutter-examples) - This repository contains the Syncfusion Flutter UI widgets examples and the guide to use them.
 - [fluttertools/sidekick](https://github.com/fluttertools/sidekick) - A simple app to make Flutter development more delightful
@@ -711,7 +712,7 @@
 - [asticode/go-astilectron](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
 - [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 - [Velocidex/velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
-- [ory/keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and ot
+- [ory/keto](https://github.com/ory/keto) - The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven "Zanzibar" approach. Supports ACL, RBAC, and more. Written in Go, clo
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [apex/gh-polls](https://github.com/apex/gh-polls) - Polls for user feedback in GitHub issues
@@ -868,7 +869,7 @@
 - [peterpeterparker/web-social-share](https://github.com/peterpeterparker/web-social-share) - A Web Component to share url and text on social networks
 - [jaegertracing/documentation](https://github.com/jaegertracing/documentation) - Documentation/website for the Jaeger Distributed Tracing project.
 - [araguaci/recursos-gratuitos](https://github.com/araguaci/recursos-gratuitos) - 🌈 Uma coleção com links de recursos gratuitos para desenvolvimentos e estudos.
-- [araguaci/olavo-de-carvalho](https://github.com/araguaci/olavo-de-carvalho) - 🚧 working in progress 🚧
+- [araguaci/olavo-de-carvalho](https://github.com/araguaci/olavo-de-carvalho) - Livros, publicações e artigos de Olavo de Carvalho
 - [araguaci/araguaci.github.io](https://github.com/araguaci/araguaci.github.io) - Since 1994, creation and development of systems, portals, personal pages, websites, and specialized systems for internet and websites ...
 - [araguaci/catequese-para-adultos](https://github.com/araguaci/catequese-para-adultos) - A fé de dois mil anos da Igreja, explicada de forma concisa, simples e acessível a todos, é o que este curso de catequese deseja transmitir.
 - [araguaci/brasil-pela-liberdade](https://github.com/araguaci/brasil-pela-liberdade) - ✠ Brasil pela Liberdade ✠ Brasileiros unidos pedindo liberdade. Uma série de eventos realizados em todo o Brasil, pedindo liberdade para trabalhar e seguir com suas vidas.
@@ -1107,6 +1108,7 @@
 
 ## JavaScript 
 
+- [astrobin/astrobin](https://github.com/astrobin/astrobin) - Image hosting website for astrophotographers
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [MishanPoudel/Windows11-3.0](https://github.com/MishanPoudel/Windows11-3.0) - Experience the look and feel of Windows 11 directly in your browser with this web-based clone. Enjoy a similar user interface and functionality.
 - [LLNL/llnl.github.io](https://github.com/LLNL/llnl.github.io) - Public home for LLNL software catalog
@@ -1383,7 +1385,6 @@
 - [nextcloud/contacts](https://github.com/nextcloud/contacts) - 📇 Contacts app for Nextcloud
 - [zachgoll/express-jwt-authentication-starter](https://github.com/zachgoll/express-jwt-authentication-starter) - A simple JWT Authentication Implementation with Node, Express, Angular, and MongoDB
 - [Claradev32/attendance](https://github.com/Claradev32/attendance) - 
-- [expo/examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools
 - [levinunnink/html-form-to-google-sheet](https://github.com/levinunnink/html-form-to-google-sheet) - How to submit HTML forms to Google Sheets. (Updated for 2024 Script Editor)
 - [faahim/happy-birthday](https://github.com/faahim/happy-birthday) - Wish your friend/loved-ones happy birthday in a nerdy way.
 - [openmhz/trunk-server](https://github.com/openmhz/trunk-server) - Listen to Trunk Record and explore archived calls. This is the software behind OpenMHz
@@ -2764,6 +2765,7 @@
 
 ## Nunjucks 
 
+- [stefanjudis/tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 - [jamstack/jamstack.org](https://github.com/jamstack/jamstack.org) - The official Jamstack site
 - [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev) - The frontend, backend, and content source code for web.dev
 
@@ -4241,6 +4243,7 @@
 
 ## TypeScript 
 
+- [wdevon99/Next-js-starter](https://github.com/wdevon99/Next-js-starter) - Full-stack starter template 2024
 - [kareemmahlees/tablex](https://github.com/kareemmahlees/tablex) - Cross-Platform table viewer written in Rust
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [araguaci/lobe-chat](https://github.com/araguaci/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
@@ -4487,6 +4490,7 @@
 - [reduxjs/redux-toolkit](https://github.com/reduxjs/redux-toolkit) - The official, opinionated, batteries-included toolset for efficient Redux development
 - [astrodon/astrodon](https://github.com/astrodon/astrodon) - Make Desktop apps with Deno 🦕
 - [ruppysuppy/SmartsApp](https://github.com/ruppysuppy/SmartsApp) - 💬📱 An End to End Encrypted Cross Platform messenger app.
+- [expo/examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [unjs/unstorage](https://github.com/unjs/unstorage) - 💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core.
 - [MaximBuz/heazy-svg-creator](https://github.com/MaximBuz/heazy-svg-creator) - A design studio for vector illustrations. Built with React, Node and GraphQL.

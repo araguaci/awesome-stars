@@ -599,6 +599,7 @@
 
 ## Go 
 
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [vertex-center/vertex](https://github.com/vertex-center/vertex) - Create your self-hosted lab in one click.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
@@ -1041,7 +1042,7 @@
 - [sudheerj/datastructures-algorithms](https://github.com/sudheerj/datastructures-algorithms) - List of Programs related to data structures and algorithms
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [freeplane/freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestration and automation platform to execute millions of scheduled and event-driven workflows declaratively in code and from the UI
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
 - [kermitt2/grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
 - [Netflix/zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 - [swagger-api/swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
@@ -1111,6 +1112,8 @@
 
 ## JavaScript 
 
+- [bigbeartechworld/big-bear-video-assets](https://github.com/bigbeartechworld/big-bear-video-assets) - 
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.
 - [adafruit/Adafruit-Pi-Finder](https://github.com/adafruit/Adafruit-Pi-Finder) - Find and set up your brand new Raspberry Pi
 - [miroslavpejic85/mirotalkwebrtc](https://github.com/miroslavpejic85/mirotalkwebrtc) - 🛠 MiroTalk's WebRTC rooms scheduler.
@@ -1145,7 +1148,6 @@
 - [sharafdin/yonode](https://github.com/sharafdin/yonode) - The Node.js Toolkit for Rapid Development.
 - [ashutosh1919/masterPortfolio](https://github.com/ashutosh1919/masterPortfolio) - 🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.
 - [metriport/metriport](https://github.com/metriport/metriport) - Metriport is an open-source universal API for healthcare data.
-- [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - Generate the API Client for Fetch or Axios from an OpenAPI Specification
 - [Exifly/ApiVault](https://github.com/Exifly/ApiVault) - Your gateway to a world of public APIs.
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
 - [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.
@@ -2029,7 +2031,6 @@
 - [OpenTelecom/WKWebViewRTC](https://github.com/OpenTelecom/WKWebViewRTC) - 
 - [thinkjs/thinkjs](https://github.com/thinkjs/thinkjs) - Use full ES2015+ features to develop Node.js applications, Support TypeScript.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [bennylin77/react-annotation-tool](https://github.com/bennylin77/react-annotation-tool) - A React based image & video annotation tool
 - [serverless-heaven/serverless-webpack](https://github.com/serverless-heaven/serverless-webpack) - Serverless plugin to bundle your lambdas with Webpack
 - [melvin0008/ionic-socketio-chat-client](https://github.com/melvin0008/ionic-socketio-chat-client) - Ionic Socketio Chat Application
 - [tedeh/jayson](https://github.com/tedeh/jayson) - Jayson is a simple but featureful JSON-RPC 2.0/1.0 client and server for node.js
@@ -2229,7 +2230,6 @@
 - [patrickporto/workshop-performance-react](https://github.com/patrickporto/workshop-performance-react) - 
 - [wpbrasil/certificates-for-wordcamp](https://github.com/wpbrasil/certificates-for-wordcamp) - Certificates generator for WordCamps
 - [mermaidjs/mermaid-live-editor](https://github.com/mermaidjs/mermaid-live-editor) - Location has moved to https://github.com/mermaid-js/mermaid-live-editor
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [DemocracyEarth/wallet](https://github.com/DemocracyEarth/wallet) - Censorship resistant democracies.
 - [Sinetheta/burn](https://github.com/Sinetheta/burn) - :fire: jQuery plugin to apply flame effect to text
 - [jagenjo/webglstudio.js](https://github.com/jagenjo/webglstudio.js) - A full open source 3D graphics editor in the browser, with scene editor, coding pad, graph editor, virtual file system, and many features more.
@@ -2650,7 +2650,7 @@
 
 ## Jupyter Notebook 
 
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
 - [tensorflow/docs-l10n](https://github.com/tensorflow/docs-l10n) - Translations of TensorFlow documentation
 - [camenduru/text-to-video-synthesis-colab](https://github.com/camenduru/text-to-video-synthesis-colab) - Text To Video Synthesis Colab
@@ -2794,6 +2794,7 @@
 
 ## Others 
 
+- [technorabilia/portainer-templates](https://github.com/technorabilia/portainer-templates) - Various Portainer App Templates
 - [rodrigorozelli/DevolveMeuValorConsulta](https://github.com/rodrigorozelli/DevolveMeuValorConsulta) - Software para gestão de consultas médicas familiares, com foco em organização, controle de reembolsos e geração de relatórios para o Imposto de Renda. Desenvolvido com Python e Django (backend) e Reac
 - [mjebrahimi/Awesome-Microservices-DotNet](https://github.com/mjebrahimi/Awesome-Microservices-DotNet) - 💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET
 - [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig) - Guide for getting a gig as a tech student.
@@ -3106,6 +3107,7 @@
 
 ## PHP 
 
+- [zabbix/zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [araguaci/mapasculturais](https://github.com/araguaci/mapasculturais) - Mapas Culturais é uma plataforma colaborativa que reúne informações sobre agentes, espaços, eventos e projetos culturais, fornecendo ao poder público uma radiografia da área de cultura e ao cidadão um
@@ -3614,6 +3616,8 @@
 
 ## Python 
 
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [scrapehero-code/amazon-review-api](https://github.com/scrapehero-code/amazon-review-api) - A very basic API to scrape product reviews from Amazon and get data in real time as JSON with all fields, that amazon product adverstising api does not provide.
 - [pypa/packaging.python.org](https://github.com/pypa/packaging.python.org) - Python Packaging User Guide
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
@@ -3632,7 +3636,7 @@
 - [neulab/prompt2model](https://github.com/neulab/prompt2model) - prompt2model - Generate Deployable Models from Natural Language Instructions
 - [theyosh/TerrariumPI](https://github.com/theyosh/TerrariumPI) - Home automated terrarium/aquarium or other enclosed environment with a Raspberry Pi
 - [VoltaML/voltaML-fast-stable-diffusion](https://github.com/VoltaML/voltaML-fast-stable-diffusion) - Beautiful and Easy to use Stable Diffusion WebUI
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - Pythonic AI generation of images and videos
@@ -4083,6 +4087,10 @@
 
 ## Shell 
 
+- [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
+- [bigbeartechworld/big-bear-scripts](https://github.com/bigbeartechworld/big-bear-scripts) - These are scripts that are created for the BigBearYouTube Channel
+- [pi-hosted/pi-hosted](https://github.com/pi-hosted/pi-hosted) - Pi-Hosted is a collection of tutorials for hosting a variety of server applications using Docker and Portainer on the Raspberry Pi.
+- [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [shvchk/fallout-grub-theme](https://github.com/shvchk/fallout-grub-theme) - Fallout GRUB theme
 - [Lissy93/dotfiles](https://github.com/Lissy93/dotfiles) - 🧰 ~ • My Đotfiles
 - [RamiKrispin/vscode-python](https://github.com/RamiKrispin/vscode-python) - A Tutorial for Setting Python Development Environment with VScode and Docker
@@ -4114,7 +4122,7 @@
 - [sakai135/wsl-vpnkit](https://github.com/sakai135/wsl-vpnkit) - Provides network connectivity to WSL 2 when blocked by VPN
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
-- [centminmod/centminmod](https://github.com/centminmod/centminmod) - CentOS Shell menu based Nginx LEMP web stack auto installer (GPLv3 licensed)
+- [centminmod/centminmod](https://github.com/centminmod/centminmod) - Shell menu based Nginx LEMP web stack auto installer (GPLv3 licensed) for AlmaLinux and Rocky Linux
 - [lukevers/mp4towebm](https://github.com/lukevers/mp4towebm) - Convert all mp4 files in current directory from mp4 to webm
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
@@ -4250,6 +4258,7 @@
 
 ## TypeScript 
 
+- [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [wdevon99/Next-js-starter](https://github.com/wdevon99/Next-js-starter) - Full-stack starter template 2024
 - [kareemmahlees/tablex](https://github.com/kareemmahlees/tablex) - Cross-Platform table viewer written in Rust
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
@@ -4293,6 +4302,7 @@
 - [bra1nDump/show-me-chatgpt-plugin](https://github.com/bra1nDump/show-me-chatgpt-plugin) - Create and edit diagrams in ChatGPT
 - [iamsurajchahar/Json_Tree](https://github.com/iamsurajchahar/Json_Tree) - 🌳 Json Tree: Visualize JSON data in graph 📈 and tree 🌲 forms. Simplify, explore, and customize effortlessly. Lightning-fast ⚡️ rendering, browser-friendly 🌐, and developer-ready 🛠️. Empower your data 
 - [BUMBAIYA/jsontree](https://github.com/BUMBAIYA/jsontree) - Visualize JSON data format as a tree or graph
+- [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - Generate the API Client for Fetch or Axios from an OpenAPI Specification
 - [SOS-RS/frontend](https://github.com/SOS-RS/frontend) - Auxílio RS: Projetos de Resposta a Emergências por Chuvas e Alagamentos
 - [SOS-RS/backend](https://github.com/SOS-RS/backend) - Auxílio RS: Projetos de Resposta a Emergências por Chuvas e Alagamentos
 - [hudy9x/namviek](https://github.com/hudy9x/namviek) - The open-source project manager for tiny teams
@@ -4460,7 +4470,7 @@
 - [sanketbajoria/ssh2-promise](https://github.com/sanketbajoria/ssh2-promise) - ssh with promise/async await and typescript support
 - [twilio/twilio-video-app-react](https://github.com/twilio/twilio-video-app-react) - A collaboration application built with the twilio-video.js SDK and React.js
 - [mvllow/next-pwa-template](https://github.com/mvllow/next-pwa-template) - Next.js progressive web app template
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [ipenywis/react-nestjs-full-web-app](https://github.com/ipenywis/react-nestjs-full-web-app) - Full React with Nestjs/Nodejs Web Application deployed on Hostinger with docker and docker-compose
 - [LekoArts/gatsby-starter-portfolio-cara](https://github.com/LekoArts/gatsby-starter-portfolio-cara) - Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Especially designers and/or photographers will love this theme! Built with MDX and Theme UI.
 - [LekoArts/gatsby-status-dashboard](https://github.com/LekoArts/gatsby-status-dashboard) - Show the live statuses of your Netlify and CircleCI builds on your website! Easily integrate the customizable components into your site and adapt them to your theme (utilizing Theme UI).
@@ -4644,7 +4654,7 @@
 - [fkhadra/react-morphing-modal](https://github.com/fkhadra/react-morphing-modal) - React fullscreen modal with swag 😎
 - [fkhadra/react-contexify](https://github.com/fkhadra/react-contexify) - 👌 Add a context menu to your react app with ease
 - [hejny/Ukraine](https://github.com/hejny/Ukraine) - Help Ukraine - add ribbon with Ukraine flag into the website you manage, show the anti-war message to Russian users, or block them from your service.
-- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [pablohen/covid](https://github.com/pablohen/covid) - Veja as estatísticas da Covid-19 de cada cidade do Brasil https://covid.pablohen.vercel.app.
@@ -5013,6 +5023,7 @@
 - [TerriaJS/terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data platforms.
 - [sebholstein/angular-google-maps](https://github.com/sebholstein/angular-google-maps) - Angular 2+ Google Maps Components
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript.

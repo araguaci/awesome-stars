@@ -71,6 +71,7 @@
 - [Stylus](#stylus)
 - [Svelte](#svelte)
 - [Swift](#swift)
+- [TSQL](#tsql)
 - [TeX](#tex)
 - [Twig](#twig)
 - [TypeScript](#typescript)
@@ -603,6 +604,7 @@
 
 ## Go 
 
+- [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -614,7 +616,7 @@
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastr
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [Gitart/GO-SIMPLE](https://github.com/Gitart/GO-SIMPLE) - These are simple examples for useful daily use in your projects.
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
@@ -1122,6 +1124,8 @@
 
 ## JavaScript 
 
+- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
+- [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC & RDP
 - [agendav/agendav](https://github.com/agendav/agendav) - A CalDAV web client similar to Google Calendar
 - [pucherot/Pi.Alert](https://github.com/pucherot/Pi.Alert) - WIFI / LAN intruder detector. Check the devices connected and alert you with unknown devices. It also warns of the disconnection of "always connected" devices
 - [bigbeartechworld/big-bear-video-assets](https://github.com/bigbeartechworld/big-bear-video-assets) - 
@@ -3240,7 +3244,7 @@
 - [ivan-sincek/penetration-testing-cheat-sheet](https://github.com/ivan-sincek/penetration-testing-cheat-sheet) - Work in progress...
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
-- [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 10.0 blog application with Hotwire, Horizon, Telescope, Sanctum, Breeze and Pusher
+- [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 11.0 blog application with Hotwire, Horizon, Telescope, Sanctum, Breeze and Pusher
 - [arifszn/ezfolio](https://github.com/arifszn/ezfolio) - Open Source Portfolio/Resume CMS built using Laravel, React and Ant Design.
 - [roots/acorn](https://github.com/roots/acorn) - Laravel components for WordPress plugins and themes
 - [reactphp/http](https://github.com/reactphp/http) - Event-driven, streaming HTTP client and server implementation for ReactPHP.
@@ -3348,7 +3352,6 @@
 - [cakephp/cakephp](https://github.com/cakephp/cakephp) - CakePHP: The Rapid Development Framework for PHP - Official Repository
 - [cakephp/phinx](https://github.com/cakephp/phinx) - PHP Database Migrations for Everyone
 - [lcobucci/jwt](https://github.com/lcobucci/jwt) - A simple library to work with JSON Web Token and JSON Web Signature
-- [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native lan
 - [yiisoft/yii2](https://github.com/yiisoft/yii2) - Yii 2: The Fast, Secure and Professional PHP Framework
 - [jekuer/php-microsite-boilerplate](https://github.com/jekuer/php-microsite-boilerplate) - An extremely simple and lightweight PHP framework/boilerplate to spin-up microsites at high speed. Optimized for Performance, Security, SEO, TailwindCSS, and Directus CMS.
 - [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.
@@ -4109,6 +4112,7 @@
 
 ## Shell 
 
+- [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images
 - [mstorsjo/msvc-wine](https://github.com/mstorsjo/msvc-wine) - Scripts for setting up and running MSVC in Wine on Linux
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [bigbeartechworld/big-bear-scripts](https://github.com/bigbeartechworld/big-bear-scripts) - These are scripts that are created for the BigBearYouTube Channel
@@ -4270,6 +4274,10 @@
 - [64characters/Telephone](https://github.com/64characters/Telephone) - SIP softphone for Mac
 - [okofish/EarthView](https://github.com/okofish/EarthView) - Google Earth View screensaver for Apple TV
 
+## TSQL 
+
+- [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native lan
+
 ## TeX 
 
 - [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
@@ -4280,6 +4288,7 @@
 
 ## TypeScript 
 
+- [bigbeartechworld/big-bear-casaos](https://github.com/bigbeartechworld/big-bear-casaos) - This is a CasaOS third-party app store with some neat apps.
 - [CorentinTh/enclosed](https://github.com/CorentinTh/enclosed) - Minimalistic web app designed for sending private and secure notes.
 - [awesomehub/app](https://github.com/awesomehub/app) - Angular application for AwesomeHub
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
@@ -4399,7 +4408,7 @@
 - [marcellejs/marcelle](https://github.com/marcellejs/marcelle) - An Interactive Machine Learning Toolkit
 - [inlivedev/inlive-room](https://github.com/inlivedev/inlive-room) - Web conference call using WebRTC & inLive Hub API
 - [itsdrvgo/post-it](https://github.com/itsdrvgo/post-it) - A rip-off of popular social media apps.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
 - [github/local-action](https://github.com/github/local-action) - A simple utility for running and debugging a GitHub Action locally
 - [Vital-Utilities/Vital-Utilities](https://github.com/Vital-Utilities/Vital-Utilities) - Vital Utilities. Modern Windows Task Manager alternative with bells and whistles
 - [nbd-wtf/nostr-tools](https://github.com/nbd-wtf/nostr-tools) - Tools for developing Nostr clients.

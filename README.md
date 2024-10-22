@@ -289,6 +289,7 @@
 
 ## C++ 
 
+- [shundhammer/qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
 - [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
 - [WinMerge/winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
 - [roc-streaming/roc-toolkit](https://github.com/roc-streaming/roc-toolkit) - Real-time audio streaming over the network.
@@ -1232,7 +1233,7 @@
 - [akabab/superhero-api](https://github.com/akabab/superhero-api) - Multiple universes superheroes open-source REST API
 - [dsuryd/dotNetify](https://github.com/dsuryd/dotNetify) - Simple, lightweight, yet powerful way to build real-time web apps.
 - [GTBitsOfGood/VolunTrack](https://github.com/GTBitsOfGood/VolunTrack) - Volunteer and Event Management Platform
-- [open-condo-software/condo](https://github.com/open-condo-software/condo) - Open source condominium management platform
+- [open-condo-software/condo](https://github.com/open-condo-software/condo) - Condo is an Open Source property management SaaS that allows users to manage tickets, resident contacts, properties, payment tracking, create invoices, and oversee a service marketplace, all while off
 - [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys) - A privacy-first, open-source home assistant
 - [jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin) - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
 - [lukePeavey/quotable](https://github.com/lukePeavey/quotable) - Random Quotes API
@@ -2607,7 +2608,7 @@
 - [stefangabos/zebrajs](https://github.com/stefangabos/zebrajs) - A modular, jQuery compatible, ultra light-weight JavaScript micro-library for modern browsers
 - [stefangabos/Zebra_Datepicker](https://github.com/stefangabos/Zebra_Datepicker) - A super-lightweight, highly configurable, cross-browser date time picker jQuery plugin
 - [stefangabos/Zebra_Tooltips](https://github.com/stefangabos/Zebra_Tooltips) - A lightweight, accessible, and highly configurable jQuery plugin for creating beautiful tooltips
-- [stefangabos/Zebra_Dialog](https://github.com/stefangabos/Zebra_Dialog) - A small, compact, and highly configurable jQuery plugin for creating beautiful modal dialog boxes
+- [stefangabos/Zebra_Dialog](https://github.com/stefangabos/Zebra_Dialog) - A small, compact, mobile-friendly and highly configurable jQuery plugin for creating gorgeous dialog boxes
 - [versatica/JsSIP](https://github.com/versatica/JsSIP) - JsSIP, the JavaScript SIP library
 - [addpipe/simple-web-audio-recorder-demo](https://github.com/addpipe/simple-web-audio-recorder-demo) - A simple HTML/JS demo that uses WebAudioRecorder.js to record audio on a web page
 - [akveo/blur-admin](https://github.com/akveo/blur-admin) - AngularJS Bootstrap Admin Panel Framework
@@ -3433,7 +3434,7 @@
 - [laravel/horizon](https://github.com/laravel/horizon) - Dashboard and code-driven configuration for Laravel queues.
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
 - [VinceG/code-challenge](https://github.com/VinceG/code-challenge) - 
-- [tatialveso/gaia-sustentavel](https://github.com/tatialveso/gaia-sustentavel) - projeto integrador do curso de desenvolvimento web full stack na digital house.
+- [codedbytati/gaia-sustentavel](https://github.com/codedbytati/gaia-sustentavel) - projeto integrador do curso de desenvolvimento web full stack na digital house.
 - [claviska/SimpleImage](https://github.com/claviska/SimpleImage) - A PHP class that makes working with images and GD as simple as possible.
 - [HubSpot/integration-examples-php](https://github.com/HubSpot/integration-examples-php) - 
 - [HubSpot/hubspot-api-php](https://github.com/HubSpot/hubspot-api-php) - HubSpot API PHP Client Libraries for V3 version of the API
@@ -3739,7 +3740,7 @@
 - [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs Text to Speech.
 - [araguaci/o-dominio-de-si-mesmo](https://github.com/araguaci/o-dominio-de-si-mesmo) - Reflexões para vida. Compilado de temas e textos para reflexão pessoal https://odominiodesimesmo.netlify.app/
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [bonfy/github-trending](https://github.com/bonfy/github-trending) - Tracking the most popular Github repos, update daily(Python version)
 - [araguaci/all-notes-skills](https://github.com/araguaci/all-notes-skills) - 
 - [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
@@ -4430,7 +4431,7 @@
 - [mdSilo/mdSilo-app](https://github.com/mdSilo/mdSilo-app) - Lightweight Knowledge Base and Feed Reader.
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
 - [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as non-electron desktop application. all in one place, cross-platform, 10MB app!
-- [timothymiller/t4-app](https://github.com/timothymiller/t4-app) - A powerful cross-platform UI toolkit for building actually native iOS, Android, macOS, Windows, Linux, and Progressive Web Apps with React (Native).
+- [timothymiller/t4-app](https://github.com/timothymiller/t4-app) - Full stack meta-framework for building iOS, Android, and Progressive Web Apps with Tamagui and deploying to Cloudflare.
 - [Kanaries/graphic-walker](https://github.com/Kanaries/graphic-walker) - An open source alternative to Tableau. Embeddable visual analytic
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
 - [grid-js/gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
@@ -4661,6 +4662,7 @@
 - [LekoArts/figma-theme-ui](https://github.com/LekoArts/figma-theme-ui) - Convert a Theme UI config to Figma Styles
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The commerce platform with customization in its DNA.
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
+- [EtherealEngine/etherealengine](https://github.com/EtherealEngine/etherealengine) - iR Engine - Bringing us together on the open social spatial web. 🤖 🚀 👓 🕹️ 🧑🏿‍🚀
 - [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app) - 💅 A fast and ready-to-go with a well-thought-out structure Electron app boilerplate with ReactJS, TypeScript, CSS / SASS modules, Electron Vite, Eslint, Prettier, GitHub Action releases and more.
 - [zowe/zowe-explorer-vscode](https://github.com/zowe/zowe-explorer-vscode) - Visual Studio Code Extension for Zowe, which lets users interact with z/OS Data Sets, Unix System Services, and Jobs on a remote mainframe instance. Powered by Zowe SDKs.
 - [ngx-rocket/generator-ngx-rocket](https://github.com/ngx-rocket/generator-ngx-rocket) - :rocket: Extensible Angular 14+ enterprise-grade project generator

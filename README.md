@@ -87,6 +87,8 @@
 
 ## Astro 
 
+- [araguaci/sun-tzu](https://github.com/araguaci/sun-tzu) - "Se você não conhece a si mesmo nem o inimigo, sucumbirá a todas as batalhas." ~~ Sun Tzu
+- [abdllahdev/nimbus-narratives](https://github.com/abdllahdev/nimbus-narratives) - A minimal, accessible, and SEO-friendly personal blog theme built using Astro, Preact, and TailwindCSS.
 - [ayoayco/Cozy](https://github.com/ayoayco/Cozy) - Your modern-day reading companion
 - [themesberg/flowbite-astro-admin-dashboard](https://github.com/themesberg/flowbite-astro-admin-dashboard) - Open-source admin dashboard template built with Astro, Flowbite, and Tailwind CSS
 - [themefisher/pinwheel-astro](https://github.com/themefisher/pinwheel-astro) - Pinwheel is a multipurpose SaaS theme built with Astro and TailwindCSS.
@@ -759,6 +761,7 @@
 
 ## HTML 
 
+- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [araguaci/estudodamente](https://github.com/araguaci/estudodamente) - Bem-vindo ao Mundo da Mente - Explorando o Inexplorado
 - [geerlingguy/raspberry-pi-pcie-devices](https://github.com/geerlingguy/raspberry-pi-pcie-devices) - Raspberry Pi PCI Express device compatibility database
 - [araguaci/-rede-neural](https://github.com/araguaci/-rede-neural) - Jogando na Lotofácil utilizando rede neural.
@@ -1141,7 +1144,9 @@
 
 ## JavaScript 
 
-- [araguaci/proverbios](https://github.com/araguaci/proverbios) - 
+- [pujux/badge-it](https://github.com/pujux/badge-it) - An API serving useful badges for your GitHub Profile README 🚀🎉 Formerly known as git-badges.
+- [oTranscribe/oTranscribe](https://github.com/oTranscribe/oTranscribe) - A free & open tool for transcribing audio interviews
+- [araguaci/proverbios](https://github.com/araguaci/proverbios) - Provérbio do Dia
 - [ml5js/ml5-next-gen](https://github.com/ml5js/ml5-next-gen) - Repo for next generation of ml5.js: friendly machine learning for the web! 🤖
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC & RDP
@@ -1168,7 +1173,6 @@
 - [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
 - [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
-- [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [araguaci/healing-sound-of-the-earth](https://github.com/araguaci/healing-sound-of-the-earth) - O Som Curativo da Terra (The healing sound of the earth)
 - [arthuro555/GDevelop](https://github.com/arthuro555/GDevelop) - :video_game: GDevelop is an open-source, cross-platform game engine designed to be used by everyone.
@@ -1784,7 +1788,7 @@
 - [mwakerman/kanbanist](https://github.com/mwakerman/kanbanist) - The Universal Kanban Board for Todoist
 - [edent/TweeView](https://github.com/edent/TweeView) - A Tree View For Tweets
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
-- [crater-invoice/crater-mobile](https://github.com/crater-invoice/crater-mobile) - Crater Invoice Mobile to manage your invoices on the go.
+- [crater-invoice-inc/crater-mobile](https://github.com/crater-invoice-inc/crater-mobile) - Crater Invoice Mobile to manage your invoices on the go.
 - [frappe/datatable](https://github.com/frappe/datatable) - The Missing Javascript Datatable for the Web
 - [divriots/simba](https://github.com/divriots/simba) - Lion-based Design System
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
@@ -3351,7 +3355,7 @@
 - [Gregwar/Captcha](https://github.com/Gregwar/Captcha) - PHP Captcha library
 - [getsentry/sentry-php](https://github.com/getsentry/sentry-php) - The official PHP SDK for Sentry (sentry.io)
 - [jublo/codebird-php](https://github.com/jublo/codebird-php) - Easy access to the Twitter REST API, Direct Messages API, Account Activity API, TON (Object Nest) API and Twitter Ads API — all from one PHP library.
-- [crater-invoice/crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
+- [crater-invoice-inc/crater](https://github.com/crater-invoice-inc/crater) - Open Source Invoicing Solution for Individuals & Businesses
 - [spatie/Mailcoach](https://github.com/spatie/Mailcoach) - A self-hosted email list manager - in a modern jacket.
 - [reziamini/laravel-easypanel](https://github.com/reziamini/laravel-easypanel) - A beautiful and flexible admin panel creator based on Livewire for Laravel
 - [jeremykenedy/laravel-dashboard](https://github.com/jeremykenedy/laravel-dashboard) - This is an example of Spatie Laravel Dashboard using Livewire and package components. This example has all settings extended to the `dashboard.php` config file and the `.env` file. This example uses m
@@ -3651,6 +3655,9 @@
 
 ## Python 
 
+- [wit-ai/pywit](https://github.com/wit-ai/pywit) - Python library for Wit.ai
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+- [marouane53/transcribe](https://github.com/marouane53/transcribe) - 
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
 - [zabbix/community-templates](https://github.com/zabbix/community-templates) - Zabbix Community Templates repository
@@ -4140,6 +4147,7 @@
 - [bigbeartechworld/big-bear-scripts](https://github.com/bigbeartechworld/big-bear-scripts) - These are scripts that are created for the BigBearYouTube Channel
 - [pi-hosted/pi-hosted](https://github.com/pi-hosted/pi-hosted) - Pi-Hosted is a collection of tutorials for hosting a variety of server applications using Docker and Portainer on the Raspberry Pi.
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
+- [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [shvchk/fallout-grub-theme](https://github.com/shvchk/fallout-grub-theme) - Fallout GRUB theme
 - [Lissy93/dotfiles](https://github.com/Lissy93/dotfiles) - 🧰 ~ • My Đotfiles
 - [RamiKrispin/vscode-python](https://github.com/RamiKrispin/vscode-python) - A Tutorial for Setting Python Development Environment with VScode and Docker
@@ -4312,6 +4320,7 @@
 
 ## TypeScript 
 
+- [DouglasNeuroInformatics/OpenDataCapture](https://github.com/DouglasNeuroInformatics/OpenDataCapture) - An electronic data capture platform for administering remote and in-person clinical instruments
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
@@ -4485,7 +4494,7 @@
 - [priyankarpal/projectshut](https://github.com/priyankarpal/projectshut) - Projectshut is an open source web app that enables users to freely publish their projects and create user profiles within the platform ✨🚀
 - [bigcapitalhq/bigcapital](https://github.com/bigcapitalhq/bigcapital) - 💵 Bigcapital is financial accounting with intelligent reporting for faster decision-making, an open-source alternative to Quickbooks, Xero, etc.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
-- [chakra-ui/ark](https://github.com/chakra-ui/ark) - Ark UI is a headless UI library with over 45+ components designed to build scalable Design Systems that works for a wide range of JS frameworks.
+- [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build your design system with React, Svelte, Vue, and Solid. Powered by State Machines
 - [Leniolabs/ai-data-dashboard](https://github.com/Leniolabs/ai-data-dashboard) - 
 - [Leniolabs/promptree](https://github.com/Leniolabs/promptree) - ChatGPT spin-off combining git concepts!
 - [zu1k/bs-core](https://github.com/zu1k/bs-core) - Easy and blazing-fast book searcher, create and search your private library.
@@ -5013,6 +5022,7 @@
 - [davimateus1/ProjetoNLW6](https://github.com/davimateus1/ProjetoNLW6) - Projeto desenvolvido no Next Level Week Together (Imersão organizada pela Rocketseat).
 - [Maxzilla60/AC-Lister](https://github.com/Maxzilla60/AC-Lister) - Animal Crossing ★ Villager Lister
 - [diego3g/responsive-native](https://github.com/diego3g/responsive-native) - A responsive utility toolkit for React Native 📱⚛
+- [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
 - [swimlane/ngx-graph](https://github.com/swimlane/ngx-graph) - Graph visualization library for angular
 - [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable) - ✨  A feature-rich yet lightweight data-table crafted for Angular

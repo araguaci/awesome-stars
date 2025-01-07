@@ -110,7 +110,7 @@
 - [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) - list of free stuff for developer
 - [paabloLC/astro-neumorphism](https://github.com/paabloLC/astro-neumorphism) - A simple and responsive template focused on the entire UI design style with neumorphism styles. Built with AstroJS, TypeScript, Preact, and styled with Tailwind CSS.
 - [Ultramarine-Linux/website](https://github.com/Ultramarine-Linux/website) - Website for the Ultramarine Linux Project made with Astro and TailwindCSS
-- [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2023: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
+- [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2024: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
 - [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.
 - [livebook-dev/livebook.dev](https://github.com/livebook-dev/livebook.dev) - Landing page for Livebook
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
@@ -414,7 +414,7 @@
 - [emmatyping/WSL-Programs](https://github.com/emmatyping/WSL-Programs) - A community powered list of programs that work (and those that don't) on the Windows subsystem for Linux
 - [overwolf/demo-app](https://github.com/overwolf/demo-app) - 
 - [mafairnet/aloha](https://github.com/mafairnet/aloha) - aloha
-- [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
+- [youneslaaroussi/ui-buttons](https://github.com/youneslaaroussi/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [lonekorean/gist-syntax-themes](https://github.com/lonekorean/gist-syntax-themes) - Collection of syntax theme stylesheets for GitHub Gists.
 - [petargyurov/virtual-bookshelf](https://github.com/petargyurov/virtual-bookshelf) - A simple bookshelf made in CSS, HTML and vanilla JS.
 - [tandpfun/nft-avatar](https://github.com/tandpfun/nft-avatar) - Create fake Twitter NFT avatars by giving your profile picture a hexagonal shape.
@@ -834,7 +834,7 @@
 - [decal/werdlists](https://github.com/decal/werdlists) - :keyboard: Wordlists, Dictionaries and Other Data Sets for Writing Software Security Test Cases
 - [iuricode/portfolio](https://github.com/iuricode/portfolio) - Portfolio pessoal
 - [matcornic/hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) - Porting Grav Learn theme to Hugo
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [mattmakai/fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
@@ -2831,7 +2831,7 @@
 - [RossAnderson/EarthView](https://github.com/RossAnderson/EarthView) - 3D Visualization of Earth using Map Tiles for iOS
 - [wymsee/cordova-HTTP](https://github.com/wymsee/cordova-HTTP) - Cordova / Phonegap plugin for communicating with HTTP servers.  Allows for SSL pinning!
 - [cooperka/react-native-snackbar](https://github.com/cooperka/react-native-snackbar) - :candy: Material Design "Snackbar" component for Android and iOS.
-- [GRMrGecko/VoiceMac](https://github.com/GRMrGecko/VoiceMac) - Google Voice and SIP Client
+- [grmrgecko/VoiceMac](https://github.com/grmrgecko/VoiceMac) - Google Voice and SIP Client
 
 ## OpenSCAD 
 
@@ -3761,7 +3761,7 @@
 - [nvuillam/github-dependents-info](https://github.com/nvuillam/github-dependents-info) - Collect information about dependencies between a github repo and other repositories. Results available in JSON, markdown and badge
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
-- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions) - Extensions for Python Markdown
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
@@ -4152,6 +4152,7 @@
 
 ## Shell 
 
+- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) - Guide by Example
 - [AlmaLinux/raspberry-pi](https://github.com/AlmaLinux/raspberry-pi) - AlmaLinux Raspberry Pi
 - [GaiaNet-AI/gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install and run your own AI agent service
@@ -4331,6 +4332,7 @@
 
 ## TypeScript 
 
+- [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
 - [groq/groq-appgen](https://github.com/groq/groq-appgen) - Project showcasing Llama 3.3 70B HTML codegen abilities
 - [hywax/mafl](https://github.com/hywax/mafl) - Minimalistic flexible homepage
 - [DouglasNeuroInformatics/OpenDataCapture](https://github.com/DouglasNeuroInformatics/OpenDataCapture) - An electronic data capture platform for administering remote and in-person clinical instruments
@@ -4372,7 +4374,7 @@
 - [Yummygum/flagpack-core](https://github.com/Yummygum/flagpack-core) - Flagpack contains 250+ flag icons to easily use within your code project.
 - [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
-- [penx-labs/penx](https://github.com/penx-labs/penx) - Next generation blogging tools
+- [penx-labs/penx](https://github.com/penx-labs/penx) - Next generation dynamic blogging tools, 100% run on Cloudflare.
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 - [araguaci/code-like-a-journalist](https://github.com/araguaci/code-like-a-journalist) - A free and open-source online course for anyone interested in data analysis and data visualization with JavaScript/TypeScript.
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command 

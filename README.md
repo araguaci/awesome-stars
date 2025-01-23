@@ -1203,7 +1203,7 @@
 - [theosanderson/taxonium](https://github.com/theosanderson/taxonium) - A tool for exploring large trees in the browser
 - [theosanderson/hospitalmedicines](https://github.com/theosanderson/hospitalmedicines) - 
 - [uwdata/mosaic](https://github.com/uwdata/mosaic) - An extensible framework for linking databases and interactive views.
-- [charming-art/charming](https://github.com/charming-art/charming) - The functional JavaScript library for generative art with WebGPU.
+- [charming-art/charming](https://github.com/charming-art/charming) - The JavaScript library for reactive SVG manipulation.
 - [pearmini/genji](https://github.com/pearmini/genji) - The Markdown extension for interactive documents inspired by Observable Notebook, available in VitePress and Docusaurus.
 - [araguaci/bikedeboa](https://github.com/araguaci/bikedeboa) - A (Progressive) Web App to find, map and review bike parkings in the cities of Brazil.
 - [bikedeboa/bikedeboa](https://github.com/bikedeboa/bikedeboa) - A (Progressive) Web App to find, map and review bike parkings in the cities of Brazil.
@@ -1871,7 +1871,7 @@
 - [callmecavs/jump.js](https://github.com/callmecavs/jump.js) - A modern smooth scrolling library.
 - [callmecavs/bricks.js](https://github.com/callmecavs/bricks.js) - A blazing fast masonry layout generator for fixed width elements.
 - [glen-cheney/Shuffle](https://github.com/glen-cheney/Shuffle) - Categorize, sort, and filter a responsive grid of items
-- [RoderickQiu/wnr](https://github.com/RoderickQiu/wnr) - ⏱️ Work/Rest Timer. Stricter. Prettier. More features. Win/Mac/Linux. (NEW UPDATES PAUSED.)
+- [RoderickQiu/wnr](https://github.com/RoderickQiu/wnr) - ⏱️ Work/Rest Timer. Stricter. Prettier. More features. Win/Mac/Linux.
 - [testing-library/testing-library-docs](https://github.com/testing-library/testing-library-docs) - docs site for @testing-library/*
 - [phuocng/get-svg](https://github.com/phuocng/get-svg) - A Chrome extension to download SVG from a webpage
 - [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native
@@ -3697,6 +3697,7 @@
 - [neulab/prompt2model](https://github.com/neulab/prompt2model) - prompt2model - Generate Deployable Models from Natural Language Instructions
 - [theyosh/TerrariumPI](https://github.com/theyosh/TerrariumPI) - Home automated terrarium/aquarium or other enclosed environment with a Raspberry Pi
 - [VoltaML/voltaML-fast-stable-diffusion](https://github.com/VoltaML/voltaML-fast-stable-diffusion) - Beautiful and Easy to use Stable Diffusion WebUI
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - Pythonic AI generation of images and videos
@@ -4070,7 +4071,7 @@
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
@@ -4376,7 +4377,6 @@
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [Yummygum/flagpack-core](https://github.com/Yummygum/flagpack-core) - Flagpack contains 250+ flag icons to easily use within your code project.
 - [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [penx-labs/penx](https://github.com/penx-labs/penx) - Next generation dynamic blogging tools, 100% run on Cloudflare.
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 - [araguaci/code-like-a-journalist](https://github.com/araguaci/code-like-a-journalist) - A free and open-source online course for anyone interested in data analysis and data visualization with JavaScript/TypeScript.

@@ -87,6 +87,7 @@
 
 ## Astro 
 
+- [scmmishra/terminal-apps.dev](https://github.com/scmmishra/terminal-apps.dev) - A collection of super cool TUI apps across the web
 - [araguaci/sun-tzu](https://github.com/araguaci/sun-tzu) - "Se você não conhece a si mesmo nem o inimigo, sucumbirá a todas as batalhas." ~~ Sun Tzu
 - [abdllahdev/nimbus-narratives](https://github.com/abdllahdev/nimbus-narratives) - A minimal, accessible, and SEO-friendly personal blog theme built using Astro, Preact, and TailwindCSS.
 - [ayoayco/Cozy](https://github.com/ayoayco/Cozy) - Your modern-day reading companion
@@ -508,7 +509,7 @@
 
 ## Clojure 
 
-- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
+- [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 
@@ -619,6 +620,7 @@
 
 ## Go 
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - API for Whatsapp Web Multi Device Version, Support UI & Webhook
 - [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
@@ -892,7 +894,6 @@
 - [araguaci/stop-war-for-ever](https://github.com/araguaci/stop-war-for-ever) - STOP WAR FOR EVER BE DONE GOD'S WILL
 - [mapbox/mapbox.js](https://github.com/mapbox/mapbox.js) - Mapbox JavaScript API, a Leaflet Plugin
 - [photoprism/photoprism-docs](https://github.com/photoprism/photoprism-docs) - Official Documentation (English)
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [araguaci/earth-rainbow-bridge](https://github.com/araguaci/earth-rainbow-bridge) - Work In Progress. For meditation with Tzolkin Noosfera http://gaia.artesdosul.com/
 - [theus/instantgram](https://github.com/theus/instantgram) - ☁️ A bookmarklet for download photos in Instagram
@@ -1203,7 +1204,7 @@
 - [theosanderson/taxonium](https://github.com/theosanderson/taxonium) - A tool for exploring large trees in the browser
 - [theosanderson/hospitalmedicines](https://github.com/theosanderson/hospitalmedicines) - 
 - [uwdata/mosaic](https://github.com/uwdata/mosaic) - An extensible framework for linking databases and interactive views.
-- [charming-art/charming](https://github.com/charming-art/charming) - The JavaScript library for dynamic SVGs, crafting expressive generative art and visualization with minimal effort.
+- [charming-art/charming](https://github.com/charming-art/charming) - Bring art and dynamics to SVG and HTML.
 - [pearmini/genji](https://github.com/pearmini/genji) - The Markdown extension for interactive documents inspired by Observable Notebook, available in VitePress and Docusaurus.
 - [araguaci/bikedeboa](https://github.com/araguaci/bikedeboa) - A (Progressive) Web App to find, map and review bike parkings in the cities of Brazil.
 - [bikedeboa/bikedeboa](https://github.com/bikedeboa/bikedeboa) - A (Progressive) Web App to find, map and review bike parkings in the cities of Brazil.
@@ -1619,6 +1620,7 @@
 - [bachvtuan/Github-Contribution-Graph](https://github.com/bachvtuan/Github-Contribution-Graph) - Jquery plugin to render like contribution graph on Github.
 - [johnpolacek/TweenPages](https://github.com/johnpolacek/TweenPages) - Build complex animated page transitions with GSAP and Next.js
 - [johnpolacek/design-system-playground](https://github.com/johnpolacek/design-system-playground) - Play with typography and colors to generate a design system theme you can use in your projects.
+- [roots/sage](https://github.com/roots/sage) - WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and block editor support
 - [supermedium/superframe](https://github.com/supermedium/superframe) - :package: A super collection of A-Frame components.
 - [supermedium/aframe-particleplayer-component](https://github.com/supermedium/aframe-particleplayer-component) - :sparkles: Play pre-simulated particle systems in A-Frame :boom:
 - [feross/simple-get](https://github.com/feross/simple-get) - Simplest way to make http get requests. Supports HTTPS, redirects, gzip/deflate, streams in &lt; 100 lines
@@ -1776,7 +1778,7 @@
 - [softvar/enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
 - [AOEpeople/awesome-devops](https://github.com/AOEpeople/awesome-devops) - Awesome List for Dev-Ops / Kubernetes / Cloud
 - [smaranjitghose/doc2pen](https://github.com/smaranjitghose/doc2pen) - An open source project aimed at making your student life easier!
-- [syxanash/syxanash.github.io](https://github.com/syxanash/syxanash.github.io) - 𝒮𝒾𝓂𝑜𝓃𝑒'𝓈 ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣
+- [syxanash/syxanash.github.io](https://github.com/syxanash/syxanash.github.io) - 𝒮𝒾𝓂𝑜𝓃𝑒 𝚍𝚘𝚝 ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣
 - [os-js/OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform
 - [jberg/butterchurn](https://github.com/jberg/butterchurn) - Butterchurn is a WebGL implementation of the Milkdrop Visualizer
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
@@ -1995,7 +1997,7 @@
 - [yeoman/generator-generator](https://github.com/yeoman/generator-generator) - Generate a Yeoman generator
 - [Nexmo/nexmo-node-code-snippets](https://github.com/Nexmo/nexmo-node-code-snippets) - 
 - [john-smilga/react-jobs-app](https://github.com/john-smilga/react-jobs-app) - 
-- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
+- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for personal, portfolio-based websites; forked from mmistakes/minimal-mistakes
 - [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found i
 - [kiok46/Track-Stargazers](https://github.com/kiok46/Track-Stargazers) - Have fun tracking your project's stargazers
 - [server-state/template-module](https://github.com/server-state/template-module) - Default template for server-base modules
@@ -2072,7 +2074,6 @@
 - [resume-nation/resume-nation.github.io](https://github.com/resume-nation/resume-nation.github.io) - An open source progressive resume builder which works offline
 - [jakearchibald/svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
 - [team-telnyx/telnyx-rtc-sipjs](https://github.com/team-telnyx/telnyx-rtc-sipjs) - Telnyx JavaScript library for building WebRTC apps with SIP.js
-- [team-telnyx/telnyx-node](https://github.com/team-telnyx/telnyx-node) - Node SDK for the Telnyx API
 - [OpenTelecom/WKWebViewRTC](https://github.com/OpenTelecom/WKWebViewRTC) - 
 - [thinkjs/thinkjs](https://github.com/thinkjs/thinkjs) - Use full ES2015+ features to develop Node.js applications, Support TypeScript.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -3157,6 +3158,7 @@
 
 ## PHP 
 
+- [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [phpdocker-io/phpdocker.io](https://github.com/phpdocker-io/phpdocker.io) - PHPDocker.io website and environment (php and docker based) generator
 - [defuse/php-encryption](https://github.com/defuse/php-encryption) - Simple Encryption in PHP.
 - [linuxserver/Heimdall-Apps](https://github.com/linuxserver/Heimdall-Apps) - Apps for Heimdall
@@ -3345,7 +3347,6 @@
 - [salesagility/SuiteCRM](https://github.com/salesagility/SuiteCRM) - SuiteCRM - Open source CRM for the world
 - [vildanbina/livewire-wizard](https://github.com/vildanbina/livewire-wizard) - Livewire component that provides you with a wizard that supports multiple steps form while maintaining state.
 - [aglipanci/laravel-eloquent-case](https://github.com/aglipanci/laravel-eloquent-case) - CASE statement support for Laravel Query Builder.
-- [roots/sage](https://github.com/roots/sage) - WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and block editor support
 - [googleapis/google-cloud-php-translate](https://github.com/googleapis/google-cloud-php-translate) - 
 - [MedicOneSystems/livewire-datatables](https://github.com/MedicOneSystems/livewire-datatables) - Advanced datatables using Laravel, Livewire, Tailwind CSS and Alpine JS
 - [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) - WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link 
@@ -3696,7 +3697,6 @@
 - [neulab/prompt2model](https://github.com/neulab/prompt2model) - prompt2model - Generate Deployable Models from Natural Language Instructions
 - [theyosh/TerrariumPI](https://github.com/theyosh/TerrariumPI) - Home automated terrarium/aquarium or other enclosed environment with a Raspberry Pi
 - [VoltaML/voltaML-fast-stable-diffusion](https://github.com/VoltaML/voltaML-fast-stable-diffusion) - Beautiful and Easy to use Stable Diffusion WebUI
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - Pythonic AI generation of images and videos
@@ -3759,7 +3759,7 @@
 - [dunossauro/fastapi-do-zero](https://github.com/dunossauro/fastapi-do-zero) - Curso básico de FastAPI
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [GreaterWMS/GreaterWMS](https://github.com/GreaterWMS/GreaterWMS) - This Inventory management system is the currently Ford Asia Pacific after-sales logistics warehousing supply chain process . After I leave Ford , I start this project . You can share your vacant wareh
-- [Abacatinhos/agenda-tech-brasil](https://github.com/Abacatinhos/agenda-tech-brasil) - Lista de eventos tech que acontecem no Brasil
+- [agenda-tech-brasil/agenda-tech-brasil](https://github.com/agenda-tech-brasil/agenda-tech-brasil) - Lista de eventos tech que acontecem no Brasil
 - [DadosAbertosDeFeira/iac](https://github.com/DadosAbertosDeFeira/iac) - Plataforma de Infrastructure as Code do Dados Abertos de Feira 🛠
 - [nvuillam/github-dependents-info](https://github.com/nvuillam/github-dependents-info) - Collect information about dependencies between a github repo and other repositories. Results available in JSON, markdown and badge
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
@@ -3871,6 +3871,7 @@
 - [okfn-brasil/querido-diario](https://github.com/okfn-brasil/querido-diario) - 📰 Diários oficiais brasileiros acessíveis a todos     |     📰 Brazilian government gazettes, accessible to everyone.
 - [cuducos/calculadora-do-cidadao](https://github.com/cuducos/calculadora-do-cidadao) - 💵 Tool for Brazilian Reais monetary adjustment/correction
 - [okfn-brasil/serenata-de-amor](https://github.com/okfn-brasil/serenata-de-amor) - 🕵 Artificial Intelligence for social control of public administration | **This repository does not receive frequent updates. Check out the README**
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [donnemartin/viz](https://github.com/donnemartin/viz) - Visualize GitHub's most popular repos.  http://www.donnemartin.com/viz
 - [gabekanegae/telegram-export-converter](https://github.com/gabekanegae/telegram-export-converter) - Script to convert Telegram .html chat export files to easier to process .csv.
 - [siddheshshankar/Send-Email-Using-SMTP](https://github.com/siddheshshankar/Send-Email-Using-SMTP) - 
@@ -4038,7 +4039,7 @@
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - The Rust package registry
 - [redbadger/crux](https://github.com/redbadger/crux) - Cross-platform app development in Rust
-- [0-don/clippy](https://github.com/0-don/clippy) - Clipboard Manager built with Rust & Typescript
+- [0-don/clippy](https://github.com/0-don/clippy) - clipboard manager with sync & encryption
 - [chronotope/chrono](https://github.com/chronotope/chrono) - Date and time library for Rust
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [harlanc/xiu](https://github.com/harlanc/xiu) - A simple,high performance and secure live media server in pure Rust (RTMP[cluster]/RTSP/WebRTC[whip/whep]/HTTP-FLV/HLS).🦀
@@ -4336,6 +4337,7 @@
 
 ## TypeScript 
 
+- [ski043/job-marshal-finale-locale](https://github.com/ski043/job-marshal-finale-locale) - 
 - [quillforms/quillforms](https://github.com/quillforms/quillforms) - Open Source TypeForm Alternative Based on React JS and Typescript | Best Typeform Clone |  Conversational Multi Step Form
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
 - [groq/groq-appgen](https://github.com/groq/groq-appgen) - Project showcasing Llama 3.3 70B HTML codegen abilities
@@ -4378,6 +4380,7 @@
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [Yummygum/flagpack-core](https://github.com/Yummygum/flagpack-core) - Flagpack contains 250+ flag icons to easily use within your code project.
 - [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [penx-labs/penx](https://github.com/penx-labs/penx) - Next generation dynamic blogging tools, 100% run on Cloudflare.
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 - [araguaci/code-like-a-journalist](https://github.com/araguaci/code-like-a-journalist) - A free and open-source online course for anyone interested in data analysis and data visualization with JavaScript/TypeScript.
@@ -4990,6 +4993,7 @@
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [mcollina/aws-cdk](https://github.com/mcollina/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop with cross database and platform support.
+- [team-telnyx/telnyx-node](https://github.com/team-telnyx/telnyx-node) - Node SDK for the Telnyx API
 - [actionhero/actionhero](https://github.com/actionhero/actionhero) - Actionhero is a realtime multi-transport nodejs API Server with integrated cluster capabilities and delayed tasks
 - [actionhero/actionhero-tutorial](https://github.com/actionhero/actionhero-tutorial) - An example actionhero project demonstrating many common features
 - [infeng/react-viewer](https://github.com/infeng/react-viewer) - react image viewer, supports rotation, scale, zoom and so on
@@ -5038,7 +5042,7 @@
 - [josepholiveira/letmeask](https://github.com/josepholiveira/letmeask) - Let viewers decide which questions the host should answer during a livestream. Developed during @Rocketseat NLW#06 free training.
 - [rocketseat-education/nlw-06-reactjs](https://github.com/rocketseat-education/nlw-06-reactjs) - Projeto desenvolvido na missão ReactJS no NLW #06
 - [davimateus1/ProjetoNLW6](https://github.com/davimateus1/ProjetoNLW6) - Projeto desenvolvido no Next Level Week Together (Imersão organizada pela Rocketseat).
-- [Maxzilla60/AC-Lister](https://github.com/Maxzilla60/AC-Lister) - Animal Crossing ★ Villager Lister
+- [Maxzilla60/Animal-Crossing-Villager-Lister](https://github.com/Maxzilla60/Animal-Crossing-Villager-Lister) - Animal Crossing ★ Villager Lister
 - [diego3g/responsive-native](https://github.com/diego3g/responsive-native) - A responsive utility toolkit for React Native 📱⚛
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
@@ -5268,7 +5272,7 @@
 - [stefanoslig/angular-ngrx-nx-realworld-example-app](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 19, NgRx 19, nrwl/nx 20
 - [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder) - Deploy your Angular app to netlify from CLI
 - [NileshPatel17/ng-multiselect-dropdown](https://github.com/NileshPatel17/ng-multiselect-dropdown) - Multiple Select Dropdown Component
-- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue 
+- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, 
 - [cornflourblue/angular-9-jwt-refresh-tokens](https://github.com/cornflourblue/angular-9-jwt-refresh-tokens) - Angular 9 - JWT Authentication with Refresh Tokens
 - [gregjacobs/js-to-ts-converter](https://github.com/gregjacobs/js-to-ts-converter) - Small utility to fix common js-&gt;ts issues in order to assist in migrating a codebase
 - [nrwl/nx-console](https://github.com/nrwl/nx-console) - Nx Console is the user interface for Nx & Lerna.

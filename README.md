@@ -181,7 +181,6 @@
 - [asterisk/asterisk](https://github.com/asterisk/asterisk) - The official Asterisk Project repository.
 - [signalwire/freeswitch](https://github.com/signalwire/freeswitch) - FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a 
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
-- [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 - [rawrtc/rawrtc](https://github.com/rawrtc/rawrtc) - WebRTC and ORTC with a little bit of RAWR!
 - [i-p-tel/sipdroid](https://github.com/i-p-tel/sipdroid) - Free SIP/VoIP client for Android
@@ -248,7 +247,6 @@
 - [planetarium/NineChronicles](https://github.com/planetarium/NineChronicles) - Unity client application for Nine Chronicles, a fully decentralized idle RPG powered by the community.
 - [inexorabletash/travellermap](https://github.com/inexorabletash/travellermap) - The source code to TravellerMap.com
 - [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
-- [IdentityServer/IdentityServer4](https://github.com/IdentityServer/IdentityServer4) - OpenID Connect and OAuth 2.0 Framework for ASP.NET Core
 - [akkadotnet/akka.net](https://github.com/akkadotnet/akka.net) - Canonical actor model implementation for .NET with local + distributed actors in C# and F#.
 - [mono/SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models t
 - [beto-rodriguez/LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) - Simple, flexible, interactive & powerful charts, maps and gauges for .Net, LiveCharts2 can now practically run everywhere Maui, Uno Platform, Blazor-wasm, WPF, WinForms, Xamarin, Avalonia, WinUI, UWP.
@@ -358,6 +356,7 @@
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
+- [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [mateustoin/Qt-GUI-for-Arduino](https://github.com/mateustoin/Qt-GUI-for-Arduino) - Projeto de interface gráfica feita com Qt para controle e leitura de dados do Arduino. Interações com widgets, mouse e teclado.
 - [DoubangoTelecom/ultimateMICR-SDK](https://github.com/DoubangoTelecom/ultimateMICR-SDK) - Bank check information extraction/OCR from Magnetic Ink Character Recognition [MICR] (E-13B & CMC-7) using deep learning
 - [Infactum/tg2sip](https://github.com/Infactum/tg2sip) - Telegram &lt;-&gt; SIP voice gateway
@@ -762,6 +761,8 @@
 
 ## HTML 
 
+- [bobbyiliev/introduction-to-git-and-github-ebook](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) - Free Introduction to Git and GitHub eBook
+- [bobbyiliev/introduction-to-sql](https://github.com/bobbyiliev/introduction-to-sql) - Free Introduction to SQL eBook
 - [inprincipioverbum/inprincipioverbum.github.io](https://github.com/inprincipioverbum/inprincipioverbum.github.io) - No princípio era o Verbo. Contemplando a origem e o propósito da existência.
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [araguaci/estudodamente](https://github.com/araguaci/estudodamente) - Bem-vindo ao Mundo da Mente - Explorando o Inexplorado
@@ -1122,7 +1123,7 @@
 - [react-native-webrtc/react-native-callkeep](https://github.com/react-native-webrtc/react-native-callkeep) - iOS CallKit framework and Android ConnectionService for React Native
 - [pmd/pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
 - [apache/netbeans](https://github.com/apache/netbeans) - Apache NetBeans
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
+- [dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [federicoiosue/Omni-Notes](https://github.com/federicoiosue/Omni-Notes) - Open source note-taking application for Android
 - [naman14/Timber](https://github.com/naman14/Timber) - Material Design Music Player
@@ -1320,6 +1321,7 @@
 - [brick-a-brack/eagle-animation](https://github.com/brick-a-brack/eagle-animation) - EagleAnimation is an awesome, free and open-source stop-motion animation software.
 - [orion3dgames/gridder](https://github.com/orion3dgames/gridder) - A jQuery plugin that displays a thumbnail grid expanding preview similar to the effect seen on Google Images.
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
+- [pi-hole/web](https://github.com/pi-hole/web) - Pi-hole Dashboard for stats and more
 - [cshum/scm-music-player](https://github.com/cshum/scm-music-player) - Seamless music for your website. HTML5 music player with continuous playback cross pages.
 - [svitkin/leaflet-timeline-slider](https://github.com/svitkin/leaflet-timeline-slider) - Plugin for leaflet that creates a customizable timeline slider
 - [clean-css/clean-css](https://github.com/clean-css/clean-css) - Fast and efficient CSS optimizer for node.js and the Web
@@ -1648,7 +1650,6 @@
 - [itteco/iframely](https://github.com/itteco/iframely) - oEmbed proxy. Supports over 1800 domains via custom parsers, oEmbed, Twitter Cards and Open Graph
 - [madzadev/audio-player](https://github.com/madzadev/audio-player) - 🎵 Music player with custom controls, playlist, filters, and search.
 - [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) - A list of Tech Blogs.
-- [DianaMartine/curso-dio-sintaxe-basica-javascript](https://github.com/DianaMartine/curso-dio-sintaxe-basica-javascript) - 
 - [ctf0/Laravel-Media-Manager](https://github.com/ctf0/Laravel-Media-Manager) - A "Vuejs & Laravel" Media Manager With Tons of Features
 - [Kamona-WD/tailwindcss-perspective](https://github.com/Kamona-WD/tailwindcss-perspective) - A little bit of utility classes related to css 3d transform
 - [kamona-ui/kui-dashboard-vue-jsx](https://github.com/kamona-ui/kui-dashboard-vue-jsx) - Admin dashboard template built with tailwindcss & vue-jsx.
@@ -1851,7 +1852,6 @@
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [cassidoo/shopify-react-astro](https://github.com/cassidoo/shopify-react-astro) - A demo of a Shopify site using Astro and React.
 - [iuccio/csvToJson](https://github.com/iuccio/csvToJson) - Convert CSV file to JSON
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [rosano/joybox](https://github.com/rosano/joybox) - A pinboard for audiovisual media.
 - [maykbrito/electron-desktop-template](https://github.com/maykbrito/electron-desktop-template) - 
 - [maykbrito/electron-desktop-custom-notion-omni](https://github.com/maykbrito/electron-desktop-custom-notion-omni) - Inject custom CSS to beautify Notion.so
@@ -3191,7 +3191,7 @@
 - [renatomb/php_qrcode_pix](https://github.com/renatomb/php_qrcode_pix) - Implementação da geração de QRCode do Pix em PHP
 - [kalkun-sms/Kalkun](https://github.com/kalkun-sms/Kalkun) - Open Source Web based SMS Manager
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel
-- [beyondcode/expose](https://github.com/beyondcode/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
+- [exposedev/expose](https://github.com/exposedev/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
 - [H2-invent/jitsi-admin](https://github.com/H2-invent/jitsi-admin) - Jitsi Admin – Conference Organizer  Manage and control your video conferences with support for Jitsi Meet and LiveKit. Includes an optimized LiveKit frontend for enhanced efficiency and performance.
 - [emoncms/emoncms](https://github.com/emoncms/emoncms) - Web-app for processing, logging and visualising energy, temperature and other environmental data
 - [ampache/ampache](https://github.com/ampache/ampache) - A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere, using almost any internet enabled device.
@@ -3227,7 +3227,6 @@
 - [mapasculturais/mapasculturais](https://github.com/mapasculturais/mapasculturais) - Mapas Culturais é uma plataforma colaborativa que reúne informações sobre agentes, espaços, eventos e projetos culturais, fornecendo ao poder público uma radiografia da área de cultura e ao cidadão um
 - [pagseguro/pagseguro-sdk-php](https://github.com/pagseguro/pagseguro-sdk-php) - Biblioteca de integração em PHP
 - [pagseguro/pagseguro-modulo-prestashop](https://github.com/pagseguro/pagseguro-modulo-prestashop) - Módulo de Checkout Transparente para integração com PrestaShop 1.6, 1.7 e 8.0 - Oficial PagBank
-- [pi-hole/web](https://github.com/pi-hole/web) - Pi-hole Dashboard for stats and more
 - [shiningw/ncdownloader](https://github.com/shiningw/ncdownloader) - An easy-to-use web interface for Aria2 and Youtube-dl (downloading bittorrents, videos from twitter, youtube and the likes)运行在nextcloud下的多功能下载工具（Aria2 and youtube-dl）
 - [webonyx/graphql-php](https://github.com/webonyx/graphql-php) - PHP implementation of the GraphQL specification based on the reference implementation in JavaScript
 - [hybridauth/hybridauth](https://github.com/hybridauth/hybridauth) - Open source social sign on PHP Library. HybridAuth goal is to act as an abstract api between your application and various social apis and identities providers such as Facebook, Twitter and Google.
@@ -3528,7 +3527,7 @@
 - [inertiajs/pingcrm](https://github.com/inertiajs/pingcrm) - A demo application to illustrate how Inertia.js works.
 - [YetiForceCompany/YetiForceCRM](https://github.com/YetiForceCompany/YetiForceCRM) - Our team created for you one of the most innovative CRM systems that supports mainly business processes and allows for customization according to your needs. Be ahead of your competition and implement
 - [adhocore/phalcon-ext](https://github.com/adhocore/phalcon-ext) - Foundations, adapters, extensions, middlewares and utilities for Phalcon v4
-- [adhocore/php-jwt](https://github.com/adhocore/php-jwt) - Ultra lightweight, dependency free and standalone JSON web token (JWT) library for PHP5.6 to PHP8.2. This library makes JWT a cheese. It is a minimal JWT integration for PHP.
+- [adhocore/php-jwt](https://github.com/adhocore/php-jwt) - Ultra lightweight, dependency free and standalone JSON web token (JWT) library for PHP5.6 to PHP8.4+. This library makes JWT a cheese. It is a minimal JWT integration for PHP.
 - [soatok/dhole-cryptography](https://github.com/soatok/dhole-cryptography) - Boring (dull) cryptography for furry projects (created by a dhole)
 - [ratchetphp/Ratchet](https://github.com/ratchetphp/Ratchet) - Asynchronous WebSocket server
 - [kartik-v/yii2-tree-manager](https://github.com/kartik-v/yii2-tree-manager) - An advanced tree management module using nested sets for Yii 2.
@@ -3667,6 +3666,7 @@
 
 ## Python 
 
+- [bobbyiliev/101-linux-commands-ebook](https://github.com/bobbyiliev/101-linux-commands-ebook) - 101 Linux commands Open-source eBook
 - [fofr/cog-face-to-sticker](https://github.com/fofr/cog-face-to-sticker) - face-to-sticker
 - [fofr/cog-face-to-many](https://github.com/fofr/cog-face-to-many) - Turn any face into a video game character, pixel art, claymation, 3D or toy
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
@@ -4028,7 +4028,7 @@
 
 ## Rust 
 
-- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse]
+- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse, Microsoft SQL Server]
 - [brndnmtthws/cracking-the-coding-interview-rust](https://github.com/brndnmtthws/cracking-the-coding-interview-rust) - Cracking the Coding Interview problem solutions in Rust
 - [QuantumEntangledAndy/neolink](https://github.com/QuantumEntangledAndy/neolink) - An RTSP bridge to Reolink IP cameras
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -4629,7 +4629,7 @@
 - [dastasoft/memory-game](https://github.com/dastasoft/memory-game) - Demo project to teach about Framer Motion animations on React projects.
 - [marakoss/sos-moto-app](https://github.com/marakoss/sos-moto-app) - SOS MOTO is a mobile application written in React Native that allows you to call a nearest contact from your GPS location to get a quick help. We have over 10k active users in Europe and steadily grow
 - [DoableDanny/NextJS-HarperDB-Task-Timer](https://github.com/DoableDanny/NextJS-HarperDB-Task-Timer) - Fullstack productivity timer app built with NextJS and HarperDB
-- [deepops-io/xobserve](https://github.com/deepops-io/xobserve) - Observe any stack, any service and any data,  using any UI components you prefer, never missing any X factors and resolve them before they become real problems.
+- [deepops-io/deepops](https://github.com/deepops-io/deepops) - Observe any stack, any service and any data,  using any UI components you prefer, never missing any X factors and resolve them before they become real problems.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
@@ -4875,6 +4875,7 @@
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [ansible/ansible-hub-ui](https://github.com/ansible/ansible-hub-ui) - Ansible Automation Hub UI
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive user's focus across the page
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
@@ -5185,7 +5186,7 @@
 - [trungvose/jira-clone-angular](https://github.com/trungvose/jira-clone-angular) - A simplified Jira clone built with Angular, ng-zorro and Akita
 - [wKoza/ngx-upload](https://github.com/wKoza/ngx-upload) - Ngx-upload is an upload module for Angular Ivy ready
 - [nodegui/nodegui-starter](https://github.com/nodegui/nodegui-starter) - A starter repo for NodeGui projects
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode
 - [PatrickJS/angular-hmr](https://github.com/PatrickJS/angular-hmr) - :fire: Angular Hot Module Replacement for Hot Module Reloading
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.

@@ -761,6 +761,9 @@
 
 ## HTML 
 
+- [araguaci/supervisor3cx](https://github.com/araguaci/supervisor3cx) - Módulo Supervisor de Call Center
+- [araguaci/survey-engine](https://github.com/araguaci/survey-engine) - 
+- [megatronix-lorentz/supervisor3cx](https://github.com/megatronix-lorentz/supervisor3cx) - Módulo Supervisor de Call Center
 - [bobbyiliev/introduction-to-git-and-github-ebook](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) - Free Introduction to Git and GitHub eBook
 - [bobbyiliev/introduction-to-sql](https://github.com/bobbyiliev/introduction-to-sql) - Free Introduction to SQL eBook
 - [inprincipioverbum/inprincipioverbum.github.io](https://github.com/inprincipioverbum/inprincipioverbum.github.io) - No princípio era o Verbo. Contemplando a origem e o propósito da existência.
@@ -1205,7 +1208,7 @@
 - [theosanderson/hospitalmedicines](https://github.com/theosanderson/hospitalmedicines) - 
 - [uwdata/mosaic](https://github.com/uwdata/mosaic) - An extensible framework for linking databases and interactive views.
 - [charming-art/charming](https://github.com/charming-art/charming) - Bring art and dynamics to SVG and HTML.
-- [pearmini/genji](https://github.com/pearmini/genji) - The Markdown extension for interactive documents inspired by Observable Notebook, available in VitePress and Docusaurus.
+- [pearmini/genji](https://github.com/pearmini/genji) - A Markdown extension for interactive documents inspired by Observable Notebook, available in VitePress and Docusaurus.
 - [araguaci/bikedeboa](https://github.com/araguaci/bikedeboa) - A (Progressive) Web App to find, map and review bike parkings in the cities of Brazil.
 - [bikedeboa/bikedeboa](https://github.com/bikedeboa/bikedeboa) - A (Progressive) Web App to find, map and review bike parkings in the cities of Brazil.
 - [cmdalbem/ciclomapa](https://github.com/cmdalbem/ciclomapa) - Beautiful, interactive & open bike maps of Brazilian cities. Powered by OpenStreetMap.
@@ -3158,6 +3161,7 @@
 
 ## PHP 
 
+- [oroinc/crm](https://github.com/oroinc/crm) - Main OroCRM package with core functionality.
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [phpdocker-io/phpdocker.io](https://github.com/phpdocker-io/phpdocker.io) - PHPDocker.io website and environment (php and docker based) generator
 - [defuse/php-encryption](https://github.com/defuse/php-encryption) - Simple Encryption in PHP.
@@ -3263,7 +3267,7 @@
 - [googleworkspace/php-samples](https://github.com/googleworkspace/php-samples) - PHP samples for Google Workspace APIs
 - [ribafs/apostilas](https://github.com/ribafs/apostilas) - Apostilas sobre diversos assuntos: PHP, PDO, MySQL, PHPOO, MVC, mobile, scratch, git, github, docker, vps, alpine linux, segurança na wev, servidores, etc
 - [osTicket/osTicket](https://github.com/osTicket/osTicket) - The osTicket open source ticketing system official project repository, for versions 1.8 and later
-- [Laravel-Lang/publisher](https://github.com/Laravel-Lang/publisher) - Publisher provides functionality for working with application localization
+- [Laravel-Lang/publisher](https://github.com/Laravel-Lang/publisher) - Localization publisher for your Laravel application
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 126 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
 - [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) - Open Source eCommerce Application on top of Symfony
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Framework on Symfony
@@ -3708,7 +3712,6 @@
 - [peaceiris/mkdocs-material-boilerplate](https://github.com/peaceiris/mkdocs-material-boilerplate) - MkDocs Material Boilerplate (Starter Kit) - Deploy documentation to hosting platforms (Netlify, GitHub Pages, GitLab Pages, and AWS Amplify Console) with Docker, pipenv, and GitHub Actions.
 - [argosopentech/argos-translate](https://github.com/argosopentech/argos-translate) - Open-source offline translation library written in Python
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
@@ -4005,7 +4008,6 @@
 - [companionstudio/instagram-token-agent](https://github.com/companionstudio/instagram-token-agent) - A service to keep your Instagram Basic Display API token fresh.
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
-- [hexlet-basics/hexlet-basics](https://github.com/hexlet-basics/hexlet-basics) - Interactive Programming Courses
 - [fiedl/your_platform](https://github.com/fiedl/your_platform) - Administrative and social network platform for closed user groups.
 - [kpumuk/meta-tags](https://github.com/kpumuk/meta-tags) - Search Engine Optimization (SEO) for Ruby on Rails applications.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
@@ -4433,6 +4435,7 @@
 - [midudev/esland-web](https://github.com/midudev/esland-web) - Web de los premios Esland para fines didácticos
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [araguaci/ayrtonsenna-memories](https://github.com/araguaci/ayrtonsenna-memories) - No dia 1 de maio de 1994, há 30 anos, Ayrton Senna deixa um legadohistórico. O piloto brasileiro foi vítima de um despiste fatal do GP San Marino, em Ímola, um acidente que mudou para sempre a Fórmula
 - [chearon/dropflow](https://github.com/chearon/dropflow) - A CSS layout engine
 - [ag-grid/ag-charts](https://github.com/ag-grid/ag-charts) - AG Charts is a fully-featured and highly customizable JavaScript charting library. The professional choice for developers building enterprise applications
@@ -4595,7 +4598,7 @@
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [craftzdog/react-native-animated-todo](https://github.com/craftzdog/react-native-animated-todo) - Animated ToDo app built with React Native and Reanimated v2
 - [sanvishal/wrighter](https://github.com/sanvishal/wrighter) - Wrighter - A Powerful Markdown Blogger & A Writing Companion | write the (w)right way
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better auth and identity infrastructure and the open-source alternative to Auth0.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 An identity and access management (IAM) system with authentication, authorization, MFA, SSO, user management, and multi-tenancy features. Supports OAuth 2.0, OIDC, and SAML. No framework restricti
 - [shlinkio/shlink-web-client](https://github.com/shlinkio/shlink-web-client) - A React-based client application for Shlink
 - [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components
 - [naver/egjs-flicking](https://github.com/naver/egjs-flicking) - 🎠 ♻️ Everyday 30 million people experience. It's reliable, flexible and extendable carousel.
@@ -4900,6 +4903,7 @@
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [shikijs/twoslash](https://github.com/shikijs/twoslash) - You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples
 - [crisbeto/angular-svg-round-progressbar](https://github.com/crisbeto/angular-svg-round-progressbar) - Angular module that uses SVG to create a circular progressbar
+- [hexlet-basics/hexlet-basics](https://github.com/hexlet-basics/hexlet-basics) - Interactive Programming Courses
 - [Saber2pr/editor](https://github.com/Saber2pr/editor) - :ocean: Web Editor for React/Tsx Ant-Design App Develop、Build !
 - [stream-labs/desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron.
 - [musehq/spacesvr](https://github.com/musehq/spacesvr) - A standardized reality for the future of the 3D Web.

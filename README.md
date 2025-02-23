@@ -1625,7 +1625,6 @@
 - [bachvtuan/Github-Contribution-Graph](https://github.com/bachvtuan/Github-Contribution-Graph) - Jquery plugin to render like contribution graph on Github.
 - [johnpolacek/TweenPages](https://github.com/johnpolacek/TweenPages) - Build complex animated page transitions with GSAP and Next.js
 - [johnpolacek/design-system-playground](https://github.com/johnpolacek/design-system-playground) - Play with typography and colors to generate a design system theme you can use in your projects.
-- [roots/sage](https://github.com/roots/sage) - WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and block editor support
 - [supermedium/superframe](https://github.com/supermedium/superframe) - :package: A super collection of A-Frame components.
 - [supermedium/aframe-particleplayer-component](https://github.com/supermedium/aframe-particleplayer-component) - :sparkles: Play pre-simulated particle systems in A-Frame :boom:
 - [feross/simple-get](https://github.com/feross/simple-get) - Simplest way to make http get requests. Supports HTTPS, redirects, gzip/deflate, streams in &lt; 100 lines
@@ -3279,7 +3278,7 @@
 - [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
 - [guillaumebriday/laravel-blog](https://github.com/guillaumebriday/laravel-blog) - Laravel 11.0 blog application with Hotwire, Horizon, Telescope, Sanctum, Breeze and Pusher
 - [arifszn/ezfolio](https://github.com/arifszn/ezfolio) - Open Source Portfolio/Resume CMS built using Laravel, React and Ant Design.
-- [roots/acorn](https://github.com/roots/acorn) - Laravel components for WordPress plugins and themes
+- [roots/acorn](https://github.com/roots/acorn) - Integrate Laravel functionality into WordPress projects
 - [reactphp/http](https://github.com/reactphp/http) - Event-driven, streaming HTTP client and server implementation for ReactPHP.
 - [Licoy/wordpress-theme-puock](https://github.com/Licoy/wordpress-theme-puock) - :art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh loading, etc.
 - [Intervention/image](https://github.com/Intervention/image) - PHP Image Processing
@@ -3350,6 +3349,7 @@
 - [salesagility/SuiteCRM](https://github.com/salesagility/SuiteCRM) - SuiteCRM - Open source CRM for the world
 - [vildanbina/livewire-wizard](https://github.com/vildanbina/livewire-wizard) - Livewire component that provides you with a wizard that supports multiple steps form while maintaining state.
 - [aglipanci/laravel-eloquent-case](https://github.com/aglipanci/laravel-eloquent-case) - CASE statement support for Laravel Query Builder.
+- [roots/sage](https://github.com/roots/sage) - WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and block editor support
 - [googleapis/google-cloud-php-translate](https://github.com/googleapis/google-cloud-php-translate) - 
 - [MedicOneSystems/livewire-datatables](https://github.com/MedicOneSystems/livewire-datatables) - Advanced datatables using Laravel, Livewire, Tailwind CSS and Alpine JS
 - [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) - WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link 

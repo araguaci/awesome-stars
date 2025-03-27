@@ -151,7 +151,7 @@
 - [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi
 - [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [paparazzi/paparazzi](https://github.com/paparazzi/paparazzi) - Paparazzi is a free and open-source hardware and software project for unmanned (air) vehicles. This is the main software repository.
 - [aperezdc/ngx-fancyindex](https://github.com/aperezdc/ngx-fancyindex) - Fancy indexes module for the Nginx web server
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -327,6 +327,7 @@
 - [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
 - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
 - [dotnet/diagnostics](https://github.com/dotnet/diagnostics) - This repository contains the source code for various .NET Core runtime diagnostic tools and documents.
+- [flutter-webrtc/flutter-webrtc](https://github.com/flutter-webrtc/flutter-webrtc) - WebRTC plugin for Flutter Mobile/Desktop/Web
 - [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
 - [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
@@ -396,6 +397,7 @@
 - [fppcnc/quote-of-the-day](https://github.com/fppcnc/quote-of-the-day) - Quote of the Day is a small introductory project on the use of APIs
 - [Naereen/Nginx-Fancyindex-Theme](https://github.com/Naereen/Nginx-Fancyindex-Theme) - A :iphone: responsive theme for Nginx Fancyindex module :wrench:. Minimal, modern and simple. ☀ Light & 😎 Dark themes. Comes with a search form :mag_right:, aims to handle thousands of files without a
 - [araguaci/ayrtonsenna-magic](https://github.com/araguaci/ayrtonsenna-magic) - 30 ANOS DA PASSAGEM DE AYRTON SENNA DA SILVA (34 ANOS)
+- [docura/docura](https://github.com/docura/docura) - 📖 A modular Hugo theme to build your next documentation site
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 - [LemmyNet/lemmy-ui](https://github.com/LemmyNet/lemmy-ui) - The official web app for lemmy.
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
@@ -907,6 +909,7 @@
 - [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [peterpeterparker/web-social-share](https://github.com/peterpeterparker/web-social-share) - A Web Component to share url and text on social networks
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [jaegertracing/documentation](https://github.com/jaegertracing/documentation) - Documentation/website for the Jaeger Distributed Tracing project.
 - [araguaci/recursos-gratuitos](https://github.com/araguaci/recursos-gratuitos) - 🌈 Uma coleção com links de recursos gratuitos para desenvolvimentos e estudos.
 - [araguaci/olavo-de-carvalho](https://github.com/araguaci/olavo-de-carvalho) - Livros, publicações e artigos de Olavo de Carvalho
@@ -1103,7 +1106,6 @@
 - [joindesk/Joindesk](https://github.com/joindesk/Joindesk) - Open source Project Management application.
 - [learning-zone/java-basics](https://github.com/learning-zone/java-basics) - Java Basics ( Java-8 )
 - [spring-io/start.spring.io](https://github.com/spring-io/start.spring.io) - https://start.spring.io
-- [flutter-webrtc/flutter-webrtc](https://github.com/flutter-webrtc/flutter-webrtc) - WebRTC plugin for Flutter Mobile/Desktop/Web
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [Telegram-FOSS-Team/Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Unofficial, FOSS-friendly fork of the original Telegram client for Android
 - [googlemaps-samples/android-samples](https://github.com/googlemaps-samples/android-samples) - Samples demonstrating how to use Maps SDK for Android
@@ -3003,7 +3005,6 @@
 - [ribafs/all-awesomes](https://github.com/ribafs/all-awesomes) - Todas as listas awesomes que encontrei mais outros similares Links de projetos, ideias sobre projetos, livros de programação grátis, linguagens de programação, PHP, Laravel, etc
 - [googleapis/nodejs-text-to-speech](https://github.com/googleapis/nodejs-text-to-speech) - This repository is deprecated. All of its content and history has been moved to googleapis/google-cloud-node.
 - [svpino/twitter](https://github.com/svpino/twitter) - A collection of the most relevant content I've posted on Twitter
-- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [araguaci/crux-sacra-sit-mihi-lux](https://github.com/araguaci/crux-sacra-sit-mihi-lux) - 
 - [araguaci/google-sheets-gatsby](https://github.com/araguaci/google-sheets-gatsby) - 
@@ -3389,7 +3390,7 @@
 - [cakephp/cakephp](https://github.com/cakephp/cakephp) - CakePHP: The Rapid Development Framework for PHP - Official Repository
 - [cakephp/phinx](https://github.com/cakephp/phinx) - PHP Database Migrations for Everyone
 - [lcobucci/jwt](https://github.com/lcobucci/jwt) - A simple library to work with JSON Web Token and JSON Web Signature
-- [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native lan
+- [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, SQLSERVER, MONGODB, SQLITE, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, count
 - [yiisoft/yii2](https://github.com/yiisoft/yii2) - Yii 2: The Fast, Secure and Professional PHP Framework
 - [jekuer/php-microsite-boilerplate](https://github.com/jekuer/php-microsite-boilerplate) - An extremely simple and lightweight PHP framework/boilerplate to spin-up microsites at high speed. Optimized for Performance, Security, SEO, TailwindCSS, and Directus CMS.
 - [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) - 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.
@@ -3680,7 +3681,7 @@
 - [aditeyapatakoti/CodeHS-IntroIntoPython](https://github.com/aditeyapatakoti/CodeHS-IntroIntoPython) - (2025) Answers + Code to every quiz and assignment needed in the CodeHS course "Intro Into Python 3"
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [unclecode/promptuner](https://github.com/unclecode/promptuner) - 𝙏𝙪𝙧𝙣𝙞𝙣𝙜 𝙨𝙢𝙖𝙡𝙡 𝙩𝙖𝙨𝙠 𝙙𝙚𝙨𝙘𝙧𝙞𝙥𝙩𝙞𝙤𝙣𝙨 𝙞𝙣𝙩𝙤 𝙢𝙚𝙜𝙖 𝙥𝙧𝙤𝙢𝙥𝙩𝙨 𝙖𝙪𝙩𝙤𝙢𝙖𝙜𝙞𝙘𝙖𝙡𝙡𝙮.
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/mEkkMXFG
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [bobbyiliev/101-linux-commands-ebook](https://github.com/bobbyiliev/101-linux-commands-ebook) - 101 Linux commands Open-source eBook
 - [fofr/cog-face-to-sticker](https://github.com/fofr/cog-face-to-sticker) - face-to-sticker
@@ -4111,7 +4112,6 @@
 - [araguaci/cheatsheets](https://github.com/araguaci/cheatsheets) - Cheatsheets for web development - devhints.io
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [araguaci/jekyllfolio](https://github.com/araguaci/jekyllfolio) - 
-- [docura/docura](https://github.com/docura/docura) - 📖 A modular Hugo theme to build your next documentation site
 - [ForEvolve/bootstrap-dark](https://github.com/ForEvolve/bootstrap-dark) - Bootstrap 4 dark theme that supports togging dark/light themes as well. There is no fluff, it changes the color of Bootstrap and that's it, no new thing to learn or unlearn, just Bootstrap, but Dark!
 - [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS) ✨
 - [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11+).

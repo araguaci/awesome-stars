@@ -31,6 +31,7 @@
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [Haxe](#haxe)
+- [Inno Setup](#inno-setup)
 - [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -302,7 +303,7 @@
 - [WinMerge/winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
 - [roc-streaming/roc-toolkit](https://github.com/roc-streaming/roc-toolkit) - Real-time audio streaming over the network.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
+- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [apache/mxnet](https://github.com/apache/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
@@ -772,6 +773,7 @@
 
 ## HTML 
 
+- [ProfessoraBianca/Testimonials-Grid-Section-Challenge](https://github.com/ProfessoraBianca/Testimonials-Grid-Section-Challenge) - 
 - [HoanghoDev/youtube_v2](https://github.com/HoanghoDev/youtube_v2) - 
 - [araguaci/supervisor3cx](https://github.com/araguaci/supervisor3cx) - Módulo Supervisor de Call Center
 - [araguaci/survey-engine](https://github.com/araguaci/survey-engine) - 
@@ -1080,6 +1082,10 @@
 
 - [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) - Free, cross-platform 2D game engine powered by Haxe and OpenFL
 
+## Inno Setup 
+
+- [Bill-Stewart/SyncthingWindowsSetup](https://github.com/Bill-Stewart/SyncthingWindowsSetup) - Syncthing Windows Setup
+
 ## JSON 
 
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
@@ -1087,6 +1093,7 @@
 
 ## Java 
 
+- [apilayer/restcountries](https://github.com/apilayer/restcountries) - Get information about countries via a RESTful API
 - [apache/openmeetings](https://github.com/apache/openmeetings) - Mirror of Apache Openmeetings
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [sudheerj/datastructures-algorithms](https://github.com/sudheerj/datastructures-algorithms) - List of Programs related to data structures and algorithms
@@ -1162,6 +1169,8 @@
 
 ## JavaScript 
 
+- [DevExpress/DevExtreme](https://github.com/DevExpress/DevExtreme) - HTML5 JavaScript Component Suite for Responsive Web Development
+- [feelgooddd/browser-extensions-manager-ui-main](https://github.com/feelgooddd/browser-extensions-manager-ui-main) - 
 - [aditeyapatakoti/CodeHS-IntroIntoJavascript](https://github.com/aditeyapatakoti/CodeHS-IntroIntoJavascript) - (2025) Answers + Code to every quiz and assignment needed in the CodeHS course "Intro Into JavaScript"
 - [jzillmann/pdf-to-markdown](https://github.com/jzillmann/pdf-to-markdown) - A PDF to Markdown converter
 - [pegaltier/awesome-utils-dev](https://github.com/pegaltier/awesome-utils-dev) - 📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...
@@ -3738,7 +3747,7 @@
 - [jacebrowning/memegen](https://github.com/jacebrowning/memegen) - The free and open source API to generate memes.
 - [peaceiris/mkdocs-material-boilerplate](https://github.com/peaceiris/mkdocs-material-boilerplate) - MkDocs Material Boilerplate (Starter Kit) - Deploy documentation to hosting platforms (Netlify, GitHub Pages, GitLab Pages, and AWS Amplify Console) with Docker, pipenv, and GitHub Actions.
 - [argosopentech/argos-translate](https://github.com/argosopentech/argos-translate) - Open-source offline translation library written in Python
-- [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
+- [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
@@ -4366,6 +4375,7 @@
 
 ## TypeScript 
 
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [bostrot/telegram-support-bot](https://github.com/bostrot/telegram-support-bot) - A Telegram ticketing/supporting system.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [alex-streza/rora](https://github.com/alex-streza/rora) - 
@@ -4647,7 +4657,7 @@
 - [astrodon/astrodon](https://github.com/astrodon/astrodon) - Make Desktop apps with Deno 🦕
 - [ruppysuppy/SmartsApp](https://github.com/ruppysuppy/SmartsApp) - 💬📱 An End to End Encrypted Cross Platform messenger app.
 - [expo/examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools
-- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
+- [redwoodjs/graphql](https://github.com/redwoodjs/graphql) - RedwoodGraphQL
 - [unjs/unstorage](https://github.com/unjs/unstorage) - 💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core.
 - [MaximBuz/heazy-svg-creator](https://github.com/MaximBuz/heazy-svg-creator) - A design studio for vector illustrations. Built with React, Node and GraphQL.
 - [sghall/react-compound-slider](https://github.com/sghall/react-compound-slider) - :black_medium_small_square: React Compound Slider | A small React slider with no opinion on markup or styles

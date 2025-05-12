@@ -2081,7 +2081,7 @@
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [rafaballerini/ReactHooks](https://github.com/rafaballerini/ReactHooks) - Um guia para entender os diferentes Hooks em React!
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
-- [PactInteractive/image-downloader](https://github.com/PactInteractive/image-downloader) - Download images from the web more easily. A browser extension for Google Chrome, Microsoft Edge, and Brave.
+- [PactInteractive/image-downloader](https://github.com/PactInteractive/image-downloader) - Download images from the web with ease. A browser extension for Google Chrome, Microsoft Edge, and Brave.
 - [sarcadass/granim.js](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations with this small javascript library.
 - [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client
@@ -3756,7 +3756,7 @@
 - [scrapfly/scrapfly-scrapers](https://github.com/scrapfly/scrapfly-scrapers) - Scalable Python web scraping scripts for +40 popular domains
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [estruyf/unicorn-busy-server](https://github.com/estruyf/unicorn-busy-server) - Simple busy light server for Raspberry Pi Zero and Pimoroni Unicorn Hat
-- [israel-dryer/ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap) - A supercharged theme extension for tkinter that enables on-demand modern flat style themes inspired by Bootstrap.
+- [israel-dryer/ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap) - A modern theming library for Tkinter that adds sleek, responsive styles inspired by Bootstrap. Includes ready-to-use widgets, 20+ themes, and tools for building beautiful, cross-platform desktop apps 
 - [ashleykleynhans/civitai-downloader](https://github.com/ashleykleynhans/civitai-downloader) - Python script to download models from CIVITAI using an API key
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
@@ -4600,7 +4600,6 @@
 - [microsoft/vscode-webview-ui-toolkit](https://github.com/microsoft/vscode-webview-ui-toolkit) - A component library for building webview-based extensions in Visual Studio Code.
 - [prabhuignoto/react-visual-grid](https://github.com/prabhuignoto/react-visual-grid) - 🪟 Image Grid / Masonry Layout for React
 - [windingwind/zotero-pdf-preview](https://github.com/windingwind/zotero-pdf-preview) - Preview Zotero attachments in the library view.
-- [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [araguaci/edge-functions-geolocation](https://github.com/araguaci/edge-functions-geolocation) - 
 - [SonarSource/SonarJS](https://github.com/SonarSource/SonarJS) - SonarSource Static Analyzer for JavaScript and TypeScript
 - [baiy/Ctool](https://github.com/baiy/Ctool) - 程序开发常用工具 chrome / edge / firefox / utools / windows / linux / mac

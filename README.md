@@ -910,6 +910,7 @@
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
 - [hexagontruth/hexular](https://github.com/hexagontruth/hexular) - Hexagonal cellular automata platform
+- [prabhuignoto/react-creme](https://github.com/prabhuignoto/react-creme) - Comprehensive UI Tool Kit for React
 - [exercism/website-copy](https://github.com/exercism/website-copy) - A repository for exercism's website's copy
 - [araguaci/stop-war-for-ever](https://github.com/araguaci/stop-war-for-ever) - STOP WAR FOR EVER BE DONE GOD'S WILL
 - [mapbox/mapbox.js](https://github.com/mapbox/mapbox.js) - Mapbox JavaScript API, a Leaflet Plugin
@@ -1234,7 +1235,6 @@
 - [artesdosul/Awesome-Design-Tools](https://github.com/artesdosul/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [clientIO/joint](https://github.com/clientIO/joint) - A proven SVG-based JavaScript diagramming library powering exceptional UIs
 - [Kiran1689/Awesome-Dev-Portfolios](https://github.com/Kiran1689/Awesome-Dev-Portfolios) - This repository aims to collect portfolios and their repositories from developers around the world.
-- [theosanderson/taxonium](https://github.com/theosanderson/taxonium) - A tool for exploring large trees in the browser
 - [theosanderson/hospitalmedicines](https://github.com/theosanderson/hospitalmedicines) - 
 - [uwdata/mosaic](https://github.com/uwdata/mosaic) - An extensible framework for linking databases and interactive views.
 - [charming-art/charming](https://github.com/charming-art/charming) - Bring art and creativity to SVG.
@@ -1450,7 +1450,6 @@
 - [matyo91/matyo91](https://github.com/matyo91/matyo91) - :octocat: Matyo91 Github Profil
 - [PamelaRondina/step-by-step](https://github.com/PamelaRondina/step-by-step) - Repositórios com o passo a passo do que venho aprendendo + Readme Profile: consiste em um passo a passo de inclusão de cabeçalho, ícones de linguagens, softwares, imagens e emojis.
 - [firstcontributions/firstcontributions.github.io](https://github.com/firstcontributions/firstcontributions.github.io) - Web app for First Contributions
-- [JetBrains/kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin programming language website
 - [madzadev/kanboard](https://github.com/madzadev/kanboard) - 📃 KanBoard - Your personal project management tool
 - [danba340/react-three-fiber-example](https://github.com/danba340/react-three-fiber-example) - 
 - [danba340/periodic-table](https://github.com/danba340/periodic-table) - Periodic table build in react
@@ -2603,7 +2602,6 @@
 - [bradtraversy/devconnector_2.0](https://github.com/bradtraversy/devconnector_2.0) - Social network for developers, built on the MERN stack
 - [bradtraversy/react_express_starter](https://github.com/bradtraversy/react_express_starter) - Starter pack for React and Express full stack development
 - [bradtraversy/node_passport_login](https://github.com/bradtraversy/node_passport_login) - Node.js login, registration and access control using Express and Passport
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.
 - [schmich/chrome-extension-localization](https://github.com/schmich/chrome-extension-localization) - Organize and manage localization for your Chrome extension
 - [schmich/marinara](https://github.com/schmich/marinara) - Pomodoro® time management assistant for Chrome
@@ -3712,6 +3710,7 @@
 
 ## Python 
 
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - Parlant is the open-source engine for controlled, compliant, and purposeful generative AI conversations. It gives you the power of LLMs without the unpredictability.
 - [khromalabs/ainara](https://github.com/khromalabs/ainara) - AI Companion Framework
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [seapagan/fastapi-template](https://github.com/seapagan/fastapi-template) - A Configurable template for a FastAPI application, with Authentication, User integration, Admin pages and a snappy CLI to control it all!
@@ -4412,6 +4411,7 @@
 
 ## TypeScript 
 
+- [ski043/Marshal-Saas](https://github.com/ski043/Marshal-Saas) - Create a SaaS Application with Next.js.14, Stripe, Kinde, Prisma, Supabase and Tailwind
 - [chrismaltby/gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
 - [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - Open Source Application for Advanced LLM Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.
 - [badboysm890/ClaraVerse](https://github.com/badboysm890/ClaraVerse) - Clara — Privacy-first, fully local AI workspace with Ollama LLM chat, tool calling, agent builder, Stable Diffusion, and embedded n8n-style automation. No backend. No API keys. Just your stack, your m
@@ -4434,6 +4434,7 @@
 - [quillforms/quillforms](https://github.com/quillforms/quillforms) - Open Source TypeForm Alternative Based on React JS and Typescript | Best Typeform Clone |  Conversational Multi Step Form
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
 - [groq/groq-appgen](https://github.com/groq/groq-appgen) - Project showcasing Llama 3.3 70B HTML codegen abilities
+- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - All-In-One Full-Stack Environment Management Tool. Core Modules: Ollama, DeepSeek, Chatbox. Apache, Nginx, Caddy, Tomcat. MySQL, MariaDB, PostgreSQL, MongoDB. Mailpit. PHP, Java, NodeJS, Python, Go, E
 - [hywax/mafl](https://github.com/hywax/mafl) - Minimalistic flexible homepage
 - [DouglasNeuroInformatics/OpenDataCapture](https://github.com/DouglasNeuroInformatics/OpenDataCapture) - An electronic data capture platform for administering remote and in-person clinical instruments
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
@@ -4511,6 +4512,7 @@
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
+- [theosanderson/taxonium](https://github.com/theosanderson/taxonium) - A tool for exploring large trees in the browser
 - [StaticJsCMS/static-cms](https://github.com/StaticJsCMS/static-cms) - A Git-based CMS for Static Site Generators
 - [nodecg/nodecg](https://github.com/nodecg/nodecg) - Create broadcast graphics using Node.js and a browser
 - [flethy/flethy](https://github.com/flethy/flethy) - 
@@ -4689,6 +4691,7 @@
 - [sanvishal/wrighter](https://github.com/sanvishal/wrighter) - Wrighter - A Powerful Markdown Blogger & A Writing Companion | write the (w)right way
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Open-source identity infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 - [shlinkio/shlink-web-client](https://github.com/shlinkio/shlink-web-client) - A React-based client application for Shlink
+- [JetBrains/kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin programming language website
 - [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components
 - [naver/egjs-flicking](https://github.com/naver/egjs-flicking) - 🎠 ♻️ Everyday 30 million people experience. It's reliable, flexible and extendable carousel.
 - [naver/billboard.js](https://github.com/naver/billboard.js) - 📊 Re-usable, easy interface JavaScript chart library based on D3.js
@@ -4844,7 +4847,6 @@
 - [laurent22/TypeScript-Website](https://github.com/laurent22/TypeScript-Website) - The Website and web infrastructure for learning TypeScript
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [Winbee/joplin-turn-to-chart](https://github.com/Winbee/joplin-turn-to-chart) - Joplin plugin which renders an HTML chart based on markdown or csv tables
-- [prabhuignoto/react-creme](https://github.com/prabhuignoto/react-creme) - Comprehensive UI Tool Kit for React
 - [fkhadra/react-morphing-modal](https://github.com/fkhadra/react-morphing-modal) - React fullscreen modal with swag 😎
 - [fkhadra/react-contexify](https://github.com/fkhadra/react-contexify) - 👌 Add a context menu to your react app with ease
 - [hejny/Ukraine](https://github.com/hejny/Ukraine) - Help Ukraine - add ribbon with Ukraine flag into the website you manage, show the anti-war message to Russian users, or block them from your service.
@@ -5449,6 +5451,7 @@
 - [sahat/satellizer](https://github.com/sahat/satellizer) - Token-based AngularJS Authentication
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [rocketseat-content/youtube-challenge-nestjs-graphql](https://github.com/rocketseat-content/youtube-challenge-nestjs-graphql) - GraphQL API with NestJS in Back-end. React in Front-end.
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [versatica/mediasoup-client](https://github.com/versatica/mediasoup-client) - mediasoup client side JavaScript library
@@ -5502,7 +5505,6 @@
 ## Vue 
 
 - [enpitsuLin/tres-the-aviator](https://github.com/enpitsuLin/tres-the-aviator) - The Aviator game built with TresJS and three.js r163
-- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - All-In-One Full-Stack Environment Management Tool. Core Modules: Ollama, DeepSeek, Chatbox. Apache, Nginx, Caddy, Tomcat. MySQL, MariaDB, PostgreSQL, MongoDB. Mailpit. PHP, Java, NodeJS, Python, Go, E
 - [araguaci/visao-ezequiel](https://github.com/araguaci/visao-ezequiel) - Ezequiel 1:1 - 3:27 - O chamado e a primeira visão de Ezequiel que chamado para ser o mensageiro de Deus para os judeus cativos na Babilônia.
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [frappe/helpdesk](https://github.com/frappe/helpdesk) - Modern, Streamlined, Free and Open Source Customer Service Software

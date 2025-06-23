@@ -145,6 +145,7 @@
 
 ## C 
 
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
 - [cesanta/mongoose](https://github.com/cesanta/mongoose) - Embedded web server, with TCP/IP network stack, MQTT and Websocket
@@ -625,6 +626,7 @@
 
 ## Go 
 
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 - [umutphp/awesome-cli](https://github.com/umutphp/awesome-cli) - A simple command line tool to give you a fancy command line interface to dive into Awesome lists.
@@ -781,6 +783,8 @@
 
 ## HTML 
 
+- [linus-sch/Mind-Map-Wizard](https://github.com/linus-sch/Mind-Map-Wizard) - Create infinite Mind Maps using AI. Totally free! No distractions, just that.
+- [leonardodepaula/olavodecarvalho.org](https://github.com/leonardodepaula/olavodecarvalho.org) - 
 - [ChrisTitusTech/linux-book-publish](https://github.com/ChrisTitusTech/linux-book-publish) - The Linux book
 - [ProfessoraBianca/Testimonials-Grid-Section-Challenge](https://github.com/ProfessoraBianca/Testimonials-Grid-Section-Challenge) - 
 - [HoanghoDev/youtube_v2](https://github.com/HoanghoDev/youtube_v2) - 
@@ -1239,7 +1243,6 @@
 - [clientIO/joint](https://github.com/clientIO/joint) - A proven SVG-based JavaScript diagramming library powering exceptional UIs
 - [Kiran1689/Awesome-Dev-Portfolios](https://github.com/Kiran1689/Awesome-Dev-Portfolios) - This repository aims to collect portfolios and their repositories from developers around the world.
 - [theosanderson/hospitalmedicines](https://github.com/theosanderson/hospitalmedicines) - 
-- [uwdata/mosaic](https://github.com/uwdata/mosaic) - An extensible framework for linking databases and interactive views.
 - [charming-art/charming](https://github.com/charming-art/charming) - Bring art and creativity to SVG and HTML.
 - [pearmini/genji](https://github.com/pearmini/genji) - A Markdown extension for interactive documents inspired by Observable Notebook, available in VitePress and Docusaurus.
 - [araguaci/bikedeboa](https://github.com/araguaci/bikedeboa) - A (Progressive) Web App to find, map and review bike parkings in the cities of Brazil.
@@ -1367,7 +1370,6 @@
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - A complete web conferencing system for virtual classes and more!
 - [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
-- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
 - [Mermade/widdershins](https://github.com/Mermade/widdershins) - OpenAPI / Swagger, AsyncAPI & Semoasa definitions to (re)Slate compatible markdown
 - [hodgef/react-simple-keyboard](https://github.com/hodgef/react-simple-keyboard) - React Virtual Keyboard - Customizable, responsive and lightweight
 - [ManualDoCodigo/website](https://github.com/ManualDoCodigo/website) - 
@@ -2169,7 +2171,7 @@
 - [warengonzaga/daisy.js](https://github.com/warengonzaga/daisy.js) - 📢 MAINTENANCE MODE: Web animation javascript plugin for beautiful background particle systems. The Maintained and LTS version of popular Particleground.
 - [alexkim205/G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Suite as a desktop app. Made possible with Electron.
 - [pauloanalista/BotWhatsApp](https://github.com/pauloanalista/BotWhatsApp) - BOT para WhatsAPP Web
-- [olton/metroui](https://github.com/olton/metroui) - Impressive component library for expressive web development! Build responsive projects on the web with the first front-end component library in Metro Style. And now there are even more opportunities e
+- [olton/metroui](https://github.com/olton/metroui) - A progressive front-end framework for creating high-performance responsive web applications!
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [eddiesigner/sketch-map-generator](https://github.com/eddiesigner/sketch-map-generator) - Sketch plugin to fill a shape with a map generated from a given location using Google Maps and Mapbox
 - [googlemaps/v3-utility-library](https://github.com/googlemaps/v3-utility-library) - Utility libraries for Google Maps JavaScript API v3
@@ -2723,6 +2725,7 @@
 
 ## Jupyter Notebook 
 
+- [ArvorCo/AssistancesUSA2025](https://github.com/ArvorCo/AssistancesUSA2025) - 
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [ArvorCo/GastosDesgov2023ateJan2025](https://github.com/ArvorCo/GastosDesgov2023ateJan2025) - 
@@ -2881,6 +2884,7 @@
 
 ## Others 
 
+- [ArvorCo/IAParaTodos-PromptEngineering](https://github.com/ArvorCo/IAParaTodos-PromptEngineering) - Repositório de Prompts do Curso IA Para Todos
 - [SeuAliado/OpenCEP](https://github.com/SeuAliado/OpenCEP) - WebService com Gateway de CEP Grátis para E-Commerce, ERP, NFe!
 - [tborychowski/self-hosted-cookbook](https://github.com/tborychowski/self-hosted-cookbook) - A cookbook, for docker-compose based recipes, for self-hosted applications and services.
 - [pandoc/pandoc-action-example](https://github.com/pandoc/pandoc-action-example) - using the pandoc document converter on GitHub Actions
@@ -3719,6 +3723,9 @@
 
 ## Python 
 
+- [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
+- [Anil-matcha/Chatbase-Alternative](https://github.com/Anil-matcha/Chatbase-Alternative) - ChatGPT for every website.Instantly answer your visitors' questions with a personalized chatbot trained on your website content. Alternative to Chatbase, SiteGPT, Dante AI
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support.
 - [receyuki/stable-diffusion-prompt-reader](https://github.com/receyuki/stable-diffusion-prompt-reader) - A simple standalone viewer for reading prompts from Stable Diffusion generated image outside the webui.
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
@@ -4081,7 +4088,7 @@
 - [davidpiegza/graphit](https://github.com/davidpiegza/graphit) - 3D Graph Visualization with WebGL (Rail Web-Application)
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [avo-hq/main.avodemo.com](https://github.com/avo-hq/main.avodemo.com) - Avo demo app
-- [avo-hq/avo](https://github.com/avo-hq/avo) - Build Ruby on Rails apps 10x faster
+- [avo-hq/avo](https://github.com/avo-hq/avo) - The Essential Toolkit for building Internal Tools and admin panels with Ruby on Rails
 - [natalie-lang/natalie](https://github.com/natalie-lang/natalie) - a work-in-progress Ruby compiler, written in Ruby and C++
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
@@ -4113,6 +4120,7 @@
 
 ## Rust 
 
+- [letmutex/htmd](https://github.com/letmutex/htmd) - A turndown.js inspired HTML to Markdown converter for Rust
 - [JoaoPedroRMatias/host-scan](https://github.com/JoaoPedroRMatias/host-scan) - Tool to scan hosts on the network made in Rust.
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
@@ -4430,6 +4438,7 @@
 
 ## TypeScript 
 
+- [astashov/liftosaur](https://github.com/astashov/liftosaur) - Weightlifting tracker app for coders
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
 - [lmstudio-ai/lmstudio-js](https://github.com/lmstudio-ai/lmstudio-js) - LM Studio TypeScript SDK
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. Extremely fast, scalable, memory API for the AI era.
@@ -4536,6 +4545,7 @@
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
 - [theosanderson/taxonium](https://github.com/theosanderson/taxonium) - A tool for exploring large trees in the browser
+- [uwdata/mosaic](https://github.com/uwdata/mosaic) - An extensible framework for linking databases and interactive views.
 - [StaticJsCMS/static-cms](https://github.com/StaticJsCMS/static-cms) - A Git-based CMS for Static Site Generators
 - [nodecg/nodecg](https://github.com/nodecg/nodecg) - Create broadcast graphics using Node.js and a browser
 - [flethy/flethy](https://github.com/flethy/flethy) - 
@@ -4664,6 +4674,7 @@
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [wppconnect-team/wppconnect](https://github.com/wppconnect-team/wppconnect) - WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interacti
+- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
 - [frappe/books](https://github.com/frappe/books) - Free Accounting Software
 - [hodgef/apiker](https://github.com/hodgef/apiker) - 🔼 Create Serverless APIs with Cloudflare Workers, Durable Objects & Wrangler
 - [epicweb-dev/react-hooks](https://github.com/epicweb-dev/react-hooks) - Learn React Hooks! 🎣 ⚛
@@ -5537,7 +5548,7 @@
 - [araguaci/partido-das-sombras](https://github.com/araguaci/partido-das-sombras) - Do Partido das Sombras ao Governo Clandestino. ~~DAVID HOROWITZ
 - [HoceineEl/nike-website](https://github.com/HoceineEl/nike-website) - a simple nike website using VueJs3 && Tailwindcss
 - [Tresjs/tres](https://github.com/Tresjs/tres) - Declarative ThreeJS using Vue Components
-- [dd3v/favbox](https://github.com/dd3v/favbox) - ❤️FavBox is a browser extension that simplifies and improves bookmark management, without relying on external cloud storage or third-party services
+- [dd3v/favbox](https://github.com/dd3v/favbox) - 🖤 FavBox is a local-first experimental browser extension that enhances and simplifies bookmark management without cloud storage or third-party services.
 - [bohr-io/bohr-io](https://github.com/bohr-io/bohr-io) - A primeira plataforma serverless brasileira
 - [openivity/openivity.github.io](https://github.com/openivity/openivity.github.io) - An open-source fitness analytic platform offering data visualization (with OpenStreetMap), edit, convert, and combine multiple FIT, GPX, and TCX activity files. 100% client-side power! (WebAssembly)
 - [araguaci/as-seis-licoes-ludwig-von-mises](https://github.com/araguaci/as-seis-licoes-ludwig-von-mises) - O presente livro reflete plenamente a posição fundamental do autor, que lhe valeu – e ainda lhe vale – a admiração dos discípulos e os insultos dos adversários.

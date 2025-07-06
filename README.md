@@ -301,6 +301,7 @@
 
 ## C++ 
 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
 - [serge-sans-paille/frozen](https://github.com/serge-sans-paille/frozen) - a header-only, constexpr alternative to gperf for C++14 users
@@ -396,6 +397,7 @@
 
 ## CSS 
 
+- [flick9000/winscript](https://github.com/flick9000/winscript) - Open-source tool to build your Windows script from scratch. It includes debloat, privacy, performance & app installing scripts.
 - [karloespiritu/cheatsheets](https://github.com/karloespiritu/cheatsheets) - A  collection of code cheatsheets that I've written to easily remember the commonly used syntax of a language or software.
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [araguaci/viacrucis](https://github.com/araguaci/viacrucis) - A Via Sacra é uma das mais antigas formas de se meditar a Paixão de Cristo. A expressão vem do latim e significa “caminho sagrado”: literalmente falando, nada mais é que o trajeto percorrido por Nosso
@@ -626,6 +628,7 @@
 
 ## Go 
 
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
@@ -1112,7 +1115,6 @@
 - [apilayer/restcountries](https://github.com/apilayer/restcountries) - Get information about countries via a RESTful API
 - [apache/openmeetings](https://github.com/apache/openmeetings) - Mirror of Apache Openmeetings
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
-- [sudheerj/datastructures-algorithms](https://github.com/sudheerj/datastructures-algorithms) - List of Programs related to data structures and algorithms
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [freeplane/freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
@@ -1185,6 +1187,7 @@
 
 ## JavaScript 
 
+- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -1192,6 +1195,7 @@
 - [feelgooddd/browser-extensions-manager-ui-main](https://github.com/feelgooddd/browser-extensions-manager-ui-main) - 
 - [aditeyapatakoti/CodeHS-IntroIntoJavascript](https://github.com/aditeyapatakoti/CodeHS-IntroIntoJavascript) - (2025) Answers + Code to every quiz and assignment needed in the CodeHS course "Intro Into JavaScript"
 - [jzillmann/pdf-to-markdown](https://github.com/jzillmann/pdf-to-markdown) - A PDF to Markdown converter
+- [quillforms/quillforms](https://github.com/quillforms/quillforms) - Open Source TypeForm Alternative Based on React JS and Typescript | Best Typeform Clone |  Conversational Multi Step Form
 - [pegaltier/awesome-utils-dev](https://github.com/pegaltier/awesome-utils-dev) - 📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...
 - [donjmilligan/flare-bible-study](https://github.com/donjmilligan/flare-bible-study) - Interactive bible cross reference charts using D3.js, with multiple translations from an SQL database
 - [pujux/badge-it](https://github.com/pujux/badge-it) - An API serving useful badges for your GitHub Profile README 🚀🎉 Formerly known as git-badges.
@@ -1209,6 +1213,7 @@
 - [adafruit/Adafruit-Pi-Finder](https://github.com/adafruit/Adafruit-Pi-Finder) - Find and set up your brand new Raspberry Pi
 - [miroslavpejic85/mirotalkwebrtc](https://github.com/miroslavpejic85/mirotalkwebrtc) - 🛠 MiroTalk's WebRTC rooms scheduler.
 - [miroslavpejic85/call-me](https://github.com/miroslavpejic85/call-me) - 🟢 Call-Me: Your Go-To for Instant Video Calls!
+- [sudheerj/datastructures-algorithms](https://github.com/sudheerj/datastructures-algorithms) - List of Programs related to data structures and algorithms
 - [ColinEberhardt/applause-button](https://github.com/ColinEberhardt/applause-button) - A zero-configuration medium-style button for adding applause / claps / kudos to web pages and blog posts
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [MishanPoudel/Windows11-3.0](https://github.com/MishanPoudel/Windows11-3.0) - Experience the look and feel of Windows 11 directly in your browser with this web-based clone. Enjoy a similar user interface and functionality.
@@ -3068,7 +3073,7 @@
 - [alan-ai/alan-sdk-web](https://github.com/alan-ai/alan-sdk-web) - The Self-Coding System for Your App — Alan AI SDK for Web
 - [yiisoft/docs](https://github.com/yiisoft/docs) - Various Yii 3.0 related documentation
 - [RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources) - This repository contains content which will be helpful in your journey as a front-end Web Developer
-- [SimplifyJobs/Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships) - Collection of Summer 2025 tech internships!
+- [SimplifyJobs/Summer2026-Internships](https://github.com/SimplifyJobs/Summer2026-Internships) - Collection of Summer 2026 tech internships!
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [merklefruit/SaaS4Devs](https://github.com/merklefruit/SaaS4Devs) - Awesome collection of content for developers trying to bootstrap their SaaS
@@ -3213,6 +3218,7 @@
 
 ## PHP 
 
+- [araguaci/coolify](https://github.com/araguaci/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Open-source user intelligence platform. Monitor, analyze, and protect your apps from cyber, insider, and account threats. Get started — free.
 - [KoreaComK/visao-libertaria-site](https://github.com/KoreaComK/visao-libertaria-site) - Nova versão do site do projeto Visão Libertária
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binaries on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
@@ -4345,7 +4351,7 @@
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
 - [armbian/build](https://github.com/armbian/build) - Armbian Linux build framework generates custom Debian or Ubuntu image for x86, aarch64, riscv64 & armhf
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
-- [teddysun/lamp](https://github.com/teddysun/lamp) - Install LAMP (Linux + Apache + MySQL/MariaDB + PHP) for AlmaLinux/RockyLinux/CentOS/Debian/Ubuntu
+- [teddysun/lamp](https://github.com/teddysun/lamp) - Install LAMP (Linux + Apache + MariaDB + PHP) for AlmaLinux/RockyLinux/CentOS/Debian/Ubuntu
 - [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [capyvara/brazil-civil-registry-data](https://github.com/capyvara/brazil-civil-registry-data) - Raw scrapings of ARPEN https://transparencia.registrocivil.org.br/
@@ -4449,6 +4455,9 @@
 
 ## TypeScript 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
+- [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [langwatch/langwatch](https://github.com/langwatch/langwatch) - The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨
 - [astashov/liftosaur](https://github.com/astashov/liftosaur) - Weightlifting tracker app for coders
@@ -4477,7 +4486,6 @@
 - [parcelvoy/platform](https://github.com/parcelvoy/platform) - Parcelvoy: Open source multi-channel marketing automation platform. Send data-driven emails, sms, push notifications and more!
 - [laudspeaker/laudspeaker](https://github.com/laudspeaker/laudspeaker) - 📢 Laudspeaker is an Open Source Customer Engagement and Product Onboarding Platform. Open Source alternative to  Braze /  One Signal / Customer Io / Appcues / Pendo . Use Laudspeaker to design product
 - [ski043/job-marshal-finale-locale](https://github.com/ski043/job-marshal-finale-locale) - 
-- [quillforms/quillforms](https://github.com/quillforms/quillforms) - Open Source TypeForm Alternative Based on React JS and Typescript | Best Typeform Clone |  Conversational Multi Step Form
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
 - [groq/groq-appgen](https://github.com/groq/groq-appgen) - Project showcasing Llama 3.3 70B HTML codegen abilities
 - [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - All-In-One Full-Stack Environment Management Tool. Help developers quickly set up a local development environment. Core Modules: Ollama, DeepSeek, Apache, Nginx, Caddy, Tomcat. MySQL, MariaDB, Postgre
@@ -4492,7 +4500,7 @@
 - [awesomehub/app](https://github.com/awesomehub/app) - Angular application for AwesomeHub
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message searc
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [wdevon99/Next-js-starter](https://github.com/wdevon99/Next-js-starter) - Full-stack starter template 2024
 - [kareemmahlees/tablex](https://github.com/kareemmahlees/tablex) - Cross-Platform table viewer written in Rust

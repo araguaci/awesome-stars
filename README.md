@@ -1197,6 +1197,7 @@
 
 ## JavaScript 
 
+- [mbloch/mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files
 - [araguaci/ToolJet](https://github.com/araguaci/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
@@ -4160,7 +4161,7 @@
 - [JoaoPedroRMatias/host-scan](https://github.com/JoaoPedroRMatias/host-scan) - Tool to scan hosts on the network made in Rust.
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, Microsoft SQL Server]
+- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, DuckDB, Microsoft SQL Server]
 - [brndnmtthws/cracking-the-coding-interview-rust](https://github.com/brndnmtthws/cracking-the-coding-interview-rust) - Cracking the Coding Interview problem solutions in Rust
 - [QuantumEntangledAndy/neolink](https://github.com/QuantumEntangledAndy/neolink) - An RTSP bridge to Reolink IP cameras
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -4480,6 +4481,7 @@
 
 ## TypeScript 
 
+- [araguaci/abusosupremo](https://github.com/araguaci/abusosupremo) - Censura no Brasil (2019-2025) Uma análise dos casos de censura judicial, midiática e eleitoral no Brasil durante o período de 2019 a 2024.
 - [Sofiane-Bahmed/portfolio-template](https://github.com/Sofiane-Bahmed/portfolio-template) - A sleek, modern, and open-source developer portfolio template. Features beautiful animations, a      theme switcher, and is easily customizable. Fork it and create your own stunning portfolio in minut
 - [araguaci/futuroroubado](https://github.com/araguaci/futuroroubado) - Linha do Tempo de Escândalos Políticos Uma retrospectiva dos principais casos de corrupção no Brasil.
 - [Nutlope/turboseek](https://github.com/Nutlope/turboseek) - An AI search engine inspired by Perplexity
@@ -4572,7 +4574,7 @@
 - [Yummygum/flagpack-core](https://github.com/Yummygum/flagpack-core) - Flagpack contains 250+ flag icons to easily use within your code project.
 - [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
-- [penxio/penx](https://github.com/penxio/penx) - A structured note-taking App.
+- [penxio/penx](https://github.com/penxio/penx) - AI Powered Personal Data Hub
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 - [araguaci/code-like-a-journalist](https://github.com/araguaci/code-like-a-journalist) - A free and open-source online course for anyone interested in data analysis and data visualization with JavaScript/TypeScript.
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with comma

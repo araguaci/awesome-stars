@@ -799,6 +799,7 @@
 
 ## HTML 
 
+- [araguaci/observatoriobrasil](https://github.com/araguaci/observatoriobrasil) - 
 - [f/mcp-startup-boilerplate](https://github.com/f/mcp-startup-boilerplate) - 
 - [linus-sch/Mind-Map-Wizard](https://github.com/linus-sch/Mind-Map-Wizard) - Create mind maps using artificial intelligence. No distractions, just that.
 - [leonardodepaula/olavodecarvalho.org](https://github.com/leonardodepaula/olavodecarvalho.org) - 
@@ -3017,7 +3018,6 @@
 - [cassiobotaro/vimbook](https://github.com/cassiobotaro/vimbook) - :book: Um livro escrito em português sobre o editor de texto Vim
 - [matthiasjost/dotnet-content-creators](https://github.com/matthiasjost/dotnet-content-creators) - ⚡A list of .NET content creators
 - [curated-intel/CTI-fundamentals](https://github.com/curated-intel/CTI-fundamentals) - A collection of papers, blogs, and resources that make up the quintessential aspects of cyber threat intelligence
-- [MicrosoftDocs/windows-itpro-docs](https://github.com/MicrosoftDocs/windows-itpro-docs) - This repository is used for Windows client for IT Pro content on Microsoft Learn.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2025
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
@@ -3256,7 +3256,7 @@
 - [KateMorley/grid](https://github.com/KateMorley/grid) - Source code for National Grid: Live at https://grid.iamkate.com/
 - [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly.
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
-- [filamentphp/filament](https://github.com/filamentphp/filament) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
+- [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire
 - [LibreBooking/app](https://github.com/LibreBooking/app) - LibreBooking is an open-source resource scheduling solution. It provides a flexible, mobile-friendly, and extensible interface for organizations to manage resource reservations. The "develop" branch c
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [oroinc/crm-application](https://github.com/oroinc/crm-application) - OroCRM - an open-source Customer Relationship Management application.
@@ -3446,6 +3446,7 @@
 - [samdark/sitemap](https://github.com/samdark/sitemap) - Sitemap and sitemap index builder
 - [samdark/yiipowered](https://github.com/samdark/yiipowered) - Yii powered websites showcase
 - [Plataformas-Cidadania/portalosc](https://github.com/Plataformas-Cidadania/portalosc) - 
+- [arnonrdp/LivroLog](https://github.com/arnonrdp/LivroLog) - A place for you to collect everything you've read.
 - [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml. Any help is welcome!
 - [hisune/Echarts-PHP](https://github.com/hisune/Echarts-PHP) - Echarts-PHP a PHP library that works as a wrapper for the Echarts js library
 - [Gregwar/Captcha](https://github.com/Gregwar/Captcha) - PHP Captcha library
@@ -4964,7 +4965,7 @@
 - [babel/website](https://github.com/babel/website) - :globe_with_meridians: The Babel documentation website
 - [typesense/docusaurus-theme-search-typesense](https://github.com/typesense/docusaurus-theme-search-typesense) - A fork of the awesome @docusaurus/theme-search-algolia library customized to work with Typesense
 - [iotaledger/iota-wiki](https://github.com/iotaledger/iota-wiki) - IOTA Wiki
-- [jahirfiquitiva/jahir.dev](https://github.com/jahirfiquitiva/jahir.dev) - My personal website ☻  –  Built using Next.js, TypeScript, Tailwind CSS and MDX
+- [jahirfiquitiva/jahir.dev](https://github.com/jahirfiquitiva/jahir.dev) - My (previous) personal website ☻  –  Built using Next.js, TypeScript, Tailwind CSS and MDX
 - [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev) - My portfolio rebuilt from the ground up using Next.js 15, Tailwind, Supabase, and Framer Motion! Deployed on Vercel ▲
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 - [jahirfiquitiva/world-holidays](https://github.com/jahirfiquitiva/world-holidays) - Get to know the upcoming worldwide holidays
@@ -5699,7 +5700,6 @@
 - [LeCoupa/vuedarkmode](https://github.com/LeCoupa/vuedarkmode) - 👩‍🎨👨‍🎨 A minimalist dark design system for Vue.js. Based components designed for the insomniacs who enjoy dark interfaces as much as we do.
 - [hawkeye64/iconexplorer.app](https://github.com/hawkeye64/iconexplorer.app) - :zap: Icon Explorer application for Quasar Framework SVG icons. Over 140,000 searchable icons and growing.
 - [hujiulong/vue-3d-model](https://github.com/hujiulong/vue-3d-model) - 📷 vue.js 3D model viewer component
-- [arnonrdp/LivroLog](https://github.com/arnonrdp/LivroLog) - A place for you to collect everything you've read.
 - [sumitkolhe/krates](https://github.com/sumitkolhe/krates) - :package: A free HTTP based JSON storage service
 - [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Vuestic UI is an open-source Vue 3 component library designed for rapid development, easy maintenance, and high accessibility. Maintained by Epicmax (@epicmaxco).
 - [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Vuestic Admin is an open-source, ready-to-use admin template suite designed for rapid development, easy maintenance, and high accessibility. Built on Vuestic UI, Vue 3, Vite, Pinia, and Tailwind CSS. 

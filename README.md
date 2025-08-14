@@ -799,6 +799,8 @@
 
 ## HTML 
 
+- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
+- [araguaci/lawfare](https://github.com/araguaci/lawfare) - Análises imparciais de corrupção no judiciário brasileiro, interferências em eleições (USAID-TSE) e abusos constitucionais. Compilamos fatos públicos, cronologias e reformas para transparência e sober
 - [araguaci/observatoriobrasil](https://github.com/araguaci/observatoriobrasil) - 
 - [f/mcp-startup-boilerplate](https://github.com/f/mcp-startup-boilerplate) - 
 - [linus-sch/Mind-Map-Wizard](https://github.com/linus-sch/Mind-Map-Wizard) - Create mind maps using artificial intelligence. No distractions, just that.
@@ -2687,7 +2689,7 @@
 - [mattdiamond/Recorderjs](https://github.com/mattdiamond/Recorderjs) - A plugin for recording/exporting the output of Web Audio API nodes
 - [gillesdemey/node-record-lpcm16](https://github.com/gillesdemey/node-record-lpcm16) - :microphone: Records a 16-bit signed-integer linear pulse modulation code encoded audio file.
 - [zzarcon/chaosocket](https://github.com/zzarcon/chaosocket) - :boom: Mock WebSockets and create chaos :boom:
-- [versatica/tryit-jssip](https://github.com/versatica/tryit-jssip) - New tryit-jssip application
+- [versatica/tryit-jssip](https://github.com/versatica/tryit-jssip) - tryit-jssip application
 - [ricardojlrufino/webphone-sip](https://github.com/ricardojlrufino/webphone-sip) - WebRTC SIP based VoIP client software (+chrome extension)
 - [onsip/sipjs-examples](https://github.com/onsip/sipjs-examples) - Example applications using SIP.js
 - [sockjs/sockjs-client](https://github.com/sockjs/sockjs-client) - WebSocket emulation - Javascript client
@@ -2744,7 +2746,7 @@
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-w
 - [ArvorCo/AssistancesUSA2025](https://github.com/ArvorCo/AssistancesUSA2025) - 
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [ArvorCo/GastosDesgov2023ateJan2025](https://github.com/ArvorCo/GastosDesgov2023ateJan2025) - 
 - [araguaci/whisper-youtube](https://github.com/araguaci/whisper-youtube) - 🔉 Youtube Videos Transcription with OpenAI's Whisper
 - [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - 🔉 Youtube Videos Transcription with OpenAI's Whisper
@@ -4293,7 +4295,7 @@
 ## Shell 
 
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
-- [homebridge/docker-homebridge](https://github.com/homebridge/docker-homebridge) - Homebridge Docker. HomeKit support for the impatient using Docker on x86_64, Raspberry Pi (armhf) and ARM64. Includes ffmpeg + libfdk-aac.
+- [homebridge/docker-homebridge](https://github.com/homebridge/docker-homebridge) - Homebridge Docker. HomeKit support for the impatient using Docker on x86_64, Raspberry Pi (ARM64). Includes ffmpeg + libfdk-aac.
 - [buanet/ioBroker.docker](https://github.com/buanet/ioBroker.docker) - Official Docker Image for ioBroker
 - [ChrisTitusTech/mybash](https://github.com/ChrisTitusTech/mybash) - My Bash profile - Highly customized Starship Theme - Just imagine Powerlevel10k and Nord Theme had a baby.
 - [debuerreotype/docker-debian-artifacts](https://github.com/debuerreotype/docker-debian-artifacts) - Official builds of debuerreotype-generated Debian tarballs for use in Docker
@@ -4848,7 +4850,7 @@
 - [ringcentral/ringcentral-embeddable](https://github.com/ringcentral/ringcentral-embeddable) - RingCentral Embeddable widget
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [antfu-collective/vitesse-lite](https://github.com/antfu-collective/vitesse-lite) - ⛺️ Lightweight version of Vitesse
-- [antfu/vitesse-nuxt](https://github.com/antfu/vitesse-nuxt) - Vitesse for Nuxt 3 🏔💚⚡️
+- [antfu/vitesse-nuxt](https://github.com/antfu/vitesse-nuxt) - Vitesse for Nuxt 4 🏔💚⚡️
 - [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
 - [caoxiemeihao/electron-vite-boilerplate](https://github.com/caoxiemeihao/electron-vite-boilerplate) - 📚 Really simple Electron + Vite boilerplate.
 - [samuelmeuli/mini-diary](https://github.com/samuelmeuli/mini-diary) - 📘 Simple and secure journal app

@@ -653,7 +653,7 @@
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
-- [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
+- [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
 - [umutphp/awesome-cli](https://github.com/umutphp/awesome-cli) - A simple command line tool to give you a fancy command line interface to dive into Awesome lists.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -1327,6 +1327,7 @@
 - [hanakamer/mp3-player](https://github.com/hanakamer/mp3-player) - 🎧 mp3 player
 - [ksky521/nodeppt](https://github.com/ksky521/nodeppt) - This is probably the best web presentation tool so far!
 - [balajmarius/commit4](https://github.com/balajmarius/commit4) - Winner of Game Off 2017.
+- [antfu/talks](https://github.com/antfu/talks) - Slides & code for my talks
 - [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集
 - [zhuyingda/webster](https://github.com/zhuyingda/webster) - a reliable high-level web crawling & scraping framework for Node.js.
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
@@ -5671,7 +5672,6 @@
 - [jainism-portal/jainaagam](https://github.com/jainism-portal/jainaagam) - A beautiful multilingual voluminous database of all 45 Jain Aagam - the supreme Prakrit language scriptures of Jainism - by @ManasMadrecha 🙏🏻 https://aagam.jainism.info
 - [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
-- [antfu/talks](https://github.com/antfu/talks) - Slides & code for my talks
 - [araguaci/mentes-perigosas](https://github.com/araguaci/mentes-perigosas) - No mundo, aproximadamente 4% da população sofre desse tipo de transtorno de personalidade.
 - [araguaci/supremos-erros](https://github.com/araguaci/supremos-erros) - Decisões Inconstitucionais do STF
 - [araguaci/satiagraha](https://github.com/araguaci/satiagraha) - Operação Satiagraha: Os bastidores da maior operação já feita pela Policia Federal

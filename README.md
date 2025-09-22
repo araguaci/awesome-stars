@@ -112,7 +112,7 @@
 - [Lissy93/git-in](https://github.com/Lissy93/git-in) - 🫶 "git" into opensource. A roadmap and set of guides to help you get started with open source
 - [delucis/astro-badge](https://github.com/delucis/astro-badge) - Badges for Astro projects
 - [delucis/astro-embed](https://github.com/delucis/astro-embed) - Low-JavaScript embed components for Astro websites
-- [araguaci/rosario-em-latim](https://github.com/araguaci/rosario-em-latim) - Rosário em Latim com o Papa Bento XVI
+- [araguaci/rosario-em-latim](https://github.com/araguaci/rosario-em-latim) - Rosário em Latim com o Papa Bento XVI https://rosarioemlatim.netlify.app/
 - [satnaing/astro-paper](https://github.com/satnaing/astro-paper) - A minimal, accessible and SEO-friendly Astro blog theme
 - [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) - Complete list of free stuff for developer
 - [paabloLC/astro-neumorphism](https://github.com/paabloLC/astro-neumorphism) - A simple and responsive template focused on the entire UI design style with neumorphism styles. Built with AstroJS, TypeScript, Preact, and styled with Tailwind CSS.
@@ -290,7 +290,7 @@
 - [AiursoftWeb/Infrastructures](https://github.com/AiursoftWeb/Infrastructures) - Mirror of: https://gitlab.aiursoft.cn/aiursoft/infrastructures
 - [AiursoftWeb/Kahla.Obsolete](https://github.com/AiursoftWeb/Kahla.Obsolete) - Mirror of https://gitlab.aiursoft.cn/aiursoft/Kahla
 - [AiursoftWeb/Kahla](https://github.com/AiursoftWeb/Kahla) - Kahla is a cross-platform business messaging app. Mirror of https://gitlab.aiursoft.cn/aiursoft/kahla
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 - [dotnet/ClangSharp](https://github.com/dotnet/ClangSharp) - Clang bindings for .NET written in C#
 - [peachpiecompiler/peachpie](https://github.com/peachpiecompiler/peachpie) - PeachPie - the PHP compiler and runtime for .NET and .NET Core
 - [ipphone/core](https://github.com/ipphone/core) - IP Phone – lightweight SIP softphone for Windows
@@ -1080,7 +1080,7 @@
 - [zenorocha/voice-elements](https://github.com/zenorocha/voice-elements) - :speaker: Web Component wrapper to the Web Speech API, that allows you to do voice recognition and speech synthesis using Polymer
 - [mdn/interactive-examples](https://github.com/mdn/interactive-examples) - Home of the MDN live code editor interactive examples
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
-- [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ Recognize all contributors, not just the ones who push code ✨
+- [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 - [ionic-team/ionic-docs](https://github.com/ionic-team/ionic-docs) - 
 - [creativetimofficial/argon-dashboard-angular](https://github.com/creativetimofficial/argon-dashboard-angular) - 
 - [afonsopacifer/open-source-checklist](https://github.com/afonsopacifer/open-source-checklist) - :octocat: A guide to help you remember important things when creating an open source project ;D
@@ -1294,7 +1294,6 @@
 - [bikedeboa/bikedeboa](https://github.com/bikedeboa/bikedeboa) - A (Progressive) Web App to find, map and review bike parkings in the cities of Brazil.
 - [cmdalbem/ciclomapa](https://github.com/cmdalbem/ciclomapa) - Beautiful, interactive & open bike maps of Brazilian cities. Powered by OpenStreetMap.
 - [sitek94/pocket-globe-app](https://github.com/sitek94/pocket-globe-app) - Use the draggable and zoomable globe to explore the countries of the world.
-- [araguaci/artesdosul](https://github.com/araguaci/artesdosul) - This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 - [araguaci/yo-webapp-earth](https://github.com/araguaci/yo-webapp-earth) - Work In Progress. For meditation with Tzolkin Noosfera http://gaia.artesdosul.com/
 - [palewire/news-homepages](https://github.com/palewire/news-homepages) - An open-source archive that gathers, saves, shares and analyzes news homepages
 - [rupali-codes/Task-manager](https://github.com/rupali-codes/Task-manager) - This Task manager will help you to keep you on track and to follow your daily routine. You can add your daily tasks and take notes for different things, also you can remove them once you're done with 
@@ -2929,6 +2928,7 @@
 
 ## Others 
 
+- [jarulraj/periodic-table](https://github.com/jarulraj/periodic-table) - A Periodic Table of System Design Principles
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 - [atfortes/Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning) - From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓

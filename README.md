@@ -1203,7 +1203,6 @@
 - [avjinder/Minimal-Todo](https://github.com/avjinder/Minimal-Todo) - Material To-Do App
 - [1hakr/AnExplorer](https://github.com/1hakr/AnExplorer) - 📁 Another Android Explorer ( File Manager ) is an All-in-One Open source file manager. AnExplorer File Manager (File Explorer) is designed for all android devices including Phones, Phablets, Tablets, 
 - [dkim0419/SoundRecorder](https://github.com/dkim0419/SoundRecorder) - A simple sound recording app implementing Material Design
-- [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 - [lijy91-archives-repos/flutter_flipperkit](https://github.com/lijy91-archives-repos/flutter_flipperkit) - Flipper (Extensible mobile app debugger) for flutter.
 - [jitterbit/dropbox-connector](https://github.com/jitterbit/dropbox-connector) - An example Jitterbit Harmony Connector that interacts with Dropbox.
 - [ionic-team/capacitor-plugins](https://github.com/ionic-team/capacitor-plugins) - Official plugins for Capacitor ⚡️
@@ -2824,6 +2823,7 @@
 - [frapontillo/EasyImage](https://github.com/frapontillo/EasyImage) - Library for picking pictures from gallery or camera
 - [android/compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
 - [android/uamp](https://github.com/android/uamp) - A sample audio app for Android
+- [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 - [oblador/react-native-keychain](https://github.com/oblador/react-native-keychain) - :key: Keychain Access for React Native
 - [readrops/Readrops](https://github.com/readrops/Readrops) - Android multi-services RSS client
 - [aebrer/uncomplicatedIChing](https://github.com/aebrer/uncomplicatedIChing) - A repo for the source code of my I Ching Android app
@@ -4527,7 +4527,7 @@
 - [Nutlope/self.so](https://github.com/Nutlope/self.so) - LinkedIn -&gt; personal site generator
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - An open-source AI agent that brings the power of Grok directly into your terminal.
-- [bknd-io/bknd](https://github.com/bknd-io/bknd) - Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda & more.
+- [bknd-io/bknd](https://github.com/bknd-io/bknd) - Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, React Router, Astro, Cloudflare, Bun, Node, AWS Lambda & more.
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
@@ -5256,7 +5256,7 @@
 - [blastrain/pixi-after-effects](https://github.com/blastrain/pixi-after-effects) - play AfterEffects animation by pixi.js
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [deverebor/Letmeask](https://github.com/deverebor/Letmeask) - Projeto feito durante a Next Level Week da RocketSeat que me disponibilizou a bolsa para o Ignite.
-- [n8tb1t/use-scroll-position](https://github.com/n8tb1t/use-scroll-position) - Use scroll position ReactJS hook done right
+- [n8tb1t/use-scroll-position](https://github.com/n8tb1t/use-scroll-position) - Track Scroll Like a Pro – React Hook for Smooth UI
 - [birobirobiro/nlw-06-gameplay](https://github.com/birobirobiro/nlw-06-gameplay) - This is a project developed during the Next Level Week Together, presented by Rocketseat during June 2021.
 - [birobirobiro/nlw-05-plantmanager](https://github.com/birobirobiro/nlw-05-plantmanager) - NLW#05 - PlantManager
 - [jos3s/nlw06-letmeask](https://github.com/jos3s/nlw06-letmeask) - Projeto da 6 NLW de React da @Rocketseat, desenvolvido utilizando Firebase, Styled-Components e Typescript.

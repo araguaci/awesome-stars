@@ -645,6 +645,8 @@
 
 ## Go 
 
+- [araguaci/whatsmeow](https://github.com/araguaci/whatsmeow) - Go library for the WhatsApp web multidevice API
+- [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
 - [coder/agentapi](https://github.com/coder/agentapi) - HTTP API for Claude Code, Goose, Aider, Gemini, Amp, and Codex
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
@@ -1020,7 +1022,7 @@
 - [ykob/shape-overlays](https://github.com/ykob/shape-overlays) - Multi-layered SVG shape overlays with adjustable values for a variety of effects. By Yoichi Kobayashi.
 - [Kamona-WD/kwd-dashboard](https://github.com/Kamona-WD/kwd-dashboard) - Fully responsive dashboard template built with tailwindcss & alpinejs
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
-- [jsdelivr/www.jsdelivr.com](https://github.com/jsdelivr/www.jsdelivr.com) - The official jsDelivr & Globalping websites
+- [jsdelivr/www.jsdelivr.com](https://github.com/jsdelivr/www.jsdelivr.com) - The official jsDelivr website
 - [FlorianFe/Elements](https://github.com/FlorianFe/Elements) - ⚛⚗ A desktop App which displays the periodic table
 - [ionic-team/ionic-preview-app](https://github.com/ionic-team/ionic-preview-app) - The Ionic Component Demos
 - [GoogleChrome/developer.chrome.com](https://github.com/GoogleChrome/developer.chrome.com) - The frontend, backend, and content source code for developer.chrome.com
@@ -1311,14 +1313,14 @@
 - [wri/gfw](https://github.com/wri/gfw) - Global Forest Watch: An online, global, near-real time forest monitoring tool
 - [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 - [thumbsup/thumbsup](https://github.com/thumbsup/thumbsup) - Generate static HTML photo / video galleries
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [anuraghazra/anuraghazra.github.io](https://github.com/anuraghazra/anuraghazra.github.io) - My Portfolio Site | Made With @Gatsbyjs
 - [araguaci/os-quatro-compromissos](https://github.com/araguaci/os-quatro-compromissos) - O livro da Filosofia Tolteca. Um guia prático para a liberdade pessoal.
 - [MadobyPy/MadobyWeb](https://github.com/MadobyPy/MadobyWeb) - Terminal-inspired, clean, feature-rich and customizable browser start page for geeks. Has built-in editor for customizing.
 - [paperswithcode/ai-deadlines](https://github.com/paperswithcode/ai-deadlines) - :alarm_clock: AI conference deadline countdowns
 - [google/eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) - A high performance blog template for the 11ty static site generator.
 - [camilatigre/listamaravilhosaopensource](https://github.com/camilatigre/listamaravilhosaopensource) - Lista com links de projetos open-source para os níveis: iniciante, intermediário e avançado. Dividido por linguagem e idiomas!
-- [fineanmol/Hacktoberfest2024](https://github.com/fineanmol/Hacktoberfest2024) - Make your first Pull Request on Hacktoberfest 2024. Don't forget to spread love and if you like give us a ⭐️
+- [fineanmol/Hacktoberfest2025](https://github.com/fineanmol/Hacktoberfest2025) - Make your first Pull Request on Hacktoberfest 2025. Don't forget to spread love and if you like give us a ⭐️
 - [rapid-sensemaking-framework/cosense](https://github.com/rapid-sensemaking-framework/cosense) - MVP for MacOS released! - The rapid sensemaking framework desktop application. working name CoSense
 - [colordepth/google-drive-me-crazy](https://github.com/colordepth/google-drive-me-crazy) - A Google Drive file manager built with React.
 - [hanakamer/react-scheduler](https://github.com/hanakamer/react-scheduler) - 📆 react component for creating schedules
@@ -2929,6 +2931,8 @@
 
 ## Others 
 
+- [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+- [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of
 - [jarulraj/periodic-table](https://github.com/jarulraj/periodic-table) - A Periodic Table of System Design Principles
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
@@ -4512,6 +4516,11 @@
 
 ## TypeScript 
 
+- [araguaci/waha](https://github.com/araguaci/waha) - WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
+- [devlikeapro/waha](https://github.com/devlikeapro/waha) - WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
+- [araguaci/n8n-nodes-waha](https://github.com/araguaci/n8n-nodes-waha) - n8n nodes for WAHA (WhatsApp HTTP API)
+- [devlikeapro/n8n-nodes-waha](https://github.com/devlikeapro/n8n-nodes-waha) - n8n nodes for WAHA (WhatsApp HTTP API)
+- [AstraOnlineWeb/astracampaign](https://github.com/AstraOnlineWeb/astracampaign) - 
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [araguaci/tributo-a-charlie-kirk](https://github.com/araguaci/tributo-a-charlie-kirk) - Este é um site de tributo não oficial dedicado a Charlie Kirk, uma figura proeminente no conservadorismo jovem. A aplicação foi desenvolvida para explorar o legado, as ideias e o impacto de Kirk atrav
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)

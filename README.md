@@ -220,6 +220,7 @@
 - [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) - 🖥️ P2P Remote Desktop - Portable, No Configuration or Installation Needed.
 - [automatica-core/automatica](https://github.com/automatica-core/automatica) - A building managmenet system aka smart home- developed using .NET Core and Angular
 - [velopack/velopack](https://github.com/velopack/velopack) - Installer and automatic update framework for cross-platform desktop applications
+- [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground.
 - [unoplatform/uno](https://github.com/unoplatform/uno) - Open-source platform for building cross-platform native Mobile, Web, Desktop and Embedded apps quickly.  Create rich, C#/XAML, single-codebase apps from any IDE. Hot Reload included! 90m+ NuGet Downlo
 - [LykosAI/StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - Multi-Platform Package Manager for Stable Diffusion
 - [cschneegans/unattend-generator](https://github.com/cschneegans/unattend-generator) - .NET Core library to create highly customized autounattend.xml files
@@ -236,7 +237,7 @@
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [abpframework/abp](https://github.com/abpframework/abp) - Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infra
 - [aspnetboilerplate/aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate - Web Application Framework
-- [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 10 RC 1, 9, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
+- [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 10 RC 2, 9, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
 - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
@@ -288,9 +289,9 @@
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 - [obfuscar/obfuscar](https://github.com/obfuscar/obfuscar) - Open source obfuscation tool for .NET assemblies
 - [Tulpep/Active-Directory-Object-Picker](https://github.com/Tulpep/Active-Directory-Object-Picker) - The standard Active Directory object picker dialog for .NET
-- [AiursoftWeb/Infrastructures](https://github.com/AiursoftWeb/Infrastructures) - Mirror of: https://gitlab.aiursoft.cn/aiursoft/infrastructures
+- [AiursoftWeb/Infrastructures](https://github.com/AiursoftWeb/Infrastructures) - Mirror of: https://gitlab.aiursoft.com/aiursoft/infrastructures
 - [AiursoftWeb/Kahla.Obsolete](https://github.com/AiursoftWeb/Kahla.Obsolete) - Mirror of https://gitlab.aiursoft.cn/aiursoft/Kahla
-- [AiursoftWeb/Kahla](https://github.com/AiursoftWeb/Kahla) - Kahla is a cross-platform business messaging app. Mirror of https://gitlab.aiursoft.cn/aiursoft/kahla
+- [AiursoftWeb/Kahla](https://github.com/AiursoftWeb/Kahla) - Kahla is a cross-platform business messaging app. Mirror of https://gitlab.aiursoft.com/aiursoft/kahla
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 - [dotnet/ClangSharp](https://github.com/dotnet/ClangSharp) - Clang bindings for .NET written in C#
 - [peachpiecompiler/peachpie](https://github.com/peachpiecompiler/peachpie) - PeachPie - the PHP compiler and runtime for .NET and .NET Core
@@ -698,7 +699,7 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
-- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
@@ -1069,6 +1070,7 @@
 - [devopsdays/devopsdays-web](https://github.com/devopsdays/devopsdays-web) - This is the website for devopsdays
 - [irshad/LinkTree](https://github.com/irshad/LinkTree) - Bootstrap one page application for sharing your all social media links at one page | Replace few details of you in the code. That's it!
 - [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie.
+- [wpbrasil/certificates-for-wordcamp](https://github.com/wpbrasil/certificates-for-wordcamp) - Certificates generator for WordCamps
 - [ErickWendel/livereload-docker-nodejs-typescript](https://github.com/ErickWendel/livereload-docker-nodejs-typescript) - Example of how to configure Docker to run a backend, frontend and build processes using live reload
 - [openam/bootstrap-responsive-tabs](https://github.com/openam/bootstrap-responsive-tabs) - Bootstrap responsive tabs are tabs that switch to collapsible components (accordions) when resized.
 - [dbtek/bootstrap-vertical-tabs](https://github.com/dbtek/bootstrap-vertical-tabs) - Missing vertical tabs component for bootstrap.
@@ -1076,7 +1078,6 @@
 - [parlametria/leggoR](https://github.com/parlametria/leggoR) - Acesso, tradução e modelos usando dados do congresso nacional
 - [HubSpot/cms-theme-boilerplate](https://github.com/HubSpot/cms-theme-boilerplate) - A straight-forward starting point for building a great website on the HubSpot CMS
 - [djaiss/mapsicon](https://github.com/djaiss/mapsicon) - A free collection of maps for every country in the world, available in 11 sizes or in SVG.
-- [mrprompt/meteoros-floripa](https://github.com/mrprompt/meteoros-floripa) - Estações de capturas de meteoros em Florianópolis/SC
 - [zenorocha/voice-elements](https://github.com/zenorocha/voice-elements) - :speaker: Web Component wrapper to the Web Speech API, that allows you to do voice recognition and speech synthesis using Polymer
 - [mdn/interactive-examples](https://github.com/mdn/interactive-examples) - (Deprecated) Home of the MDN live code editor interactive examples
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
@@ -1103,7 +1104,6 @@
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [bradtraversy/mongochat](https://github.com/bradtraversy/mongochat) - Simple chat app using Mongo and websockets
 - [bradtraversy/chatcord](https://github.com/bradtraversy/chatcord) - Realtime chat app with rooms
-- [insign/mapa_Brasil_CSS](https://github.com/insign/mapa_Brasil_CSS) - Mapa do Brasil usando CSS (décadas atrás)
 - [jeanoliveirawork/mapa-brasil-dinamico-svg](https://github.com/jeanoliveirawork/mapa-brasil-dinamico-svg) - 🇧🇷 Mapa do Brasil - SVG
 - [vinitshahdeo/Quotter](https://github.com/vinitshahdeo/Quotter) - :robot: A Twitter bot which tweets random quotes with image and #hashtags :bird: :bell:
 - [chamkank/flask-chatterbot](https://github.com/chamkank/flask-chatterbot) - Simple boilerplate for ChatterBot using Flask
@@ -1218,6 +1218,7 @@
 
 ## JavaScript 
 
+- [araguaci/cursor-skills](https://github.com/araguaci/cursor-skills) - CURSOR IDE best practices and guidelines
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [araguaci/biolnk](https://github.com/araguaci/biolnk) - 
@@ -1281,11 +1282,12 @@
 - [ashutosh1919/masterPortfolio](https://github.com/ashutosh1919/masterPortfolio) - 🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.
 - [metriport/metriport](https://github.com/metriport/metriport) - Metriport is an open-source universal API for healthcare data.
 - [exa-studio/ApiVault](https://github.com/exa-studio/ApiVault) - Your gateway to a world of public APIs.
-- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
+- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at LambdaTest
 - [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.
 - [artesdosul/Awesome-Design-Tools](https://github.com/artesdosul/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [clientIO/joint](https://github.com/clientIO/joint) - A proven SVG-based JavaScript diagramming library powering exceptional UIs
 - [Kiran1689/Awesome-Dev-Portfolios](https://github.com/Kiran1689/Awesome-Dev-Portfolios) - This repository aims to collect portfolios and their repositories from developers around the world.
+- [akash-network/console](https://github.com/akash-network/console) - Deploy docker containers on the Akash Network
 - [theosanderson/hospitalmedicines](https://github.com/theosanderson/hospitalmedicines) - 
 - [charming-art/charmingjs](https://github.com/charming-art/charmingjs) - A lightweight data-driven API for manipulating SVG, Canvas and HTML.
 - [pearmini/genji](https://github.com/pearmini/genji) - A Markdown extension for interactive documents inspired by Observable Notebook, available in VitePress and Docusaurus.
@@ -1802,7 +1804,7 @@
 - [chawk/bare_bones_react](https://github.com/chawk/bare_bones_react) - A simple react project with what you need to get started and everything you don't.
 - [WebDevSimplified/Zoom-Clone-With-WebRTC](https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC) - 
 - [twilio/video-quickstart-js](https://github.com/twilio/video-quickstart-js) - A quickstart and code samples for Twilio Video JavaScript SDK. https://www.twilio.com/docs/video
-- [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
+- [clappr/clappr](https://github.com/clappr/clappr) - An extensible, plugin-oriented, HTML5-first media player for the web
 - [daattali/gslides-betternotes-extension](https://github.com/daattali/gslides-betternotes-extension) - The slide previews in the Speaker Notes window of Google Slides are tiny and unreadable. This extension automatically resizes the slides when the window is resized, and allows the user to drag the sid
 - [hawkeye64/quasar-extras-svg-icons](https://github.com/hawkeye64/quasar-extras-svg-icons) - Extra SVG icons for Quasar Framework
 - [felixrieseberg/npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - :rocket: Upgrade npm on Windows
@@ -2333,7 +2335,6 @@
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [AndrewMayes/Linktree-Clone](https://github.com/AndrewMayes/Linktree-Clone) - Clone of Linktree using the MERN stack
 - [patrickporto/workshop-performance-react](https://github.com/patrickporto/workshop-performance-react) - 
-- [wpbrasil/certificates-for-wordcamp](https://github.com/wpbrasil/certificates-for-wordcamp) - Certificates generator for WordCamps
 - [mermaidjs/mermaid-live-editor](https://github.com/mermaidjs/mermaid-live-editor) - Location has moved to https://github.com/mermaid-js/mermaid-live-editor
 - [DemocracyEarth/wallet](https://github.com/DemocracyEarth/wallet) - Censorship resistant democracies.
 - [Sinetheta/burn](https://github.com/Sinetheta/burn) - :fire: jQuery plugin to apply flame effect to text
@@ -2752,6 +2753,7 @@
 
 ## Jupyter Notebook 
 
+- [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - [firecrawl/firecrawl-app-examples](https://github.com/firecrawl/firecrawl-app-examples) - 🔥 This repository contains complete application examples, including websites and other projects, developed using Firecrawl.
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 12 Lessons to Get Started Building AI Agents
@@ -2791,7 +2793,7 @@
 - [materialsvirtuallab/matgenb](https://github.com/materialsvirtuallab/matgenb) - Jupyter notebooks demonstrating the utilization of open-source codes for the study of materials science.
 - [okfn-brasil/perfil-politico](https://github.com/okfn-brasil/perfil-politico) - Este repositório não está recebendo atualizações | A platform for profiling public figures in Brazilian politics
 - [mozilla/TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
-- [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Data Engineering Zoomcamp is a free nine-week course that covers the fundamentals of data engineering.
+- [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼
 - [dadosgovbr/catalogos-dados-brasil](https://github.com/dadosgovbr/catalogos-dados-brasil) - Mapeamento de iniciativas (e catálogos) de dados abertos governamentais no Brasil.
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [3778/COVID-19](https://github.com/3778/COVID-19) - Ciência de Dados aplicada à pandemia do novo coronavírus.
@@ -2856,7 +2858,7 @@
 - [chocolatey/docs](https://github.com/chocolatey/docs) - https://docs.chocolatey.org - new docs website
 - [jakejarvis/jarv.is](https://github.com/jakejarvis/jarv.is) - 🏡 My humble abode on the World Wide Web
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation
-- [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
+- [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table for integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 - [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
 - [phuocng/frontend-tips](https://github.com/phuocng/frontend-tips) - Super tiny, quick tips, tricks and best practices of front-end development
@@ -3015,7 +3017,6 @@
 - [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) - This repo contains samples that demonstrate the API used in Windows classic desktop applications.
 - [mishamosher/CentOS-WSL](https://github.com/mishamosher/CentOS-WSL) - A GitHub Actions automated CentOS RootFS to use with WSL
 - [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
-- [codecon-dev/awesome-communities-and-events-tech-brazil](https://github.com/codecon-dev/awesome-communities-and-events-tech-brazil) - Uma curadoria de comunidades e eventos tech incríveis para você participar.
 - [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
 - [styfle/awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) - 🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop
 - [vanities/GPU-Passthrough-Arch-Linux-to-Windows10](https://github.com/vanities/GPU-Passthrough-Arch-Linux-to-Windows10) - GPU Passthrough and virt-manager walkthrough
@@ -3260,7 +3261,7 @@
 
 - [ittybit/sdk-php](https://github.com/ittybit/sdk-php) - A PHP SDK for the Ittybit API
 - [araguaci/coolify](https://github.com/araguaci/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open Source Security Analytics. Understand, monitor, and protect your application from cyber threats, account threats, and abuse. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open-source Security Analytics. Understand, monitor, and protect your application from cyber threats, account threats, and abuse. Get started — free.
 - [KoreaComK/visao-libertaria-site](https://github.com/KoreaComK/visao-libertaria-site) - Nova versão do site do projeto Visão Libertária
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone portable PHP binaries on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 - [SimpleHomelab/Deployrr](https://github.com/SimpleHomelab/Deployrr) - Deployrr automates Homelab setup using Docker and Docker Compose. Below you will find more information its features and what it can/cannot do.
@@ -3779,6 +3780,8 @@
 
 ## Python 
 
+- [araguaci/skills](https://github.com/araguaci/skills) - Public repository for Skills
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills
 - [crestalnetwork/intentkit](https://github.com/crestalnetwork/intentkit) - An open and fair framework for everyone to build AI agents equipped with powerful skills. Launch your agent, improve the world, your wallet, or both!
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
@@ -3786,7 +3789,7 @@
 - [vil/H4X-Tools](https://github.com/vil/H4X-Tools) - Open source toolkit for scraping, OSINT and more.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [livekit/agents](https://github.com/livekit/agents) - A powerful framework for building realtime voice AI agents 🤖🎙️📹
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
@@ -3958,7 +3961,7 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [Sygil-Dev/sygil-webui](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion web UI
 - [twilio/twilio-python](https://github.com/twilio/twilio-python) - A Python module for communicating with the Twilio API and generating TwiML.
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [gdraheim/docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement) - docker systemctl replacement - allows to deploy to systemd-controlled containers without starting an actual systemd daemon (e.g.  centos7, ubuntu16)
 - [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
@@ -4110,6 +4113,7 @@
 - [Cloud-CV/Fabrik](https://github.com/Cloud-CV/Fabrik) - :factory: Collaboratively build, visualize, and design neural nets in browser
 - [dipakkr/public-apis](https://github.com/dipakkr/public-apis) - A collective list of free APIs for use in software and web development.
 - [bradtraversy/myflaskapp](https://github.com/bradtraversy/myflaskapp) - Python Flask app with authentication
+- [insign/mapa_Brasil_CSS](https://github.com/insign/mapa_Brasil_CSS) - Mapa do Brasil usando CSS (décadas atrás)
 - [craigsdennis/intro-to-apis-course](https://github.com/craigsdennis/intro-to-apis-course) - Introduction to APIs course
 - [the-javapocalypse/Twitter-Sentiment-Analysis](https://github.com/the-javapocalypse/Twitter-Sentiment-Analysis) - This script can tell you the sentiments of people regarding to any events happening in the world by analyzing tweets related to that event
 - [the-javapocalypse/Social-Media-Scrapper](https://github.com/the-javapocalypse/Social-Media-Scrapper) - Scrape images, tweets, captions, external links and hashtags with their frequency of occurrence related to any keyword from Instagram and Twitter.
@@ -4342,6 +4346,7 @@
 - [AlmaLinux/raspberry-pi](https://github.com/AlmaLinux/raspberry-pi) - AlmaLinux Raspberry Pi
 - [GaiaNet-AI/gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install, run and deploy your own decentralized AI agent service
 - [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images
+- [bigbeartechworld/big-bear-casaos](https://github.com/bigbeartechworld/big-bear-casaos) - One of the official app stores for IceWhale products (CasaOS & ZimaOS), developed and maintained independently by BigBearTechWorld. This curated collection offers a wide range of carefully selected ap
 - [mstorsjo/msvc-wine](https://github.com/mstorsjo/msvc-wine) - Scripts for setting up and running MSVC in Wine on Linux
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [bigbeartechworld/big-bear-scripts](https://github.com/bigbeartechworld/big-bear-scripts) - These are scripts that are created for the BigBearYouTube Channel
@@ -4529,7 +4534,6 @@
 - [TanStack/tanstack.com](https://github.com/TanStack/tanstack.com) - The marketing and docs site for all TanStack projects
 - [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
 - [omnara-ai/omnara](https://github.com/omnara-ai/omnara) - Omnara (YC S25) - Talk to Your AI Agents from Anywhere!
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [aduquehd/json-formatter](https://github.com/aduquehd/json-formatter) - 
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [araguaci/abusosupremo](https://github.com/araguaci/abusosupremo) - Censura no Brasil (2019-2025) Uma análise dos casos de censura judicial, midiática e eleitoral no Brasil durante o período de 2019 a 2024.
@@ -4549,7 +4553,6 @@
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
 - [megh-bari/pattern-craft](https://github.com/megh-bari/pattern-craft) - Professional-grade background patterns and gradients for your websites and apps. Easily copy and paste into your next project. Crafted with modern CSS and Tailwind for seamless integration.
 - [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
-- [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
@@ -4591,7 +4594,6 @@
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
 - [EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api) - Evolution API is an open-source WhatsApp integration API
-- [bigbeartechworld/big-bear-casaos](https://github.com/bigbeartechworld/big-bear-casaos) - One of the official app stores for IceWhale products (CasaOS & ZimaOS), developed and maintained independently by BigBearTechWorld. This curated collection offers a wide range of carefully selected ap
 - [CorentinTh/enclosed](https://github.com/CorentinTh/enclosed) - Minimalistic web app designed for sending private and secure notes.
 - [awesomehub/app](https://github.com/awesomehub/app) - Angular application for AwesomeHub
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
@@ -4655,7 +4657,6 @@
 - [SRX-OSS/VS-Code-Theme-Portfolio](https://github.com/SRX-OSS/VS-Code-Theme-Portfolio) - Visual Studio Code Themed Developer Portfolio
 - [4Furki4/Meme-Generator](https://github.com/4Furki4/Meme-Generator) - Meme Generator where you can generate memes and share them with your friends
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
-- [akash-network/console](https://github.com/akash-network/console) - Deploy docker containers on the Akash Network
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Design Systems ⚡️
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
@@ -5275,7 +5276,7 @@
 - [birobirobiro/nlw-06-gameplay](https://github.com/birobirobiro/nlw-06-gameplay) - This is a project developed during the Next Level Week Together, presented by Rocketseat during June 2021.
 - [birobirobiro/nlw-05-plantmanager](https://github.com/birobirobiro/nlw-05-plantmanager) - NLW#05 - PlantManager
 - [jos3s/nlw06-letmeask](https://github.com/jos3s/nlw06-letmeask) - Projeto da 6 NLW de React da @Rocketseat, desenvolvido utilizando Firebase, Styled-Components e Typescript.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [trungvose/angular-spotify](https://github.com/trungvose/angular-spotify) - Spotify client built with Angular 15, Nx Workspace, ngrx, TailwindCSS and ng-zorro
 - [leandrowd/react-responsive-carousel](https://github.com/leandrowd/react-responsive-carousel) - React.js Responsive Carousel (with Swipe)
 - [getlift/lift](https://github.com/getlift/lift) - Expanding Serverless Framework beyond functions using the AWS CDK
@@ -5537,7 +5538,7 @@
 - [briebug/cypress-schematic](https://github.com/briebug/cypress-schematic) - **⛔️  DEPRECATED** Add cypress to an Angular CLI project
 - [akopdev/ng-person](https://github.com/akopdev/ng-person) - A universal avatar component for Angular 2+ applications that generates truly unique colored letter avatar based on provided name.
 - [graphile/starter](https://github.com/graphile/starter) - Opinionated SaaS quick-start with pre-built user account and organization system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. Powered by PostGraphile, TypeScript, 
-- [stefanoslig/angular-ngrx-nx-realworld-example-app](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 20, NgRx 19, nrwl/nx 20
+- [stefanoslig/angular-ngrx-nx-realworld-example-app](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 20, NgRx 20, nrwl/nx 21
 - [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder) - Deploy your Angular app to netlify from CLI
 - [NileshPatel17/ng-multiselect-dropdown](https://github.com/NileshPatel17/ng-multiselect-dropdown) - Multiple Select Dropdown Component
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, 
@@ -5669,6 +5670,7 @@
 
 ## Vue 
 
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [leamsigc/ShortsGenerator](https://github.com/leamsigc/ShortsGenerator) - Automate the creation of Shorts content locally with a couple simple steps.
 - [enpitsuLin/tres-the-aviator](https://github.com/enpitsuLin/tres-the-aviator) - The Aviator game built with TresJS and three.js r163
 - [araguaci/visao-ezequiel](https://github.com/araguaci/visao-ezequiel) - Ezequiel 1:1 - 3:27 - O chamado e a primeira visão de Ezequiel que chamado para ser o mensageiro de Deus para os judeus cativos na Babilônia.

@@ -902,6 +902,7 @@
 - [codingstella/vCard-personal-portfolio](https://github.com/codingstella/vCard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
 - [AlliumCepa/webgui](https://github.com/AlliumCepa/webgui) - A free open source content management system and web application framework. The most widely deployed mod_perl application on the planet.
 - [decal/werdlists](https://github.com/decal/werdlists) - :keyboard: Wordlists, Dictionaries and Other Data Sets for Writing Software Security Test Cases
+- [iuricode/portfolio](https://github.com/iuricode/portfolio) - Meu portfolio pessoal ❤️
 - [matcornic/hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) - Porting Grav Learn theme to Hugo
 - [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
@@ -1830,6 +1831,7 @@
 - [mavoweb/mavo](https://github.com/mavoweb/mavo) - Create web applications entirely by writing HTML and CSS!
 - [LeaVerou/bliss](https://github.com/LeaVerou/bliss) - Blissful JavaScript
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
+- [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table for integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 - [vvo/gifify](https://github.com/vvo/gifify) - 😻 Convert any video file to an optimized animated GIF.
 - [panshak/accountill](https://github.com/panshak/accountill) - Fullstack open source Invoicing application made with MongoDB, Express, React & Nodejs (MERN)
 - [surmon-china/vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
@@ -2315,7 +2317,6 @@
 - [StartBootstrap/startbootstrap-bare](https://github.com/StartBootstrap/startbootstrap-bare) - A bare Bootstrap HTML starter template for rapid development - created by Start Bootstrap
 - [zhw2590582/SubPlayer](https://github.com/zhw2590582/SubPlayer) - SubPlayer is no longer maintained, please consider Aimu
 - [zhw2590582/WFPlayer](https://github.com/zhw2590582/WFPlayer) - :ocean: WFPlayer.js is an audio waveform generator
-- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [WAClient/WALC](https://github.com/WAClient/WALC) - An unofficial WhatsApp Desktop client for linux systems.
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
@@ -2858,7 +2859,6 @@
 - [chocolatey/docs](https://github.com/chocolatey/docs) - https://docs.chocolatey.org - new docs website
 - [jakejarvis/jarv.is](https://github.com/jakejarvis/jarv.is) - 🏡 My humble abode on the World Wide Web
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation
-- [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table for integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 - [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [phuocng/html-dom](https://github.com/phuocng/html-dom) - Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
 - [phuocng/frontend-tips](https://github.com/phuocng/frontend-tips) - Super tiny, quick tips, tricks and best practices of front-end development
@@ -3261,7 +3261,7 @@
 
 - [ittybit/sdk-php](https://github.com/ittybit/sdk-php) - A PHP SDK for the Ittybit API
 - [araguaci/coolify](https://github.com/araguaci/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open-source Security Analytics. Understand, monitor, and protect your application from cyber threats, account threats, and abuse. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno — open-source security analytics. Understand, monitor, and protect your application from cyber threats, account takeovers, and abuse. Get started — free.
 - [KoreaComK/visao-libertaria-site](https://github.com/KoreaComK/visao-libertaria-site) - Nova versão do site do projeto Visão Libertária
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone portable PHP binaries on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 - [SimpleHomelab/Deployrr](https://github.com/SimpleHomelab/Deployrr) - Deployrr automates Homelab setup using Docker and Docker Compose. Below you will find more information its features and what it can/cannot do.
@@ -3825,7 +3825,7 @@
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [unclecode/promptuner](https://github.com/unclecode/promptuner) - 𝙏𝙪𝙧𝙣𝙞𝙣𝙜 𝙨𝙢𝙖𝙡𝙡 𝙩𝙖𝙨𝙠 𝙙𝙚𝙨𝙘𝙧𝙞𝙥𝙩𝙞𝙤𝙣𝙨 𝙞𝙣𝙩𝙤 𝙢𝙚𝙜𝙖 𝙥𝙧𝙤𝙢𝙥𝙩𝙨 𝙖𝙪𝙩𝙤𝙢𝙖𝙜𝙞𝙘𝙖𝙡𝙡𝙮.
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
@@ -4267,7 +4267,6 @@
 - [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS) ✨
 - [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11+).
 - [jmlemetayer/abba](https://github.com/jmlemetayer/abba) - Apache Bootstrap & Bootswatch Autoindex
-- [iuricode/portfolio](https://github.com/iuricode/portfolio) - Meu portfolio pessoal ❤️
 - [app-generator/flask-soft-ui-dashboard](https://github.com/app-generator/flask-soft-ui-dashboard) - Flask Soft Dashboard - Open-Source Starter | App-Generator.dev
 - [Phlow/simplicity](https://github.com/Phlow/simplicity) - A free, flexible, superfast and easily customizable Jekyll Theme with no Javascript but beautiful typography.
 - [shlinkio/shlink.io](https://github.com/shlinkio/shlink.io) - Shlink project website
@@ -4519,6 +4518,7 @@
 
 ## TypeScript 
 
+- [chrisvel/tududi](https://github.com/chrisvel/tududi) - Self-hosted task management that combines the simplicity of personal with the power of professional project organization. Built for individuals and teams who value privacy, control, and efficiency.
 - [araguaci/colanode](https://github.com/araguaci/colanode) - Open-source and local-first Slack and Notion alternative that puts you in control of your data
 - [colanode/colanode](https://github.com/colanode/colanode) - Open-source and local-first Slack and Notion alternative that puts you in control of your data
 - [araguaci/waha](https://github.com/araguaci/waha) - WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
@@ -4629,7 +4629,7 @@
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 - [araguaci/code-like-a-journalist](https://github.com/araguaci/code-like-a-journalist) - A free and open-source online course for anyone interested in data analysis and data visualization with JavaScript/TypeScript.
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with comma
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click ins
 - [btpf/Alexandria](https://github.com/btpf/Alexandria) - A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
@@ -5376,6 +5376,7 @@
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [start-javascript/sb-admin-material](https://github.com/start-javascript/sb-admin-material) - Simple Dashboard Admin App built using Angular 9 and Material 2.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [team-telnyx/webrtc](https://github.com/team-telnyx/webrtc) - SDK for Telnyx's WebRTC platform
 - [tokyapp/toky-phone-js-sdk](https://github.com/tokyapp/toky-phone-js-sdk) - The Toky Phone JS SDK is a WebRTC Javascript library providing an abstraction to the Toky phone system, including its main features
 - [thenaim/ionic-tk-social-network](https://github.com/thenaim/ionic-tk-social-network) - Ionic 5 - social network starter project

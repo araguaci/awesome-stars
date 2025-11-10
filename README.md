@@ -1687,7 +1687,6 @@
 - [glennreyes/react-countup](https://github.com/glennreyes/react-countup) - 💫 A configurable React component wrapper around CountUp.js
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [angular-ui/ui-grid](https://github.com/angular-ui/ui-grid) - UI Grid: an Angular Data Grid
-- [timgit/pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Postgres from Node.js like a boss
 - [araguaci/timeline-surf-santa-catarina](https://github.com/araguaci/timeline-surf-santa-catarina) - 🚧 working in progress 🚧Linha do Tempo de eventos relacionados ao Surf em Santa Catarina
 - [diego3g/video-to-reels](https://github.com/diego3g/video-to-reels) - Automatically edit videos to post on Instagram Reels
 - [ErickWendel/semana-javascript-expert06](https://github.com/ErickWendel/semana-javascript-expert06) - JS Expert Week 6.0 Classes - Spotify Radio
@@ -3503,7 +3502,7 @@
 - [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer
 - [GMX9/Crypto-Exchange-PHP](https://github.com/GMX9/Crypto-Exchange-PHP) - Free crypto exchange built with changenow.io API
 - [catfan/Medoo](https://github.com/catfan/Medoo) - The lightweight PHP database framework to accelerate the development.
-- [yiisoft/db-mssql](https://github.com/yiisoft/db-mssql) - MSSQL Server driver for Yii Database
+- [yiisoft/db-mssql](https://github.com/yiisoft/db-mssql) - Microsoft SQL Server driver for Yii Database
 - [miladrahimi/phpcrypt](https://github.com/miladrahimi/phpcrypt) - Encryption, decryption, and password hashing tools for PHP projects
 - [miladrahimi/phprouter](https://github.com/miladrahimi/phprouter) - PhpRouter is a full-featured yet very fast HTTP URL router for PHP projects
 - [brainfoolong/cryptojs-aes-php](https://github.com/brainfoolong/cryptojs-aes-php) - CryptoJS AES encryption/decryption on client side with Javascript and on server side with PHP
@@ -5009,6 +5008,7 @@
 - [Winbee/joplin-turn-to-chart](https://github.com/Winbee/joplin-turn-to-chart) - Joplin plugin which renders an HTML chart based on markdown or csv tables
 - [fkhadra/react-morphing-modal](https://github.com/fkhadra/react-morphing-modal) - React fullscreen modal with swag 😎
 - [fkhadra/react-contexify](https://github.com/fkhadra/react-contexify) - 👌 Add a context menu to your react app with ease
+- [timgit/pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Postgres from Node.js like a boss
 - [hejny/Ukraine](https://github.com/hejny/Ukraine) - Help Ukraine - add ribbon with Ukraine flag into the website you manage, show the anti-war message to Russian users, or block them from your service.
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
